@@ -157,14 +157,11 @@ LK-61	LG-61005	None	UNP	Herath Mudiyanselage Sarath Bandara
 LK-61	LG-61001	4 -	UNP	Wasala Mudiyanselage Jayathunga Wasala
 LK-61	LG-61001	None	AJP	Wasala Mudiyanselage Jayathunga Wasala
 LK-61	LG-61001	9 -	SLPP	Herath Mudiyanselage Ekanayaka
-LK-61	LG-61001	None	JJB	Herath Mudiyanselage Mallika Herath
 LK-61	LG-61002	16 -	FPF	Herath Mudiyanselage Jayantha Herath
 LK-61	LG-61010	4 -	SLPP	Herath Mudiyanselage Jayantha Herath
 LK-61	LG-61003	11 -	FSP	Herath Mudiyanselage Jayasena
 LK-61	LG-61004	3 -	FPF	Herath Mudiyanselage Jayasena
 LK-61	LG-61003	15 -	SJB	Dissanayaka Mudiyanselage Sarath Dissanayaka
-LK-61	LG-61003	2 -	SJB	Rathnayaka Mudiyanselage Priyantha Rathnayaka
-LK-61	LG-61006	13 -	SLPP	Rathnayaka Mudiyanselage Priyantha Rathnayaka
 LK-61	LG-61004	None	UNP	Rathnayaka Mudiyanselage Karunarathna
 LK-61	LG-61007	13 -	IG1	Herath Mudiyanselage Nandawathi
 LK-61	LG-61007	4 -	FPF	Herath Mudiyanselage Nandawathi
@@ -173,6 +170,9 @@ LK-61	LG-61008	None	UNP	Rathnayaka Mudiyanselage Wasantha Kumara Rathnayaka
 LK-61	LG-61013	None	SLPP	Ekanayaka Mudiyanselage Nimal Ekanayaka
 LK-61	LG-61016	11 -	UNP	Wijekoon Mudiyanselage Ananda Wijekoon
 LK-61	LG-61002	11 -	UNP	Herath Mudiyanselage Karunarathna
+LK-61	LG-61001	None	JJB	Herath Mudiyanselage Mallika Herath
+LK-61	LG-61003	2 -	SJB	Rathnayaka Mudiyanselage Priyantha Rathnayaka
+LK-61	LG-61006	13 -	SLPP	Rathnayaka Mudiyanselage Priyantha Rathnayaka
 LK-61	LG-61006	18 -	UNP	Herath Mudiyanselage Gamini Herath
 LK-71	LG-71007	None	SJB	Herath Mudiyanselage Janaka Bandara Herath
 LK-71	LG-71016	8-Awukana	SJB	Herath Mudiyanselage Ekanayaka
@@ -238,7 +238,6 @@ LK-91	LG-91006	None	JJB	Liyanage Chandrika Liyanage
 LK-91	LG-91012	None	AJP	Niranjala Kumari Gamagedara
 LK-91	LG-91012	None	AJP	Sewanu Nagaraja Suresh Kumar
 LK-91	LG-91002	None	SJB	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
-LK-91	LG-91008	None	JJB	Herath Mudiyanselage Mallika Herath
 LK-91	LG-91001	None	USP	(None)
 LK-91	LG-91003	21-Galabada	IG1	Arumugam Maheshwaran
 LK-91	LG-91003	None	IG1	Arumugam Maheshwaran
@@ -246,3 +245,10 @@ LK-91	LG-91003	21-Galabada	NLNP	Galabada Arachchige Srimal Suranga Somarathna
 LK-91	LG-91003	21-Galabada	SLPP	Galabada Arachchige Srimal Suranga Somarathna
 LK-91	LG-91009	21-Kattange	IG1	Subramaniyam Sivakumar
 LK-91	LG-91009	None	IG1	Subramaniyam Sivakumar
+LK-91	LG-91013	None	UNP	Subramaniam Sivakumar
+LK-91	LG-91008	None	JJB	Herath Mudiyanselage Mallika Herath
+LK-92	LG-92009	None	SLFP	Subramaniam Sivakumar
+LK-92	LG-92006	None	JJB	Rathnayaka Mudiyanselage Priyanka Kumari Rathnayaka
+LK-92	LG-92006	None	JJB	Rathnayaka Mudiyanselage Priyanka Kumari Rathnayaka
+LK-92	LG-92008	None	JJB	Herath Mudiyanselage Mallika Herath
+LK-92	LG-92008	13-Wendala	UNP	Rathnayaka Mudiyanselage Priyantha Rathnayaka
