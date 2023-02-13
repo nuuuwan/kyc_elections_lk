@@ -5,6 +5,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 
+from kyc.core.Candidate import Candidate
+
 
 def clean(x):
     return re.sub(r'\s+', ' ', x).strip()
@@ -74,9 +76,11 @@ class HomePageBase:
         select_lgs = self.elem_select_lgs
         if lg_name.startswith('-v'):
             value = lg_name[2:]
-            option = select_lgs.find_element(
-                By.XPATH, f"//option[contains(@value=\"{value}\")]"
-            )
+            option = select_lgs.find_elements(
+                By.XPATH, f"//option[@value=\"{value}\"]"
+            )[
+                -1
+            ]  # HACK to get around Kurunegala/Kandy BUG
         else:
             option = None
             for cand_option in select_lgs.find_elements(
@@ -130,7 +134,7 @@ class HomePageBase:
                 continue
             ward = tds[0].text
             name = tds[1].text
-            if name[0] == '-':
+            if not Candidate.is_name_valid(name):
                 continue
             fptp_candidate_list.append(dict(ward=ward, name=name))
         return fptp_candidate_list

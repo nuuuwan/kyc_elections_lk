@@ -3,7 +3,7 @@ import os
 from gig import Ent, EntType
 from utils import Directory, Log, TSVFile
 
-from kyc.core.LG_NAME_TO_ID import LG_NAME_TO_ID
+from kyc.core.DISTRICT_TO_LG_NAME_TO_ID import DISTRICT_TO_LG_NAME_TO_ID
 
 log = Log('CandidateLoader')
 
@@ -19,8 +19,11 @@ def clean_lg_name(lg_name):
 def get_lg_id(district_id, dir_lg):
     lg_name = clean_lg_name(dir_lg.name)
 
-    if lg_name in LG_NAME_TO_ID:
-        return LG_NAME_TO_ID[lg_name]
+    if (
+        district_id in DISTRICT_TO_LG_NAME_TO_ID
+        and lg_name in DISTRICT_TO_LG_NAME_TO_ID[district_id]
+    ):
+        return DISTRICT_TO_LG_NAME_TO_ID[district_id][lg_name]
 
     cand_lg_ents = Ent.list_from_name_fuzzy(
         lg_name,
@@ -28,9 +31,12 @@ def get_lg_id(district_id, dir_lg):
         district_id[2:],  # HACK to fix bug in ent.is_parent_id
     )
     if len(cand_lg_ents) == 0:
-        # district_num = district_id[3:]
-        # print(f"'{lg_name}': 'LG-{district_num}xxx',")
-        raise Exception(f'No LG found for {lg_name} ({district_id})')
+        district_num = district_id[3:]
+        print(f"'{lg_name}': 'LG-{district_num}xxx',")
+        return district_num
+
+        # raise Exception(f'No LG found for {lg_name} ({district_id})')
+
     else:
         return cand_lg_ents[0].id
 
@@ -52,7 +58,7 @@ class CandidateLoader:
                 party_name,
                 data['name'],
             )
-            if candidate.name[0] == '-':
+            if not candidate.is_valid:
                 continue
             candidates.append(candidate)
         return candidates

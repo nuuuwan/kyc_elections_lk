@@ -7,6 +7,12 @@ from utils import Log, TSVFile
 log = Log('HomePagePipeline')
 
 
+def sleep(min_sleep=1, sleep_span=5):
+    t_sleep = min_sleep + sleep_span * random.random()
+    time.sleep(t_sleep)
+    log.debug(f'😴: Sleeping for {t_sleep:.2f} s')
+
+
 class HomePagePipeline:
     MAX_TIME_WAIT_AFTER_SCRAPE_LG = 5
     MAX_TIME_WAIT_AFTER_SCRAPE_DISTRICT = 5
@@ -39,13 +45,8 @@ class HomePagePipeline:
             return
         log.debug(f'Scraping {district_name}/{lg_name}')
 
-        try:
-            self.select_lg(lg_name)
-            time.sleep(
-                2 + self.MAX_INCR_WAIT_AFTER_SELECT_LG * random.random()
-            )
-        except BaseException as e:
-            log.error(e)
+        self.select_lg(lg_name)
+        sleep(2, self.MAX_INCR_WAIT_AFTER_SELECT_LG)
 
         self.click_captcha()
         self.click_display()
@@ -55,8 +56,8 @@ class HomePagePipeline:
 
         self.click_back()
         self.select_district(district_name)
-        time.sleep(self.MAX_TIME_WAIT_AFTER_SCRAPE_LG * random.random())
-
+        sleep(1, self.MAX_TIME_WAIT_AFTER_SCRAPE_LG)
+    
     def scrape_district(self, district_name):
         self.open()
         self.select_lang()
@@ -65,5 +66,5 @@ class HomePagePipeline:
         for lg_name in self.lg_names:
             self.scrape_lg(district_name, lg_name)
 
-        time.sleep(self.MAX_TIME_WAIT_AFTER_SCRAPE_DISTRICT * random.random())
+        sleep(1, self.MAX_TIME_WAIT_AFTER_SCRAPE_DISTRICT)
         self.quit()

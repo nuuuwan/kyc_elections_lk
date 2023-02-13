@@ -1,11 +1,40 @@
 district_id	lg_id	ward_name	party_name	name
 LK-11	LG-11001		14 - Sri Lanka Freedom Party	Mohammad Nazim Nawazia Begum
 LK-11	LG-11001		14 - Sri Lanka Freedom Party	Mohammad Nazim Nawazia Begum
+LK-11	LG-11002	2 - Wadulla	5 - Independent Group 1	Mohamad Jamaldeen Mohamad Naleem
 LK-11	LG-11004	22 - Pothuarawa	2 - Jana Setha Peramuna	Chinthaka Jayasena
 LK-11	LG-11008	8 - Thalawathugoda	16 - Jana Setha Peramuna	Chinthaka Jayasena
 LK-11	LG-11004		2 - Jana Setha Peramuna	P.R.Bindumathi
 LK-11	LG-11008	10 - Depanama	16 - Jana Setha Peramuna	P.R.Bindumathi
 LK-11	LG-11004		2 - Jana Setha Peramuna	W.A.Vipula
 LK-11	LG-11008	14 - Makumbura	16 - Jana Setha Peramuna	W.A.Vipula
+LK-11	LG-11008		16 - Jana Setha Peramuna	Murugan Mogana
 LK-11	LG-11009		12 - Lanka Janatha Party	Kannan Indra Devi
 LK-11	LG-11010		1 - Frontline Socialist Party	Kannan Indra Devi
+LK-12	LG-12008	10 -	1 - Jana Setha Peramuna	Murugan Mogana
+LK-12	LG-12001	27 -	16 - Independent Group 8	Panambarage Ashen Nirmal Fernando
+LK-12	LG-12001		10 - Independent Group 9	Panambarage Ashen Nirmal Fernando
+LK-12	LG-12005	16 -	10 - Nawa Lanka Nidahas Pakshaya	Elibichchi Kankanamalage Indra Kanthi
+LK-12	LG-12005	17 -	5 - Sri Lanka Freedom Party	Elibichchi Kankanamalage Indra Kanthi
+LK-12	LG-12005	18 -	10 - Nawa Lanka Nidahas Pakshaya	Hetti Achchi Kalu Aggalage Layan Nilush Hettiarachchi
+LK-12	LG-12005		9 - Freedom Peoples Front	Hetti Achchi Kalu Aggalage Layan Nilush Hettiarachchi
+LK-12	LG-12008		3 - Freedom Peoples Front	Kusum Sujeewani Costha
+LK-12	LG-12018	8 - Peliyagoda Gangabada East	4 - Freedom Peoples Front	Kusum Sujeewani Costha
+LK-12	LG-12019		6 - Jathika Jana Balawegaya	Herath Mudiyanselage Karunarathna
+LK-21	LG-21002	8 - Udahigulwala	2 - Sri Lanka Freedom Party	Herath Mudiyanselage Gamini Herath
+LK-21	LG-21013	16 - Pollwatta	5 - Samagi Jana Balawegaya	Herath Mudiyanselage Gamini Herath
+LK-61	LG-61017		1 - United National Party	Mohamad Jamaldeen Mohamad Naleem
+LK-61	LG-61002	11 -	2 - United National Party	Herath Mudiyanselage Karunarathna
+LK-61	LG-61001	4 -	2 - United National Party	Wasala Mudiyanselage Jayathunga Wasala
+LK-61	LG-61001		1 - Ape Janabala Pakshaya	Wasala Mudiyanselage Jayathunga Wasala
+LK-61	LG-61002	16 -	4 - Freedom Peoples Front	Herath Mudiyanselage Jayantha Herath
+LK-61	LG-61010	4 -	5 - Sri Lanka Podujana Peramuna	Herath Mudiyanselage Jayantha Herath
+LK-61	LG-61003	11 -	5 - Frontline Socialist Party	Herath Mudiyanselage Jayasena
+LK-61	LG-61004	3 -	5 - Freedom Peoples Front	Herath Mudiyanselage Jayasena
+LK-61	LG-61003	2 -	7 - Samagi Jana Balawegaya	Rathnayaka Mudiyanselage Priyantha Rathnayaka
+LK-61	LG-61006	13 -	5 - Sri Lanka Podujana Peramuna	Rathnayaka Mudiyanselage Priyantha Rathnayaka
+LK-61	LG-61007	13 -	7 - Independent Group 1	Herath Mudiyanselage Nandawathi
+LK-61	LG-61007	4 -	3 - Freedom Peoples Front	Herath Mudiyanselage Nandawathi
+LK-61	LG-61007	20 -	1 - United National Party	Rathnayaka Mudiyanselage Wasantha Kumara Rathnayaka
+LK-61	LG-61008		1 - United National Party	Rathnayaka Mudiyanselage Wasantha Kumara Rathnayaka
+LK-61	LG-61006	18 -	2 - United National Party	Herath Mudiyanselage Gamini Herath

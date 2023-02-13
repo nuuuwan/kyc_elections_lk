@@ -60,7 +60,7 @@ class CandidateValidator:
                 f'{district_id} {n_missing_lg_ids}/{n_lgs_expected} missing'
                 + f' ({str(missing_lg_names)})'
             )
-            log.debug(msg) if n_missing_lg_ids == 0 else log.warn(msg)
+            log.debug(msg) if n_missing_lg_ids == 0 else log.error(msg)
             d_list.append(d)
 
         d_list = sorted(d_list, key=lambda d: d['district_id'])
@@ -80,11 +80,14 @@ class CandidateValidator:
         d_list = []
         n_names = len(name_to_candidates)
         n_names_repeated = 0
-        for name, candidates in name_to_candidates.items():
+        for name, candidates in sorted(
+            name_to_candidates.items(),
+            key=lambda t: len(t[1]),
+        ):
             if len(candidates) == 1:
                 continue
             n_names_repeated += 1
-            log.warn(f'Name {name} repeated in {len(candidates)} rows')
+            log.warn(f'({len(candidates)}) {name}')
             d_list += [candidate.to_dict() for candidate in candidates]
 
         message = f'{n_names_repeated}/{n_names} names repeated at least once'

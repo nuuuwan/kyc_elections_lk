@@ -9,6 +9,14 @@ class CandidateBase:
     party_name: str
     name: str
 
+    @staticmethod
+    def is_name_valid(name):
+        return name.strip() and name[0] != '-'
+
+    @property
+    def is_valid(self):
+        return self.is_name_valid(self.name)
+
     def to_dict(self):
         return {
             'district_id': self.district_id,
