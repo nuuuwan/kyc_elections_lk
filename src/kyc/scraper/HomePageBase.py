@@ -1,8 +1,13 @@
+import re
 import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+
+
+def clean(x):
+    return re.sub(r'\s+', ' ', x).strip()
 
 
 class HomePageBase:
@@ -73,9 +78,15 @@ class HomePageBase:
                 By.XPATH, f"//option[contains(@value=\"{value}\")]"
             )
         else:
-            option = select_lgs.find_element(
-                By.XPATH, f"//option[contains(text(), \"{lg_name}\")]"
-            )
+            option = None
+            for cand_option in select_lgs.find_elements(
+                By.TAG_NAME, 'option'
+            ):
+                if clean(cand_option.text) == clean(lg_name):
+                    option = cand_option
+                    break
+            if not option:
+                raise Exception(f"lg_name not found: {lg_name}")
         option.click()
 
     def click_captcha(self):

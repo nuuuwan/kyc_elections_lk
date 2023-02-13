@@ -51,11 +51,16 @@ class CandidateValidator:
                 n_lgs_actual=n_lgs_actual,
                 n_lgs_expected=n_lgs_expected,
             )
-            if n_lgs_actual != n_lgs_expected:
-                missing_lg_names = ';'.join(
-                    [lg_ent_idx[lg_id].name for lg_id in missing_lg_ids]
-                )
-                log.warn(f'{district_id}\t{str(missing_lg_names)} missing')
+
+            n_missing_lg_ids = len(missing_lg_ids)
+            missing_lg_names = ';'.join(
+                [lg_ent_idx[lg_id].name for lg_id in missing_lg_ids]
+            )
+            msg = (
+                f'{district_id} {n_missing_lg_ids}/{n_lgs_expected} missing'
+                + f' ({str(missing_lg_names)})'
+            )
+            log.debug(msg) if n_missing_lg_ids == 0 else log.warn(msg)
             d_list.append(d)
 
         d_list = sorted(d_list, key=lambda d: d['district_id'])
@@ -73,11 +78,17 @@ class CandidateValidator:
             name_to_candidates[candidate.name].append(candidate)
 
         d_list = []
+        n_names = len(name_to_candidates)
+        n_names_repeated = 0
         for name, candidates in name_to_candidates.items():
             if len(candidates) == 1:
                 continue
+            n_names_repeated += 1
             log.warn(f'Name {name} repeated in {len(candidates)} rows')
             d_list += [candidate.to_dict() for candidate in candidates]
+
+        message = f'{n_names_repeated}/{n_names} names repeated at least once'
+        log.debug(message) if n_names_repeated == 0 else log.error(message)
 
         d_list = sorted(d_list, key=lambda d: d['district_id'])
         report_path = 'data/reported_repeated_names.csv'

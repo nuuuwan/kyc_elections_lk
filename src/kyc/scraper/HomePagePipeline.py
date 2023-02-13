@@ -35,7 +35,7 @@ class HomePagePipeline:
     def scrape_lg(self, district_name, lg_name):
         dir_lg = os.path.join('data', district_name, lg_name)
         if os.path.exists(dir_lg):
-            log.debug(f'Skipping {lg_name}')
+            log.debug(f'Skipping {district_name}/{lg_name}')
             return
         log.debug(f'Scraping {district_name}/{lg_name}')
 
@@ -44,8 +44,8 @@ class HomePagePipeline:
             time.sleep(
                 2 + self.MAX_INCR_WAIT_AFTER_SELECT_LG * random.random()
             )
-        except BaseException:
-            return
+        except BaseException as e:
+            log.error(e)
 
         self.click_captcha()
         self.click_display()
