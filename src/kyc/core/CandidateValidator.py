@@ -17,6 +17,7 @@ class CandidateValidator:
     def get_idx(cls):
         candidates = cls.list_all()
         idx = {}
+
         for candidate in candidates:
             district_id = candidate.district_id
             lg_id = candidate.lg_id
@@ -75,7 +76,7 @@ class CandidateValidator:
         )
 
         n_missing_lg_ids = len(missing_lg_ids)
-        msg = f'{district_id} {n_missing_lg_ids}/{n_lgs_expected} missing'
+        msg = ''
         if n_missing_lg_ids:
             for lg_id in expected_lg_ids:
                 icon = ICON_BAD
@@ -85,6 +86,8 @@ class CandidateValidator:
                     icon = ICON_MEH
 
                 msg += DELIM_ITEMS + icon + ' ' + lg_ent_idx[lg_id].name
+            msg += '\n'
+        msg += f'{district_id} {n_missing_lg_ids}/{n_lgs_expected} missing'
         log.debug(msg) if n_missing_lg_ids == 0 else log.error(msg)
         return d
 
@@ -104,13 +107,18 @@ class CandidateValidator:
         log.info(f'Wrote {report_path}')
 
     @classmethod
-    def validate_repeated_names(cls):
+    def get_name_to_candidates(cls):
         candidates = cls.list_all()
         name_to_candidates = {}
         for candidate in candidates:
             if candidate.name not in name_to_candidates:
                 name_to_candidates[candidate.name] = []
             name_to_candidates[candidate.name].append(candidate)
+        return name_to_candidates
+
+    @classmethod
+    def validate_repeated_names(cls):
+        name_to_candidates = cls.get_name_to_candidates()
 
         d_list = []
         n_names = len(name_to_candidates)
@@ -122,8 +130,12 @@ class CandidateValidator:
             if len(candidates) == 1:
                 continue
             n_names_repeated += 1
-            log.warn(f'({len(candidates)}) {name}')
             d_list += [candidate.to_dict() for candidate in candidates]
+
+            if len(candidates) < 4:
+                continue
+
+            log.warn(f'({len(candidates)}) {name}')
 
         message = f'{n_names_repeated}/{n_names} names repeated at least once'
         log.debug(message) if n_names_repeated == 0 else log.error(message)

@@ -1,183 +1,248 @@
 district_id	lg_id	ward_name	party_name	name
-LK-11	LG-11001		14 - Sri Lanka Freedom Party	Mohammad Nazim Nawazia Begum
-LK-11	LG-11001		14 - Sri Lanka Freedom Party	Mohammad Nazim Nawazia Begum
-LK-11	LG-11002	2 - Wadulla	1 - Socialist Equality Party	Weerasingha Arachchige Sunil
-LK-11	LG-11002	2 - Wadulla	5 - Independent Group 1	Mohamad Jamaldeen Mohamad Naleem
-LK-11	LG-11004	22 - Pothuarawa	2 - Jana Setha Peramuna	Chinthaka Jayasena
-LK-11	LG-11008	8 - Thalawathugoda	16 - Jana Setha Peramuna	Chinthaka Jayasena
-LK-11	LG-11004		14 - United People's Party	Periyasami Sudarshan
-LK-11	LG-11004		2 - Jana Setha Peramuna	P.R.Bindumathi
-LK-11	LG-11008	10 - Depanama	16 - Jana Setha Peramuna	P.R.Bindumathi
-LK-11	LG-11004		2 - Jana Setha Peramuna	W.A.Vipula
-LK-11	LG-11008	14 - Makumbura	16 - Jana Setha Peramuna	W.A.Vipula
-LK-11	LG-11006	8 - Weragolla	4 - Independent Group 1	Muniyandi Ravi
-LK-11	LG-11008		16 - Jana Setha Peramuna	Murugan Mogana
-LK-11	LG-11009		12 - Lanka Janatha Party	Kannan Indra Devi
-LK-11	LG-11010		1 - Frontline Socialist Party	Kannan Indra Devi
-LK-11	LG-11012	8 - Bodhirajapura	1 - Independent Group 1	Lagamuwa Hendeniye Pushpa Rajapaksha
-LK-12	LG-12008	10 -	1 - Jana Setha Peramuna	Murugan Mogana
-LK-12	LG-12001	27 -	16 - Independent Group 8	Panambarage Ashen Nirmal Fernando
-LK-12	LG-12001		10 - Independent Group 9	Panambarage Ashen Nirmal Fernando
-LK-12	LG-12005	16 -	10 - Nawa Lanka Nidahas Pakshaya	Elibichchi Kankanamalage Indra Kanthi
-LK-12	LG-12005	17 -	5 - Sri Lanka Freedom Party	Elibichchi Kankanamalage Indra Kanthi
-LK-12	LG-12005	18 -	10 - Nawa Lanka Nidahas Pakshaya	Hetti Achchi Kalu Aggalage Layan Nilush Hettiarachchi
-LK-12	LG-12005		9 - Freedom Peoples Front	Hetti Achchi Kalu Aggalage Layan Nilush Hettiarachchi
-LK-12	LG-12008		3 - Freedom Peoples Front	Kusum Sujeewani Costha
-LK-12	LG-12018	8 - Peliyagoda Gangabada East	4 - Freedom Peoples Front	Kusum Sujeewani Costha
-LK-12	LG-12008		4 - United National Freedom Front	Himashi Dilsara Ponnamperuma
-LK-12	LG-12013		2 - Nawa Lanka Nidahas Pakshaya	Liyanage Chandrika Liyanage
-LK-12	LG-12018	5 - Rohana Wihara Place	8 - Ape Janabala Pakshaya	Weerapurage Wasantha Kumara
-LK-12	LG-12018	6 - Meegahawaththa South	8 - Ape Janabala Pakshaya	Wanigasundara Mudiyanselage Samarasingha
-LK-12	LG-12018		8 - Ape Janabala Pakshaya	Arachchi Mudiyanselage Upul Saman Kumara
-LK-12	LG-12018		8 - Ape Janabala Pakshaya	Peradeniye Gasweda Gedara Thissa
-LK-12	LG-12019		6 - Jathika Jana Balawegaya	Herath Mudiyanselage Karunarathna
-LK-13	LG-13003	20 -	2 - Jana Setha Peramuna	Muniyandi Ravi
-LK-13	LG-13001		12 - Independent Group 2	Manna Marakkalage Lakshman Cooray
-LK-13	LG-13003		7 - Samagi Jana Balawegaya	Manna Marakkalage Lakshman Cooray
-LK-13	LG-13003		2 - Jana Setha Peramuna	Dona Chandrika Nayomi Nanayakkara
-LK-13	LG-13003		2 - Jana Setha Peramuna	Dona Chandrika Nayomi Nanayakkara
-LK-13	LG-13004	7 -	7 - Independent Group 1	Kahawalage Pasindu Rukmal Dharmathilaka
-LK-13	LG-13004		3 - Nawa Lanka Nidahas Pakshaya	Kahawalage Pasindu Rukmal Dharmathilaka
-LK-13	LG-13004		2 - New Democratic Front	Wathukarage Renuka Damayanthi Karuna
-LK-13	LG-13004		2 - New Democratic Front	Wathukarage Renuka Damayanthi Karuna
-LK-13	LG-13006		3 - Frontline Socialist Party	Palitha Kalyanapriya Ranasinghe
-LK-13	LG-13006		3 - Frontline Socialist Party	Palitha Kalyanapriya Ranasinghe
-LK-13	LG-13008		5 - Frontline Socialist Party	Koralage Siyantha Kumarasiri Thisera
-LK-13	LG-13008		5 - Frontline Socialist Party	Koralage Siyantha Kumarasiri Thisera
-LK-13	LG-13009	18 -	6 - Sri Lanka Podujana Peramuna	Pattidurage Nilantha Chandralal
-LK-13	LG-13009	19 -	6 - Sri Lanka Podujana Peramuna	Pattidurage Nilantha Chandralal
-LK-13	LG-13010		8 - Samagi Jana Balawegaya	Pasquel Ponsekage Dayawathie Ponseka
-LK-13	LG-13010		8 - Samagi Jana Balawegaya	Pasquel Ponsekage Dayawathie Ponseka
-LK-13	LG-13013	6 -	7 - Samagi Jana Balawegaya	Samaraweera Mudalige Gemunu Wijegunarathne
-LK-13	LG-13013	7 -	7 - Samagi Jana Balawegaya	Samaraweera Mudalige Gemunu Wijegunarathne
-LK-13	LG-13016	10 -	4 - Sri Lanka Freedom Party	Bellanthudawa Arachchige Nuwan Kanchana
-LK-13	LG-13016	9 -	4 - Sri Lanka Freedom Party	Bellanthudawa Arachchige Nuwan Kanchana
-LK-13	LG-13017		5 - Frontline Socialist Party	Ekanayaka Mudiyanselage Mahinda
-LK-21	LG-21006	19 - Suduhumpola	7 - Ape Janabala Pakshaya	Weerapurage Wasantha Kumara
-LK-21	LG-21006	18 - Katukele	7 - Ape Janabala Pakshaya	Wanigasundara Mudiyanselage Samarasingha
-LK-21	LG-21006		7 - Ape Janabala Pakshaya	Arachchi Mudiyanselage Upul Saman Kumara
-LK-21	LG-21011	11 - Wejyasrigama	11 - Ape Janabala Pakshaya	Peradeniye Gasweda Gedara Thissa
-LK-21	LG-21001	3 - Naranwala	1 - Jathika Jana Balawegaya	Ekanayake Mudiyanselage Thissa Ekanayake
-LK-21	LG-21010	12 - Poddalgoda	2 - Samagi Jana Balawegaya	Ekanayake Mudiyanselage Thissa Ekanayake
-LK-21	LG-21006	8 - Mapanawathura	6 - Nawa Lanka Nidahas Pakshaya	Egodagedara Hasitha Sandaruwan Wijebandara
-LK-21	LG-21017	18 - Pallegama	6 - United National Freedom Front	Egodagedara Hasitha Sandaruwan Wijebandara
-LK-21	LG-21006		7 - Ape Janabala Pakshaya	Niranjala Kumari Gamagedara
-LK-21	LG-21008		7 - Independent Group 1	Egoda Gedara Champa
-LK-21	LG-21014	6 - Udawela	9 - United National Freedom Front	Egoda Gedara Champa
-LK-21	LG-21011	21 - Degaldoruwa	11 - Ape Janabala Pakshaya	Sewanu Nagaraja Suresh Kumar
-LK-21	LG-21013		3 - Sri Lanka Freedom Party	Rathnayake Mudiyanselage Rathnayake
-LK-21	LG-21017	25 - Mawathura	3 - Sri Lanka Podujana Peramuna	Rathnayake Mudiyanselage Rathnayake
-LK-21	LG-21016		3 - Frontline Socialist Party	Herath Mudiyanselage Sarath Bandara
-LK-21	LG-21016		9 - Freedom Peoples Front	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
-LK-21	LG-21002	8 - Udahigulwala	2 - Sri Lanka Freedom Party	Herath Mudiyanselage Gamini Herath
-LK-21	LG-21010		10 - Independent Group 1	Herath Mudiyanselage Gamini Herath
-LK-21	LG-21013	16 - Pollwatta	5 - Samagi Jana Balawegaya	Herath Mudiyanselage Gamini Herath
-LK-31	LG-31019		2 - Jathika Jana Balawegaya	Weerasingha Arachchige Sunil
-LK-31	LG-31008		3 - Sri Lanka Freedom Party	Himashi Dilsara Ponnamperuma
-LK-31	LG-31016	1 - Gintota	8 - Sri Lanka Freedom Party	Bellanage Asanka Niroshana Chandrasekara
-LK-31	LG-31016	1 - Gintota	9 - Samagi Jana Balawegaya	Bellanage Asanka Niroshana Chandrasekara
-LK-31	LG-31016	10 - Sangamithapura	8 - Sri Lanka Freedom Party	Thalahagama Acharige Thissa
-LK-31	LG-31016	10 - Sangamithapura	9 - Samagi Jana Balawegaya	Thalahagama Acharige Thissa
-LK-31	LG-31016	11 - Galwadugoda	8 - Sri Lanka Freedom Party	Lewallage Buddhinee Chathurika Premathilaka
-LK-31	LG-31016	11 - Galwadugoda	9 - Samagi Jana Balawegaya	Lewallage Buddhinee Chathurika Premathilaka
-LK-31	LG-31016	12 -	8 - Sri Lanka Freedom Party	Nilmini Damayanthi Thiranagama
-LK-31	LG-31016	12 -	9 - Samagi Jana Balawegaya	Nilmini Damayanthi Thiranagama
-LK-31	LG-31016	13 -	8 - Sri Lanka Freedom Party	Somasundaram Niranjan
-LK-31	LG-31016	13 -	9 - Samagi Jana Balawegaya	Somasundaram Niranjan
-LK-31	LG-31016	14 - Galle city	8 - Sri Lanka Freedom Party	Priyantha Sudath Weerapperuma
-LK-31	LG-31016	14 - Galle city	9 - Samagi Jana Balawegaya	Priyantha Sudath Weerapperuma
-LK-31	LG-31016	15 - weliwatta	8 - Sri Lanka Freedom Party	Kokmaduwa Jayasingha Arachchige Aminda Kumara
-LK-31	LG-31016	15 - weliwatta	9 - Samagi Jana Balawegaya	Kokmaduwa Jayasingha Arachchige Aminda Kumara
-LK-31	LG-31016	16 - Thalapitiya	8 - Sri Lanka Freedom Party	Nawurunna Guruge Denistan Solaman De Silva
-LK-31	LG-31016	16 - Thalapitiya	9 - Samagi Jana Balawegaya	Nawurunna Guruge Denistan Solaman De Silva
-LK-31	LG-31016	17 - Makuluwa	8 - Sri Lanka Freedom Party	Bambarawanage Dharmasena
-LK-31	LG-31016	17 - Makuluwa	9 - Samagi Jana Balawegaya	Bambarawanage Dharmasena
-LK-31	LG-31016	18 - Milidduwa	8 - Sri Lanka Freedom Party	Mohamad Ishak Mohamad Abdul Kadar
-LK-31	LG-31016	18 - Milidduwa	9 - Samagi Jana Balawegaya	Mohamad Ishak Mohamad Abdul Kadar
-LK-31	LG-31016	18 - Milidduwa	8 - Sri Lanka Freedom Party	Nawurunna Guruge Methsiri Alexander De Silva
-LK-31	LG-31016	18 - Milidduwa	9 - Samagi Jana Balawegaya	Nawurunna Guruge Methsiri Alexander De Silva
-LK-31	LG-31016	19 - Magalla	8 - Sri Lanka Freedom Party	Pitiduwa Liyana Badalge Nadeeka Priyanganee Premarathna
-LK-31	LG-31016	19 - Magalla	9 - Samagi Jana Balawegaya	Pitiduwa Liyana Badalge Nadeeka Priyanganee Premarathna
-LK-31	LG-31016	2 - Dadalla	8 - Sri Lanka Freedom Party	Jeewananda Liyanaarachchi
-LK-31	LG-31016	2 - Dadalla	9 - Samagi Jana Balawegaya	Jeewananda Liyanaarachchi
-LK-31	LG-31016	20 - Katugoda	8 - Sri Lanka Freedom Party	Siman Wasam Indrawathee
-LK-31	LG-31016	20 - Katugoda	9 - Samagi Jana Balawegaya	Siman Wasam Indrawathee
-LK-31	LG-31016	3 - Bope	8 - Sri Lanka Freedom Party	Thilak Wijebandara
-LK-31	LG-31016	3 - Bope	9 - Samagi Jana Balawegaya	Thilak Wijebandara
-LK-31	LG-31016	4 - kubalwella	8 - Sri Lanka Freedom Party	Hemantha Senasiri Dias Abeywickrama Gunasekara
-LK-31	LG-31016	4 - kubalwella	9 - Samagi Jana Balawegaya	Hemantha Senasiri Dias Abeywickrama Gunasekara
-LK-31	LG-31016	5 - Madawelamulla	8 - Sri Lanka Freedom Party	Bopage Chooladasa
-LK-31	LG-31016	5 - Madawelamulla	9 - Samagi Jana Balawegaya	Bopage Chooladasa
-LK-31	LG-31016	6 - Deddugoda	8 - Sri Lanka Freedom Party	Ruwan Kumara Hewa Rajarathna
-LK-31	LG-31016	6 - Deddugoda	9 - Samagi Jana Balawegaya	Ruwan Kumara Hewa Rajarathna
-LK-31	LG-31016	7 - Maitipe	8 - Sri Lanka Freedom Party	Kottawa Iniyage Malani Manamperi
-LK-31	LG-31016	7 - Maitipe	9 - Samagi Jana Balawegaya	Kottawa Iniyage Malani Manamperi
-LK-31	LG-31016	8 -	8 - Sri Lanka Freedom Party	Ginthota Dewage Indika Jayanath
-LK-31	LG-31016	8 -	9 - Samagi Jana Balawegaya	Ginthota Dewage Indika Jayanath
-LK-31	LG-31016	9 - Bataganvila	8 - Sri Lanka Freedom Party	Ahangama Withanage Sriyani Abeygunasekara
-LK-31	LG-31016	9 - Bataganvila	9 - Samagi Jana Balawegaya	Ahangama Withanage Sriyani Abeygunasekara
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Aththota Gamage Sandya Pathmamali
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Aththota Gamage Sandya Pathmamali
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Edirisingha Arachchige Ruwini Tharanga
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Edirisingha Arachchige Ruwini Tharanga
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Holi Pathiranage Geethamali
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Holi Pathiranage Geethamali
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Kalupahana Liyanage Sarath Sumanasiri
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Kalupahana Liyanage Sarath Sumanasiri
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Kanankege Ashan Dilentha Sanjeewa
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Kanankege Ashan Dilentha Sanjeewa
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Kottegodage Nandanee Piris
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Kottegodage Nandanee Piris
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Kotudura Bandanage Rathnaseeli Somawansha
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Kotudura Bandanage Rathnaseeli Somawansha
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Lulbadda Waduge Mahesh
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Lulbadda Waduge Mahesh
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Madhushani Dilhara Kariyawasam
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Madhushani Dilhara Kariyawasam
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Makawita Liyanage Pathmini Kanthilatha
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Makawita Liyanage Pathmini Kanthilatha
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Nihal Ananda Kumarasingha
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Nihal Ananda Kumarasingha
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Ruwan Lakmal Puthra Gurudeniya
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Ruwan Lakmal Puthra Gurudeniya
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Sandaru Widarsha Abeywickrama
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Sandaru Widarsha Abeywickrama
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Sugeeswara Abeyrathna Wickramasingha
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Sugeeswara Abeyrathna Wickramasingha
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Thalahagama Acharige Danuja Sankhajith
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Thalahagama Acharige Danuja Sankhajith
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Umagiliya Kankanamge Nirosh Sameera
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Umagiliya Kankanamge Nirosh Sameera
-LK-31	LG-31016		8 - Sri Lanka Freedom Party	Walpala Hewage Thilini Nimesha Malshani
-LK-31	LG-31016		9 - Samagi Jana Balawegaya	Walpala Hewage Thilini Nimesha Malshani
-LK-61	LG-61017		1 - United National Party	Mohamad Jamaldeen Mohamad Naleem
-LK-61	LG-61002	11 -	2 - United National Party	Herath Mudiyanselage Karunarathna
-LK-61	LG-61005	8 -	2 - Jathika Jana Balawegaya	Ekanayaka Mudiyanselage Mahinda
-LK-61	LG-61005		1 - United National Party	Herath Mudiyanselage Sarath Bandara
-LK-61	LG-61001	4 -	2 - United National Party	Wasala Mudiyanselage Jayathunga Wasala
-LK-61	LG-61001		1 - Ape Janabala Pakshaya	Wasala Mudiyanselage Jayathunga Wasala
-LK-61	LG-61001		4 - Jathika Jana Balawegaya	Herath Mudiyanselage Mallika Herath
-LK-61	LG-61002	16 -	4 - Freedom Peoples Front	Herath Mudiyanselage Jayantha Herath
-LK-61	LG-61010	4 -	5 - Sri Lanka Podujana Peramuna	Herath Mudiyanselage Jayantha Herath
-LK-61	LG-61003	11 -	5 - Frontline Socialist Party	Herath Mudiyanselage Jayasena
-LK-61	LG-61004	3 -	5 - Freedom Peoples Front	Herath Mudiyanselage Jayasena
-LK-61	LG-61003	2 -	7 - Samagi Jana Balawegaya	Rathnayaka Mudiyanselage Priyantha Rathnayaka
-LK-61	LG-61006	13 -	5 - Sri Lanka Podujana Peramuna	Rathnayaka Mudiyanselage Priyantha Rathnayaka
-LK-61	LG-61007	13 -	7 - Independent Group 1	Herath Mudiyanselage Nandawathi
-LK-61	LG-61007	4 -	3 - Freedom Peoples Front	Herath Mudiyanselage Nandawathi
-LK-61	LG-61007	20 -	1 - United National Party	Rathnayaka Mudiyanselage Wasantha Kumara Rathnayaka
-LK-61	LG-61008		1 - United National Party	Rathnayaka Mudiyanselage Wasantha Kumara Rathnayaka
-LK-61	LG-61006	18 -	2 - United National Party	Herath Mudiyanselage Gamini Herath
-LK-91	LG-91004	3 - Mihindugama	8 - Ceylon Worker's Congress (P.Wing)	Periyasami Sudarshan
-LK-91	LG-91004		1 - United National Party	Lagamuwa Hendeniye Pushpa Rajapaksha
-LK-91	LG-91006		6 - Jathika Jana Balawegaya	Liyanage Chandrika Liyanage
-LK-91	LG-91012		7 - Ape Janabala Pakshaya	Niranjala Kumari Gamagedara
-LK-91	LG-91012		7 - Ape Janabala Pakshaya	Sewanu Nagaraja Suresh Kumar
-LK-91	LG-91002		4 - Samagi Jana Balawegaya	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
-LK-91	LG-91008		7 - Jathika Jana Balawegaya	Herath Mudiyanselage Mallika Herath
-LK-91	LG-91003	21 - Galabada	1 - Nawa Lanka Nidahas Pakshaya	Galabada Arachchige Srimal Suranga Somarathna
-LK-91	LG-91003	21 - Galabada	6 - Sri Lanka Podujana Peramuna	Galabada Arachchige Srimal Suranga Somarathna
-LK-91	LG-91003	21 - Galabada	8 - Independent Group 1	Arumugam Maheshwaran
-LK-91	LG-91003		8 - Independent Group 1	Arumugam Maheshwaran
-LK-91	LG-91009	21 - Kattange	7 - Independent Group 1	Subramaniyam Sivakumar
-LK-91	LG-91009		7 - Independent Group 1	Subramaniyam Sivakumar
+LK-11	LG-11001	None	SLFP	Mohammad Nazim Nawazia Begum
+LK-11	LG-11001	None	SLFP	Mohammad Nazim Nawazia Begum
+LK-11	LG-11002	2-Wadulla	IG1	Mohamad Jamaldeen Mohamad Naleem
+LK-11	LG-11002	2-Wadulla	SEP	Weerasingha Arachchige Sunil
+LK-11	LG-11004	22-Pothuarawa	JSP	Chinthaka Jayasena
+LK-11	LG-11008	8-Thalawathugoda	JSP	Chinthaka Jayasena
+LK-11	LG-11004	None	JSP	P.R.Bindumathi
+LK-11	LG-11008	10-Depanama	JSP	P.R.Bindumathi
+LK-11	LG-11004	None	JSP	W.A.Vipula
+LK-11	LG-11008	14-Makumbura	JSP	W.A.Vipula
+LK-11	LG-11004	None	UPP	Periyasami Sudarshan
+LK-11	LG-11006	8-Weragolla	IG1	Muniyandi Ravi
+LK-11	LG-11008	None	JSP	Murugan Mogana
+LK-11	LG-11009	None	LJP	Kannan Indra Devi
+LK-11	LG-11010	None	FSP	Kannan Indra Devi
+LK-11	LG-11012	8-Bodhirajapura	IG1	Lagamuwa Hendeniye Pushpa Rajapaksha
+LK-12	LG-12008	10 -	JSP	Murugan Mogana
+LK-12	LG-12001	27 -	IG8	Panambarage Ashen Nirmal Fernando
+LK-12	LG-12001	None	IG9	Panambarage Ashen Nirmal Fernando
+LK-12	LG-12005	16 -	NLNP	Elibichchi Kankanamalage Indra Kanthi
+LK-12	LG-12005	17 -	SLFP	Elibichchi Kankanamalage Indra Kanthi
+LK-12	LG-12005	18 -	NLNP	Hetti Achchi Kalu Aggalage Layan Nilush Hettiarachchi
+LK-12	LG-12005	None	FPF	Hetti Achchi Kalu Aggalage Layan Nilush Hettiarachchi
+LK-12	LG-12008	None	FPF	Kusum Sujeewani Costha
+LK-12	LG-12018	8-Peliyagoda Gangabada East	FPF	Kusum Sujeewani Costha
+LK-12	LG-12008	None	UNFF	Himashi Dilsara Ponnamperuma
+LK-12	LG-12013	None	NLNP	Liyanage Chandrika Liyanage
+LK-12	LG-12018	5-Rohana Wihara Place	AJP	Weerapurage Wasantha Kumara
+LK-12	LG-12018	6-Meegahawaththa South	AJP	Wanigasundara Mudiyanselage Samarasingha
+LK-12	LG-12018	None	AJP	Arachchi Mudiyanselage Upul Saman Kumara
+LK-12	LG-12018	None	AJP	Peradeniye Gasweda Gedara Thissa
+LK-12	LG-12019	None	JJB	Herath Mudiyanselage Karunarathna
+LK-13	LG-13003	20 -	JSP	Muniyandi Ravi
+LK-13	LG-13001	None	IG2	Manna Marakkalage Lakshman Cooray
+LK-13	LG-13003	None	SJB	Manna Marakkalage Lakshman Cooray
+LK-13	LG-13003	None	JSP	Dona Chandrika Nayomi Nanayakkara
+LK-13	LG-13003	None	JSP	Dona Chandrika Nayomi Nanayakkara
+LK-13	LG-13004	7 -	IG1	Kahawalage Pasindu Rukmal Dharmathilaka
+LK-13	LG-13004	None	NLNP	Kahawalage Pasindu Rukmal Dharmathilaka
+LK-13	LG-13004	None	NDF	Wathukarage Renuka Damayanthi Karuna
+LK-13	LG-13004	None	NDF	Wathukarage Renuka Damayanthi Karuna
+LK-13	LG-13006	None	FSP	Palitha Kalyanapriya Ranasinghe
+LK-13	LG-13006	None	FSP	Palitha Kalyanapriya Ranasinghe
+LK-13	LG-13008	None	FSP	Koralage Siyantha Kumarasiri Thisera
+LK-13	LG-13008	None	FSP	Koralage Siyantha Kumarasiri Thisera
+LK-13	LG-13009	18 -	SLPP	Pattidurage Nilantha Chandralal
+LK-13	LG-13009	19 -	SLPP	Pattidurage Nilantha Chandralal
+LK-13	LG-13010	None	SJB	Pasquel Ponsekage Dayawathie Ponseka
+LK-13	LG-13010	None	SJB	Pasquel Ponsekage Dayawathie Ponseka
+LK-13	LG-13013	6 -	SJB	Samaraweera Mudalige Gemunu Wijegunarathne
+LK-13	LG-13013	7 -	SJB	Samaraweera Mudalige Gemunu Wijegunarathne
+LK-13	LG-13016	10 -	SLFP	Bellanthudawa Arachchige Nuwan Kanchana
+LK-13	LG-13016	9 -	SLFP	Bellanthudawa Arachchige Nuwan Kanchana
+LK-13	LG-13017	None	FSP	Ekanayaka Mudiyanselage Mahinda
+LK-21	LG-21006	19-Suduhumpola	AJP	Weerapurage Wasantha Kumara
+LK-21	LG-21006	18-Katukele	AJP	Wanigasundara Mudiyanselage Samarasingha
+LK-21	LG-21006	None	AJP	Arachchi Mudiyanselage Upul Saman Kumara
+LK-21	LG-21011	11-Wejyasrigama	AJP	Peradeniye Gasweda Gedara Thissa
+LK-21	LG-21001	3-Naranwala	JJB	Ekanayake Mudiyanselage Thissa Ekanayake
+LK-21	LG-21010	12-Poddalgoda	SJB	Ekanayake Mudiyanselage Thissa Ekanayake
+LK-21	LG-21006	8-Mapanawathura	NLNP	Egodagedara Hasitha Sandaruwan Wijebandara
+LK-21	LG-21017	18-Pallegama	UNFF	Egodagedara Hasitha Sandaruwan Wijebandara
+LK-21	LG-21006	None	AJP	Niranjala Kumari Gamagedara
+LK-21	LG-21008	None	IG1	Egoda Gedara Champa
+LK-21	LG-21014	6-Udawela	UNFF	Egoda Gedara Champa
+LK-21	LG-21009	2-Himbutuwa	UNA	Herath Mudiyanselage Janaka Bandara Herath
+LK-21	LG-21011	21-Degaldoruwa	AJP	Sewanu Nagaraja Suresh Kumar
+LK-21	LG-21013	None	SLFP	Rathnayake Mudiyanselage Rathnayake
+LK-21	LG-21017	25-Mawathura	SLPP	Rathnayake Mudiyanselage Rathnayake
+LK-21	LG-21016	None	FPF	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
+LK-21	LG-21016	None	FSP	Herath Mudiyanselage Sarath Bandara
+LK-21	LG-21002	8-Udahigulwala	SLFP	Herath Mudiyanselage Gamini Herath
+LK-21	LG-21010	None	IG1	Herath Mudiyanselage Gamini Herath
+LK-21	LG-21013	16-Pollwatta	SJB	Herath Mudiyanselage Gamini Herath
+LK-31	LG-31019	None	JJB	Weerasingha Arachchige Sunil
+LK-31	LG-31008	None	SLFP	Himashi Dilsara Ponnamperuma
+LK-31	LG-31016	1-Gintota	SJB	Bellanage Asanka Niroshana Chandrasekara
+LK-31	LG-31016	1-Gintota	SLFP	Bellanage Asanka Niroshana Chandrasekara
+LK-31	LG-31016	10-Sangamithapura	SJB	Thalahagama Acharige Thissa
+LK-31	LG-31016	10-Sangamithapura	SLFP	Thalahagama Acharige Thissa
+LK-31	LG-31016	11-Galwadugoda	SJB	Lewallage Buddhinee Chathurika Premathilaka
+LK-31	LG-31016	11-Galwadugoda	SLFP	Lewallage Buddhinee Chathurika Premathilaka
+LK-31	LG-31016	12 -	SJB	Nilmini Damayanthi Thiranagama
+LK-31	LG-31016	12 -	SLFP	Nilmini Damayanthi Thiranagama
+LK-31	LG-31016	13 -	SJB	Somasundaram Niranjan
+LK-31	LG-31016	13 -	SLFP	Somasundaram Niranjan
+LK-31	LG-31016	14-Galle city	SJB	Priyantha Sudath Weerapperuma
+LK-31	LG-31016	14-Galle city	SLFP	Priyantha Sudath Weerapperuma
+LK-31	LG-31016	15-weliwatta	SJB	Kokmaduwa Jayasingha Arachchige Aminda Kumara
+LK-31	LG-31016	15-weliwatta	SLFP	Kokmaduwa Jayasingha Arachchige Aminda Kumara
+LK-31	LG-31016	16-Thalapitiya	SJB	Nawurunna Guruge Denistan Solaman De Silva
+LK-31	LG-31016	16-Thalapitiya	SLFP	Nawurunna Guruge Denistan Solaman De Silva
+LK-31	LG-31016	17-Makuluwa	SJB	Bambarawanage Dharmasena
+LK-31	LG-31016	17-Makuluwa	SLFP	Bambarawanage Dharmasena
+LK-31	LG-31016	18-Milidduwa	SJB	Mohamad Ishak Mohamad Abdul Kadar
+LK-31	LG-31016	18-Milidduwa	SLFP	Mohamad Ishak Mohamad Abdul Kadar
+LK-31	LG-31016	18-Milidduwa	SJB	Nawurunna Guruge Methsiri Alexander De Silva
+LK-31	LG-31016	18-Milidduwa	SLFP	Nawurunna Guruge Methsiri Alexander De Silva
+LK-31	LG-31016	19-Magalla	SJB	Pitiduwa Liyana Badalge Nadeeka Priyanganee Premarathna
+LK-31	LG-31016	19-Magalla	SLFP	Pitiduwa Liyana Badalge Nadeeka Priyanganee Premarathna
+LK-31	LG-31016	2-Dadalla	SJB	Jeewananda Liyanaarachchi
+LK-31	LG-31016	2-Dadalla	SLFP	Jeewananda Liyanaarachchi
+LK-31	LG-31016	20-Katugoda	SJB	Siman Wasam Indrawathee
+LK-31	LG-31016	20-Katugoda	SLFP	Siman Wasam Indrawathee
+LK-31	LG-31016	3-Bope	SJB	Thilak Wijebandara
+LK-31	LG-31016	3-Bope	SLFP	Thilak Wijebandara
+LK-31	LG-31016	4-kubalwella	SJB	Hemantha Senasiri Dias Abeywickrama Gunasekara
+LK-31	LG-31016	4-kubalwella	SLFP	Hemantha Senasiri Dias Abeywickrama Gunasekara
+LK-31	LG-31016	5-Madawelamulla	SJB	Bopage Chooladasa
+LK-31	LG-31016	5-Madawelamulla	SLFP	Bopage Chooladasa
+LK-31	LG-31016	6-Deddugoda	SJB	Ruwan Kumara Hewa Rajarathna
+LK-31	LG-31016	6-Deddugoda	SLFP	Ruwan Kumara Hewa Rajarathna
+LK-31	LG-31016	7-Maitipe	SJB	Kottawa Iniyage Malani Manamperi
+LK-31	LG-31016	7-Maitipe	SLFP	Kottawa Iniyage Malani Manamperi
+LK-31	LG-31016	8 -	SJB	Ginthota Dewage Indika Jayanath
+LK-31	LG-31016	8 -	SLFP	Ginthota Dewage Indika Jayanath
+LK-31	LG-31016	9-Bataganvila	SJB	Ahangama Withanage Sriyani Abeygunasekara
+LK-31	LG-31016	9-Bataganvila	SLFP	Ahangama Withanage Sriyani Abeygunasekara
+LK-31	LG-31016	None	SJB	Aththota Gamage Sandya Pathmamali
+LK-31	LG-31016	None	SLFP	Aththota Gamage Sandya Pathmamali
+LK-31	LG-31016	None	SJB	Edirisingha Arachchige Ruwini Tharanga
+LK-31	LG-31016	None	SLFP	Edirisingha Arachchige Ruwini Tharanga
+LK-31	LG-31016	None	SJB	Holi Pathiranage Geethamali
+LK-31	LG-31016	None	SLFP	Holi Pathiranage Geethamali
+LK-31	LG-31016	None	SJB	Kalupahana Liyanage Sarath Sumanasiri
+LK-31	LG-31016	None	SLFP	Kalupahana Liyanage Sarath Sumanasiri
+LK-31	LG-31016	None	SJB	Kanankege Ashan Dilentha Sanjeewa
+LK-31	LG-31016	None	SLFP	Kanankege Ashan Dilentha Sanjeewa
+LK-31	LG-31016	None	SJB	Kottegodage Nandanee Piris
+LK-31	LG-31016	None	SLFP	Kottegodage Nandanee Piris
+LK-31	LG-31016	None	SJB	Kotudura Bandanage Rathnaseeli Somawansha
+LK-31	LG-31016	None	SLFP	Kotudura Bandanage Rathnaseeli Somawansha
+LK-31	LG-31016	None	SJB	Lulbadda Waduge Mahesh
+LK-31	LG-31016	None	SLFP	Lulbadda Waduge Mahesh
+LK-31	LG-31016	None	SJB	Madhushani Dilhara Kariyawasam
+LK-31	LG-31016	None	SLFP	Madhushani Dilhara Kariyawasam
+LK-31	LG-31016	None	SJB	Makawita Liyanage Pathmini Kanthilatha
+LK-31	LG-31016	None	SLFP	Makawita Liyanage Pathmini Kanthilatha
+LK-31	LG-31016	None	SJB	Nihal Ananda Kumarasingha
+LK-31	LG-31016	None	SLFP	Nihal Ananda Kumarasingha
+LK-31	LG-31016	None	SJB	Ruwan Lakmal Puthra Gurudeniya
+LK-31	LG-31016	None	SLFP	Ruwan Lakmal Puthra Gurudeniya
+LK-31	LG-31016	None	SJB	Sandaru Widarsha Abeywickrama
+LK-31	LG-31016	None	SLFP	Sandaru Widarsha Abeywickrama
+LK-31	LG-31016	None	SJB	Sugeeswara Abeyrathna Wickramasingha
+LK-31	LG-31016	None	SLFP	Sugeeswara Abeyrathna Wickramasingha
+LK-31	LG-31016	None	SJB	Thalahagama Acharige Danuja Sankhajith
+LK-31	LG-31016	None	SLFP	Thalahagama Acharige Danuja Sankhajith
+LK-31	LG-31016	None	SJB	Umagiliya Kankanamge Nirosh Sameera
+LK-31	LG-31016	None	SLFP	Umagiliya Kankanamge Nirosh Sameera
+LK-31	LG-31016	None	SJB	Walpala Hewage Thilini Nimesha Malshani
+LK-31	LG-31016	None	SLFP	Walpala Hewage Thilini Nimesha Malshani
+LK-61	LG-61017	None	UNP	Mohamad Jamaldeen Mohamad Naleem
+LK-61	LG-61005	8 -	JJB	Ekanayaka Mudiyanselage Mahinda
+LK-61	LG-61005	None	UNP	Herath Mudiyanselage Sarath Bandara
+LK-61	LG-61001	4 -	UNP	Wasala Mudiyanselage Jayathunga Wasala
+LK-61	LG-61001	None	AJP	Wasala Mudiyanselage Jayathunga Wasala
+LK-61	LG-61001	9 -	SLPP	Herath Mudiyanselage Ekanayaka
+LK-61	LG-61001	None	JJB	Herath Mudiyanselage Mallika Herath
+LK-61	LG-61002	16 -	FPF	Herath Mudiyanselage Jayantha Herath
+LK-61	LG-61010	4 -	SLPP	Herath Mudiyanselage Jayantha Herath
+LK-61	LG-61003	11 -	FSP	Herath Mudiyanselage Jayasena
+LK-61	LG-61004	3 -	FPF	Herath Mudiyanselage Jayasena
+LK-61	LG-61003	15 -	SJB	Dissanayaka Mudiyanselage Sarath Dissanayaka
+LK-61	LG-61003	2 -	SJB	Rathnayaka Mudiyanselage Priyantha Rathnayaka
+LK-61	LG-61006	13 -	SLPP	Rathnayaka Mudiyanselage Priyantha Rathnayaka
+LK-61	LG-61004	None	UNP	Rathnayaka Mudiyanselage Karunarathna
+LK-61	LG-61007	13 -	IG1	Herath Mudiyanselage Nandawathi
+LK-61	LG-61007	4 -	FPF	Herath Mudiyanselage Nandawathi
+LK-61	LG-61007	20 -	UNP	Rathnayaka Mudiyanselage Wasantha Kumara Rathnayaka
+LK-61	LG-61008	None	UNP	Rathnayaka Mudiyanselage Wasantha Kumara Rathnayaka
+LK-61	LG-61013	None	SLPP	Ekanayaka Mudiyanselage Nimal Ekanayaka
+LK-61	LG-61016	11 -	UNP	Wijekoon Mudiyanselage Ananda Wijekoon
+LK-61	LG-61002	11 -	UNP	Herath Mudiyanselage Karunarathna
+LK-61	LG-61006	18 -	UNP	Herath Mudiyanselage Gamini Herath
+LK-71	LG-71007	None	SJB	Herath Mudiyanselage Janaka Bandara Herath
+LK-71	LG-71016	8-Awukana	SJB	Herath Mudiyanselage Ekanayaka
+LK-71	LG-71015	None	SLFP	Dissanayaka Mudiyanselage Sarath Dissanayaka
+LK-71	LG-71009	None	UNP	Rathnayaka Mudiyanselage Karunarathna
+LK-71	LG-71017	7 -	SJB	Ekanayaka Mudiyanselage Nimal Ekanayaka
+LK-71	LG-71010	None	SLPP	Wijekoon Mudiyanselage Ananda Wijekoon
+LK-71	LG-71003	None	FPF	Herath Mudiyanselage Ranage Wasantha Ranasinghe
+LK-71	LG-71003	None	FPF	Herath Mudiyanselage Ranage Wasantha Ranasinghe
+LK-71	LG-71005	11 -	APA	Rathnayake Mudiyanselage Tharanga Lakmal Ariyarathna
+LK-71	LG-71005	7 -	APA	Rathnayake Mudiyanselage Tharanga Lakmal Ariyarathna
+LK-71	LG-71005	None	SLPP	Upul Wijithasiri Ovitagedara
+LK-71	LG-71005	None	SLPP	Upul Wijithasiri Ovitagedara
+LK-71	LG-71006	None	SLPP	Herath Bandage Surasena Abeysekara
+LK-71	LG-71006	None	SLPP	Herath Bandage Surasena Abeysekara
+LK-71	LG-71007	None	ACMC	Mohomed Azan Abdul Haleem
+LK-71	LG-71007	None	ACMC	Mohomed Azan Abdul Haleem
+LK-71	LG-71012	None	JJB	Lal Paanabokke
+LK-71	LG-71012	None	JJB	Lal Paanabokke
+LK-71	LG-71016	None	NLNP	(None)
+LK-71	LG-71019	1 -	SLFP	Wanasinghe Mudiyanselage Dissanayake Banda
+LK-71	LG-71019	1 -	SLPP	Wanasinghe Mudiyanselage Dissanayake Banda
+LK-71	LG-71019	10 -	SLFP	Dissanayake Mudiyanselage Karunarathne
+LK-71	LG-71019	10 -	SLPP	Dissanayake Mudiyanselage Karunarathne
+LK-71	LG-71019	2 -	SLFP	Sadakathulla Habeebu Noordheen
+LK-71	LG-71019	2 -	SLPP	Sadakathulla Habeebu Noordheen
+LK-71	LG-71019	3 -	SLFP	Hayatu Mommadu Raziqdeen
+LK-71	LG-71019	3 -	SLPP	Hayatu Mommadu Raziqdeen
+LK-71	LG-71019	4 -	SLFP	Ekanayake Mudiyanselage Shamila Pathum Ekanayake
+LK-71	LG-71019	4 -	SLPP	Ekanayake Mudiyanselage Shamila Pathum Ekanayake
+LK-71	LG-71019	5 -	SLFP	Pathiranage Martin Silva
+LK-71	LG-71019	5 -	SLPP	Pathiranage Martin Silva
+LK-71	LG-71019	6 -	SLFP	Ranasinghe Arachchilage Chandana Nishantha Ranasinghe
+LK-71	LG-71019	6 -	SLPP	Ranasinghe Arachchilage Chandana Nishantha Ranasinghe
+LK-71	LG-71019	7 -	SLFP	Dissanayake Mudiyanselage Jagath Chandrasiri Dissanayake
+LK-71	LG-71019	7 -	SLPP	Dissanayake Mudiyanselage Jagath Chandrasiri Dissanayake
+LK-71	LG-71019	8 -	SLFP	Navaratne Mudiyanselage Shriani Deepika Pushpa Kumari
+LK-71	LG-71019	8 -	SLPP	Navaratne Mudiyanselage Shriani Deepika Pushpa Kumari
+LK-71	LG-71019	9 -	SLFP	Dissanayake Mudiyanselage Jayantha Rajapaksha
+LK-71	LG-71019	9 -	SLPP	Dissanayake Mudiyanselage Jayantha Rajapaksha
+LK-71	LG-71019	None	SLFP	Balithiannala Gedera Samantha Piyathilaka
+LK-71	LG-71019	None	SLPP	Balithiannala Gedera Samantha Piyathilaka
+LK-71	LG-71019	None	SLFP	Dissanayake Mudiyanselage Piumi Aradhana Dissanayake
+LK-71	LG-71019	None	SLPP	Dissanayake Mudiyanselage Piumi Aradhana Dissanayake
+LK-71	LG-71019	None	SLFP	Herath Mudiyanselage Prasanna Pradeep Kumar
+LK-71	LG-71019	None	SLPP	Herath Mudiyanselage Prasanna Pradeep Kumar
+LK-71	LG-71019	None	SLFP	Ilangasinghe Mudiyanselage Thilaka Nimali Ilangasinghe
+LK-71	LG-71019	None	SLPP	Ilangasinghe Mudiyanselage Thilaka Nimali Ilangasinghe
+LK-71	LG-71019	None	SLFP	Kalugala Mudianselage Kaushalya Kumari Pussella
+LK-71	LG-71019	None	SLPP	Kalugala Mudianselage Kaushalya Kumari Pussella
+LK-71	LG-71019	None	SLFP	Kamaldeenge Sujatha Parmil
+LK-71	LG-71019	None	SLPP	Kamaldeenge Sujatha Parmil
+LK-71	LG-71019	None	SLFP	Pakkiru Lebbe Abdul Raseedu
+LK-71	LG-71019	None	SLPP	Pakkiru Lebbe Abdul Raseedu
+LK-71	LG-71019	None	SLFP	Pihimbuwalage Gedera Sunil Priyantha Kumara
+LK-71	LG-71019	None	SLPP	Pihimbuwalage Gedera Sunil Priyantha Kumara
+LK-71	LG-71019	None	SLFP	Semasinghe Bandaralage Herath Menike
+LK-71	LG-71019	None	SLPP	Semasinghe Bandaralage Herath Menike
+LK-71	LG-71009	11 -	UNP	Herath Mudiyanselage Karunarathna
+LK-91	LG-91004	3-Mihindugama	CWC(	Periyasami Sudarshan
+LK-91	LG-91004	None	UNP	Lagamuwa Hendeniye Pushpa Rajapaksha
+LK-91	LG-91006	None	JJB	Liyanage Chandrika Liyanage
+LK-91	LG-91012	None	AJP	Niranjala Kumari Gamagedara
+LK-91	LG-91012	None	AJP	Sewanu Nagaraja Suresh Kumar
+LK-91	LG-91002	None	SJB	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
+LK-91	LG-91008	None	JJB	Herath Mudiyanselage Mallika Herath
+LK-91	LG-91001	None	USP	(None)
+LK-91	LG-91003	21-Galabada	IG1	Arumugam Maheshwaran
+LK-91	LG-91003	None	IG1	Arumugam Maheshwaran
+LK-91	LG-91003	21-Galabada	NLNP	Galabada Arachchige Srimal Suranga Somarathna
+LK-91	LG-91003	21-Galabada	SLPP	Galabada Arachchige Srimal Suranga Somarathna
+LK-91	LG-91009	21-Kattange	IG1	Subramaniyam Sivakumar
+LK-91	LG-91009	None	IG1	Subramaniyam Sivakumar

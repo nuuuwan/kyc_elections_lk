@@ -11,7 +11,7 @@ class HomePage(HomePageBase, HomePagePipeline):
 
 
 def main():
-    district_name = 'Galle'
+    district_name = 'Anuradhapura'
 
     home_page = HomePage()
     home_page.scrape_district(district_name)
