@@ -43,7 +43,7 @@ class HomePagePipeline:
         if os.path.exists(dir_lg):
             log.debug(f'Skipping {district_name}/{lg_name}')
             return
-        log.debug(f'Scraping {district_name}/{lg_name}')
+        log.info(f'Scraping {district_name}/{lg_name}')
 
         self.select_lg(lg_name)
         sleep(2, self.MAX_INCR_WAIT_AFTER_SELECT_LG)
@@ -57,7 +57,7 @@ class HomePagePipeline:
         self.click_back()
         self.select_district(district_name)
         sleep(1, self.MAX_TIME_WAIT_AFTER_SCRAPE_LG)
-    
+
     def scrape_district(self, district_name):
         self.open()
         self.select_lang()

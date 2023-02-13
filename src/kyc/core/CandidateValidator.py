@@ -5,18 +5,23 @@ log = Log('CandidateValidator')
 
 
 class CandidateValidator:
+    MIN_PARTIES_PER_LG = 5
+
     @classmethod
-    def get_idx_by_district_and_lg(cls):
+    def get_idx(cls):
         candidates = cls.list_all()
         idx = {}
         for candidate in candidates:
             district_id = candidate.district_id
             lg_id = candidate.lg_id
+            party_name = str(candidate.party_name)
             if district_id not in idx:
                 idx[district_id] = {}
             if lg_id not in idx[district_id]:
-                idx[district_id][lg_id] = []
-            idx[district_id][lg_id].append(candidate)
+                idx[district_id][lg_id] = {}
+            if party_name not in idx[district_id][lg_id]:
+                idx[district_id][lg_id][party_name] = []
+            idx[district_id][lg_id][party_name].append(candidate)
         return idx
 
     @staticmethod
@@ -35,10 +40,18 @@ class CandidateValidator:
     @classmethod
     def validate_coverage(cls):
         district_to_lg_ent_idx = cls.get_district_to_lg_ent_idx()
-        idx = cls.get_idx_by_district_and_lg()
+        idx = cls.get_idx()
         d_list = []
         for district_id, lg_idx in idx.items():
             actual_lg_ids = set(lg_idx.keys())
+
+            valid_lg_ids = []
+            for lg_id in actual_lg_ids:
+                n_party_name = len(lg_idx[lg_id].keys())
+                if n_party_name >= cls.MIN_PARTIES_PER_LG:
+                    valid_lg_ids.append(lg_id)
+            actual_lg_ids = set(valid_lg_ids)
+
             lg_ent_idx = district_to_lg_ent_idx[district_id]
             expected_lg_ids = set(lg_ent_idx.keys())
             missing_lg_ids = expected_lg_ids - actual_lg_ids
