@@ -11,11 +11,10 @@ class HomePage(HomePageBase, HomePagePipeline):
 
 
 def main():
-    district_name = 'Kandy'
+    district_name = 'Ratnapura'
 
     home_page = HomePage()
     home_page.scrape_district(district_name)
-    home_page.quit()
 
 
 if __name__ == '__main__':
