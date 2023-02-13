@@ -38,6 +38,12 @@ DISTRICT_TO_LG_NAME_TO_ID = {
         '-v24': 'LG-61013',
         '-v25': 'LG-61014',
     },
+    'LK-81': {
+        '-v131': 'LG-81013',
+        '-v132': 'LG-81015',
+        '-v133': 'LG-81016',
+        '-v134': 'LG-81018',
+    },
     'LK-82': {
         'Bibila Pradesiya Sabha': 'LG-82001',
         'Medagama Padeshiya Sabha': 'LG-82003',

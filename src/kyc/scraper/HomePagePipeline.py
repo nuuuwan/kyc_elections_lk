@@ -11,8 +11,8 @@ log = Log('HomePagePipeline')
 
 def sleep(min_sleep=1, sleep_span=5):
     t_sleep = min_sleep + sleep_span * random.random()
-    time.sleep(t_sleep)
     log.debug(f'😴 {t_sleep:.2f} s')
+    time.sleep(t_sleep)
 
 
 class HomePagePipeline:

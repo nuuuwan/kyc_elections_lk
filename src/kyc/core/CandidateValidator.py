@@ -75,9 +75,8 @@ class CandidateValidator:
             n_lgs_expected=n_lgs_expected,
         )
 
-        n_missing_lg_ids = len(missing_lg_ids)
         msg = ''
-        if n_missing_lg_ids:
+        if missing_lg_ids:
             for lg_id in expected_lg_ids:
                 icon = ICON_BAD
                 if lg_id in actual_valid_lg_ids:
@@ -87,8 +86,8 @@ class CandidateValidator:
 
                 msg += DELIM_ITEMS + icon + ' ' + lg_ent_idx[lg_id].name
             msg += '\n'
-        msg += f'{district_id} {n_missing_lg_ids}/{n_lgs_expected} missing'
-        log.debug(msg) if n_missing_lg_ids == 0 else log.error(msg)
+        msg += f'{district_id} {n_lgs_actual}/{n_lgs_expected} Done'
+        log.error(msg) if missing_lg_ids else log.debug(msg)
         return d
 
     @classmethod
