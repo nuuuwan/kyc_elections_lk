@@ -1,9 +1,13 @@
 import random
 
+from utils import Log, mr
+
 from kyc.core.Candidate import Candidate
 from kyc.scraper.DISTRICT_NAMES import DISTRICT_NAMES
 from kyc.scraper.HomePageBase import HomePageBase
 from kyc.scraper.HomePagePipeline import HomePagePipeline
+
+log = Log('HomePage')
 
 
 class HomePage(HomePageBase, HomePagePipeline):
@@ -11,18 +15,18 @@ class HomePage(HomePageBase, HomePagePipeline):
 
 
 if __name__ == '__main__':
+    MAX_THREADS = 5
     district_names = DISTRICT_NAMES
     random.shuffle(district_names)
+    district_names = district_names[:MAX_THREADS]
 
-    for district_name in district_names:
-        Candidate.list_all()
+    def worker(district_name):
         home_page = HomePage()
-        home_page.scrape_district(district_name)
+        try:
+            home_page.scrape_district(district_name)
+        except BaseException as e:
+            home_page.quit()
+            log.error(e)
 
-        # try:
-        #     home_page.scrape_district(district_name)
-        #     Candidate.list_all()
-        # except BaseException:
-        #     home_page.quit()
-        #     Candidate.list_all()
-        #     break
+    mr.map_parallel(worker, district_names, max_threads=MAX_THREADS)
+    Candidate.list_all()

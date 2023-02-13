@@ -1,4 +1,6 @@
 import os
+import random
+import time
 
 from utils import Log, TSVFile
 
@@ -6,6 +8,9 @@ log = Log('HomePagePipeline')
 
 
 class HomePagePipeline:
+    MAX_TIME_WAIT_AFTER_SCRAPE_LG = 5
+    MAX_TIME_WAIT_AFTER_SCRAPE_DISTRICT = 5
+
     def scrape_party(self, district_name, lg_name, party_name):
         self.select_party(party_name)
 
@@ -46,6 +51,7 @@ class HomePagePipeline:
 
         self.click_back()
         self.select_district(district_name)
+        time.sleep(self.MAX_TIME_WAIT_AFTER_SCRAPE_LG * random.random())
 
     def scrape_district(self, district_name):
         self.open()
@@ -55,4 +61,5 @@ class HomePagePipeline:
         for lg_name in self.lg_names:
             self.scrape_lg(district_name, lg_name)
 
+        time.sleep(self.MAX_TIME_WAIT_AFTER_SCRAPE_DISTRICT * random.random())
         self.quit()
