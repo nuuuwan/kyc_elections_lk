@@ -2,12 +2,12 @@ DISTRICT_TO_LG_NAME_TO_ID = {
     'LK-11': {
         'Kotikawatta Mulleriyawa PS': 'LG-11003',
     },
-    'LK-13': {
-        'Valivita Diwitura PS': 'LG-31010',
-    },
     'LK-21': {
         '-v261': 'LG-21004',
         '-v276': 'LG-21020',
+    },
+    'LK-31': {
+        'Valivita Diwitura PS': 'LG-31010',
     },
     'LK-51': {
         'Eravur Town UC': 'LG-51005',

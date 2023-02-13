@@ -1,6 +1,7 @@
 district_id	lg_id	ward_name	party_name	name
 LK-11	LG-11001		14 - Sri Lanka Freedom Party	Mohammad Nazim Nawazia Begum
 LK-11	LG-11001		14 - Sri Lanka Freedom Party	Mohammad Nazim Nawazia Begum
+LK-11	LG-11002	2 - Wadulla	1 - Socialist Equality Party	Weerasingha Arachchige Sunil
 LK-11	LG-11002	2 - Wadulla	5 - Independent Group 1	Mohamad Jamaldeen Mohamad Naleem
 LK-11	LG-11004	22 - Pothuarawa	2 - Jana Setha Peramuna	Chinthaka Jayasena
 LK-11	LG-11008	8 - Thalawathugoda	16 - Jana Setha Peramuna	Chinthaka Jayasena
@@ -23,6 +24,7 @@ LK-12	LG-12005	18 -	10 - Nawa Lanka Nidahas Pakshaya	Hetti Achchi Kalu Aggalage 
 LK-12	LG-12005		9 - Freedom Peoples Front	Hetti Achchi Kalu Aggalage Layan Nilush Hettiarachchi
 LK-12	LG-12008		3 - Freedom Peoples Front	Kusum Sujeewani Costha
 LK-12	LG-12018	8 - Peliyagoda Gangabada East	4 - Freedom Peoples Front	Kusum Sujeewani Costha
+LK-12	LG-12008		4 - United National Freedom Front	Himashi Dilsara Ponnamperuma
 LK-12	LG-12013		2 - Nawa Lanka Nidahas Pakshaya	Liyanage Chandrika Liyanage
 LK-12	LG-12018	5 - Rohana Wihara Place	8 - Ape Janabala Pakshaya	Weerapurage Wasantha Kumara
 LK-12	LG-12018	6 - Meegahawaththa South	8 - Ape Janabala Pakshaya	Wanigasundara Mudiyanselage Samarasingha
@@ -70,6 +72,84 @@ LK-21	LG-21016		9 - Freedom Peoples Front	Wickramasinghe Mudiyanselage Indrani W
 LK-21	LG-21002	8 - Udahigulwala	2 - Sri Lanka Freedom Party	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21010		10 - Independent Group 1	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21013	16 - Pollwatta	5 - Samagi Jana Balawegaya	Herath Mudiyanselage Gamini Herath
+LK-31	LG-31019		2 - Jathika Jana Balawegaya	Weerasingha Arachchige Sunil
+LK-31	LG-31008		3 - Sri Lanka Freedom Party	Himashi Dilsara Ponnamperuma
+LK-31	LG-31016	1 - Gintota	8 - Sri Lanka Freedom Party	Bellanage Asanka Niroshana Chandrasekara
+LK-31	LG-31016	1 - Gintota	9 - Samagi Jana Balawegaya	Bellanage Asanka Niroshana Chandrasekara
+LK-31	LG-31016	10 - Sangamithapura	8 - Sri Lanka Freedom Party	Thalahagama Acharige Thissa
+LK-31	LG-31016	10 - Sangamithapura	9 - Samagi Jana Balawegaya	Thalahagama Acharige Thissa
+LK-31	LG-31016	11 - Galwadugoda	8 - Sri Lanka Freedom Party	Lewallage Buddhinee Chathurika Premathilaka
+LK-31	LG-31016	11 - Galwadugoda	9 - Samagi Jana Balawegaya	Lewallage Buddhinee Chathurika Premathilaka
+LK-31	LG-31016	12 -	8 - Sri Lanka Freedom Party	Nilmini Damayanthi Thiranagama
+LK-31	LG-31016	12 -	9 - Samagi Jana Balawegaya	Nilmini Damayanthi Thiranagama
+LK-31	LG-31016	13 -	8 - Sri Lanka Freedom Party	Somasundaram Niranjan
+LK-31	LG-31016	13 -	9 - Samagi Jana Balawegaya	Somasundaram Niranjan
+LK-31	LG-31016	14 - Galle city	8 - Sri Lanka Freedom Party	Priyantha Sudath Weerapperuma
+LK-31	LG-31016	14 - Galle city	9 - Samagi Jana Balawegaya	Priyantha Sudath Weerapperuma
+LK-31	LG-31016	15 - weliwatta	8 - Sri Lanka Freedom Party	Kokmaduwa Jayasingha Arachchige Aminda Kumara
+LK-31	LG-31016	15 - weliwatta	9 - Samagi Jana Balawegaya	Kokmaduwa Jayasingha Arachchige Aminda Kumara
+LK-31	LG-31016	16 - Thalapitiya	8 - Sri Lanka Freedom Party	Nawurunna Guruge Denistan Solaman De Silva
+LK-31	LG-31016	16 - Thalapitiya	9 - Samagi Jana Balawegaya	Nawurunna Guruge Denistan Solaman De Silva
+LK-31	LG-31016	17 - Makuluwa	8 - Sri Lanka Freedom Party	Bambarawanage Dharmasena
+LK-31	LG-31016	17 - Makuluwa	9 - Samagi Jana Balawegaya	Bambarawanage Dharmasena
+LK-31	LG-31016	18 - Milidduwa	8 - Sri Lanka Freedom Party	Mohamad Ishak Mohamad Abdul Kadar
+LK-31	LG-31016	18 - Milidduwa	9 - Samagi Jana Balawegaya	Mohamad Ishak Mohamad Abdul Kadar
+LK-31	LG-31016	18 - Milidduwa	8 - Sri Lanka Freedom Party	Nawurunna Guruge Methsiri Alexander De Silva
+LK-31	LG-31016	18 - Milidduwa	9 - Samagi Jana Balawegaya	Nawurunna Guruge Methsiri Alexander De Silva
+LK-31	LG-31016	19 - Magalla	8 - Sri Lanka Freedom Party	Pitiduwa Liyana Badalge Nadeeka Priyanganee Premarathna
+LK-31	LG-31016	19 - Magalla	9 - Samagi Jana Balawegaya	Pitiduwa Liyana Badalge Nadeeka Priyanganee Premarathna
+LK-31	LG-31016	2 - Dadalla	8 - Sri Lanka Freedom Party	Jeewananda Liyanaarachchi
+LK-31	LG-31016	2 - Dadalla	9 - Samagi Jana Balawegaya	Jeewananda Liyanaarachchi
+LK-31	LG-31016	20 - Katugoda	8 - Sri Lanka Freedom Party	Siman Wasam Indrawathee
+LK-31	LG-31016	20 - Katugoda	9 - Samagi Jana Balawegaya	Siman Wasam Indrawathee
+LK-31	LG-31016	3 - Bope	8 - Sri Lanka Freedom Party	Thilak Wijebandara
+LK-31	LG-31016	3 - Bope	9 - Samagi Jana Balawegaya	Thilak Wijebandara
+LK-31	LG-31016	4 - kubalwella	8 - Sri Lanka Freedom Party	Hemantha Senasiri Dias Abeywickrama Gunasekara
+LK-31	LG-31016	4 - kubalwella	9 - Samagi Jana Balawegaya	Hemantha Senasiri Dias Abeywickrama Gunasekara
+LK-31	LG-31016	5 - Madawelamulla	8 - Sri Lanka Freedom Party	Bopage Chooladasa
+LK-31	LG-31016	5 - Madawelamulla	9 - Samagi Jana Balawegaya	Bopage Chooladasa
+LK-31	LG-31016	6 - Deddugoda	8 - Sri Lanka Freedom Party	Ruwan Kumara Hewa Rajarathna
+LK-31	LG-31016	6 - Deddugoda	9 - Samagi Jana Balawegaya	Ruwan Kumara Hewa Rajarathna
+LK-31	LG-31016	7 - Maitipe	8 - Sri Lanka Freedom Party	Kottawa Iniyage Malani Manamperi
+LK-31	LG-31016	7 - Maitipe	9 - Samagi Jana Balawegaya	Kottawa Iniyage Malani Manamperi
+LK-31	LG-31016	8 -	8 - Sri Lanka Freedom Party	Ginthota Dewage Indika Jayanath
+LK-31	LG-31016	8 -	9 - Samagi Jana Balawegaya	Ginthota Dewage Indika Jayanath
+LK-31	LG-31016	9 - Bataganvila	8 - Sri Lanka Freedom Party	Ahangama Withanage Sriyani Abeygunasekara
+LK-31	LG-31016	9 - Bataganvila	9 - Samagi Jana Balawegaya	Ahangama Withanage Sriyani Abeygunasekara
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Aththota Gamage Sandya Pathmamali
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Aththota Gamage Sandya Pathmamali
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Edirisingha Arachchige Ruwini Tharanga
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Edirisingha Arachchige Ruwini Tharanga
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Holi Pathiranage Geethamali
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Holi Pathiranage Geethamali
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Kalupahana Liyanage Sarath Sumanasiri
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Kalupahana Liyanage Sarath Sumanasiri
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Kanankege Ashan Dilentha Sanjeewa
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Kanankege Ashan Dilentha Sanjeewa
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Kottegodage Nandanee Piris
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Kottegodage Nandanee Piris
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Kotudura Bandanage Rathnaseeli Somawansha
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Kotudura Bandanage Rathnaseeli Somawansha
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Lulbadda Waduge Mahesh
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Lulbadda Waduge Mahesh
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Madhushani Dilhara Kariyawasam
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Madhushani Dilhara Kariyawasam
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Makawita Liyanage Pathmini Kanthilatha
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Makawita Liyanage Pathmini Kanthilatha
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Nihal Ananda Kumarasingha
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Nihal Ananda Kumarasingha
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Ruwan Lakmal Puthra Gurudeniya
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Ruwan Lakmal Puthra Gurudeniya
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Sandaru Widarsha Abeywickrama
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Sandaru Widarsha Abeywickrama
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Sugeeswara Abeyrathna Wickramasingha
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Sugeeswara Abeyrathna Wickramasingha
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Thalahagama Acharige Danuja Sankhajith
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Thalahagama Acharige Danuja Sankhajith
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Umagiliya Kankanamge Nirosh Sameera
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Umagiliya Kankanamge Nirosh Sameera
+LK-31	LG-31016		8 - Sri Lanka Freedom Party	Walpala Hewage Thilini Nimesha Malshani
+LK-31	LG-31016		9 - Samagi Jana Balawegaya	Walpala Hewage Thilini Nimesha Malshani
 LK-61	LG-61017		1 - United National Party	Mohamad Jamaldeen Mohamad Naleem
 LK-61	LG-61002	11 -	2 - United National Party	Herath Mudiyanselage Karunarathna
 LK-61	LG-61005	8 -	2 - Jathika Jana Balawegaya	Ekanayaka Mudiyanselage Mahinda

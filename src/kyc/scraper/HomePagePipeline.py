@@ -31,13 +31,13 @@ class HomePagePipeline:
 
         fptp_file_path = os.path.join(dir_lg, f'{party_name}.fptp.tsv')
         TSVFile(fptp_file_path).write(fptp_candidate_list)
-        n = len(fptp_candidate_list)
-        log.debug(f'{lg_name}/{party_name} - ({n}) FPTP ')
+        n_fptp = len(fptp_candidate_list)
 
         pr_file_path = os.path.join(dir_lg, f'{party_name}.pr.tsv')
         TSVFile(pr_file_path).write(pr_candidate_list)
-        n = len(pr_candidate_list)
-        log.debug(f'{lg_name}/{party_name} - ({n}) PR ')
+        n_pr = len(pr_candidate_list)
+        n_total = n_fptp + n_pr
+        log.debug(f'{lg_name}/{party_name}: {n_fptp} + {n_pr} = {n_total} ')
 
         sleep(0.5, self.MAX_TIME_WAIT_AFTER_SCRAPE_PARTY)
 

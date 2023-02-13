@@ -1,0 +1,3 @@
+EXCLUDE_LG_IDS = [
+    'LG-31004',
+]

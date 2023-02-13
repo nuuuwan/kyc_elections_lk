@@ -1,6 +1,8 @@
 from gig import Ent, EntType
 from utils import Log, TSVFile
 
+from kyc.core.EXCLUDE_LG_IDS import EXCLUDE_LG_IDS
+
 log = Log('CandidateValidator')
 DELIM_ITEMS = '\n\t'
 ICON_GOOD = '✅'
@@ -34,6 +36,9 @@ class CandidateValidator:
         idx = {}
         for ent in lg_ents:
             lg_id = ent.id
+            if lg_id in EXCLUDE_LG_IDS:
+                continue
+
             district_id = ent.district_id
 
             if district_id not in idx:
@@ -42,15 +47,20 @@ class CandidateValidator:
         return idx
 
     @classmethod
-    def validate_coverage_for_district(cls, district_id, lg_idx, lg_ent_idx):
-        actual_lg_ids = set(lg_idx.keys())
-
+    def get_actual_valid_lg_ids(cls, lg_idx, actual_lg_ids):
         valid_lg_ids = []
         for lg_id in actual_lg_ids:
             n_party_name = len(lg_idx[lg_id].keys())
             if n_party_name >= cls.MIN_PARTIES_PER_LG:
                 valid_lg_ids.append(lg_id)
-        actual_valid_lg_ids = set(valid_lg_ids)
+        return set(valid_lg_ids)
+
+    @classmethod
+    def validate_coverage_for_district(cls, district_id, lg_idx, lg_ent_idx):
+        actual_lg_ids = set(lg_idx.keys())
+        actual_valid_lg_ids = cls.get_actual_valid_lg_ids(
+            lg_idx, actual_lg_ids
+        )
 
         expected_lg_ids = set(lg_ent_idx.keys())
         missing_lg_ids = expected_lg_ids - actual_valid_lg_ids
