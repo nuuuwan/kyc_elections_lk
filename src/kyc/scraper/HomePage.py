@@ -17,10 +17,12 @@ if __name__ == '__main__':
     for district_name in district_names:
         Candidate.list_all()
         home_page = HomePage()
-        try:
-            home_page.scrape_district(district_name)
-            Candidate.list_all()
-        except BaseException:
-            home_page.quit()
-            Candidate.list_all()
-            break
+        home_page.scrape_district(district_name)
+
+        # try:
+        #     home_page.scrape_district(district_name)
+        #     Candidate.list_all()
+        # except BaseException:
+        #     home_page.quit()
+        #     Candidate.list_all()
+        #     break

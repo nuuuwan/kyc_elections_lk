@@ -57,7 +57,7 @@ class HomePageBase:
             if option.text == '(Select)':
                 continue
             if option.text.strip() == '':
-                option.text = '-v' + option.value
+                option.text = '-v' + option.get_attribute("value")
             lg_names.append(option.text)
         return lg_names
 
