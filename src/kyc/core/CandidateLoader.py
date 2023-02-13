@@ -47,12 +47,12 @@ class CandidateLoader:
 
     @classmethod
     def list_from_dir_district(cls, dir_district):
-        dir_district.name
         district_n_lgs = 0
         candidates = []
         for dir_lg in dir_district.children:
             district_n_lgs += 1
             candidates += cls.list_from_dir_lg(dir_lg)
+        log.debug(f'Loaded {district_n_lgs} lgs for {dir_district.name}')
         return candidates, district_n_lgs
 
     @classmethod

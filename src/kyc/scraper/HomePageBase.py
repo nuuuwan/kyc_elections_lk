@@ -7,7 +7,7 @@ from selenium.webdriver.firefox.options import Options
 
 class HomePageBase:
     URL = 'https://eservices.elections.gov.lk/pages/ec_ct_KYC_LGA.aspx'
-    TIME_CATPCHA_LOAD = 2
+    TIME_CATPCHA_LOAD = 1
 
     def __init__(self):
         options = Options()
@@ -56,14 +56,22 @@ class HomePageBase:
         for option in select_lgs.find_elements(By.TAG_NAME, 'option'):
             if option.text == '(Select)':
                 continue
+            if option.text.strip() == '':
+                option.text = '-v' + option.value
             lg_names.append(option.text)
         return lg_names
 
     def select_lg(self, lg_name):
         select_lgs = self.elem_select_lgs
-        option = select_lgs.find_element(
-            By.XPATH, f"//option[contains(text(), \"{lg_name}\")]"
-        )
+        if lg_name.startswith('-v'):
+            value = lg_name[2:]
+            option = select_lgs.find_element(
+                By.XPATH, f"//option[contains(@value=\"{value}\")]"
+            )
+        else:
+            option = select_lgs.find_element(
+                By.XPATH, f"//option[contains(text(), \"{lg_name}\")]"
+            )
         option.click()
 
     def click_captcha(self):
