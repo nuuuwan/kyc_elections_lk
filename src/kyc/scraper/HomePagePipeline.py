@@ -10,6 +10,7 @@ log = Log('HomePagePipeline')
 class HomePagePipeline:
     MAX_TIME_WAIT_AFTER_SCRAPE_LG = 5
     MAX_TIME_WAIT_AFTER_SCRAPE_DISTRICT = 5
+    MAX_INCR_WAIT_AFTER_SELECT_LG = 5
 
     def scrape_party(self, district_name, lg_name, party_name):
         self.select_party(party_name)
@@ -40,6 +41,9 @@ class HomePagePipeline:
 
         try:
             self.select_lg(lg_name)
+            time.sleep(
+                2 + self.MAX_INCR_WAIT_AFTER_SELECT_LG * random.random()
+            )
         except BaseException:
             return
 

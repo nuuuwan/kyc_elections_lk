@@ -40,18 +40,20 @@ class CandidateLoader:
     CANDIDATES_PATH = os.path.join(DIR_DATA, 'candidates.tsv')
 
     @classmethod
-    def from_file(cls, distrit_id, lg_id, file):
+    def from_file(cls, district_id, lg_id, file):
         data_list = TSVFile(file.path).read()
         candidates = []
         party_name = '.'.join(file.name.split('.')[:-2])
         for data in data_list:
             candidate = cls(
-                distrit_id,
+                district_id,
                 lg_id,
                 data.get('ward', None),
                 party_name,
                 data['name'],
             )
+            if candidate.name[0] == '-':
+                continue
             candidates.append(candidate)
         return candidates
 
@@ -85,7 +87,7 @@ class CandidateLoader:
         n_districts = 0
         n_lgs = 0
         for child in Directory(cls.DIR_DATA).children:
-            if child.path == cls.CANDIDATES_PATH:
+            if not isinstance(child, Directory):
                 continue
 
             dir_district = child

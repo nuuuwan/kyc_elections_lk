@@ -119,6 +119,8 @@ class HomePageBase:
                 continue
             ward = tds[0].text
             name = tds[1].text
+            if name[0] == '-':
+                continue
             fptp_candidate_list.append(dict(ward=ward, name=name))
         return fptp_candidate_list
 
@@ -132,6 +134,8 @@ class HomePageBase:
             if len(tds) != 1:
                 continue
             name = tds[0].text
+            if name[0] == '-':
+                continue
             pr_candidate_list.append(dict(name=name))
         return pr_candidate_list
 
