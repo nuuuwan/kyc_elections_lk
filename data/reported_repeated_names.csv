@@ -4,6 +4,7 @@ LK-11	LG-11001		14 - Sri Lanka Freedom Party	Mohammad Nazim Nawazia Begum
 LK-11	LG-11002	2 - Wadulla	5 - Independent Group 1	Mohamad Jamaldeen Mohamad Naleem
 LK-11	LG-11004	22 - Pothuarawa	2 - Jana Setha Peramuna	Chinthaka Jayasena
 LK-11	LG-11008	8 - Thalawathugoda	16 - Jana Setha Peramuna	Chinthaka Jayasena
+LK-11	LG-11004		14 - United People's Party	Periyasami Sudarshan
 LK-11	LG-11004		2 - Jana Setha Peramuna	P.R.Bindumathi
 LK-11	LG-11008	10 - Depanama	16 - Jana Setha Peramuna	P.R.Bindumathi
 LK-11	LG-11004		2 - Jana Setha Peramuna	W.A.Vipula
@@ -12,6 +13,7 @@ LK-11	LG-11006	8 - Weragolla	4 - Independent Group 1	Muniyandi Ravi
 LK-11	LG-11008		16 - Jana Setha Peramuna	Murugan Mogana
 LK-11	LG-11009		12 - Lanka Janatha Party	Kannan Indra Devi
 LK-11	LG-11010		1 - Frontline Socialist Party	Kannan Indra Devi
+LK-11	LG-11012	8 - Bodhirajapura	1 - Independent Group 1	Lagamuwa Hendeniye Pushpa Rajapaksha
 LK-12	LG-12008	10 -	1 - Jana Setha Peramuna	Murugan Mogana
 LK-12	LG-12001	27 -	16 - Independent Group 8	Panambarage Ashen Nirmal Fernando
 LK-12	LG-12001		10 - Independent Group 9	Panambarage Ashen Nirmal Fernando
@@ -21,6 +23,7 @@ LK-12	LG-12005	18 -	10 - Nawa Lanka Nidahas Pakshaya	Hetti Achchi Kalu Aggalage 
 LK-12	LG-12005		9 - Freedom Peoples Front	Hetti Achchi Kalu Aggalage Layan Nilush Hettiarachchi
 LK-12	LG-12008		3 - Freedom Peoples Front	Kusum Sujeewani Costha
 LK-12	LG-12018	8 - Peliyagoda Gangabada East	4 - Freedom Peoples Front	Kusum Sujeewani Costha
+LK-12	LG-12013		2 - Nawa Lanka Nidahas Pakshaya	Liyanage Chandrika Liyanage
 LK-12	LG-12018	5 - Rohana Wihara Place	8 - Ape Janabala Pakshaya	Weerapurage Wasantha Kumara
 LK-12	LG-12018	6 - Meegahawaththa South	8 - Ape Janabala Pakshaya	Wanigasundara Mudiyanselage Samarasingha
 LK-12	LG-12018		8 - Ape Janabala Pakshaya	Arachchi Mudiyanselage Upul Saman Kumara
@@ -56,11 +59,14 @@ LK-21	LG-21001	3 - Naranwala	1 - Jathika Jana Balawegaya	Ekanayake Mudiyanselage
 LK-21	LG-21010	12 - Poddalgoda	2 - Samagi Jana Balawegaya	Ekanayake Mudiyanselage Thissa Ekanayake
 LK-21	LG-21006	8 - Mapanawathura	6 - Nawa Lanka Nidahas Pakshaya	Egodagedara Hasitha Sandaruwan Wijebandara
 LK-21	LG-21017	18 - Pallegama	6 - United National Freedom Front	Egodagedara Hasitha Sandaruwan Wijebandara
+LK-21	LG-21006		7 - Ape Janabala Pakshaya	Niranjala Kumari Gamagedara
 LK-21	LG-21008		7 - Independent Group 1	Egoda Gedara Champa
 LK-21	LG-21014	6 - Udawela	9 - United National Freedom Front	Egoda Gedara Champa
+LK-21	LG-21011	21 - Degaldoruwa	11 - Ape Janabala Pakshaya	Sewanu Nagaraja Suresh Kumar
 LK-21	LG-21013		3 - Sri Lanka Freedom Party	Rathnayake Mudiyanselage Rathnayake
 LK-21	LG-21017	25 - Mawathura	3 - Sri Lanka Podujana Peramuna	Rathnayake Mudiyanselage Rathnayake
 LK-21	LG-21016		3 - Frontline Socialist Party	Herath Mudiyanselage Sarath Bandara
+LK-21	LG-21016		9 - Freedom Peoples Front	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
 LK-21	LG-21002	8 - Udahigulwala	2 - Sri Lanka Freedom Party	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21010		10 - Independent Group 1	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21013	16 - Pollwatta	5 - Samagi Jana Balawegaya	Herath Mudiyanselage Gamini Herath
@@ -70,6 +76,7 @@ LK-61	LG-61005	8 -	2 - Jathika Jana Balawegaya	Ekanayaka Mudiyanselage Mahinda
 LK-61	LG-61005		1 - United National Party	Herath Mudiyanselage Sarath Bandara
 LK-61	LG-61001	4 -	2 - United National Party	Wasala Mudiyanselage Jayathunga Wasala
 LK-61	LG-61001		1 - Ape Janabala Pakshaya	Wasala Mudiyanselage Jayathunga Wasala
+LK-61	LG-61001		4 - Jathika Jana Balawegaya	Herath Mudiyanselage Mallika Herath
 LK-61	LG-61002	16 -	4 - Freedom Peoples Front	Herath Mudiyanselage Jayantha Herath
 LK-61	LG-61010	4 -	5 - Sri Lanka Podujana Peramuna	Herath Mudiyanselage Jayantha Herath
 LK-61	LG-61003	11 -	5 - Frontline Socialist Party	Herath Mudiyanselage Jayasena
@@ -81,3 +88,16 @@ LK-61	LG-61007	4 -	3 - Freedom Peoples Front	Herath Mudiyanselage Nandawathi
 LK-61	LG-61007	20 -	1 - United National Party	Rathnayaka Mudiyanselage Wasantha Kumara Rathnayaka
 LK-61	LG-61008		1 - United National Party	Rathnayaka Mudiyanselage Wasantha Kumara Rathnayaka
 LK-61	LG-61006	18 -	2 - United National Party	Herath Mudiyanselage Gamini Herath
+LK-91	LG-91004	3 - Mihindugama	8 - Ceylon Worker's Congress (P.Wing)	Periyasami Sudarshan
+LK-91	LG-91004		1 - United National Party	Lagamuwa Hendeniye Pushpa Rajapaksha
+LK-91	LG-91006		6 - Jathika Jana Balawegaya	Liyanage Chandrika Liyanage
+LK-91	LG-91012		7 - Ape Janabala Pakshaya	Niranjala Kumari Gamagedara
+LK-91	LG-91012		7 - Ape Janabala Pakshaya	Sewanu Nagaraja Suresh Kumar
+LK-91	LG-91002		4 - Samagi Jana Balawegaya	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
+LK-91	LG-91008		7 - Jathika Jana Balawegaya	Herath Mudiyanselage Mallika Herath
+LK-91	LG-91003	21 - Galabada	1 - Nawa Lanka Nidahas Pakshaya	Galabada Arachchige Srimal Suranga Somarathna
+LK-91	LG-91003	21 - Galabada	6 - Sri Lanka Podujana Peramuna	Galabada Arachchige Srimal Suranga Somarathna
+LK-91	LG-91003	21 - Galabada	8 - Independent Group 1	Arumugam Maheshwaran
+LK-91	LG-91003		8 - Independent Group 1	Arumugam Maheshwaran
+LK-91	LG-91009	21 - Kattange	7 - Independent Group 1	Subramaniyam Sivakumar
+LK-91	LG-91009		7 - Independent Group 1	Subramaniyam Sivakumar

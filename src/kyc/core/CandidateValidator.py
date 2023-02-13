@@ -2,7 +2,10 @@ from gig import Ent, EntType
 from utils import Log, TSVFile
 
 log = Log('CandidateValidator')
-DELIM_ITEMS = '\n\t ❌ '
+DELIM_ITEMS = '\n\t'
+ICON_GOOD = '✅'
+ICON_MEH = '🟠'
+ICON_BAD = '❌'
 
 
 class CandidateValidator:
@@ -47,12 +50,12 @@ class CandidateValidator:
             n_party_name = len(lg_idx[lg_id].keys())
             if n_party_name >= cls.MIN_PARTIES_PER_LG:
                 valid_lg_ids.append(lg_id)
-        actual_lg_ids = set(valid_lg_ids)
+        actual_valid_lg_ids = set(valid_lg_ids)
 
         expected_lg_ids = set(lg_ent_idx.keys())
-        missing_lg_ids = expected_lg_ids - actual_lg_ids
+        missing_lg_ids = expected_lg_ids - actual_valid_lg_ids
 
-        n_lgs_actual = len(actual_lg_ids)
+        n_lgs_actual = len(actual_valid_lg_ids)
         n_lgs_expected = len(expected_lg_ids)
 
         d = dict(
@@ -62,12 +65,16 @@ class CandidateValidator:
         )
 
         n_missing_lg_ids = len(missing_lg_ids)
-        missing_lg_names = DELIM_ITEMS.join(
-            [lg_ent_idx[lg_id].name for lg_id in missing_lg_ids]
-        )
-        msg = f'{district_id} {n_missing_lg_ids}/{n_lgs_expected} missing' + (
-            f'{DELIM_ITEMS}{str(missing_lg_names)}' if missing_lg_ids else ''
-        )
+        msg = f'{district_id} {n_missing_lg_ids}/{n_lgs_expected} missing'
+        if n_missing_lg_ids:
+            for lg_id in expected_lg_ids:
+                icon = ICON_BAD
+                if lg_id in actual_valid_lg_ids:
+                    icon = ICON_GOOD
+                elif lg_id in actual_lg_ids:
+                    icon = ICON_MEH
+
+                msg += DELIM_ITEMS + icon + ' ' + lg_ent_idx[lg_id].name
         log.debug(msg) if n_missing_lg_ids == 0 else log.error(msg)
         return d
 
