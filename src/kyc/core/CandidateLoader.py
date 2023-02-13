@@ -80,7 +80,7 @@ class CandidateLoader:
         return candidates, district_n_lgs
 
     @classmethod
-    def list_all(cls):
+    def list_all_parse(cls):
         candidates = []
         n_districts = 0
         n_lgs = 0
@@ -106,7 +106,7 @@ class CandidateLoader:
 
     @classmethod
     def list_and_store_all(cls):
-        candidates = cls.list_all()
+        candidates = cls.list_all_parse()
         d_list = [candidate.to_dict() for candidate in candidates]
         d_list = sorted(
             d_list,
@@ -120,3 +120,8 @@ class CandidateLoader:
         log.info(
             f'Stored {len(d_list):,} candidates to {cls.CANDIDATES_PATH}'
         )
+
+    @classmethod
+    def list_all(cls):
+        d_list = TSVFile(cls.CANDIDATES_PATH).read()
+        return [cls.from_dict(d) for d in d_list]
