@@ -14,7 +14,7 @@ class HomePage(HomePageBase, HomePagePipeline):
     pass
 
 
-if __name__ == '__main__':
+def main():
     MAX_THREADS = 5
     district_names = DISTRICT_NAMES
     random.shuffle(district_names)
@@ -30,3 +30,7 @@ if __name__ == '__main__':
 
     mr.map_parallel(worker, district_names, max_threads=MAX_THREADS)
     Candidate.list_all()
+
+
+if __name__ == '__main__':
+    main()

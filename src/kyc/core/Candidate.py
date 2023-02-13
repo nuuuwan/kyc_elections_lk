@@ -7,4 +7,4 @@ class Candidate(CandidateBase, CandidateLoader):
 
 
 if __name__ == '__main__':
-    Candidate.list_all()
+    Candidate.list_and_store_all()
