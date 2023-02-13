@@ -1,7 +1,7 @@
 import os
 
 from gig import Ent, EntType
-from utils import Directory, Log, TSVFile
+from utils import Directory, JSONFile, Log, TSVFile
 
 from kyc.core.DISTRICT_TO_LG_NAME_TO_ID import DISTRICT_TO_LG_NAME_TO_ID
 
@@ -145,6 +145,8 @@ class CandidateLoader:
         log.info(
             f'Stored {len(d_list):,} candidates to {cls.CANDIDATES_PATH}'
         )
+
+        JSONFile(cls.CANDIDATES_PATH[:-4] + '.json').write(d_list)
 
     @classmethod
     def list_all(cls):
