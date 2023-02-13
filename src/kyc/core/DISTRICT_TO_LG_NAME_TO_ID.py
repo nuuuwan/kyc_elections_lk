@@ -9,6 +9,9 @@ DISTRICT_TO_LG_NAME_TO_ID = {
     'LK-31': {
         'Valivita Diwitura PS': 'LG-31010',
     },
+    'LK-32': {
+        '-v335': 'LG-32014',
+    },
     'LK-51': {
         'Eravur Town UC': 'LG-51005',
     },
@@ -18,6 +21,16 @@ DISTRICT_TO_LG_NAME_TO_ID = {
     },
     'LK-62': {
         'KALPITIYA PRADHESIYA SABHA': 'LG-62001',
+        '-v42': 'LG-62007',
+        '-v43': 'LG-62005',
+        '-v45': 'LG-62002',
+        '-v46': 'LG-62008',
+        '-v48': 'LG-62003',
+        '-v49': 'LG-62004',
+        '-v50': 'LG-62010',
+        '-v51': 'LG-62009',
+        '-v52': 'LG-62011',
+        '-v53': 'LG-62012',
     },
     'LK-61': {
         'Mahawa PS': 'LG-61003',

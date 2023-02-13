@@ -18,6 +18,7 @@ LK-11	LG-11010	None	FSP	Kannan Indra Devi
 LK-11	LG-11012	8-Bodhirajapura	IG1	Lagamuwa Hendeniye Pushpa Rajapaksha
 LK-11	LG-11013	14-Kesbewa	SLPP	Yapa Mudiyanselage Jayarathna
 LK-12	LG-12008	10 -	JSP	Murugan Mogana
+LK-12	LG-12001	11 -	IG1	Warnakulasooriya Francis Fernando
 LK-12	LG-12001	27 -	IG8	Panambarage Ashen Nirmal Fernando
 LK-12	LG-12001	None	IG9	Panambarage Ashen Nirmal Fernando
 LK-12	LG-12005	16 -	NLNP	Elibichchi Kankanamalage Indra Kanthi
@@ -63,6 +64,7 @@ LK-21	LG-21011	11-Wejyasrigama	AJP	Peradeniye Gasweda Gedara Thissa
 LK-21	LG-21001	3-Naranwala	JJB	Ekanayake Mudiyanselage Thissa Ekanayake
 LK-21	LG-21010	12-Poddalgoda	SJB	Ekanayake Mudiyanselage Thissa Ekanayake
 LK-21	LG-21002	None	IG1	Dissanayake Mudiyanselage Bandula Dissanayake
+LK-21	LG-21004	None	JJB	Herath Mudiyanselage Nimal Herath Banda
 LK-21	LG-21006	8-Mapanawathura	NLNP	Egodagedara Hasitha Sandaruwan Wijebandara
 LK-21	LG-21017	18-Pallegama	UNFF	Egodagedara Hasitha Sandaruwan Wijebandara
 LK-21	LG-21006	None	AJP	Niranjala Kumari Gamagedara
@@ -71,6 +73,7 @@ LK-21	LG-21014	6-Udawela	UNFF	Egoda Gedara Champa
 LK-21	LG-21009	2-Himbutuwa	UNA	Herath Mudiyanselage Janaka Bandara Herath
 LK-21	LG-21011	21-Degaldoruwa	AJP	Sewanu Nagaraja Suresh Kumar
 LK-21	LG-21014	None	FPF	Dissanayaka Mudiyanselage Muthubanda
+LK-21	LG-21015	None	SJB	Herath Mudiyanselage Karunarathne
 LK-21	LG-21016	13-Ambakka	SLPP	Rathnayake Mudiyanselage Nishantha Rathnayake
 LK-21	LG-21016	None	FPF	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
 LK-21	LG-21016	None	FSP	Herath Mudiyanselage Sarath Bandara
@@ -160,6 +163,228 @@ LK-31	LG-31016	None	SJB	Umagiliya Kankanamge Nirosh Sameera
 LK-31	LG-31016	None	SLFP	Umagiliya Kankanamge Nirosh Sameera
 LK-31	LG-31016	None	SJB	Walpala Hewage Thilini Nimesha Malshani
 LK-31	LG-31016	None	SLFP	Walpala Hewage Thilini Nimesha Malshani
+LK-32	LG-32002	1-Mederipitiya	FPF	Hewa Dewage Jayantha
+LK-32	LG-32002	1-Mederipitiya	NDF	Hewa Dewage Jayantha
+LK-32	LG-32002	11-Waralla	FPF	Menikpurage Nihal Prashantha
+LK-32	LG-32002	11-Waralla	NDF	Menikpurage Nihal Prashantha
+LK-32	LG-32002	12-Morawaka	FPF	Padmanadan Munisami
+LK-32	LG-32002	12-Morawaka	NDF	Padmanadan Munisami
+LK-32	LG-32002	13-Horagala	FPF	Chulani Lasanthi Hettiarachchi
+LK-32	LG-32002	13-Horagala	NDF	Chulani Lasanthi Hettiarachchi
+LK-32	LG-32002	2-Kiriweldola	FPF	Liyanarachchilage Don Nalin Sadaruwan
+LK-32	LG-32002	2-Kiriweldola	NDF	Liyanarachchilage Don Nalin Sadaruwan
+LK-32	LG-32002	3-Kandilpana	FPF	Jayasinghe Mudiyanselage Shantha Kumara
+LK-32	LG-32002	3-Kandilpana	NDF	Jayasinghe Mudiyanselage Shantha Kumara
+LK-32	LG-32002	4-Thenipita	FPF	Piyasiri Jayawardhene
+LK-32	LG-32002	4-Thenipita	NDF	Piyasiri Jayawardhene
+LK-32	LG-32002	4-Thenipita	FPF	Samiyel Yoganadan
+LK-32	LG-32002	4-Thenipita	NDF	Samiyel Yoganadan
+LK-32	LG-32002	5-Deniyaya	FPF	Jeewaka Senarath Ehalepola Jayaweera
+LK-32	LG-32002	5-Deniyaya	NDF	Jeewaka Senarath Ehalepola Jayaweera
+LK-32	LG-32002	5-Deniyaya	SJB	Mahadurage Jayathissa
+LK-32	LG-32002	6-Pallegama	FPF	Habarakada Ranasinghage Chandana Kumara
+LK-32	LG-32002	6-Pallegama	NDF	Habarakada Ranasinghage Chandana Kumara
+LK-32	LG-32002	7-Kolawenigama	FPF	Yamange Pushpa Ranjani
+LK-32	LG-32002	7-Kolawenigama	NDF	Yamange Pushpa Ranjani
+LK-32	LG-32002	8-Kotapola North	FPF	Tharidu Dhanesh Hettiarachchi
+LK-32	LG-32002	8-Kotapola North	NDF	Tharidu Dhanesh Hettiarachchi
+LK-32	LG-32002	9-Ilukpitiya	FPF	Thudawe Hewage Ranjith
+LK-32	LG-32002	9-Ilukpitiya	NDF	Thudawe Hewage Ranjith
+LK-32	LG-32002	None	FPF	Angappuli Hewage Siriyalatha
+LK-32	LG-32002	None	NDF	Angappuli Hewage Siriyalatha
+LK-32	LG-32002	None	FPF	Dewa Nimesh Prasanna De Silva
+LK-32	LG-32002	None	NDF	Dewa Nimesh Prasanna De Silva
+LK-32	LG-32002	None	FPF	Ginthota Kapuge Sumedha Prabhath
+LK-32	LG-32002	None	NDF	Ginthota Kapuge Sumedha Prabhath
+LK-32	LG-32002	None	FPF	Haburugala Vithanalage Dona Sarojani Priyanga
+LK-32	LG-32002	None	NDF	Haburugala Vithanalage Dona Sarojani Priyanga
+LK-32	LG-32002	None	FPF	Hettige Don Chinthaka Deshapriya
+LK-32	LG-32002	None	NDF	Hettige Don Chinthaka Deshapriya
+LK-32	LG-32002	None	FPF	Kankanam Gamage Chathurika Sewwandi
+LK-32	LG-32002	None	NDF	Kankanam Gamage Chathurika Sewwandi
+LK-32	LG-32002	None	FPF	Kodithuwakku Arachchige Suranga
+LK-32	LG-32002	None	NDF	Kodithuwakku Arachchige Suranga
+LK-32	LG-32002	None	FPF	Marimuththu Rangamma
+LK-32	LG-32002	None	NDF	Marimuththu Rangamma
+LK-32	LG-32002	None	FPF	Munamalpe Liyanage Champika Kamani
+LK-32	LG-32002	None	NDF	Munamalpe Liyanage Champika Kamani
+LK-32	LG-32002	None	FPF	Nagamuththu Chandrakumar
+LK-32	LG-32002	None	NDF	Nagamuththu Chandrakumar
+LK-32	LG-32002	None	FPF	Perumal Wijaya Lechchami
+LK-32	LG-32002	None	NDF	Perumal Wijaya Lechchami
+LK-32	LG-32002	None	FPF	Selloiya Sellodore
+LK-32	LG-32002	None	NDF	Selloiya Sellodore
+LK-32	LG-32010	1-Denagama-Mee Ella	FPF	Hewa Walimunige Gnanasena
+LK-32	LG-32010	1-Denagama-Mee Ella	SLPP	Hewa Walimunige Gnanasena
+LK-32	LG-32010	1-Denagama-Mee Ella	FPF	Madurapperuma Widana Arachchige Siriyawathee
+LK-32	LG-32010	1-Denagama-Mee Ella	SLPP	Madurapperuma Widana Arachchige Siriyawathee
+LK-32	LG-32010	2-Pananwela	FPF	Abeykoon Jalath Pathiranage Jayasena Abeykoon
+LK-32	LG-32010	2-Pananwela	SLPP	Abeykoon Jalath Pathiranage Jayasena Abeykoon
+LK-32	LG-32010	3-Wepatha Ira	FPF	Widana Pathirana Krishan Anuradha Premarathna
+LK-32	LG-32010	3-Wepatha Ira	SLPP	Widana Pathirana Krishan Anuradha Premarathna
+LK-32	LG-32010	4-Narawelpita	FPF	Peduru Arachchige Suljan Senarathna Weerasinghe
+LK-32	LG-32010	4-Narawelpita	SLPP	Peduru Arachchige Suljan Senarathna Weerasinghe
+LK-32	LG-32010	5-Ellewela	FPF	Medage Aruna Rajapaksha
+LK-32	LG-32010	5-Ellewela	SLPP	Medage Aruna Rajapaksha
+LK-32	LG-32010	6-Kongala	FPF	Alahapperuma Arachchige Lahiru Sandamal
+LK-32	LG-32010	6-Kongala	SLPP	Alahapperuma Arachchige Lahiru Sandamal
+LK-32	LG-32010	7-Muruthamuraya	FPF	Widana Gamage Udara Thilina
+LK-32	LG-32010	7-Muruthamuraya	SLPP	Widana Gamage Udara Thilina
+LK-32	LG-32010	8-Udupeellegoda	FPF	Gallege Chandrasiri
+LK-32	LG-32010	8-Udupeellegoda	SLPP	Gallege Chandrasiri
+LK-32	LG-32010	9-Gangodagama	FPF	Rathnayaka Weerakoonge Shehan Ransala
+LK-32	LG-32010	9-Gangodagama	SLPP	Rathnayaka Weerakoonge Shehan Ransala
+LK-32	LG-32010	None	FPF	Chanaka Chamindalal Wadanambi
+LK-32	LG-32010	None	SLPP	Chanaka Chamindalal Wadanambi
+LK-32	LG-32010	None	FPF	Dewundara Paththinige Chinthaka Mishan Kumara
+LK-32	LG-32010	None	SLPP	Dewundara Paththinige Chinthaka Mishan Kumara
+LK-32	LG-32010	None	FPF	Gamage Thilina Viraj
+LK-32	LG-32010	None	SLPP	Gamage Thilina Viraj
+LK-32	LG-32010	None	FPF	Karaputugala Gam Acharige Sagarika Lakmali
+LK-32	LG-32010	None	SLPP	Karaputugala Gam Acharige Sagarika Lakmali
+LK-32	LG-32010	None	FPF	Obada Arachchige Pasindu Harshana
+LK-32	LG-32010	None	SLPP	Obada Arachchige Pasindu Harshana
+LK-32	LG-32010	None	FPF	Peduru Arachchige Tharanga Janaki Jayasinghe
+LK-32	LG-32010	None	SLPP	Peduru Arachchige Tharanga Janaki Jayasinghe
+LK-32	LG-32010	None	FPF	Priyadarshani Garusinghe
+LK-32	LG-32010	None	SLPP	Priyadarshani Garusinghe
+LK-32	LG-32010	None	FPF	Ranbandi Kaludurage Dilini Sathsarani
+LK-32	LG-32010	None	SLPP	Ranbandi Kaludurage Dilini Sathsarani
+LK-32	LG-32010	None	FPF	Vidana Gamachchige Sampath
+LK-32	LG-32010	None	SLPP	Vidana Gamachchige Sampath
+LK-32	LG-32011	3-Kirindha	UNP	Wedikkara Arachchige Sunil Shantha
+LK-32	LG-32011	None	SLPP	Wedikkara Arachchige Sunil Shantha
+LK-32	LG-32014	1-Kanaththagoda	DVJP	Damith Aththanayaka
+LK-32	LG-32014	1-Kanaththagoda	FPF	Damith Aththanayaka
+LK-32	LG-32014	1-Kanaththagoda	JJB	Hewa Edirappuli Anusha Kalyani
+LK-32	LG-32014	1-Kanaththagoda	SLFP	Hewa Edirappuli Anusha Kalyani
+LK-32	LG-32014	10-Bandaranayakapura	DVJP	Wijesekara Kankanamge Akalanka Pinsara Sanghapriya
+LK-32	LG-32014	10-Bandaranayakapura	FPF	Wijesekara Kankanamge Akalanka Pinsara Sanghapriya
+LK-32	LG-32014	10-Bandaranayakapura	JJB	Bowala Liyanage Sunil Shantha
+LK-32	LG-32014	10-Bandaranayakapura	SLFP	Bowala Liyanage Sunil Shantha
+LK-32	LG-32014	11-Kekanadura Central	DVJP	Palapatha Kodithuwakku Sampath Indunil Kodithuwakku
+LK-32	LG-32014	11-Kekanadura Central	FPF	Palapatha Kodithuwakku Sampath Indunil Kodithuwakku
+LK-32	LG-32014	11-Kekanadura Central	JJB	Sunil Wijesiriwardhana
+LK-32	LG-32014	11-Kekanadura Central	SLFP	Sunil Wijesiriwardhana
+LK-32	LG-32014	12-Makawita	DVJP	Mathota Ralalage Nihal Chandrasiri
+LK-32	LG-32014	12-Makawita	FPF	Mathota Ralalage Nihal Chandrasiri
+LK-32	LG-32014	12-Makawita	JJB	Vipulajeewa Rodrigo
+LK-32	LG-32014	12-Makawita	SLFP	Vipulajeewa Rodrigo
+LK-32	LG-32014	13-Ruwanella	DVJP	Peduru Arachchige Nihal Samarasinghe
+LK-32	LG-32014	13-Ruwanella	FPF	Peduru Arachchige Nihal Samarasinghe
+LK-32	LG-32014	13-Ruwanella	JJB	Koggala Hewage Rasika Prasad
+LK-32	LG-32014	13-Ruwanella	SLFP	Koggala Hewage Rasika Prasad
+LK-32	LG-32014	14-Weherahena	DVJP	Eriweruwe Ranasinghe Hewage Priyantha Ransinghe
+LK-32	LG-32014	14-Weherahena	FPF	Eriweruwe Ranasinghe Hewage Priyantha Ransinghe
+LK-32	LG-32014	14-Weherahena	JJB	Korale Liyanage Sunil
+LK-32	LG-32014	14-Weherahena	SLFP	Korale Liyanage Sunil
+LK-32	LG-32014	15-Wewa Ihalagoda	DVJP	Thameer Duminda Gamhewa
+LK-32	LG-32014	15-Wewa Ihalagoda	FPF	Thameer Duminda Gamhewa
+LK-32	LG-32014	15-Wewa Ihalagoda	JJB	Walathara Acharige Prabhath Pushpakumara
+LK-32	LG-32014	15-Wewa Ihalagoda	SLFP	Walathara Acharige Prabhath Pushpakumara
+LK-32	LG-32014	16-Talpawila	DVJP	Liyanage Kulawathi
+LK-32	LG-32014	16-Talpawila	FPF	Liyanage Kulawathi
+LK-32	LG-32014	16-Talpawila	JJB	Sugath Wengappuli
+LK-32	LG-32014	16-Talpawila	SLFP	Sugath Wengappuli
+LK-32	LG-32014	17-Rassandeniya	DVJP	Thilak Rohana Abeysinghe
+LK-32	LG-32014	17-Rassandeniya	FPF	Thilak Rohana Abeysinghe
+LK-32	LG-32014	17-Rassandeniya	JJB	Muhandiramge Gunasekara Anusha Nishanthi Gunasekara
+LK-32	LG-32014	17-Rassandeniya	SLFP	Muhandiramge Gunasekara Anusha Nishanthi Gunasekara
+LK-32	LG-32014	2-Wewahamanduwa	DVJP	Ranaweera Arachchige Nandapala
+LK-32	LG-32014	2-Wewahamanduwa	FPF	Ranaweera Arachchige Nandapala
+LK-32	LG-32014	2-Wewahamanduwa	JJB	Upul Raveendra Jayathunga
+LK-32	LG-32014	2-Wewahamanduwa	SLFP	Upul Raveendra Jayathunga
+LK-32	LG-32014	3-Godagama	DVJP	Sanath Kumara Weththasinghe
+LK-32	LG-32014	3-Godagama	FPF	Sanath Kumara Weththasinghe
+LK-32	LG-32014	3-Godagama	JJB	Wijesekara Liyanage Rohana
+LK-32	LG-32014	3-Godagama	SLFP	Wijesekara Liyanage Rohana
+LK-32	LG-32014	4-Nawimana South	DVJP	Sandun Pradeep Kumara Widanagamage
+LK-32	LG-32014	4-Nawimana South	FPF	Sandun Pradeep Kumara Widanagamage
+LK-32	LG-32014	4-Nawimana South	JJB	Hewa Udumullage Anura
+LK-32	LG-32014	4-Nawimana South	SLFP	Hewa Udumullage Anura
+LK-32	LG-32014	5-Nawimana North	DVJP	Agampodi Liyanage Dasantha Manura
+LK-32	LG-32014	5-Nawimana North	FPF	Agampodi Liyanage Dasantha Manura
+LK-32	LG-32014	5-Nawimana North	JJB	Nammuni Kankanam Vidana Mahadurage Ranmini Kumara
+LK-32	LG-32014	5-Nawimana North	SLFP	Nammuni Kankanam Vidana Mahadurage Ranmini Kumara
+LK-32	LG-32014	6-Deeyagaha	DVJP	Kankanam Pathiranage Lasantha Sanjeewa
+LK-32	LG-32014	6-Deeyagaha	FPF	Kankanam Pathiranage Lasantha Sanjeewa
+LK-32	LG-32014	6-Deeyagaha	JJB	Senavirathna Batagoda Madhura Hengum
+LK-32	LG-32014	6-Deeyagaha	SLFP	Senavirathna Batagoda Madhura Hengum
+LK-32	LG-32014	7-Kekanadura	DVJP	Dilan Nalaka Jayasinghe
+LK-32	LG-32014	7-Kekanadura	FPF	Dilan Nalaka Jayasinghe
+LK-32	LG-32014	7-Kekanadura	JJB	Sudath Hemachandra Samaranayaka
+LK-32	LG-32014	7-Kekanadura	SLFP	Sudath Hemachandra Samaranayaka
+LK-32	LG-32014	8-Kokawala	DVJP	Wellewaththe Arachchige Tharushika Priyashan
+LK-32	LG-32014	8-Kokawala	FPF	Wellewaththe Arachchige Tharushika Priyashan
+LK-32	LG-32014	8-Kokawala	JJB	Piyal Sarath Kumara Kodithuwakku
+LK-32	LG-32014	8-Kokawala	SLFP	Piyal Sarath Kumara Kodithuwakku
+LK-32	LG-32014	9-Parawahera	DVJP	Elgiriya Vitharanage Madhushani
+LK-32	LG-32014	9-Parawahera	FPF	Elgiriya Vitharanage Madhushani
+LK-32	LG-32014	9-Parawahera	JJB	Galwaduge Thusitha
+LK-32	LG-32014	9-Parawahera	SLFP	Galwaduge Thusitha
+LK-32	LG-32014	None	DVJP	Dapana durage Saman Ananda
+LK-32	LG-32014	None	FPF	Dapana durage Saman Ananda
+LK-32	LG-32014	None	DVJP	Gayomi Maheswari Senevirathne
+LK-32	LG-32014	None	FPF	Gayomi Maheswari Senevirathne
+LK-32	LG-32014	None	DVJP	Hewa Kadawedduwage Jeewan Darshana
+LK-32	LG-32014	None	FPF	Hewa Kadawedduwage Jeewan Darshana
+LK-32	LG-32014	None	DVJP	Kanchana Harshani Kahanda Dissanayake
+LK-32	LG-32014	None	FPF	Kanchana Harshani Kahanda Dissanayake
+LK-32	LG-32014	None	DVJP	Peleda Pathirage Gayana Dimestrius Dias
+LK-32	LG-32014	None	FPF	Peleda Pathirage Gayana Dimestrius Dias
+LK-32	LG-32014	None	DVJP	Prasanga Wickramasinghe
+LK-32	LG-32014	None	FPF	Prasanga Wickramasinghe
+LK-32	LG-32014	None	DVJP	Rathnayaka Adhikaram Thenemnehelage Tekla Piyumika
+LK-32	LG-32014	None	FPF	Rathnayaka Adhikaram Thenemnehelage Tekla Piyumika
+LK-32	LG-32014	None	DVJP	Rawaththa Vidana Kankanamge Dayaseeli
+LK-32	LG-32014	None	FPF	Rawaththa Vidana Kankanamge Dayaseeli
+LK-32	LG-32014	None	DVJP	Rositha Ariya Srimal Udagama
+LK-32	LG-32014	None	FPF	Rositha Ariya Srimal Udagama
+LK-32	LG-32014	None	DVJP	Thotabole Arachchige Shiroma Pushpa Kumari
+LK-32	LG-32014	None	FPF	Thotabole Arachchige Shiroma Pushpa Kumari
+LK-32	LG-32014	None	DVJP	Thuduwa Waththage Akila NuwanKrishantha De Silva
+LK-32	LG-32014	None	FPF	Thuduwa Waththage Akila NuwanKrishantha De Silva
+LK-32	LG-32014	None	DVJP	Uru Bokkage Chandrani
+LK-32	LG-32014	None	FPF	Uru Bokkage Chandrani
+LK-32	LG-32014	None	DVJP	Uyangodage Tharindu
+LK-32	LG-32014	None	FPF	Uyangodage Tharindu
+LK-32	LG-32014	None	DVJP	Wadasinghe Nelsige Chaminda
+LK-32	LG-32014	None	FPF	Wadasinghe Nelsige Chaminda
+LK-32	LG-32014	None	JJB	Darumura Hettige Inoka Damayanthi
+LK-32	LG-32014	None	SLFP	Darumura Hettige Inoka Damayanthi
+LK-32	LG-32014	None	JJB	Galagamage Priyantha Jayalath
+LK-32	LG-32014	None	SLFP	Galagamage Priyantha Jayalath
+LK-32	LG-32014	None	JJB	Geegana Hewage Jayantha
+LK-32	LG-32014	None	SLFP	Geegana Hewage Jayantha
+LK-32	LG-32014	None	JJB	Hiththetiya Hewage Sarath
+LK-32	LG-32014	None	SLFP	Hiththetiya Hewage Sarath
+LK-32	LG-32014	None	JJB	Loku Kaluge Premasiri
+LK-32	LG-32014	None	SLFP	Loku Kaluge Premasiri
+LK-32	LG-32014	None	JJB	Madawalage Sunny Thanuja Samanmali
+LK-32	LG-32014	None	SLFP	Madawalage Sunny Thanuja Samanmali
+LK-32	LG-32014	None	JJB	Madhunika Sandaruwani Weerakoon
+LK-32	LG-32014	None	SLFP	Madhunika Sandaruwani Weerakoon
+LK-32	LG-32014	None	JJB	Malavi Achchi Kankanamge Rohana Sarathchandra
+LK-32	LG-32014	None	SLFP	Malavi Achchi Kankanamge Rohana Sarathchandra
+LK-32	LG-32014	None	JJB	Malwenna Hewage Shaminda Pradeep Kumara
+LK-32	LG-32014	None	SLFP	Malwenna Hewage Shaminda Pradeep Kumara
+LK-32	LG-32014	None	JJB	Manawadugei Susiripala
+LK-32	LG-32014	None	SLFP	Manawadugei Susiripala
+LK-32	LG-32014	None	JJB	Naotunna Gamage Lalani Indika
+LK-32	LG-32014	None	SLFP	Naotunna Gamage Lalani Indika
+LK-32	LG-32014	None	JJB	Punchi Hewage Lalani
+LK-32	LG-32014	None	SLFP	Punchi Hewage Lalani
+LK-32	LG-32014	None	JJB	Ranathunga Mudiyanselage Sara Samiri Liyanage
+LK-32	LG-32014	None	SLFP	Ranathunga Mudiyanselage Sara Samiri Liyanage
+LK-32	LG-32014	None	JJB	Vitharana Palliya Guruge Rupa Madhushani
+LK-32	LG-32014	None	SLFP	Vitharana Palliya Guruge Rupa Madhushani
+LK-32	LG-32002	10-Kotapola South	FPF	Dahanayakage Pradeep Nandana
+LK-32	LG-32002	10-Kotapola South	NDF	Dahanayakage Pradeep Nandana
+LK-32	LG-32002	None	SLPP	Dahanayakage Pradeep Nandana
+LK-32	LG-32007	None	JJB	(None)
+LK-32	LG-32007	None	SJB	(None)
+LK-32	LG-32010	None	IG1	(None)
+LK-32	LG-32014	None	SJB	(None)
 LK-61	LG-61017	None	UNP	Mohamad Jamaldeen Mohamad Naleem
 LK-61	LG-61005	8 -	JJB	Ekanayaka Mudiyanselage Mahinda
 LK-61	LG-61005	None	UNP	Herath Mudiyanselage Sarath Bandara
@@ -188,12 +413,17 @@ LK-61	LG-61013	None	SLPP	Ekanayaka Mudiyanselage Nimal Ekanayaka
 LK-61	LG-61014	5 -	FPF	Rathnayaka Mudiyanselage Bandula Rathnayaka
 LK-61	LG-61015	11 -	FSP	Dissanayaka Mudiyanselage Jayathilaka
 LK-61	LG-61016	11 -	UNP	Wijekoon Mudiyanselage Ananda Wijekoon
+LK-61	LG-61020	10 -	ACMC	Mohamad Thaha Mohamad Safran
 LK-61	LG-61002	11 -	UNP	Herath Mudiyanselage Karunarathna
 LK-61	LG-61001	None	AJP	Herath Mudiyanselage Malani Herath
 LK-61	LG-61001	None	JJB	Herath Mudiyanselage Mallika Herath
 LK-61	LG-61003	2 -	SJB	Rathnayaka Mudiyanselage Priyantha Rathnayaka
 LK-61	LG-61006	13 -	SLPP	Rathnayaka Mudiyanselage Priyantha Rathnayaka
 LK-61	LG-61006	18 -	UNP	Herath Mudiyanselage Gamini Herath
+LK-62	LG-62002	None	SJB	Warnakulasooriya Francis Fernando
+LK-62	LG-62007	7-ADIPPALA	JJB	Herath Mudiyanselage Nimal Herath Banda
+LK-62	LG-62012	11-Haldanduwana	SJB	Herath Mudiyanselage Karunarathne
+LK-62	LG-62002	None	FPF	Mohamad Thaha Mohamad Safran
 LK-71	LG-71007	None	SJB	Herath Mudiyanselage Janaka Bandara Herath
 LK-71	LG-71016	8-Awukana	SJB	Herath Mudiyanselage Ekanayaka
 LK-71	LG-71015	None	SLFP	Dissanayaka Mudiyanselage Sarath Dissanayaka
@@ -212,7 +442,6 @@ LK-71	LG-71007	None	ACMC	Mohomed Azan Abdul Haleem
 LK-71	LG-71007	None	ACMC	Mohomed Azan Abdul Haleem
 LK-71	LG-71012	None	JJB	Lal Paanabokke
 LK-71	LG-71012	None	JJB	Lal Paanabokke
-LK-71	LG-71016	None	NLNP	(None)
 LK-71	LG-71017	6 -	FPF	Dissanayaka Mudiyanselage Manjula Dissanayaka
 LK-71	LG-71018	7 -	APA	Herath Mudiyanselage Anura Herath
 LK-71	LG-71019	1 -	SLFP	Wanasinghe Mudiyanselage Dissanayake Banda
@@ -255,6 +484,7 @@ LK-71	LG-71019	None	SLFP	Semasinghe Bandaralage Herath Menike
 LK-71	LG-71019	None	SLPP	Semasinghe Bandaralage Herath Menike
 LK-71	LG-71009	11 -	UNP	Herath Mudiyanselage Karunarathna
 LK-71	LG-71006	11 -	UNP	Herath Mudiyanselage Gunathilaka
+LK-71	LG-71016	None	NLNP	(None)
 LK-81	LG-81012	4-diwrumgama	UNP	Sunil Liyanage
 LK-81	LG-81011	None	SJB	Yapa Mudiyanselage Jayarathna
 LK-81	LG-81010	2-Bogoda	UNP	Rathnayaka Mudiyanselage Gunarathna
@@ -309,7 +539,6 @@ LK-91	LG-91006	None	JJB	Liyanage Chandrika Liyanage
 LK-91	LG-91012	None	AJP	Niranjala Kumari Gamagedara
 LK-91	LG-91012	None	AJP	Sewanu Nagaraja Suresh Kumar
 LK-91	LG-91002	None	SJB	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
-LK-91	LG-91001	None	USP	(None)
 LK-91	LG-91003	21-Galabada	IG1	Arumugam Maheshwaran
 LK-91	LG-91003	None	IG1	Arumugam Maheshwaran
 LK-91	LG-91003	21-Galabada	NLNP	Galabada Arachchige Srimal Suranga Somarathna
@@ -318,6 +547,8 @@ LK-91	LG-91009	21-Kattange	IG1	Subramaniyam Sivakumar
 LK-91	LG-91009	None	IG1	Subramaniyam Sivakumar
 LK-91	LG-91013	None	UNP	Subramaniam Sivakumar
 LK-91	LG-91008	None	JJB	Herath Mudiyanselage Mallika Herath
+LK-91	LG-91001	None	USP	(None)
+LK-92	LG-92009	5-Uduwa	UNP	Mahadurage Jayathissa
 LK-92	LG-92006	None	UNP	Herath Mudiyanselage Sisira Kumara
 LK-92	LG-92009	None	SLFP	Subramaniam Sivakumar
 LK-92	LG-92006	None	JJB	Rathnayaka Mudiyanselage Priyanka Kumari Rathnayaka
