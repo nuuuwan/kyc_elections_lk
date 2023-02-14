@@ -1,0 +1,331 @@
+[
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Sammanthranapura",
+    "ward_num": "1"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Grandpass North",
+    "ward_num": "10"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Navagampura",
+    "ward_num": "11"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "3",
+    "ward_name": "Dematagoda",
+    "ward_num": "12"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Maligawatta East",
+    "ward_num": "13"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Grandpass South",
+    "ward_num": "14"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Khettarama",
+    "ward_num": "15"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "New Bazaar",
+    "ward_num": "16"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Masangasweediya",
+    "ward_num": "17"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Jintupitiya",
+    "ward_num": "18"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Kochchikade",
+    "ward_num": "19"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "3",
+    "ward_name": "Mattakkuliya",
+    "ward_num": "2"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Fort",
+    "ward_num": "20"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Kochchikade South",
+    "ward_num": "21"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Hultsdorf West",
+    "ward_num": "22"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Hultsdorf East",
+    "ward_num": "23"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Keselwatta",
+    "ward_num": "24"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Panchikawatta",
+    "ward_num": "25"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Maligawatta West",
+    "ward_num": "26"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Maradana",
+    "ward_num": "27"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Kuppiyawatta East",
+    "ward_num": "28"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Wanathamulla",
+    "ward_num": "29"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Modara",
+    "ward_num": "3"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Borella North",
+    "ward_num": "30"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Kuppiyawatta West",
+    "ward_num": "31"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Hunupitiya",
+    "ward_num": "32"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Wekanda",
+    "ward_num": "33"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Kollupitiya",
+    "ward_num": "34"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Bambalapitiya",
+    "ward_num": "35"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Cinnamon Gardens",
+    "ward_num": "36"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Borella South",
+    "ward_num": "37"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Gothamipura",
+    "ward_num": "38"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Narahenpita",
+    "ward_num": "39"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "3",
+    "ward_name": "Mahawatta",
+    "ward_num": "4"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Thimbirigasyaya",
+    "ward_num": "40"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Havelock Town",
+    "ward_num": "41"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Kirula",
+    "ward_num": "42"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Kirulapana",
+    "ward_num": "43"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Pamankada East",
+    "ward_num": "44"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Pamankada West",
+    "ward_num": "45"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Wellawatta North",
+    "ward_num": "46"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Wellawatta South",
+    "ward_num": "47"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Aluth Mawatha",
+    "ward_num": "5"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Lunupokuna",
+    "ward_num": "6"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Kotahena West",
+    "ward_num": "7"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "1",
+    "ward_name": "Kotahena East",
+    "ward_num": "8"
+  },
+  {
+    "lg_id": "LG-11001",
+    "lg_name": "Colombo MC",
+    "n_members": "2",
+    "ward_name": "Bloemendhal",
+    "ward_num": "9"
+  }
+]

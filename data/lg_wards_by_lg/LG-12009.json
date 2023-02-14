@@ -1,0 +1,44 @@
+[
+  {
+    "lg_id": "LG-12009",
+    "lg_name": "Wattala-Mabola UC",
+    "n_members": "1",
+    "ward_name": "Mabola",
+    "ward_num": "1"
+  },
+  {
+    "lg_id": "LG-12009",
+    "lg_name": "Wattala-Mabola UC",
+    "n_members": "2",
+    "ward_name": "Welikadamulla",
+    "ward_num": "2"
+  },
+  {
+    "lg_id": "LG-12009",
+    "lg_name": "Wattala-Mabola UC",
+    "n_members": "1",
+    "ward_name": "Wattala",
+    "ward_num": "3"
+  },
+  {
+    "lg_id": "LG-12009",
+    "lg_name": "Wattala-Mabola UC",
+    "n_members": "2",
+    "ward_name": "Evariwatta",
+    "ward_num": "4"
+  },
+  {
+    "lg_id": "LG-12009",
+    "lg_name": "Wattala-Mabola UC",
+    "n_members": "2",
+    "ward_name": "Galwetiya",
+    "ward_num": "5"
+  },
+  {
+    "lg_id": "LG-12009",
+    "lg_name": "Wattala-Mabola UC",
+    "n_members": "2",
+    "ward_name": "Telangapatha",
+    "ward_num": "6"
+  }
+]
