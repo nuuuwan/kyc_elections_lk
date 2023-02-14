@@ -1,0 +1,4918 @@
+lg_id	lg_name	n_members	ward_name	ward_num
+LG-11001	Colombo MC	1	Sammanthranapura	1
+LG-11001	Colombo MC	3	Mattakkuliya	2
+LG-11001	Colombo MC	2	Modara	3
+LG-11001	Colombo MC	3	Mahawatta	4
+LG-11001	Colombo MC	2	Aluth Mawatha	5
+LG-11001	Colombo MC	2	Lunupokuna	6
+LG-11001	Colombo MC	1	Kotahena West	7
+LG-11001	Colombo MC	1	Kotahena East	8
+LG-11001	Colombo MC	2	Bloemendhal	9
+LG-11001	Colombo MC	1	Grandpass North	10
+LG-11001	Colombo MC	1	Navagampura	11
+LG-11001	Colombo MC	3	Dematagoda	12
+LG-11001	Colombo MC	1	Maligawatta East	13
+LG-11001	Colombo MC	2	Grandpass South	14
+LG-11001	Colombo MC	1	Khettarama	15
+LG-11001	Colombo MC	1	New Bazaar	16
+LG-11001	Colombo MC	1	Masangasweediya	17
+LG-11001	Colombo MC	1	Jintupitiya	18
+LG-11001	Colombo MC	1	Kochchikade	19
+LG-11001	Colombo MC	1	Fort	20
+LG-11001	Colombo MC	1	Kochchikade South	21
+LG-11001	Colombo MC	1	Hultsdorf West	22
+LG-11001	Colombo MC	1	Hultsdorf East	23
+LG-11001	Colombo MC	1	Keselwatta	24
+LG-11001	Colombo MC	1	Panchikawatta	25
+LG-11001	Colombo MC	1	Maligawatta West	26
+LG-11001	Colombo MC	2	Maradana	27
+LG-11001	Colombo MC	1	Kuppiyawatta East	28
+LG-11001	Colombo MC	2	Wanathamulla	29
+LG-11001	Colombo MC	2	Borella North	30
+LG-11001	Colombo MC	1	Kuppiyawatta West	31
+LG-11001	Colombo MC	1	Hunupitiya	32
+LG-11001	Colombo MC	1	Wekanda	33
+LG-11001	Colombo MC	1	Kollupitiya	34
+LG-11001	Colombo MC	1	Bambalapitiya	35
+LG-11001	Colombo MC	1	Cinnamon Gardens	36
+LG-11001	Colombo MC	1	Borella South	37
+LG-11001	Colombo MC	1	Gothamipura	38
+LG-11001	Colombo MC	1	Narahenpita	39
+LG-11001	Colombo MC	2	Thimbirigasyaya	40
+LG-11001	Colombo MC	2	Havelock Town	41
+LG-11001	Colombo MC	2	Kirula	42
+LG-11001	Colombo MC	2	Kirulapana	43
+LG-11001	Colombo MC	1	Pamankada East	44
+LG-11001	Colombo MC	1	Pamankada West	45
+LG-11001	Colombo MC	2	Wellawatta North	46
+LG-11001	Colombo MC	1	Wellawatta South	47
+LG-11010	Dehiwala Mt.Lavinia MC	1	Wilawala	1
+LG-11010	Dehiwala Mt.Lavinia MC	1	Dutugemunu	2
+LG-11010	Dehiwala Mt.Lavinia MC	1	Kohuwala	3
+LG-11010	Dehiwala Mt.Lavinia MC	1	Kalubowila	4
+LG-11010	Dehiwala Mt.Lavinia MC	1	Hathbodiya	5
+LG-11010	Dehiwala Mt.Lavinia MC	1	Sri Saranankara	6
+LG-11010	Dehiwala Mt.Lavinia MC	1	Dehiwala West	7
+LG-11010	Dehiwala Mt.Lavinia MC	2	Dehiwala East	8
+LG-11010	Dehiwala Mt.Lavinia MC	1	Udyanaya	9
+LG-11010	Dehiwala Mt.Lavinia MC	1	Nedimala	10
+LG-11010	Dehiwala Mt.Lavinia MC	1	Kawdana East	11
+LG-11010	Dehiwala Mt.Lavinia MC	1	Karagampitiya	12
+LG-11010	Dehiwala Mt.Lavinia MC	1	Malwatta	13
+LG-11010	Dehiwala Mt.Lavinia MC	1	Dehiwala Town	14
+LG-11010	Dehiwala Mt.Lavinia MC	1	Mt. Lavinia	15
+LG-11010	Dehiwala Mt.Lavinia MC	1	Kawdana West	16
+LG-11010	Dehiwala Mt.Lavinia MC	1	Watarappala	17
+LG-11010	Dehiwala Mt.Lavinia MC	2	Cinnamon Gardens	18
+LG-11010	Dehiwala Mt.Lavinia MC	1	Attidiya North	19
+LG-11010	Dehiwala Mt.Lavinia MC	1	Attidiya South	20
+LG-11010	Dehiwala Mt.Lavinia MC	1	Pirivena	21
+LG-11010	Dehiwala Mt.Lavinia MC	1	Wathumulla	22
+LG-11010	Dehiwala Mt.Lavinia MC	1	Wedikanda	23
+LG-11010	Dehiwala Mt.Lavinia MC	1	Vihara	24
+LG-11010	Dehiwala Mt.Lavinia MC	1	Ratmalana West	25
+LG-11010	Dehiwala Mt.Lavinia MC	1	Rathmalana East	26
+LG-11010	Dehiwala Mt.Lavinia MC	1	Kandawala	27
+LG-11009	Sri Jayawardenepura Kotte MC	1	Obesekarapura North	1
+LG-11009	Sri Jayawardenepura Kotte MC	1	Obesekarapura South	2
+LG-11009	Sri Jayawardenepura Kotte MC	1	Moragasmulla	3
+LG-11009	Sri Jayawardenepura Kotte MC	1	Meda Welikada	4
+LG-11009	Sri Jayawardenepura Kotte MC	1	Rajagiriya	5
+LG-11009	Sri Jayawardenepura Kotte MC	1	Bandaranayakapura	6
+LG-11009	Sri Jayawardenepura Kotte MC	1	Nawala West	7
+LG-11009	Sri Jayawardenepura Kotte MC	1	Koswatta	8
+LG-11009	Sri Jayawardenepura Kotte MC	1	Ethul Kotte West	9
+LG-11009	Sri Jayawardenepura Kotte MC	1	Ethul Kotte	10
+LG-11009	Sri Jayawardenepura Kotte MC	1	Pita Kotte East	11
+LG-11009	Sri Jayawardenepura Kotte MC	1	Pita Kotte	12
+LG-11009	Sri Jayawardenepura Kotte MC	1	Pita Kotte West	13
+LG-11009	Sri Jayawardenepura Kotte MC	1	Nawala East	14
+LG-11009	Sri Jayawardenepura Kotte MC	1	Nugegoda West	15
+LG-11009	Sri Jayawardenepura Kotte MC	1	Pagoda North	16
+LG-11009	Sri Jayawardenepura Kotte MC	1	Nugegoda East	17
+LG-11009	Sri Jayawardenepura Kotte MC	1	Pagoda East	18
+LG-11009	Sri Jayawardenepura Kotte MC	1	Gangodawila East	19
+LG-11009	Sri Jayawardenepura Kotte MC	1	Gangodawila South	20
+LG-11009	Sri Jayawardenepura Kotte MC	1	Gangodawila West	21
+LG-11004	Kaduwela MC	1	Weliwita	1
+LG-11004	Kaduwela MC	1	Hewagama	2
+LG-11004	Kaduwela MC	1	Kaduwela	3
+LG-11004	Kaduwela MC	1	Bomiriya North	4
+LG-11004	Kaduwela MC	1	Bomiriya South	5
+LG-11004	Kaduwela MC	1	Nawagamuwa	6
+LG-11004	Kaduwela MC	1	Ranala	7
+LG-11004	Kaduwela MC	1	Dedigamuwa	8
+LG-11004	Kaduwela MC	1	Koratota	9
+LG-11004	Kaduwela MC	1	Pore	10
+LG-11004	Kaduwela MC	1	Malabe North	11
+LG-11004	Kaduwela MC	1	Malabe	12
+LG-11004	Kaduwela MC	1	Thalahena	13
+LG-11004	Kaduwela MC	1	Muththettugoda	14
+LG-11004	Kaduwela MC	1	Thalangama	15
+LG-11004	Kaduwela MC	1	Walpola	16
+LG-11004	Kaduwela MC	1	Kalapaluwawa	17
+LG-11004	Kaduwela MC	1	Battaramulla	18
+LG-11004	Kaduwela MC	1	Pelawatta	19
+LG-11004	Kaduwela MC	1	Batapotha	20
+LG-11004	Kaduwela MC	1	Jayawadanagama	21
+LG-11004	Kaduwela MC	1	Pothuarawa	22
+LG-11004	Kaduwela MC	1	Wellangiriya	23
+LG-11004	Kaduwela MC	1	Arangala	24
+LG-11004	Kaduwela MC	1	Hokandara	25
+LG-11004	Kaduwela MC	1	Boralugoda	26
+LG-11004	Kaduwela MC	1	Athurugiriya	27
+LG-11004	Kaduwela MC	1	Oruwala	28
+LG-11011	Moratuwa MC	1	Angulana	1
+LG-11011	Moratuwa MC	1	Kaldemulla	2
+LG-11011	Moratuwa MC	1	Borupana	3
+LG-11011	Moratuwa MC	1	Thelawala	4
+LG-11011	Moratuwa MC	1	Soysapura	5
+LG-11011	Moratuwa MC	1	Lakshapathiya North	6
+LG-11011	Moratuwa MC	1	Uyana	7
+LG-11011	Moratuwa MC	1	Lakshapathiya South	8
+LG-11011	Moratuwa MC	1	Katubedda North	9
+LG-11011	Moratuwa MC	1	Katubedda South	10
+LG-11011	Moratuwa MC	1	Molpe	11
+LG-11011	Moratuwa MC	1	Rawathawatta East	12
+LG-11011	Moratuwa MC	1	Rawathawatta West	13
+LG-11011	Moratuwa MC	1	Idama	14
+LG-11011	Moratuwa MC	1	Kadalana	15
+LG-11011	Moratuwa MC	1	Moratumulla West	16
+LG-11011	Moratuwa MC	1	Moratumulla	17
+LG-11011	Moratuwa MC	1	Willorawatta West	18
+LG-11011	Moratuwa MC	1	Willorawatta East	19
+LG-11011	Moratuwa MC	1	Indibedda East	20
+LG-11011	Moratuwa MC	1	Indibedda West	21
+LG-11011	Moratuwa MC	1	Moratuwella North	22
+LG-11011	Moratuwa MC	1	Moratuwella South	23
+LG-11011	Moratuwa MC	1	Koralawella West	24
+LG-11011	Moratuwa MC	1	Koralawella East	25
+LG-11011	Moratuwa MC	1	Katukurunda North	26
+LG-11011	Moratuwa MC	1	Katukurunda South	27
+LG-11011	Moratuwa MC	1	Egoda Uyana North Central	28
+LG-11011	Moratuwa MC	1	Egoda Uyana South	29
+LG-11002	Kolonnawa UC	2	Sedawatta	1
+LG-11002	Kolonnawa UC	1	Wadulla	2
+LG-11002	Kolonnawa UC	1	Orugodawatta	3
+LG-11002	Kolonnawa UC	1	Wellampitiya	4
+LG-11002	Kolonnawa UC	1	Dahampura	5
+LG-11002	Kolonnawa UC	2	Kollonnawa	6
+LG-11002	Kolonnawa UC	1	Singhapura	7
+LG-11002	Kolonnawa UC	1	Salamulla	8
+LG-11002	Kolonnawa UC	1	Gajabapura	9
+LG-11007	Seethawakapura UC	2	Kiriwandala North	1
+LG-11007	Seethawakapura UC	1	Kudagama	2
+LG-11007	Seethawakapura UC	1	Seethawaka	3
+LG-11007	Seethawakapura UC	1	Awissawella	4
+LG-11007	Seethawakapura UC	1	Seethagama	5
+LG-11007	Seethawakapura UC	1	Agra Place	6
+LG-11007	Seethawakapura UC	1	Ukwatta	7
+LG-11007	Seethawakapura UC	1	Kiriwandala South	8
+LG-11007	Seethawakapura UC	1	Kotahera	9
+LG-11007	Seethawakapura UC	1	Aradhanakanda	10
+LG-11007	Seethawakapura UC	2	Puwakpitiya	11
+LG-11007	Seethawakapura UC	1	Egodagama	12
+LG-11008	Maharagama UC	1	Mirihana South	1
+LG-11008	Maharagama UC	1	Mirihana North	2
+LG-11008	Maharagama UC	1	Madiwela	3
+LG-11008	Maharagama UC	1	Pragathipura	4
+LG-11008	Maharagama UC	1	Udahamulla	5
+LG-11008	Maharagama UC	1	Thalapathpitiya	6
+LG-11008	Maharagama UC	1	Pamunuwa	7
+LG-11008	Maharagama UC	1	Thalawathugoda	8
+LG-11008	Maharagama UC	1	Kalalgoda	9
+LG-11008	Maharagama UC	1	Depanama	10
+LG-11008	Maharagama UC	1	Kottawa West	11
+LG-11008	Maharagama UC	1	Kottawa East	12
+LG-11008	Maharagama UC	1	Rukmale	13
+LG-11008	Maharagama UC	1	Makumbura	14
+LG-11008	Maharagama UC	1	Kottawa South	15
+LG-11008	Maharagama UC	1	Kottawa Town	16
+LG-11008	Maharagama UC	1	Pannipitiya	17
+LG-11008	Maharagama UC	1	Maharagama South	18
+LG-11008	Maharagama UC	1	Maharagama North	19
+LG-11008	Maharagama UC	1	Pathiragoda	20
+LG-11008	Maharagama UC	1	Nawinna	21
+LG-11008	Maharagama UC	1	Gangodawila	22
+LG-11008	Maharagama UC	1	Waththegedara	23
+LG-11008	Maharagama UC	1	Godigamuwa North	24
+LG-11008	Maharagama UC	1	Godigamuwa South	25
+LG-11013	Kesbewa UC	1	Arawwala	1
+LG-11013	Kesbewa UC	1	Rathmaldeniya	2
+LG-11013	Kesbewa UC	1	Mahalwarawa	3
+LG-11013	Kesbewa UC	1	Pelenwatta	4
+LG-11013	Kesbewa UC	1	Bokundara	5
+LG-11013	Kesbewa UC	1	Mampe	6
+LG-11013	Kesbewa UC	1	Honnanthara	7
+LG-11013	Kesbewa UC	1	Mawiththara	8
+LG-11013	Kesbewa UC	1	Wishwakalawa	9
+LG-11013	Kesbewa UC	1	Thumbowila	10
+LG-11013	Kesbewa UC	1	Wewala	11
+LG-11013	Kesbewa UC	1	Suwarapola	12
+LG-11013	Kesbewa UC	1	Kolamunna	13
+LG-11013	Kesbewa UC	1	Kesbewa	14
+LG-11013	Kesbewa UC	1	Halpita	15
+LG-11013	Kesbewa UC	1	Batuwandara	16
+LG-11013	Kesbewa UC	1	Batakeththara	17
+LG-11013	Kesbewa UC	1	Dampe	18
+LG-11013	Kesbewa UC	1	Polhena	19
+LG-11013	Kesbewa UC	1	Kahapola	20
+LG-11012	Boralesgamuwa UC	1	Pepiliyana	1
+LG-11012	Boralesgamuwa UC	1	Diwulpitiya	2
+LG-11012	Boralesgamuwa UC	1	Raththanapitiya	3
+LG-11012	Boralesgamuwa UC	1	Boralesgamuwa West	4
+LG-11012	Boralesgamuwa UC	1	Bellanwila	5
+LG-11012	Boralesgamuwa UC	1	Werahera	6
+LG-11012	Boralesgamuwa UC	1	Boralesgamuwa East	7
+LG-11012	Boralesgamuwa UC	1	Bodhirajapuraya	8
+LG-11012	Boralesgamuwa UC	1	Katuwawala	9
+LG-11012	Boralesgamuwa UC	1	Neelammahara	10
+LG-11003	Kotikawatta PS	1	Halmulla	1
+LG-11003	Kotikawatta PS	1	Welewatta	2
+LG-11003	Kotikawatta PS	1	Kiththampahuwa	3
+LG-11003	Kotikawatta PS	1	Wennawatta	4
+LG-11003	Kotikawatta PS	1	Maha Buthgamuwa	5
+LG-11003	Kotikawatta PS	1	Kuda Buthgamuwa	6
+LG-11003	Kotikawatta PS	1	Kelanimulla	7
+LG-11003	Kotikawatta PS	1	Ambathale	8
+LG-11003	Kotikawatta PS	1	Udumulla	9
+LG-11003	Kotikawatta PS	1	Malgama	10
+LG-11003	Kotikawatta PS	1	Mulleriyawa	11
+LG-11003	Kotikawatta PS	1	Malpura	12
+LG-11003	Kotikawatta PS	1	Kotikawatta	13
+LG-11003	Kotikawatta PS	1	Batalandahena	14
+LG-11003	Kotikawatta PS	2	Megoda Kolonnawa	15
+LG-11003	Kotikawatta PS	1	Gothatuwa	16
+LG-11003	Kotikawatta PS	1	Madinnagoda	17
+LG-11003	Kotikawatta PS	1	Dodamgahahena	18
+LG-11003	Kotikawatta PS	1	Himbutana	19
+LG-11003	Kotikawatta PS	1	Udumulla South	20
+LG-11003	Kotikawatta PS	1	Rajasinghegama	21
+LG-11006	Seethawaka PS	1	Kosgama	1
+LG-11006	Seethawaka PS	1	Eswatta	2
+LG-11006	Seethawaka PS	1	Hingurala	3
+LG-11006	Seethawaka PS	1	Kadugoda	4
+LG-11006	Seethawaka PS	1	Salawa	5
+LG-11006	Seethawaka PS	1	Kaluaggala	6
+LG-11006	Seethawaka PS	1	Suduwella	7
+LG-11006	Seethawaka PS	1	Weragolla	8
+LG-11006	Seethawaka PS	1	Ilukowita	9
+LG-11006	Seethawaka PS	1	Welikanna	10
+LG-11006	Seethawaka PS	1	Kahahena	11
+LG-11006	Seethawaka PS	1	Diddeniya	12
+LG-11006	Seethawaka PS	1	Hanwella	13
+LG-11006	Seethawaka PS	1	Jayaweeragoda	14
+LG-11006	Seethawaka PS	1	Thunnana	15
+LG-11006	Seethawaka PS	1	Mawathagama	16
+LG-11006	Seethawaka PS	1	Pitumpe	17
+LG-11006	Seethawaka PS	1	Uggalla	18
+LG-11006	Seethawaka PS	1	Pinnawala	19
+LG-11006	Seethawaka PS	1	Waga	20
+LG-11006	Seethawaka PS	1	Bope	21
+LG-11006	Seethawaka PS	1	Weragala	22
+LG-11006	Seethawaka PS	1	Arukwatta	23
+LG-11006	Seethawaka PS	1	Galagedara	24
+LG-11006	Seethawaka PS	1	Padukka	25
+LG-11006	Seethawaka PS	1	Udumulla	26
+LG-11005	Homagama PS	1	Jalthara	1
+LG-11005	Homagama PS	1	Atigala	2
+LG-11005	Homagama PS	1	Watareka	3
+LG-11005	Homagama PS	1	Meegoda	4
+LG-11005	Homagama PS	1	Nawalamulla	5
+LG-11005	Homagama PS	1	Mullegama	6
+LG-11005	Homagama PS	1	Homagama	7
+LG-11005	Homagama PS	1	Galawilawatta	8
+LG-11005	Homagama PS	1	Panagoda	9
+LG-11005	Homagama PS	1	Godagama	10
+LG-11005	Homagama PS	1	Owitigama	11
+LG-11005	Homagama PS	1	Madulawa	12
+LG-11005	Homagama PS	1	Dampe	13
+LG-11005	Homagama PS	1	Pitipana	14
+LG-11005	Homagama PS	1	Kiriberiya Kele	15
+LG-11005	Homagama PS	1	Uduwana	16
+LG-11005	Homagama PS	1	Magammana	17
+LG-11005	Homagama PS	1	Hiripitiya	18
+LG-11005	Homagama PS	1	Siddamulla	19
+LG-11005	Homagama PS	1	Maththegoda Gama	20
+LG-11005	Homagama PS	1	Maththegoda Central	21
+LG-11005	Homagama PS	1	Siyambalagoda	22
+LG-11005	Homagama PS	1	Diyagama	23
+LG-11005	Homagama PS	1	Dolahena	24
+LG-11005	Homagama PS	1	Kiriwaththuduwa	25
+LG-11005	Homagama PS	1	Kahathuduwa	26
+LG-11005	Homagama PS	1	Wethara	27
+LG-11005	Homagama PS	1	Palagama	28
+LG-12001	Negombo MC	1	Kammalthura	1
+LG-12001	Negombo MC	1	Kochchikade	2
+LG-12001	Negombo MC	1	Pallansena South	3
+LG-12001	Negombo MC	1	Poruthota	4
+LG-12001	Negombo MC	1	Daluwakotuwa East	5
+LG-12001	Negombo MC	1	Palangathure	6
+LG-12001	Negombo MC	1	Ettukala	7
+LG-12001	Negombo MC	1	Kattuwa	8
+LG-12001	Negombo MC	1	Dalupotha	9
+LG-12001	Negombo MC	1	Dalupotha East	10
+LG-12001	Negombo MC	1	Kudapaduwa	11
+LG-12001	Negombo MC	1	Kudapaduwa North	12
+LG-12001	Negombo MC	1	Wellaweediya East	13
+LG-12001	Negombo MC	1	Wellaweediya South	14
+LG-12001	Negombo MC	1	Periyamulla	15
+LG-12001	Negombo MC	1	Hunupitiya	16
+LG-12001	Negombo MC	1	Angurukaramulla	17
+LG-12001	Negombo MC	1	Udayarthoppuwa	18
+LG-12001	Negombo MC	1	Munnakaraya	19
+LG-12001	Negombo MC	1	Pitipana North	20
+LG-12001	Negombo MC	1	Doowa	21
+LG-12001	Negombo MC	1	Kadol Uyana	22
+LG-12001	Negombo MC	1	Bolawalana	23
+LG-12001	Negombo MC	1	Kurana	24
+LG-12001	Negombo MC	1	Siriwardana Pedesa	25
+LG-12001	Negombo MC	1	Dakunu Pitipana East	26
+LG-12001	Negombo MC	1	Dakunu Pitipana West	27
+LG-12001	Negombo MC	1	Thalahena Dungalpitiya	28
+LG-12001	Negombo MC	1	Kepungoda	29
+LG-12013	Gampaha MC	1	Thittalapitigoda	1
+LG-12013	Gampaha MC	1	Aluthgama Bogamuwa North	2
+LG-12013	Gampaha MC	1	Aluthgama Bogamuwa South	3
+LG-12013	Gampaha MC	1	Weediyawatta	4
+LG-12013	Gampaha MC	1	Keselwathugoda	5
+LG-12013	Gampaha MC	1	Indigolla	6
+LG-12013	Gampaha MC	1	Ihalagama East	7
+LG-12013	Gampaha MC	1	Ihalagama West	8
+LG-12013	Gampaha MC	1	Medagama	9
+LG-12013	Gampaha MC	1	Pahalagama	10
+LG-12013	Gampaha MC	1	Bendiyamulla	11
+LG-12013	Gampaha MC	1	Kidagammulla	12
+LG-12013	Gampaha MC	1	Gampaha Aluthgama East	13
+LG-12013	Gampaha MC	1	Yakkala North	14
+LG-12013	Gampaha MC	1	Yakkala West	15
+LG-12013	Gampaha MC	1	Yakkala	16
+LG-12013	Gampaha MC	1	Henarathgoda	17
+LG-12009	Wattala-Mabola UC	1	Mabola	1
+LG-12009	Wattala-Mabola UC	2	Welikadamulla	2
+LG-12009	Wattala-Mabola UC	1	Wattala	3
+LG-12009	Wattala-Mabola UC	2	Evariwatta	4
+LG-12009	Wattala-Mabola UC	2	Galwetiya	5
+LG-12009	Wattala-Mabola UC	2	Telangapatha	6
+LG-12003	Katunayaka-Seeduwa UC	1	Kurana Katunayaka	1
+LG-12003	Katunayaka-Seeduwa UC	1	Kurana Central	2
+LG-12003	Katunayaka-Seeduwa UC	1	Katunayaka	3
+LG-12003	Katunayaka-Seeduwa UC	1	Liyanagemulla North	4
+LG-12003	Katunayaka-Seeduwa UC	1	Amandoluwa	5
+LG-12003	Katunayaka-Seeduwa UC	1	Liyanagemulla South	6
+LG-12003	Katunayaka-Seeduwa UC	1	Mukalangamuwa	7
+LG-12003	Katunayaka-Seeduwa UC	1	Seeduwa	8
+LG-12003	Katunayaka-Seeduwa UC	1	Mukalangamuwa East	9
+LG-12003	Katunayaka-Seeduwa UC	1	Bandarawatta	10
+LG-12003	Katunayaka-Seeduwa UC	1	Ambalanmulla	11
+LG-12007	Minuwangoda UC	1	Minuwangoda West	1
+LG-12007	Minuwangoda UC	1	Darmarajarama Pedesa	2
+LG-12007	Minuwangoda UC	1	Minuwangoda North	3
+LG-12007	Minuwangoda UC	1	Minuwangoda East 02	4
+LG-12007	Minuwangoda UC	1	Minuwangoda East 01	5
+LG-12007	Minuwangoda UC	2	Meda Minuwangoda	6
+LG-12007	Minuwangoda UC	1	Ambagahawatta	7
+LG-12007	Minuwangoda UC	1	Burullapitiya	8
+LG-12011	Ja-Ela UC	1	Thudella	1
+LG-12011	Ja-Ela UC	1	Kanuwana	2
+LG-12011	Ja-Ela UC	1	Ja-Ela	3
+LG-12011	Ja-Ela UC	1	Weligampitiya North	4
+LG-12011	Ja-Ela UC	1	Indivitiya	5
+LG-12011	Ja-Ela UC	1	Weligampitiya South	6
+LG-12011	Ja-Ela UC	2	Kapuwatta	7
+LG-12011	Ja-Ela UC	1	Wewala	8
+LG-12011	Ja-Ela UC	1	Kalaeliya	9
+LG-12018	Peliyagoda UC	1	Peliyagoda Watta	1
+LG-12018	Peliyagoda UC	1	Meegahawatta North	2
+LG-12018	Peliyagoda UC	1	Pattiya North	3
+LG-12018	Peliyagoda UC	1	Pattiya East	4
+LG-12018	Peliyagoda UC	1	Rohana Vihara Pedesa	5
+LG-12018	Peliyagoda UC	1	Meegahawatta South	6
+LG-12018	Peliyagoda UC	1	Peliyagoda Gangabada	7
+LG-12018	Peliyagoda UC	1	Peliyagoda Gangabada East	8
+LG-12018	Peliyagoda UC	1	Pattiya West	9
+LG-12018	Peliyagoda UC	1	Gurukula Vidyala Pedesa	10
+LG-12008	Wattala PS	1	Pamunugama	1
+LG-12008	Wattala PS	1	Delathura	2
+LG-12008	Wattala PS	1	Bopitiya	3
+LG-12008	Wattala PS	1	Uswetakeiyawa	4
+LG-12008	Wattala PS	1	Nugape	5
+LG-12008	Wattala PS	1	Welisara	6
+LG-12008	Wattala PS	1	Mangulpokuna	7
+LG-12008	Wattala PS	1	Mahabage	8
+LG-12008	Wattala PS	1	Horape	9
+LG-12008	Wattala PS	1	Kurukulawa	10
+LG-12008	Wattala PS	1	Heenkenda	11
+LG-12008	Wattala PS	1	Galudupita	12
+LG-12008	Wattala PS	1	Mattumagala	13
+LG-12008	Wattala PS	1	Kerawalapitiya	14
+LG-12008	Wattala PS	1	Matagoda	15
+LG-12008	Wattala PS	1	Balagala	16
+LG-12008	Wattala PS	1	Palliyawatta	17
+LG-12008	Wattala PS	1	Thimbirigasyaya	18
+LG-12008	Wattala PS	1	Nayakakanda	19
+LG-12008	Wattala PS	1	Maha Hendala	20
+LG-12008	Wattala PS	1	Hekitta	21
+LG-12002	Katana PS	2	Thoppuwa	1
+LG-12002	Katana PS	1	Katana	2
+LG-12002	Katana PS	1	Ethgala	3
+LG-12002	Katana PS	1	Kandawala	4
+LG-12002	Katana PS	1	Welihena	5
+LG-12002	Katana PS	1	Silva Pura	6
+LG-12002	Katana PS	1	Kondagammulla	7
+LG-12002	Katana PS	1	Kadirana North	8
+LG-12002	Katana PS	1	Thimbirigaskatuwa	9
+LG-12002	Katana PS	1	Katuwapitiya	10
+LG-12002	Katana PS	1	Kadirana	11
+LG-12002	Katana PS	1	Akkara Panaha	12
+LG-12002	Katana PS	1	Kimbulapitiya Central	13
+LG-12002	Katana PS	1	Kimbulapitiya West	14
+LG-12002	Katana PS	1	Andiambalama	15
+LG-12002	Katana PS	1	Dewamottawa	16
+LG-12002	Katana PS	1	Madawala	17
+LG-12002	Katana PS	1	Heenatiyana	18
+LG-12002	Katana PS	1	Kuswala	19
+LG-12002	Katana PS	1	Raddoluwagama	20
+LG-12002	Katana PS	1	Raddoluwa North	21
+LG-12002	Katana PS	1	Raddoluwa	22
+LG-12002	Katana PS	1	Kotugoda	23
+LG-12002	Katana PS	1	Udammita	24
+LG-12004	Divulapitiya PS	1	Badalgama	1
+LG-12004	Divulapitiya PS	1	Mellawagedara	2
+LG-12004	Divulapitiya PS	1	Kotadeniyawa	3
+LG-12004	Divulapitiya PS	1	Nawana	4
+LG-12004	Divulapitiya PS	1	Halpe	5
+LG-12004	Divulapitiya PS	1	Kithulwala	6
+LG-12004	Divulapitiya PS	1	Madithiyawala	7
+LG-12004	Divulapitiya PS	1	Walpita	8
+LG-12004	Divulapitiya PS	1	Delwagura	9
+LG-12004	Divulapitiya PS	1	Godigamuwa	10
+LG-12004	Divulapitiya PS	1	Akaragama	11
+LG-12004	Divulapitiya PS	1	Pahala Madampella	12
+LG-12004	Divulapitiya PS	1	Kongodamulla West	13
+LG-12004	Divulapitiya PS	1	Bolagala	14
+LG-12004	Divulapitiya PS	1	Kadawala	15
+LG-12004	Divulapitiya PS	1	Induragara	16
+LG-12004	Divulapitiya PS	1	Palliyapitiya	17
+LG-12004	Divulapitiya PS	1	Barawavila	18
+LG-12004	Divulapitiya PS	1	Balagalla	19
+LG-12004	Divulapitiya PS	1	Divulapitiya	20
+LG-12004	Divulapitiya PS	1	Bomugammana	21
+LG-12004	Divulapitiya PS	1	Henpitagedara	22
+LG-12004	Divulapitiya PS	1	Doonagaha	23
+LG-12004	Divulapitiya PS	1	Dagonna	24
+LG-12004	Divulapitiya PS	1	Aluthepola	25
+LG-12004	Divulapitiya PS	1	Assennawatta	26
+LG-12005	Mirigama PS	1	Nalla	1
+LG-12005	Mirigama PS	1	Loluwagoda	2
+LG-12005	Mirigama PS	1	Keenadeniya	3
+LG-12005	Mirigama PS	1	Kandalama	4
+LG-12005	Mirigama PS	1	Mirigama	5
+LG-12005	Mirigama PS	1	Thawalampitiya	6
+LG-12005	Mirigama PS	1	Madabavita	7
+LG-12005	Mirigama PS	1	Bothale	8
+LG-12005	Mirigama PS	1	Danovita	9
+LG-12005	Mirigama PS	1	Weweldeniya	10
+LG-12005	Mirigama PS	1	Pamunuwatta	11
+LG-12005	Mirigama PS	1	Lindara	12
+LG-12005	Mirigama PS	1	Indiparape	13
+LG-12005	Mirigama PS	1	Elhena	14
+LG-12005	Mirigama PS	1	Pelapitigama	15
+LG-12005	Mirigama PS	1	Banduragoda	16
+LG-12005	Mirigama PS	1	Muddaragama	17
+LG-12005	Mirigama PS	1	Borukgamuwa	18
+LG-12005	Mirigama PS	1	Weragoda	19
+LG-12005	Mirigama PS	1	Hansagiriya	20
+LG-12005	Mirigama PS	1	Hapitigama	21
+LG-12005	Mirigama PS	1	Bataleeya	22
+LG-12005	Mirigama PS	1	Radawadunna	23
+LG-12005	Mirigama PS	1	Dambutuwa	24
+LG-12005	Mirigama PS	1	Pasyala	25
+LG-12005	Mirigama PS	1	Panawala	26
+LG-12005	Mirigama PS	1	Mottunna	27
+LG-12005	Mirigama PS	1	Maligathenna	28
+LG-12005	Mirigama PS	1	Kureekotuwa	29
+LG-12006	Minuwangoda PS	1	Unnaruwa	1
+LG-12006	Minuwangoda PS	1	Yatiyana	2
+LG-12006	Minuwangoda PS	1	Boragodawatta	3
+LG-12006	Minuwangoda PS	1	Nilpanagoda	4
+LG-12006	Minuwangoda PS	1	Wegowwa	5
+LG-12006	Minuwangoda PS	1	Horampella	6
+LG-12006	Minuwangoda PS	1	Watinapaha	7
+LG-12006	Minuwangoda PS	1	Mabodala	8
+LG-12006	Minuwangoda PS	1	Wadumulla	9
+LG-12006	Minuwangoda PS	1	Naiwala	10
+LG-12006	Minuwangoda PS	1	Marapola	11
+LG-12006	Minuwangoda PS	1	Balabowa	12
+LG-12006	Minuwangoda PS	1	Pethiyagoda	13
+LG-12006	Minuwangoda PS	1	Udugampola	14
+LG-12006	Minuwangoda PS	1	Ganihimulla	15
+LG-12006	Minuwangoda PS	1	Mathammana	16
+LG-12006	Minuwangoda PS	1	Pattanduwana	17
+LG-12006	Minuwangoda PS	1	Galloluwa	18
+LG-12006	Minuwangoda PS	1	Polwatta	19
+LG-12006	Minuwangoda PS	1	Yagodamulla	20
+LG-12006	Minuwangoda PS	1	Kotugoda	21
+LG-12006	Minuwangoda PS	1	Nedagamuwa	22
+LG-12006	Minuwangoda PS	1	Madelgamuwa	23
+LG-12006	Minuwangoda PS	1	Kehelbaddara	24
+LG-12006	Minuwangoda PS	1	Dombawala	25
+LG-12006	Minuwangoda PS	1	Doranagoda	26
+LG-12006	Minuwangoda PS	1	Asgiriya	27
+LG-12006	Minuwangoda PS	1	Asgiriwalpola	28
+LG-12014	Attanagalla PS	1	Eluwapitiya	1
+LG-12014	Attanagalla PS	1	Veyangoda	2
+LG-12014	Attanagalla PS	1	Udammita Thalgasmote	3
+LG-12014	Attanagalla PS	2	Nittambuwa	4
+LG-12014	Attanagalla PS	1	Parana Veyangoda	5
+LG-12014	Attanagalla PS	1	Dadagamuwa	6
+LG-12014	Attanagalla PS	1	Magalegoda	7
+LG-12014	Attanagalla PS	1	Bemmulla	8
+LG-12014	Attanagalla PS	1	Raniswala	9
+LG-12014	Attanagalla PS	2	Katuwasgoda	10
+LG-12014	Attanagalla PS	2	Thihariya	11
+LG-12014	Attanagalla PS	1	Kattota	12
+LG-12014	Attanagalla PS	2	Ranpokunagama	13
+LG-12014	Attanagalla PS	1	Ellakkala	14
+LG-12014	Attanagalla PS	1	Attanagalla	15
+LG-12014	Attanagalla PS	1	Palkumbura	16
+LG-12014	Attanagalla PS	1	Alawala	17
+LG-12014	Attanagalla PS	1	Urapola	18
+LG-12014	Attanagalla PS	2	Mathalana	19
+LG-12014	Attanagalla PS	1	Ogodapola	20
+LG-12014	Attanagalla PS	1	Bonegala	21
+LG-12014	Attanagalla PS	1	Koskandawala	22
+LG-12014	Attanagalla PS	1	Paranagama	23
+LG-12014	Attanagalla PS	1	Kahatovita	24
+LG-12014	Attanagalla PS	1	Bopagama	25
+LG-12012	Gampaha PS	1	Makevita	1
+LG-12012	Gampaha PS	1	Akaravita	2
+LG-12012	Gampaha PS	1	Thibbotugoda	3
+LG-12012	Gampaha PS	1	Bulugahagoda	4
+LG-12012	Gampaha PS	1	Bollatha	5
+LG-12012	Gampaha PS	1	Galahitiyawa	6
+LG-12012	Gampaha PS	1	Ganemulla	7
+LG-12012	Gampaha PS	1	Pahala Yagoda	8
+LG-12012	Gampaha PS	1	Oruthota	9
+LG-12012	Gampaha PS	1	Mudungoda	10
+LG-12012	Gampaha PS	1	Rathupaswala	11
+LG-12012	Gampaha PS	1	Belummahara	12
+LG-12012	Gampaha PS	1	Ihala Yagoda	13
+LG-12012	Gampaha PS	1	Kossinna	14
+LG-12012	Gampaha PS	1	Katuwalamulla	15
+LG-12012	Gampaha PS	1	Parakandeniya	16
+LG-12012	Gampaha PS	1	Amunugoda	17
+LG-12012	Gampaha PS	1	Pahala Imbulgoda	18
+LG-12012	Gampaha PS	1	Ihala Imbulgoda	19
+LG-12012	Gampaha PS	1	Nedungamuwa	20
+LG-12012	Gampaha PS	1	Weliweriya	21
+LG-12012	Gampaha PS	1	Embaraluwa	22
+LG-12010	Ja-Ela PS	1	Dandugama	1
+LG-12010	Ja-Ela PS	1	Kudahakapola South	2
+LG-12010	Ja-Ela PS	1	Gallawatta	3
+LG-12010	Ja-Ela PS	1	Mahawatta	4
+LG-12010	Ja-Ela PS	1	Ekala	5
+LG-12010	Ja-Ela PS	1	Nivandama	6
+LG-12010	Ja-Ela PS	1	Bandigoda	7
+LG-12010	Ja-Ela PS	1	Alexendrawatta	8
+LG-12010	Ja-Ela PS	1	Maeliya	9
+LG-12010	Ja-Ela PS	1	Indiminna	10
+LG-12010	Ja-Ela PS	1	Dolahena	11
+LG-12010	Ja-Ela PS	1	Polpitimookalana	12
+LG-12010	Ja-Ela PS	1	Batuwatta	13
+LG-12010	Ja-Ela PS	1	Narangodapaluwa	14
+LG-12010	Ja-Ela PS	1	Walpola	15
+LG-12010	Ja-Ela PS	1	Jayasrigama	16
+LG-12010	Ja-Ela PS	1	Hapugoda	17
+LG-12010	Ja-Ela PS	1	Rilavulla	18
+LG-12010	Ja-Ela PS	1	Kandana	19
+LG-12010	Ja-Ela PS	1	Nagoda	20
+LG-12010	Ja-Ela PS	1	Jayasamarugama	21
+LG-12010	Ja-Ela PS	1	Peralanda	22
+LG-12010	Ja-Ela PS	1	Ragama	23
+LG-12010	Ja-Ela PS	1	Podiveekumbura	24
+LG-12010	Ja-Ela PS	1	Ketagewatta	25
+LG-12010	Ja-Ela PS	1	Dambuwa	26
+LG-12016	Mahara PS	1	Pilikuttuwa	1
+LG-12016	Mahara PS	1	Warapalana	2
+LG-12016	Mahara PS	1	Maligathenna	3
+LG-12016	Mahara PS	1	Malwathuhiripitiya	4
+LG-12016	Mahara PS	1	Siwralumulla	5
+LG-12016	Mahara PS	1	Etikehelgalla	6
+LG-12016	Mahara PS	1	Vilimbula	7
+LG-12016	Mahara PS	1	Kirikitta	8
+LG-12016	Mahara PS	1	Naranwala	9
+LG-12016	Mahara PS	1	Udupila	10
+LG-12016	Mahara PS	1	Gonahena East	11
+LG-12016	Mahara PS	1	Webada	12
+LG-12016	Mahara PS	1	Kirillawala	13
+LG-12016	Mahara PS	1	Sooriyapaluwa North	14
+LG-12016	Mahara PS	1	Kendaliyeddapaluwa East	15
+LG-12016	Mahara PS	1	Kendaliyeddapaluwa North	16
+LG-12016	Mahara PS	1	Kendaliyeddapaluwa West	17
+LG-12016	Mahara PS	1	Mahara Nugegoda	18
+LG-12016	Mahara PS	1	Sooriyapaluwa South	19
+LG-12016	Mahara PS	1	Rammuthugala	20
+LG-12016	Mahara PS	1	Gonahena West	21
+LG-12016	Mahara PS	1	Eldeniya	22
+LG-12016	Mahara PS	1	Ihala Karagahamuna South	23
+LG-12016	Mahara PS	1	Ihala Karagahamuna North	24
+LG-12016	Mahara PS	1	Neligama	25
+LG-12016	Mahara PS	1	Pahala Karagahamuna	26
+LG-12016	Mahara PS	1	Kirimetiyagara	27
+LG-12016	Mahara PS	1	Dalupitiya	28
+LG-12016	Mahara PS	1	Nathuduwa	29
+LG-12016	Mahara PS	1	Enderamulla	30
+LG-12016	Mahara PS	2	Enderamulla 1	31
+LG-12016	Mahara PS	1	Gongithota	32
+LG-12015	Dompe PS	1	Wathurugama	1
+LG-12015	Dompe PS	1	Diyawala	2
+LG-12015	Dompe PS	1	Millathe	3
+LG-12015	Dompe PS	1	Udagama	4
+LG-12015	Dompe PS	1	Meethirigala	5
+LG-12015	Dompe PS	1	Kirindiwela	6
+LG-12015	Dompe PS	1	Radawana	7
+LG-12015	Dompe PS	1	Nedungolla	8
+LG-12015	Dompe PS	1	Pepiliyawala	9
+LG-12015	Dompe PS	1	Ganihigama	10
+LG-12015	Dompe PS	1	Dangalla	11
+LG-12015	Dompe PS	1	Pugoda	12
+LG-12015	Dompe PS	1	Pelpita	13
+LG-12015	Dompe PS	1	Mandawala	14
+LG-12015	Dompe PS	1	Keragala	15
+LG-12015	Dompe PS	1	Demalagama	16
+LG-12015	Dompe PS	1	Kalukondayawa	17
+LG-12015	Dompe PS	1	Dekatana	18
+LG-12015	Dompe PS	1	Pelahela	19
+LG-12015	Dompe PS	1	Lunugama	20
+LG-12015	Dompe PS	1	Giridara	21
+LG-12015	Dompe PS	1	Samanabedda	22
+LG-12015	Dompe PS	1	Iddamaldeniya	23
+LG-12015	Dompe PS	1	Dompe	24
+LG-12015	Dompe PS	1	Mapitigama	25
+LG-12019	Biyagama PS	1	Pahala Biyanvila	1
+LG-12019	Biyagama PS	1	Ihala Biyanvila North	2
+LG-12019	Biyagama PS	1	Ihala Biyanvila Central	3
+LG-12019	Biyagama PS	1	Mawaramandiya	4
+LG-12019	Biyagama PS	1	Makola North Ihala	5
+LG-12019	Biyagama PS	1	Pahala Biyanvila West	6
+LG-12019	Biyagama PS	1	Makola North Pahala	7
+LG-12019	Biyagama PS	1	Makola North Central	8
+LG-12019	Biyagama PS	1	Makola South Ihala	9
+LG-12019	Biyagama PS	1	Heiyanthuduwa North	10
+LG-12019	Biyagama PS	1	Siyambalape North	11
+LG-12019	Biyagama PS	1	Meegahawatta	12
+LG-12019	Biyagama PS	1	Siyampalape watta	13
+LG-12019	Biyagama PS	1	Delgoda	14
+LG-12019	Biyagama PS	1	Kanduboda	15
+LG-12019	Biyagama PS	1	Yatihena	16
+LG-12019	Biyagama PS	1	Siyambalape South	17
+LG-12019	Biyagama PS	1	Heiyanthuduwa East	18
+LG-12019	Biyagama PS	1	Sapugaskanda	19
+LG-12019	Biyagama PS	1	Gonawala East	20
+LG-12019	Biyagama PS	1	Pamunuvila	21
+LG-12019	Biyagama PS	1	Gonawala West	22
+LG-12019	Biyagama PS	1	Gonawala Central	23
+LG-12019	Biyagama PS	1	Bollegala	24
+LG-12019	Biyagama PS	1	Pattivila	25
+LG-12019	Biyagama PS	1	Mabima	26
+LG-12019	Biyagama PS	1	Heiyanthuduwa	27
+LG-12019	Biyagama PS	1	Biyagama South West	28
+LG-12019	Biyagama PS	1	Biyagama North East	29
+LG-12019	Biyagama PS	1	Yabaraluwa	30
+LG-12019	Biyagama PS	1	Malwana	31
+LG-12019	Biyagama PS	1	Walgama East	32
+LG-12017	Kelaniya PS	2	Hunupitiya North	1
+LG-12017	Kelaniya PS	1	Nahena	2
+LG-12017	Kelaniya PS	1	Eriyawetiya	3
+LG-12017	Kelaniya PS	1	Kiribathgoda	4
+LG-12017	Kelaniya PS	1	Thalawathuhenpita North	5
+LG-12017	Kelaniya PS	1	Thalawathuhenpita South	6
+LG-12017	Kelaniya PS	1	Warakanatta	7
+LG-12017	Kelaniya PS	1	Weweldoowa	8
+LG-12017	Kelaniya PS	1	Hunupitiya East	9
+LG-12017	Kelaniya PS	1	Wanawasala West	10
+LG-12017	Kelaniya PS	1	Wanawasala East	11
+LG-12017	Kelaniya PS	1	Dippitigoda	12
+LG-12017	Kelaniya PS	1	Himbutuwelgoda	13
+LG-12017	Kelaniya PS	1	Dalugama	14
+LG-12017	Kelaniya PS	1	Dalugamgoda	15
+LG-12017	Kelaniya PS	1	Koholvila	16
+LG-12017	Kelaniya PS	1	Galborella	17
+LG-12017	Kelaniya PS	1	Wedamulla	18
+LG-12017	Kelaniya PS	1	Pethiyagoda	19
+LG-12017	Kelaniya PS	1	Mewella	20
+LG-12017	Kelaniya PS	1	Pilapitiya	21
+LG-12017	Kelaniya PS	1	Sinharamulla North	22
+LG-12017	Kelaniya PS	1	Kelaniya	23
+LG-13002	Panadura UC	1	Walana	1
+LG-13002	Panadura UC	1	Udahamulla	2
+LG-13002	Panadura UC	1	Pattiya  North	3
+LG-13002	Panadura UC	1	Kadaweediya	4
+LG-13002	Panadura UC	1	Walapala Pattiya	5
+LG-13002	Panadura UC	1	Wekada  North	6
+LG-13002	Panadura UC	1	Wekada  West	7
+LG-13002	Panadura UC	1	Pattiya  South	8
+LG-13002	Panadura UC	1	Nalluruwa North	9
+LG-13002	Panadura UC	1	Nalluruwa	10
+LG-13005	Horana UC	1	Galedandugoda	1
+LG-13005	Horana UC	1	Horana  North	2
+LG-13005	Horana UC	1	Munagama  West	3
+LG-13005	Horana UC	1	Horana  South	4
+LG-13005	Horana UC	1	Horana East	5
+LG-13005	Horana UC	1	Wewala West	6
+LG-13005	Horana UC	1	Halthotiyawatta	7
+LG-13010	Kalutara UC	1	Deshasthra Kalutara - West	1
+LG-13010	Kalutara UC	1	Vidyasara	2
+LG-13010	Kalutara UC	1	Deshasthra - Thotupola	3
+LG-13010	Kalutara UC	1	Etanamadala	4
+LG-13010	Kalutara UC	1	Etawila	5
+LG-13010	Kalutara UC	1	Welapura	6
+LG-13010	Kalutara UC	1	Kalutara - South	7
+LG-13010	Kalutara UC	1	Kalutara - North	8
+LG-13010	Kalutara UC	1	Katukurunda  Kalapuwa	9
+LG-13010	Kalutara UC	1	Wettumakada	10
+LG-13010	Kalutara UC	1	Mahawatta	11
+LG-13010	Kalutara UC	1	Kuda Heenatiyangala	12
+LG-13010	Kalutara UC	1	Maha Heenatiyangala	13
+LG-13010	Kalutara UC	1	Kurunduwatta	14
+LG-13010	Kalutara UC	1	Nagoda South	15
+LG-13010	Kalutara UC	1	Weniwelketiya	16
+LG-13010	Kalutara UC	1	Nagoda West	17
+LG-13010	Kalutara UC	1	Kalamulla	18
+LG-13010	Kalutara UC	1	Etagama	19
+LG-13012	Beruwala UC	1	Polkotuwa	1
+LG-13012	Beruwala UC	1	Akkaragoda	2
+LG-13012	Beruwala UC	1	Cheenakotuwa (China Fort)	3
+LG-13012	Beruwala UC	2	Kankanamgoda	4
+LG-13012	Beruwala UC	1	Maligahena	5
+LG-13012	Beruwala UC	1	Hettiyakanda	6
+LG-13012	Beruwala UC	1	Maradana	7
+LG-13012	Beruwala UC	1	Gorakaduwa	8
+LG-13012	Beruwala UC	1	Mahagoda	9
+LG-13001	Panadura PS	1	Horethuduwa	1
+LG-13001	Panadura PS	1	Gorakana	2
+LG-13001	Panadura PS	1	Paraththa	3
+LG-13001	Panadura PS	1	Sarikkamulla	4
+LG-13001	Panadura PS	2	Keselwaththa – Henamulla	5
+LG-13001	Panadura PS	1	Diggala	6
+LG-13001	Panadura PS	1	Thotawaththa	7
+LG-13001	Panadura PS	1	Waththalpola	8
+LG-13001	Panadura PS	1	Gorakapola	9
+LG-13001	Panadura PS	1	Walana	10
+LG-13001	Panadura PS	1	Ambalanduwa	11
+LG-13001	Panadura PS	1	Bekkegama	12
+LG-13001	Panadura PS	1	Galthude	13
+LG-13001	Panadura PS	1	Hirana	14
+LG-13001	Panadura PS	1	Malamulla	15
+LG-13001	Panadura PS	1	Walapala	16
+LG-13001	Panadura PS	1	Wekada - Eluwila	17
+LG-13001	Panadura PS	1	Kaludewala	18
+LG-13001	Panadura PS	1	Dibbedda	19
+LG-13001	Panadura PS	1	Pinwaththa	20
+LG-13001	Panadura PS	1	Thalpitiya North	21
+LG-13001	Panadura PS	1	Thalpitiya South	22
+LG-13001	Panadura PS	1	Maha Wadduwa	23
+LG-13001	Panadura PS	1	Wadduwa East	24
+LG-13001	Panadura PS	1	Wadduwa  West	25
+LG-13001	Panadura PS	1	Molligoda	26
+LG-13003	Bandaragama PS	1	Kindelpitiya	1
+LG-13003	Bandaragama PS	1	Aluthgama	2
+LG-13003	Bandaragama PS	1	Gammanpila	3
+LG-13003	Bandaragama PS	1	Kothalawala	4
+LG-13003	Bandaragama PS	1	Raigama	5
+LG-13003	Bandaragama PS	1	Weedagama	6
+LG-13003	Bandaragama PS	1	Bandaragama	7
+LG-13003	Bandaragama PS	1	Alubomulla	8
+LG-13003	Bandaragama PS	1	Kuda Aruggoda	9
+LG-13003	Bandaragama PS	1	Niwdawa	10
+LG-13003	Bandaragama PS	1	Maha Aruggoda	11
+LG-13003	Bandaragama PS	1	Pinwala	12
+LG-13003	Bandaragama PS	1	Mahawila	13
+LG-13003	Bandaragama PS	1	Pamunugama	14
+LG-13003	Bandaragama PS	1	Mahabellana	15
+LG-13003	Bandaragama PS	1	Bolgoda	16
+LG-13003	Bandaragama PS	1	Wevita	17
+LG-13003	Bandaragama PS	1	Atulugama West	18
+LG-13003	Bandaragama PS	1	Atulugama  East	19
+LG-13003	Bandaragama PS	1	Kolamediriya	20
+LG-13004	Horana PS	1	Halapitiya	1
+LG-13004	Horana PS	1	Godigamuwa	2
+LG-13004	Horana PS	1	Palannoruwa	3
+LG-13004	Horana PS	1	Olaboduwa	4
+LG-13004	Horana PS	1	Thalagala	5
+LG-13004	Horana PS	1	Kahatapitiya	6
+LG-13004	Horana PS	1	Millewa	7
+LG-13004	Horana PS	1	Kotigamgoda	8
+LG-13004	Horana PS	1	Kindelpitiya	9
+LG-13004	Horana PS	1	Meewanapalana	10
+LG-13004	Horana PS	1	Pelpitigoda	11
+LG-13004	Horana PS	1	Handapangoda	12
+LG-13004	Horana PS	1	Arakawila	13
+LG-13004	Horana PS	1	Kurana	14
+LG-13004	Horana PS	2	Maha Ingiriya	15
+LG-13004	Horana PS	1	Urugala	16
+LG-13004	Horana PS	1	Ingiriya	17
+LG-13004	Horana PS	1	Maputugala	18
+LG-13004	Horana PS	1	Wagawaththa	19
+LG-13004	Horana PS	1	Gurugoda	20
+LG-13004	Horana PS	1	Uduwa	21
+LG-13004	Horana PS	1	Kananwila	22
+LG-13004	Horana PS	1	Batuwita	23
+LG-13004	Horana PS	1	Kumbuka	24
+LG-13004	Horana PS	1	Pokunuwita	25
+LG-13004	Horana PS	1	Kulupana	26
+LG-13004	Horana PS	1	Midellamulahena	27
+LG-13004	Horana PS	1	Narthanagala	28
+LG-13004	Horana PS	1	Wewala	29
+LG-13007	Madurawala PS	1	Kandana	1
+LG-13007	Madurawala PS	1	Bellapitiya	2
+LG-13007	Madurawala PS	1	Remuna	3
+LG-13007	Madurawala PS	1	Werawatta	4
+LG-13007	Madurawala PS	1	Mahayala	5
+LG-13007	Madurawala PS	1	Anguruwathota	6
+LG-13007	Madurawala PS	1	Karannagoda	7
+LG-13007	Madurawala PS	1	Nahalla	8
+LG-13007	Madurawala PS	1	Warakagoda	9
+LG-13006	Bulathsinhala PS	1	Naragala	1
+LG-13006	Bulathsinhala PS	1	Kobawaka	2
+LG-13006	Bulathsinhala PS	1	Egaloya	3
+LG-13006	Bulathsinhala PS	1	Halwathura	4
+LG-13006	Bulathsinhala PS	1	Delmella	5
+LG-13006	Bulathsinhala PS	1	Amaragedara	6
+LG-13006	Bulathsinhala PS	1	Bulathsinghala	7
+LG-13006	Bulathsinhala PS	1	Gala hena	8
+LG-13006	Bulathsinhala PS	1	Govinna	9
+LG-13006	Bulathsinhala PS	1	Mahagama	10
+LG-13006	Bulathsinhala PS	2	Kudaligama	11
+LG-13006	Bulathsinhala PS	1	Polegoda	12
+LG-13006	Bulathsinhala PS	1	Welgama	13
+LG-13006	Bulathsinhala PS	1	Paragoda	14
+LG-13014	Matugama PS	1	Yatadolawatta	1
+LG-13014	Matugama PS	1	Bopitiya	2
+LG-13014	Matugama PS	1	Panthiya	3
+LG-13014	Matugama PS	1	Matugama North	4
+LG-13014	Matugama PS	1	Matugama  West	5
+LG-13014	Matugama PS	1	Mathugama East	6
+LG-13014	Matugama PS	1	Owitigala	7
+LG-13014	Matugama PS	1	Naravwila	8
+LG-13014	Matugama PS	1	Aluthgamgoda	9
+LG-13014	Matugama PS	1	Keeranthidiya	10
+LG-13014	Matugama PS	1	Kotagedara	11
+LG-13014	Matugama PS	1	Indigasthuduwa	12
+LG-13014	Matugama PS	1	Bondupitiya	13
+LG-13014	Matugama PS	1	Meegama Aandawala	14
+LG-13014	Matugama PS	1	Walagedara  Kurudippita	15
+LG-13014	Matugama PS	1	Lewwanduwa	16
+LG-13014	Matugama PS	2	Welipenna	17
+LG-13014	Matugama PS	1	Badugama	18
+LG-13014	Matugama PS	1	Horawala	19
+LG-13013	Dodangoda PS	1	Koholana	1
+LG-13013	Dodangoda PS	1	Gamagoda	2
+LG-13013	Dodangoda PS	1	Remunagoda	3
+LG-13013	Dodangoda PS	1	Nebada	4
+LG-13013	Dodangoda PS	2	Wellatha- Thebuwana	5
+LG-13013	Dodangoda PS	1	Thudugala	6
+LG-13013	Dodangoda PS	1	Bombuwala  North	7
+LG-13013	Dodangoda PS	1	Bombuwala  South	8
+LG-13013	Dodangoda PS	1	Dodangoda West	9
+LG-13013	Dodangoda PS	1	Dodangoda West  North	10
+LG-13013	Dodangoda PS	1	Dodangoda East	11
+LG-13013	Dodangoda PS	1	Nehinna	12
+LG-13013	Dodangoda PS	1	Puhambugoda	13
+LG-13009	Kalutara PS	1	Gonaduwa	1
+LG-13009	Kalutara PS	1	Moronthuduwa	2
+LG-13009	Kalutara PS	1	Mawala	3
+LG-13009	Kalutara PS	1	Melegama	4
+LG-13009	Kalutara PS	1	Pohoddaramulla	5
+LG-13009	Kalutara PS	1	Pothupitiya	6
+LG-13009	Kalutara PS	1	Delduwa - Nugagoda	7
+LG-13009	Kalutara PS	1	Kalapugama	8
+LG-13009	Kalutara PS	1	Diyagama	9
+LG-13009	Kalutara PS	1	Panapitiya	10
+LG-13009	Kalutara PS	1	Uggalbada	11
+LG-13009	Kalutara PS	1	Dediyawala	12
+LG-13009	Kalutara PS	1	KudaWaskaduwa  East	13
+LG-13009	Kalutara PS	1	KudaWaskaduwa  West	14
+LG-13009	Kalutara PS	1	MahaWaskaduwa	15
+LG-13009	Kalutara PS	1	Vilegoda North	16
+LG-13009	Kalutara PS	1	Palathota	17
+LG-13009	Kalutara PS	1	Kithulawa	18
+LG-13009	Kalutara PS	1	Pularton	19
+LG-13011	Beruwala PS	1	Payagala	1
+LG-13011	Beruwala PS	1	Malegoda	2
+LG-13011	Beruwala PS	1	Palayangoda	3
+LG-13011	Beruwala PS	1	Pinidiyamulla	4
+LG-13011	Beruwala PS	1	Pothuwila	5
+LG-13011	Beruwala PS	1	Katukurundugahalanda	6
+LG-13011	Beruwala PS	1	Halkandawila	7
+LG-13011	Beruwala PS	1	Diyalagoda	8
+LG-13011	Beruwala PS	2	Maggona	9
+LG-13011	Beruwala PS	1	Magalkanda	10
+LG-13011	Beruwala PS	1	Munhena	11
+LG-13011	Beruwala PS	2	Ambepitiya	12
+LG-13011	Beruwala PS	1	Walathara	13
+LG-13011	Beruwala PS	1	Kalawila	14
+LG-13011	Beruwala PS	1	Padagoda	15
+LG-13011	Beruwala PS	1	Hettimulla	16
+LG-13011	Beruwala PS	1	Moragalle	17
+LG-13011	Beruwala PS	1	Kaluwamodara	18
+LG-13011	Beruwala PS	1	Aluthgama	19
+LG-13011	Beruwala PS	1	Dharga Town	20
+LG-13011	Beruwala PS	1	Welipitiya	21
+LG-13011	Beruwala PS	1	Malewana	22
+LG-13011	Beruwala PS	1	Warapitiya	23
+LG-13016	Palindanuwara PS	1	Bellana	1
+LG-13016	Palindanuwara PS	2	Ilukpotha	2
+LG-13016	Palindanuwara PS	1	Pelenda	3
+LG-13016	Palindanuwara PS	1	Kelinkanda	4
+LG-13016	Palindanuwara PS	1	Athwelthota	5
+LG-13016	Palindanuwara PS	1	Morapitiya	6
+LG-13016	Palindanuwara PS	1	Midalana	7
+LG-13016	Palindanuwara PS	1	Baduraliya	8
+LG-13016	Palindanuwara PS	1	Magura	9
+LG-13016	Palindanuwara PS	1	Athale	10
+LG-13016	Palindanuwara PS	1	Hadigalla	11
+LG-13016	Palindanuwara PS	1	Ingurudaluwa	12
+LG-13016	Palindanuwara PS	1	Boralugoda	13
+LG-13015	Agalawatta PS	1	Pimbura	1
+LG-13015	Agalawatta PS	1	Omatta	2
+LG-13015	Agalawatta PS	1	Kakulandala	3
+LG-13015	Agalawatta PS	1	Udawela	4
+LG-13015	Agalawatta PS	1	Yatiyana	5
+LG-13015	Agalawatta PS	1	Agalawatta	6
+LG-13015	Agalawatta PS	1	Mulatiyana	7
+LG-13015	Agalawatta PS	1	Kalupahana	8
+LG-13015	Agalawatta PS	1	Kithulgoda	9
+LG-13015	Agalawatta PS	1	Kevitiyagala	10
+LG-13015	Agalawatta PS	1	Kurupita	11
+LG-13015	Agalawatta PS	1	Rathmale	12
+LG-13017	Walallawita PS	1	Iththepana	1
+LG-13017	Walallawita PS	1	Lullbadduwa	2
+LG-13017	Walallawita PS	1	Pannila	3
+LG-13017	Walallawita PS	1	Moragala	4
+LG-13017	Walallawita PS	1	Maddegama	5
+LG-13017	Walallawita PS	1	Meegahathenna	6
+LG-13017	Walallawita PS	1	Bothalawa	7
+LG-13017	Walallawita PS	1	Ihala Hewessa	8
+LG-13017	Walallawita PS	1	Pelawatta	9
+LG-13017	Walallawita PS	1	Gorakaduwa	10
+LG-13017	Walallawita PS	1	Makalandawa	11
+LG-13017	Walallawita PS	1	Walallawita	12
+LG-13017	Walallawita PS	1	Pareigama	13
+LG-13017	Walallawita PS	1	Karapagala	14
+LG-13008	Millaniya PS	1	Gungamuwa	1
+LG-13008	Millaniya PS	1	Welikala	2
+LG-13008	Millaniya PS	1	Yalagala	3
+LG-13008	Millaniya PS	1	Halthota	4
+LG-13008	Millaniya PS	1	Millaniya	5
+LG-13008	Millaniya PS	1	Paragasthota	6
+LG-13008	Millaniya PS	1	Pelpola	7
+LG-13008	Millaniya PS	1	Batagoda	8
+LG-13008	Millaniya PS	1	Weniwelpitiya	9
+LG-13008	Millaniya PS	1	Uduwara	10
+LG-13008	Millaniya PS	1	Galpatha	11
+LG-13008	Millaniya PS	1	Yatawara	12
+LG-21006	Kandy MC	1	Yatiwawala	1
+LG-21006	Kandy MC	1	Senkadagala	2
+LG-21006	Kandy MC	2	Galewatta	3
+LG-21006	Kandy MC	2	Mawilmada	4
+LG-21006	Kandy MC	1	Mahaweli Uyana	5
+LG-21006	Kandy MC	1	Watapuluwa	6
+LG-21006	Kandy MC	1	Wattaranthenna	7
+LG-21006	Kandy MC	1	Mapanawathura	8
+LG-21006	Kandy MC	1	Aniwatta Dodamwala	9
+LG-21006	Kandy MC	1	Asgiriya	10
+LG-21006	Kandy MC	1	Poornawatta West	11
+LG-21006	Kandy MC	1	Mahaiyawa	12
+LG-21006	Kandy MC	1	Aruppala	13
+LG-21006	Kandy MC	1	Boowelikada	14
+LG-21006	Kandy MC	1	Ampitiya	15
+LG-21006	Kandy MC	1	Malwatta	16
+LG-21006	Kandy MC	1	Deiyannewala	17
+LG-21006	Kandy MC	2	Katukele	18
+LG-21006	Kandy MC	1	Suduhumpola	19
+LG-21006	Kandy MC	1	Mulgampala	20
+LG-21006	Kandy MC	1	Bowala	21
+LG-21006	Kandy MC	1	Gatambe	22
+LG-21005	Wattegama UC	1	Udurawana	1
+LG-21005	Wattegama UC	1	Dewalawaka	2
+LG-21005	Wattegama UC	1	Nuwarathenna	3
+LG-21005	Wattegama UC	1	Narandanda	4
+LG-21005	Wattegama UC	1	Atalahagoda	5
+LG-21005	Wattegama UC	1	Galadeniya	6
+LG-21005	Wattegama UC	1	Yatirawana	7
+LG-21005	Wattegama UC	1	Balahela	8
+LG-21005	Wattegama UC	1	Pitiyegedara	9
+LG-21015	Kadugannawa UC	1	Kadugannawa	1
+LG-21015	Kadugannawa UC	1	Naulla	2
+LG-21015	Kadugannawa UC	1	Kadawathgama	3
+LG-21015	Kadugannawa UC	1	Kandangama	4
+LG-21015	Kadugannawa UC	1	Madarangoda	5
+LG-21015	Kadugannawa UC	1	Arambegama	6
+LG-21015	Kadugannawa UC	1	Ilukwatta	7
+LG-21015	Kadugannawa UC	1	Pilimathalawa	8
+LG-21015	Kadugannawa UC	1	Govindala	9
+LG-21019	Gampola UC	1	Kahatapitiya	1
+LG-21019	Gampola UC	1	Kirinda	2
+LG-21019	Gampola UC	1	Udovita	3
+LG-21019	Gampola UC	1	Bothalapitiya	4
+LG-21019	Gampola UC	1	Gampola East	5
+LG-21019	Gampola UC	1	Mount Temple	6
+LG-21019	Gampola UC	1	Keerapone	7
+LG-21019	Gampola UC	1	Rathmalkaduwa	8
+LG-21019	Gampola UC	1	Godagama	9
+LG-21019	Gampola UC	1	Gampola West	10
+LG-21019	Gampola UC	1	Polkumbura	11
+LG-21019	Gampola UC	1	Illawatura	12
+LG-21019	Gampola UC	1	Angammana West	13
+LG-21019	Gampola UC	1	Angammana East	14
+LG-21019	Gampola UC	1	Aregoda	15
+LG-21019	Gampola UC	1	Kudamake	16
+LG-21019	Gampola UC	1	Jayamalapuraya	17
+LG-21022	Nawalapitiya UC	1	Dolosbage Road	1
+LG-21022	Nawalapitiya UC	1	Gondennawa	2
+LG-21022	Nawalapitiya UC	1	Beyly Road	3
+LG-21022	Nawalapitiya UC	1	Panithudumulla Soysakele	4
+LG-21022	Nawalapitiya UC	1	Panithudumulla Ihala	5
+LG-21022	Nawalapitiya UC	1	Handungalawatta	6
+LG-21022	Nawalapitiya UC	1	Jayasundare	7
+LG-21022	Nawalapitiya UC	1	Godamuduna Soysakele	8
+LG-21022	Nawalapitiya UC	1	IDH Mahakumbura	9
+LG-21001	Thumpane PS	1	Galabawa	1
+LG-21001	Thumpane PS	1	Uduwa	2
+LG-21001	Thumpane PS	1	Naranwala	3
+LG-21001	Thumpane PS	1	Damunugasthenna	4
+LG-21001	Thumpane PS	1	Bananga	5
+LG-21001	Thumpane PS	1	Kumburegama	6
+LG-21001	Thumpane PS	1	Idamegama	7
+LG-21001	Thumpane PS	1	Dehideniya	8
+LG-21001	Thumpane PS	1	Galagedara	9
+LG-21001	Thumpane PS	1	Minigamuwa	10
+LG-21001	Thumpane PS	1	Welivita	11
+LG-21001	Thumpane PS	1	Aludeniya	12
+LG-21001	Thumpane PS	1	Dedunupitiya	13
+LG-21001	Thumpane PS	1	Hatharaliyadda	14
+LG-21001	Thumpane PS	1	Yaggala	15
+LG-21001	Thumpane PS	1	Alagalla	16
+LG-21001	Thumpane PS	1	Kolugala	17
+LG-21001	Thumpane PS	1	Muruddeniya	18
+LG-21013	Harispattuwa PS	1	Medawala	1
+LG-21013	Harispattuwa PS	1	Attaragama	2
+LG-21013	Harispattuwa PS	1	Gonigoda	3
+LG-21013	Harispattuwa PS	1	Hedeniya	4
+LG-21013	Harispattuwa PS	1	Karanduwawala	5
+LG-21013	Harispattuwa PS	1	Hiriyalagammana	6
+LG-21013	Harispattuwa PS	1	Thittapajjala	7
+LG-21013	Harispattuwa PS	1	Hapugoda	8
+LG-21013	Harispattuwa PS	1	Ranawana	9
+LG-21013	Harispattuwa PS	1	Uduwawala	10
+LG-21013	Harispattuwa PS	1	Nugawela	11
+LG-21013	Harispattuwa PS	1	Kulugammana	12
+LG-21013	Harispattuwa PS	1	Uguressapitiya	13
+LG-21013	Harispattuwa PS	1	Senarathgama	14
+LG-21013	Harispattuwa PS	1	Inigala	15
+LG-21013	Harispattuwa PS	1	Polwatta	16
+LG-21013	Harispattuwa PS	1	Hamangoda North	17
+LG-21013	Harispattuwa PS	1	Gohagoda	18
+LG-21013	Harispattuwa PS	1	Hamangoda South	19
+LG-21013	Harispattuwa PS	1	Haloluwa	20
+LG-21013	Harispattuwa PS	1	Yatihalagala Udagama	21
+LG-21013	Harispattuwa PS	1	Yatihalagala Pallegama	22
+LG-21003	Akurana PS	1	Vilana Udagama	1
+LG-21003	Akurana PS	1	Vilana Pallegama	2
+LG-21003	Akurana PS	2	Alawathugoda	3
+LG-21003	Akurana PS	1	Mawathupola	4
+LG-21003	Akurana PS	1	Dippitiya	5
+LG-21003	Akurana PS	1	Neerella	6
+LG-21003	Akurana PS	1	Konakalagala	7
+LG-21003	Akurana PS	1	Pangollamada	8
+LG-21003	Akurana PS	1	Kurugoda	9
+LG-21003	Akurana PS	1	Bulugohothenna	10
+LG-21003	Akurana PS	1	Udawelikatiya	11
+LG-21003	Akurana PS	1	Palleweliketiya	12
+LG-21003	Akurana PS	1	Akurana	13
+LG-21003	Akurana PS	1	Waragashinna	14
+LG-21003	Akurana PS	1	Kurudugahaela	15
+LG-21003	Akurana PS	1	Telambugahawatta	16
+LG-21003	Akurana PS	1	Deegala Dunuwila	17
+LG-21002	Pujapitiya PS	1	Ihalamulla	1
+LG-21002	Pujapitiya PS	1	Ankumbura	2
+LG-21002	Pujapitiya PS	1	Kithulgolla	3
+LG-21002	Pujapitiya PS	1	Batagolladeniya	4
+LG-21002	Pujapitiya PS	1	Galhinna	5
+LG-21002	Pujapitiya PS	1	Morankanda	6
+LG-21002	Pujapitiya PS	1	Bokkawala	7
+LG-21002	Pujapitiya PS	1	Udahingulwala	8
+LG-21002	Pujapitiya PS	1	Gallella	9
+LG-21002	Pujapitiya PS	1	Marathugoda	10
+LG-21002	Pujapitiya PS	1	Godahena	11
+LG-21002	Pujapitiya PS	1	Ovissa	12
+LG-21002	Pujapitiya PS	1	Dombagammana	13
+LG-21002	Pujapitiya PS	1	Paleepana	14
+LG-21002	Pujapitiya PS	1	Batugoda	15
+LG-21002	Pujapitiya PS	1	Mullegama	16
+LG-21002	Pujapitiya PS	1	Kahawatta	17
+LG-21004	Pathadumbara PS	1	Aluthgama	1
+LG-21004	Pathadumbara PS	1	Doragamuwa	2
+LG-21004	Pathadumbara PS	1	Yatawara	3
+LG-21004	Pathadumbara PS	1	Gunembill	4
+LG-21004	Pathadumbara PS	1	Meegammana	5
+LG-21004	Pathadumbara PS	1	Udathalavinna Madige	6
+LG-21004	Pathadumbara PS	1	Udathalavinna	7
+LG-21004	Pathadumbara PS	1	Pallethalavinna	8
+LG-21004	Pathadumbara PS	1	Paranagama	9
+LG-21004	Pathadumbara PS	1	Ambathenna	10
+LG-21004	Pathadumbara PS	1	Megodagama	11
+LG-21004	Pathadumbara PS	1	Kahalla	12
+LG-21004	Pathadumbara PS	1	Polgolla	13
+LG-21004	Pathadumbara PS	1	Meegamawatta	14
+LG-21004	Pathadumbara PS	1	Madawala Medige	15
+LG-21004	Pathadumbara PS	1	Madawala	16
+LG-21004	Pathadumbara PS	1	Pihilladeniya	17
+LG-21004	Pathadumbara PS	1	Leemagahadeniya	18
+LG-21007	Panvila PS	1	Kelebokka	1
+LG-21007	Panvila PS	1	Mahapathana Watakele	2
+LG-21007	Panvila PS	1	Kosgama	3
+LG-21007	Panvila PS	1	Thawalanthenna	4
+LG-21007	Panvila PS	1	Beddegama Gomaraya	5
+LG-21007	Panvila PS	1	Arattana	6
+LG-21007	Panvila PS	1	Madolkele	7
+LG-21007	Panvila PS	1	Hathale	8
+LG-21007	Panvila PS	1	Angammana Panvila	9
+LG-21007	Panvila PS	1	Pitawala Udugoda	10
+LG-21008	Udadumbara PS	1	Meemure	1
+LG-21008	Udadumbara PS	1	Kalugala	2
+LG-21008	Udadumbara PS	1	Dambagahapitiya	3
+LG-21008	Udadumbara PS	1	Hunnasgiriya	4
+LG-21008	Udadumbara PS	1	Udadumbara	5
+LG-21008	Udadumbara PS	1	Mediwaka	6
+LG-21008	Udadumbara PS	1	Rambukwella	7
+LG-21008	Udadumbara PS	1	Bambarabedda	8
+LG-21008	Udadumbara PS	1	Madugalla	9
+LG-21008	Udadumbara PS	1	Dewahandiya	10
+LG-21009	Minipe PS	1	Udattawa	1
+LG-21009	Minipe PS	1	Himbutuwa	2
+LG-21009	Minipe PS	1	Kolongoda	3
+LG-21009	Minipe PS	1	Udawela	4
+LG-21009	Minipe PS	1	Ulpathagama	5
+LG-21009	Minipe PS	1	Mahayaya	6
+LG-21009	Minipe PS	1	Hasalaka	7
+LG-21009	Minipe PS	1	Mahaassadduma	8
+LG-21009	Minipe PS	1	Pallewatta	9
+LG-21009	Minipe PS	1	Morayaya	10
+LG-21009	Minipe PS	1	Handaganawa	11
+LG-21009	Minipe PS	1	Ambagahapelessa	12
+LG-21009	Minipe PS	1	Minipe	13
+LG-21010	Medadumbara PS	1	Galabadawatta	1
+LG-21010	Medadumbara PS	1	Rangala	2
+LG-21010	Medadumbara PS	1	Makuldeniya	3
+LG-21010	Medadumbara PS	1	Werapitiya	4
+LG-21010	Medadumbara PS	1	Putuhapuwa	5
+LG-21010	Medadumbara PS	1	Watapana	6
+LG-21010	Medadumbara PS	1	Ellepola	7
+LG-21010	Medadumbara PS	1	Karalliyadda	8
+LG-21010	Medadumbara PS	1	Rambukwella	9
+LG-21010	Medadumbara PS	1	Amupitiya	10
+LG-21010	Medadumbara PS	1	Udispattuwa	11
+LG-21010	Medadumbara PS	1	Poddalgoda	12
+LG-21010	Medadumbara PS	1	Retiyagama	13
+LG-21010	Medadumbara PS	1	Rambukpotha	14
+LG-21010	Medadumbara PS	1	Medamahanuwara	15
+LG-21010	Medadumbara PS	1	Wegala	16
+LG-21010	Medadumbara PS	1	Senarathwela	17
+LG-21010	Medadumbara PS	1	Ambale	18
+LG-21010	Medadumbara PS	1	Wendaruwa	19
+LG-21011	Kundasale PS	1	Galpihilla	1
+LG-21011	Kundasale PS	1	Naranpanawa	2
+LG-21011	Kundasale PS	1	Maluwegama	3
+LG-21011	Kundasale PS	1	Deliwalathenna	4
+LG-21011	Kundasale PS	1	Udagama	5
+LG-21011	Kundasale PS	1	Hurikaduwa	6
+LG-21011	Kundasale PS	1	Manikhinna	7
+LG-21011	Kundasale PS	1	Malpana	8
+LG-21011	Kundasale PS	1	Kumbukkandura	9
+LG-21011	Kundasale PS	1	Rajawella	10
+LG-21011	Kundasale PS	1	Wijaya Sri Gama	11
+LG-21011	Kundasale PS	1	Ambakote	12
+LG-21011	Kundasale PS	1	Balagolla	13
+LG-21011	Kundasale PS	1	Kengalla	14
+LG-21011	Kundasale PS	2	Kundasale South Nithulethenna	15
+LG-21011	Kundasale PS	1	Dambarawa	16
+LG-21011	Kundasale PS	1	Amunugama	17
+LG-21011	Kundasale PS	1	Gunnepana	18
+LG-21011	Kundasale PS	1	Gabadagama	19
+LG-21011	Kundasale PS	1	Sirimalwatta	20
+LG-21011	Kundasale PS	1	Degaldoruwa	21
+LG-21011	Kundasale PS	1	Mahawatta	22
+LG-21011	Kundasale PS	1	Galmaduwa	23
+LG-21011	Kundasale PS	1	Kundasale North	24
+LG-21018	Pathahewaheta PS	1	Uduwela	1
+LG-21018	Pathahewaheta PS	1	Monarangala	2
+LG-21018	Pathahewaheta PS	1	Uduwela Pallegama	3
+LG-21018	Pathahewaheta PS	1	Hippola	4
+LG-21018	Pathahewaheta PS	1	Bootawatta	5
+LG-21018	Pathahewaheta PS	1	Kapuliyadda	6
+LG-21018	Pathahewaheta PS	1	Mailapitiya	7
+LG-21018	Pathahewaheta PS	1	Bolepa	8
+LG-21018	Pathahewaheta PS	1	Ankelipitiya	9
+LG-21018	Pathahewaheta PS	1	Ethulgama	10
+LG-21018	Pathahewaheta PS	1	Ratemulla	11
+LG-21018	Pathahewaheta PS	1	Perawatta	12
+LG-21018	Pathahewaheta PS	1	Nugaliyedda	13
+LG-21018	Pathahewaheta PS	1	Medagama	14
+LG-21018	Pathahewaheta PS	1	Marassana	15
+LG-21018	Pathahewaheta PS	1	Hewavissa	16
+LG-21018	Pathahewaheta PS	1	Bopitiya	17
+LG-21018	Pathahewaheta PS	1	Maussawa	18
+LG-21018	Pathahewaheta PS	2	Udadelthota	19
+LG-21018	Pathahewaheta PS	1	Delthota	20
+LG-21018	Pathahewaheta PS	1	Pattiyagama	21
+LG-21018	Pathahewaheta PS	1	Kolambissa	22
+LG-21018	Pathahewaheta PS	2	Gabadama-Karagaskada	23
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Godagandeniya	1
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Peradeniya	2
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Mahakanda	3
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Ogastawatta	4
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Bowala	5
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Hanthana	6
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Ampitiya Udagama	7
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Thennekumbura	8
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Wewathenna	9
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Ulpathakumbura	10
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Ketawala Lewla	11
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Gurudeniya East	12
+LG-21012	Kandy Four Gravets & Gangawata Korale PS	1	Maligathenna	13
+LG-21014	Yatinuwara PS	1	Kobbekaduwa	1
+LG-21014	Yatinuwara PS	1	Yahalathenna	2
+LG-21014	Yatinuwara PS	1	Muruthalawa	3
+LG-21014	Yatinuwara PS	1	Dehianga	4
+LG-21014	Yatinuwara PS	1	Dodamwala	5
+LG-21014	Yatinuwara PS	1	Udawela	6
+LG-21014	Yatinuwara PS	1	Walgampaya	7
+LG-21014	Yatinuwara PS	1	Kotaligoda	8
+LG-21014	Yatinuwara PS	1	Menikdiwela	9
+LG-21014	Yatinuwara PS	1	Alagalla	10
+LG-21014	Yatinuwara PS	1	Godigamuwa	11
+LG-21014	Yatinuwara PS	1	Balana	12
+LG-21014	Yatinuwara PS	1	Amunupura	13
+LG-21014	Yatinuwara PS	1	Maligathenna	14
+LG-21014	Yatinuwara PS	1	Haliyadda	15
+LG-21014	Yatinuwara PS	1	Danthure	16
+LG-21014	Yatinuwara PS	1	Arambegama	17
+LG-21014	Yatinuwara PS	1	Giragama	18
+LG-21014	Yatinuwara PS	1	Sooriyagoda	19
+LG-21014	Yatinuwara PS	1	Gannoruwa	20
+LG-21014	Yatinuwara PS	1	Iriyagama	21
+LG-21014	Yatinuwara PS	1	Dehideniya	22
+LG-21014	Yatinuwara PS	1	Pilapitiya	23
+LG-21014	Yatinuwara PS	1	Edanduwawa	24
+LG-21014	Yatinuwara PS	1	Bulumulla	25
+LG-21014	Yatinuwara PS	1	Embilmeegama	26
+LG-21016	Udunuwara PS	1	Langamuwa	1
+LG-21016	Udunuwara PS	1	Kurakuttala	2
+LG-21016	Udunuwara PS	1	Hiddavulla	3
+LG-21016	Udunuwara PS	1	Gadaladeniya	4
+LG-21016	Udunuwara PS	1	Gangoda	5
+LG-21016	Udunuwara PS	1	Lankathilaka	6
+LG-21016	Udunuwara PS	1	Alapalawala	7
+LG-21016	Udunuwara PS	1	Hendeniya	8
+LG-21016	Udunuwara PS	1	Penideniya	9
+LG-21016	Udunuwara PS	1	Piligalla	10
+LG-21016	Udunuwara PS	1	Aranthana	11
+LG-21016	Udunuwara PS	1	Davulagala	12
+LG-21016	Udunuwara PS	1	Embekke	13
+LG-21016	Udunuwara PS	1	Walagedara	14
+LG-21016	Udunuwara PS	1	Manikkawa	15
+LG-21016	Udunuwara PS	1	Welamboda	16
+LG-21016	Udunuwara PS	1	Appallagoda	17
+LG-21016	Udunuwara PS	1	Ganhatha	18
+LG-21016	Udunuwara PS	1	Ketakumbura	19
+LG-21016	Udunuwara PS	1	Pethiyagoda	20
+LG-21016	Udunuwara PS	1	Gelioya	21
+LG-21016	Udunuwara PS	1	Weligalla	22
+LG-21016	Udunuwara PS	1	Thalawathura	23
+LG-21017	Udapalatha PS	1	Egodakalugamuwa	1
+LG-21017	Udapalatha PS	1	Ganegoda	2
+LG-21017	Udapalatha PS	1	Nillamba	3
+LG-21017	Udapalatha PS	1	Palledelthota	4
+LG-21017	Udapalatha PS	1	Doluwa	5
+LG-21017	Udapalatha PS	1	Hapugaspitiya	6
+LG-21017	Udapalatha PS	1	Ilangawatta	7
+LG-21017	Udapalatha PS	1	Gampolawatta	8
+LG-21017	Udapalatha PS	1	Naranwita	9
+LG-21017	Udapalatha PS	1	Kahawatta	10
+LG-21017	Udapalatha PS	1	Gothatuwela	11
+LG-21017	Udapalatha PS	1	Panvilathenna	12
+LG-21017	Udapalatha PS	1	Masgolla	13
+LG-21017	Udapalatha PS	1	Mulgama	14
+LG-21017	Udapalatha PS	1	Pupuressa	15
+LG-21017	Udapalatha PS	1	Dunukeulla	16
+LG-21017	Udapalatha PS	1	Ihalagama	17
+LG-21017	Udapalatha PS	1	Pallegama	18
+LG-21017	Udapalatha PS	1	Amunupuraya	19
+LG-21017	Udapalatha PS	1	Delpitiya	20
+LG-21017	Udapalatha PS	1	Galatha	21
+LG-21017	Udapalatha PS	1	Paradeka	22
+LG-21017	Udapalatha PS	2	Pussellawa	23
+LG-21017	Udapalatha PS	1	Doragala	24
+LG-21017	Udapalatha PS	1	Mawathura	25
+LG-21020	Ganga Ihala Korale PS	1	Galpaya	1
+LG-21020	Ganga Ihala Korale PS	1	Wallahagoda	2
+LG-21020	Ganga Ihala Korale PS	1	Gampolawela	3
+LG-21020	Ganga Ihala Korale PS	1	Ethgala	4
+LG-21020	Ganga Ihala Korale PS	1	Thembiligala	5
+LG-21020	Ganga Ihala Korale PS	1	Ulapane	6
+LG-21020	Ganga Ihala Korale PS	1	Pellapitiya	7
+LG-21020	Ganga Ihala Korale PS	1	Kurunduwatta	8
+LG-21020	Ganga Ihala Korale PS	1	Watakedeniya	9
+LG-21020	Ganga Ihala Korale PS	1	Patithalawa	10
+LG-21020	Ganga Ihala Korale PS	1	Dolosbage	11
+LG-21020	Ganga Ihala Korale PS	1	Alugolla	12
+LG-21020	Ganga Ihala Korale PS	1	Yatapana	13
+LG-21021	Pasbage Korale PS	1	Warakawa	1
+LG-21021	Pasbage Korale PS	1	Dandubediruppa	2
+LG-21021	Pasbage Korale PS	1	Penithuduwa	3
+LG-21021	Pasbage Korale PS	1	Rambukpitiya	4
+LG-21021	Pasbage Korale PS	1	Balanthota	5
+LG-21021	Pasbage Korale PS	1	Dekinda	6
+LG-21021	Pasbage Korale PS	1	Weligampola	7
+LG-21021	Pasbage Korale PS	2	Bawwagama	8
+LG-21021	Pasbage Korale PS	1	Kadiyanlena	9
+LG-21021	Pasbage Korale PS	1	Inguruoya	10
+LG-21021	Pasbage Korale PS	1	Westhole	11
+LG-22003	Dambulla MC	1	Bulagala	1
+LG-22003	Dambulla MC	1	Pelwehera	2
+LG-22003	Dambulla MC	1	Athuparayaya	3
+LG-22003	Dambulla MC	1	Dambulugama	4
+LG-22003	Dambulla MC	1	Saluapullanawewa	5
+LG-22003	Dambulla MC	2	Dambulla Town	6
+LG-22003	Dambulla MC	1	Pahalawewa	7
+LG-22003	Dambulla MC	1	Rathmalgahaela	8
+LG-22003	Dambulla MC	1	Yapagama	9
+LG-22003	Dambulla MC	1	Pohoranwewa	10
+LG-22003	Dambulla MC	1	Kapuwatta	11
+LG-22003	Dambulla MC	1	Moragollewa	12
+LG-22008	Matale MC	1	Aluviharaya Town	1
+LG-22008	Matale MC	2	Kaludewala	2
+LG-22008	Matale MC	1	Malwatta	3
+LG-22008	Matale MC	1	Vihara Place	4
+LG-22008	Matale MC	1	Central Town	5
+LG-22008	Matale MC	2	Railway Station Place	6
+LG-22008	Matale MC	1	Sanghamiththa Place	7
+LG-22008	Matale MC	1	Hulangamuwa	8
+LG-22008	Matale MC	1	Nagolla	9
+LG-22008	Matale MC	1	Maligathenna	10
+LG-22008	Matale MC	1	Kubiyangoda	11
+LG-22005	Pallepola PS	1	Aluthgama	1
+LG-22005	Pallepola PS	1	Janakagama	2
+LG-22005	Pallepola PS	1	Millawana	3
+LG-22005	Pallepola PS	1	Kandewatta	4
+LG-22005	Pallepola PS	1	Ehelepola	5
+LG-22005	Pallepola PS	1	Pallepola	6
+LG-22005	Pallepola PS	1	Maningamuwa	7
+LG-22005	Pallepola PS	1	Rusigama	8
+LG-22005	Pallepola PS	1	Paldeniya	9
+LG-22005	Pallepola PS	1	Koholanwela	10
+LG-22001	Galewela PS	1	Dandubediruppa	1
+LG-22001	Galewela PS	1	Thalakiriyagama	2
+LG-22001	Galewela PS	1	Dewahuwa	3
+LG-22001	Galewela PS	1	Bulanawewa	4
+LG-22001	Galewela PS	1	Moragolla	5
+LG-22001	Galewela PS	1	Damunumulla	6
+LG-22001	Galewela PS	1	Walaswewa	7
+LG-22001	Galewela PS	1	Galewela	8
+LG-22001	Galewela PS	1	Bambaragaswewa	9
+LG-22001	Galewela PS	1	Beligamuwa	10
+LG-22001	Galewela PS	1	Diwulgaskotuwa	11
+LG-22001	Galewela PS	1	Bambawa	12
+LG-22001	Galewela PS	1	Nabadagahawatta	13
+LG-22001	Galewela PS	1	Wahakotte	14
+LG-22001	Galewela PS	1	Medabedda	15
+LG-22001	Galewela PS	1	Elamalpotha	16
+LG-22001	Galewela PS	1	Madipola	17
+LG-22002	Dambulla PS	1	Inamaluwa	1
+LG-22002	Dambulla PS	1	Digampathaha	2
+LG-22002	Dambulla PS	1	Sigiriya	3
+LG-22002	Dambulla PS	1	Mailaththewa	4
+LG-22002	Dambulla PS	1	Palutawa	5
+LG-22002	Dambulla PS	1	Pallegama	6
+LG-22002	Dambulla PS	1	Kandalama	7
+LG-22002	Dambulla PS	1	Nikawatawana	8
+LG-22002	Dambulla PS	1	Wewalawewa	9
+LG-22002	Dambulla PS	1	Erewula	10
+LG-22002	Dambulla PS	1	Yakkuragala	11
+LG-22002	Dambulla PS	1	Kalundewa	12
+LG-22002	Dambulla PS	1	Pannampitiya	13
+LG-22002	Dambulla PS	1	Kiralagolla	14
+LG-22002	Dambulla PS	1	Ethabendiwewa	15
+LG-22002	Dambulla PS	1	Lenadora	16
+LG-22009	Ambanganga Korale PS	1	Imbulgolla	1
+LG-22009	Ambanganga Korale PS	1	Kumbaloluwa	2
+LG-22009	Ambanganga Korale PS	1	Gammaduwa	3
+LG-22009	Ambanganga Korale PS	2	Pussella	4
+LG-22009	Ambanganga Korale PS	1	Thibbatukanatha	5
+LG-22009	Ambanganga Korale PS	1	Metihakka	6
+LG-22009	Ambanganga Korale PS	1	Gurubebila	7
+LG-22009	Ambanganga Korale PS	1	Pallethenna	8
+LG-22009	Ambanganga Korale PS	1	Narangolla	9
+LG-22004	Naula PS	1	Bibila	1
+LG-22004	Naula PS	1	Bobella	2
+LG-22004	Naula PS	1	Dambagolla	3
+LG-22004	Naula PS	1	Kongahawela	4
+LG-22004	Naula PS	1	Senagama	5
+LG-22004	Naula PS	1	Arangala	6
+LG-22004	Naula PS	1	Naula	7
+LG-22004	Naula PS	1	Alugolla	8
+LG-22004	Naula PS	1	Nalanda	9
+LG-22004	Naula PS	1	Lihinipitiya	10
+LG-22010	Laggala-Pallegama PS	1	Ma Oya	1
+LG-22010	Laggala-Pallegama PS	1	Dewaladeniya	2
+LG-22010	Laggala-Pallegama PS	1	Hattota Amuna	3
+LG-22010	Laggala-Pallegama PS	1	Moratenna	4
+LG-22010	Laggala-Pallegama PS	1	Ilukkumbura	5
+LG-22010	Laggala-Pallegama PS	1	Akarahediya	6
+LG-22010	Laggala-Pallegama PS	1	Guruwela	7
+LG-22010	Laggala-Pallegama PS	1	Mahalakotuwa	8
+LG-22010	Laggala-Pallegama PS	1	Halminiya	9
+LG-22010	Laggala-Pallegama PS	1	Narangamuwa	10
+LG-22011	Wilgamuwa PS	1	Handungamuwa	1
+LG-22011	Wilgamuwa PS	1	Dunuwilapitiya	2
+LG-22011	Wilgamuwa PS	1	Maraka	3
+LG-22011	Wilgamuwa PS	1	Gemburuoya	4
+LG-22011	Wilgamuwa PS	1	Malgammana	5
+LG-22011	Wilgamuwa PS	1	Dewagiriya	6
+LG-22011	Wilgamuwa PS	1	Hettipola	7
+LG-22011	Wilgamuwa PS	1	Wanarawa	8
+LG-22011	Wilgamuwa PS	1	Nugagolla	9
+LG-22011	Wilgamuwa PS	1	Wilgamuwa	10
+LG-22007	Matale PS	1	Madawala Ulpatha	1
+LG-22007	Matale PS	1	Thalagasyaya	2
+LG-22007	Matale PS	1	Rajjammana	3
+LG-22007	Matale PS	1	Puwakpitiya	4
+LG-22007	Matale PS	1	Galwadukumbura	5
+LG-22007	Matale PS	1	Dombawela	6
+LG-22007	Matale PS	1	Ellepola	7
+LG-22007	Matale PS	1	Palapathwala	8
+LG-22007	Matale PS	1	Kottegoda	9
+LG-22007	Matale PS	2	Dorakumbura	10
+LG-22007	Matale PS	1	Kirigalpoththa	11
+LG-22007	Matale PS	1	Parawatta	12
+LG-22007	Matale PS	2	Aluviharaya	13
+LG-22007	Matale PS	1	Kandegedara	14
+LG-22007	Matale PS	1	Pandiwita	15
+LG-22007	Matale PS	1	Kotuwegedara	16
+LG-22006	Yatawatta PS	1	Selagama	1
+LG-22006	Yatawatta PS	1	Mahawela	2
+LG-22006	Yatawatta PS	1	Dikkumbura	3
+LG-22006	Yatawatta PS	1	Nikagolla	4
+LG-22006	Yatawatta PS	1	Yatawatta	5
+LG-22006	Yatawatta PS	1	Mathalapitiya	6
+LG-22006	Yatawatta PS	1	Dangan Place	7
+LG-22006	Yatawatta PS	1	Deevilla	8
+LG-22006	Yatawatta PS	1	Dullewa	9
+LG-22006	Yatawatta PS	1	Ethipola	10
+LG-22013	Ukuwela PS	1	Makulemada	1
+LG-22013	Ukuwela PS	1	Owilikanda	2
+LG-22013	Ukuwela PS	1	Thenna	3
+LG-22013	Ukuwela PS	1	Kalalpitiya	4
+LG-22013	Ukuwela PS	1	Warakamura	5
+LG-22013	Ukuwela PS	1	Elwala	6
+LG-22013	Ukuwela PS	1	Wariyapola	7
+LG-22013	Ukuwela PS	1	Nawarathnagoda	8
+LG-22013	Ukuwela PS	1	Paragahawela	9
+LG-22013	Ukuwela PS	1	Ukuwela	10
+LG-22013	Ukuwela PS	1	Nagolla	11
+LG-22013	Ukuwela PS	1	Nugapitiya	12
+LG-22013	Ukuwela PS	1	Marukona	13
+LG-22013	Ukuwela PS	1	Raithalawela	14
+LG-22013	Ukuwela PS	1	Imbulpitiya	15
+LG-22013	Ukuwela PS	1	Elkaduwa	16
+LG-22012	Rattota PS	1	Kaikawela	1
+LG-22012	Rattota PS	1	Raththota	2
+LG-22012	Rattota PS	1	Longville	3
+LG-22012	Rattota PS	1	Bodikotuwa	4
+LG-22012	Rattota PS	1	Dankanda	5
+LG-22012	Rattota PS	1	Bambarakiriella	6
+LG-22012	Rattota PS	1	Alakolamada	7
+LG-22012	Rattota PS	1	Bogambara	8
+LG-22012	Rattota PS	1	Weragama	9
+LG-22012	Rattota PS	1	Viharagama	10
+LG-22012	Rattota PS	1	Bandarapola	11
+LG-22012	Rattota PS	1	Muwandeniya	12
+LG-22012	Rattota PS	1	Alwatta	13
+LG-22012	Rattota PS	1	Kandenuwara	14
+LG-22012	Rattota PS	1	Thambalagala	15
+LG-23008	Nuwara Eliya MC	2	Bambarakele	1
+LG-23008	Nuwara Eliya MC	2	Nuwara Eliya	2
+LG-23008	Nuwara Eliya MC	1	Hawa Eliya (North)	3
+LG-23008	Nuwara Eliya MC	1	Hawa Eliya (West)	4
+LG-23008	Nuwara Eliya MC	2	Hawaeliya (East)	5
+LG-23008	Nuwara Eliya MC	2	Nuwara Eliya (Central)	6
+LG-23008	Nuwara Eliya MC	1	Kalukele	7
+LG-23008	Nuwara Eliya MC	1	Sandathenna	8
+LG-23008	Nuwara Eliya MC	1	Mahagasthota	9
+LG-23011	Hatton - Dickoya UC	1	Wilfredpura	1
+LG-23011	Hatton - Dickoya UC	2	Ariyagama	2
+LG-23011	Hatton - Dickoya UC	1	Ponnagar	3
+LG-23011	Hatton - Dickoya UC	2	Hatton	4
+LG-23011	Hatton - Dickoya UC	2	Dunnbar	5
+LG-23011	Hatton - Dickoya UC	1	Dickoya	6
+LG-23007	Thalawakele-Lindula UC	1	Holyrood	1
+LG-23007	Thalawakele-Lindula UC	1	Thalawakele	2
+LG-23007	Thalawakele-Lindula UC	2	Thalawakele (South)	3
+LG-23007	Thalawakele-Lindula UC	1	Bandaranayake	4
+LG-23007	Thalawakele-Lindula UC	2	Lindula	5
+LG-23010	Maskeliya PS	1	Maussakele	1
+LG-23010	Maskeliya PS	1	Brownlaw	2
+LG-23010	Maskeliya PS	1	Seethagangula	3
+LG-23010	Maskeliya PS	1	Moray	4
+LG-23010	Maskeliya PS	1	Brownswick	5
+LG-23010	Maskeliya PS	1	Maskeliya	6
+LG-23010	Maskeliya PS	1	Mahanelu	7
+LG-23010	Maskeliya PS	1	Upcut	8
+LG-23010	Maskeliya PS	1	Devakanda	9
+LG-23010	Maskeliya PS	1	Dambethenna	10
+LG-23012	Norwood PS	1	Samaravalley	1
+LG-23012	Norwood PS	1	wanaraja	2
+LG-23012	Norwood PS	1	Salankanda	3
+LG-23012	Norwood PS	1	Nawaweligama	4
+LG-23012	Norwood PS	1	Norwood	5
+LG-23012	Norwood PS	1	Tenmaduri	6
+LG-23012	Norwood PS	1	Lechchami Pahala	7
+LG-23012	Norwood PS	1	Puliyawatta	8
+LG-23012	Norwood PS	1	Lechchami Ihala	9
+LG-23012	Norwood PS	1	Bogawana	10
+LG-23012	Norwood PS	1	Loinan	11
+LG-23012	Norwood PS	1	Bogawantalawa	12
+LG-23009	Ambagamuwa PS	1	Sellipigama	1
+LG-23009	Ambagamuwa PS	1	Rampadeniya	2
+LG-23009	Ambagamuwa PS	1	Kalugala	3
+LG-23009	Ambagamuwa PS	1	Polpitiya	4
+LG-23009	Ambagamuwa PS	1	Jambutenna	5
+LG-23009	Ambagamuwa PS	1	Kehelwarawa	6
+LG-23009	Ambagamuwa PS	1	Lakshapana	7
+LG-23009	Ambagamuwa PS	1	Vidulipura	8
+LG-23009	Ambagamuwa PS	1	Ginigathena	9
+LG-23009	Ambagamuwa PS	1	Watawala	10
+LG-23009	Ambagamuwa PS	1	Rosella	11
+LG-23009	Ambagamuwa PS	1	Ruwanpura	12
+LG-23009	Ambagamuwa PS	1	Shanon	13
+LG-23005	Agarapatana PS	1	Rahanwatta	1
+LG-23005	Agarapatana PS	1	Nagasena	2
+LG-23005	Agarapatana PS	1	Hollbrook	3
+LG-23005	Agarapatana PS	1	Henfold	4
+LG-23005	Agarapatana PS	1	Thangakele	5
+LG-23005	Agarapatana PS	1	Diagama	6
+LG-23005	Agarapatana PS	1	Waverly	7
+LG-23005	Agarapatana PS	1	Agarapatana	8
+LG-23005	Agarapatana PS	1	Elabedda	9
+LG-23004	Kotagala PS	1	Greatwestern	1
+LG-23004	Kotagala PS	1	Watagoda	2
+LG-23004	Kotagala PS	1	Rathnagiriya	3
+LG-23004	Kotagala PS	1	Coombewood	4
+LG-23004	Kotagala PS	1	Devon	5
+LG-23004	Kotagala PS	1	Dimbula	6
+LG-23004	Kotagala PS	1	Bogahawatta	7
+LG-23004	Kotagala PS	1	Kotagala	8
+LG-23004	Kotagala PS	1	Kudaoya	9
+LG-23004	Kotagala PS	1	Yulefield	10
+LG-23006	Nuwara Eliya PS	1	Kandapola	1
+LG-23006	Nuwara Eliya PS	1	Park	2
+LG-23006	Nuwara Eliya PS	1	Galpalama	3
+LG-23006	Nuwara Eliya PS	1	Peedru	4
+LG-23006	Nuwara Eliya PS	1	Shanthipura	5
+LG-23006	Nuwara Eliya PS	1	Nanu Oya	6
+LG-23006	Nuwara Eliya PS	1	Magoda	7
+LG-23006	Nuwara Eliya PS	1	Ruwan Eliya	8
+LG-23006	Nuwara Eliya PS	1	Seetha Eliya	9
+LG-23006	Nuwara Eliya PS	1	Meepilimana	10
+LG-23006	Nuwara Eliya PS	1	Perakumpura	11
+LG-23006	Nuwara Eliya PS	1	Kirimetiya	12
+LG-23006	Nuwara Eliya PS	1	Walltrim	13
+LG-23006	Nuwara Eliya PS	1	Ambewela	14
+LG-23001	Kothmale PS	2	Raja Ela	1
+LG-23001	Kothmale PS	1	Helboda	2
+LG-23001	Kothmale PS	1	Frotop	3
+LG-23001	Kothmale PS	1	Sangilipalama	4
+LG-23001	Kothmale PS	1	Helsirigama	5
+LG-23001	Kothmale PS	1	Maaswela	6
+LG-23001	Kothmale PS	1	Kadadora	7
+LG-23001	Kothmale PS	2	Mallanda	8
+LG-23001	Kothmale PS	1	Ruwanpura	9
+LG-23001	Kothmale PS	1	Hapugasthalawa	10
+LG-23001	Kothmale PS	1	Harangala	11
+LG-23001	Kothmale PS	1	Kalapitiya	12
+LG-23001	Kothmale PS	1	Niyangandora	13
+LG-23001	Kothmale PS	1	Ramboda	14
+LG-23001	Kothmale PS	2	Labookele	15
+LG-23001	Kothmale PS	1	Pundaluoya	16
+LG-23001	Kothmale PS	2	Kadadorapitiya	17
+LG-23001	Kothmale PS	1	Madakumbura	18
+LG-23001	Kothmale PS	1	Maldeniya	19
+LG-23001	Kothmale PS	1	Godamadiththa	20
+LG-23001	Kothmale PS	1	Nawathispane	21
+LG-23001	Kothmale PS	1	Ketabulawa	22
+LG-23001	Kothmale PS	1	Queensberry	23
+LG-23001	Kothmale PS	1	Rawanagoda	24
+LG-23001	Kothmale PS	1	Medakumbura	25
+LG-23001	Kothmale PS	1	Sheenwaththa	26
+LG-23001	Kothmale PS	1	Dunsinane	27
+LG-23001	Kothmale PS	1	Kudaoya	28
+LG-23002	Hanguranketha PS	1	Adikarigama	1
+LG-23002	Hanguranketha PS	1	Hakuruthale	2
+LG-23002	Hanguranketha PS	1	Malulla	3
+LG-23002	Hanguranketha PS	1	Sangarajagama	4
+LG-23002	Hanguranketha PS	1	Hanguranketha	5
+LG-23002	Hanguranketha PS	1	Unanthenna	6
+LG-23002	Hanguranketha PS	1	Rikillagaskada	7
+LG-23002	Hanguranketha PS	1	Madanwela	8
+LG-23002	Hanguranketha PS	1	Udawaththa	9
+LG-23002	Hanguranketha PS	1	Happawara	10
+LG-23002	Hanguranketha PS	1	Makuruppa	11
+LG-23002	Hanguranketha PS	1	Udalumada	12
+LG-23002	Hanguranketha PS	1	Poramadulla	13
+LG-23002	Hanguranketha PS	1	Gannewa	14
+LG-23002	Hanguranketha PS	1	Karamidula	15
+LG-23002	Hanguranketha PS	1	Rahathungoda	16
+LG-23002	Hanguranketha PS	1	Dehipe	17
+LG-23002	Hanguranketha PS	1	Idampitiya	18
+LG-23002	Hanguranketha PS	1	Muloya	19
+LG-23002	Hanguranketha PS	1	Hopewaththa	20
+LG-23002	Hanguranketha PS	1	Elamulla	21
+LG-23002	Hanguranketha PS	1	Mathurata	22
+LG-23002	Hanguranketha PS	1	Gonapitiya	23
+LG-23002	Hanguranketha PS	1	Mandaramnuwara	24
+LG-23003	Walapone PS	1	Pannala	1
+LG-23003	Walapone PS	1	Theripehe	2
+LG-23003	Walapone PS	1	Udamadura North	3
+LG-23003	Walapone PS	1	Kalaganwatta	4
+LG-23003	Walapone PS	1	Thibbatugoda	5
+LG-23003	Walapone PS	1	Kumbalgamuwa	6
+LG-23003	Walapone PS	1	Liyanwala	7
+LG-23003	Walapone PS	1	Landupita	8
+LG-23003	Walapone PS	1	Padiyapelella	9
+LG-23003	Walapone PS	1	Kurunduoya	10
+LG-23003	Walapone PS	2	Highforest	11
+LG-23003	Walapone PS	1	Walapane	12
+LG-23003	Walapone PS	1	Mahauvawaththa	13
+LG-23003	Walapone PS	1	Nildandahinna	14
+LG-23003	Walapone PS	1	Udamadura	15
+LG-23003	Walapone PS	1	Yatimadura	16
+LG-23003	Walapone PS	1	Madulla	17
+LG-23003	Walapone PS	1	Ambaliyadda	18
+LG-23003	Walapone PS	1	Kotambe	19
+LG-23003	Walapone PS	2	Harasbedda	20
+LG-23003	Walapone PS	2	Brookside	21
+LG-23003	Walapone PS	1	Ragala	22
+LG-23003	Walapone PS	2	Senarathpura	23
+LG-23003	Walapone PS	1	Kurupanawela	24
+LG-23003	Walapone PS	2	Udupussallawa	25
+LG-23003	Walapone PS	1	Delmar	26
+LG-23003	Walapone PS	1	St. Leonard	27
+LG-23003	Walapone PS	1	Ekangapura	28
+LG-31016	Galle MC	1	Gintota	1
+LG-31016	Galle MC	1	Dadella	2
+LG-31016	Galle MC	1	Boppe	3
+LG-31016	Galle MC	1	Kumbelwella	4
+LG-31016	Galle MC	1	Madewelamulla	5
+LG-31016	Galle MC	1	Deddugoda	6
+LG-31016	Galle MC	1	Maitipe	7
+LG-31016	Galle MC	1	Dangedara	8
+LG-31016	Galle MC	1	Bataganwila	9
+LG-31016	Galle MC	1	Sangamittapura	10
+LG-31016	Galle MC	1	Galwadugoda	11
+LG-31016	Galle MC	1	Kandewatta	12
+LG-31016	Galle MC	1	Kaluwella	13
+LG-31016	Galle MC	1	Galle Town	14
+LG-31016	Galle MC	1	Weliwatta	15
+LG-31016	Galle MC	1	Thalapitiya	16
+LG-31016	Galle MC	1	Makuluwa	17
+LG-31016	Galle MC	2	Milidduwa	18
+LG-31016	Galle MC	1	Magalla	19
+LG-31016	Galle MC	1	Katugoda	20
+LG-31011	Ambalangoda MC	1	Keraminiya	1
+LG-31011	Ambalangoda MC	1	Thalgasgoda	2
+LG-31011	Ambalangoda MC	1	Polwatta	3
+LG-31011	Ambalangoda MC	1	Kaluwadumulla	4
+LG-31011	Ambalangoda MC	1	Porambe	5
+LG-31011	Ambalangoda MC	1	Kariththakanda	6
+LG-31011	Ambalangoda MC	1	Heppumulla	7
+LG-31011	Ambalangoda MC	1	Patabedimulla	8
+LG-31011	Ambalangoda MC	1	Wilegoda	9
+LG-31011	Ambalangoda MC	1	Hirewatta	10
+LG-31011	Ambalangoda MC	1	Paniyanduwa	11
+LG-31011	Ambalangoda MC	1	Maha Ambalangoda	12
+LG-31014	Hikkaduwa UC	1	Hikkaduwa Nagarikaya	1
+LG-31014	Hikkaduwa UC	1	Hikkaduwa Central	2
+LG-31014	Hikkaduwa UC	1	Wawlagoda	3
+LG-31014	Hikkaduwa UC	1	Nalagasdeniya	4
+LG-31014	Hikkaduwa UC	1	Narigama	5
+LG-31014	Hikkaduwa UC	1	Thiranagama	6
+LG-31014	Hikkaduwa UC	1	Katukoliha	7
+LG-31014	Hikkaduwa UC	1	Pinkanda	8
+LG-31014	Hikkaduwa UC	1	Patuwata	9
+LG-31014	Hikkaduwa UC	1	Modara Patuwata	10
+LG-31014	Hikkaduwa UC	1	Dodanduwa	11
+LG-31002	Balapitiya PS	1	Boraluketiya	1
+LG-31002	Balapitiya PS	1	Nanatotapalatha	2
+LG-31002	Balapitiya PS	1	Kosgoda	3
+LG-31002	Balapitiya PS	1	Mahapitiya	4
+LG-31002	Balapitiya PS	1	Katuwila	5
+LG-31002	Balapitiya PS	1	Bogahapitiya	6
+LG-31002	Balapitiya PS	1	Ahungalla	7
+LG-31002	Balapitiya PS	1	Waturegama	8
+LG-31002	Balapitiya PS	1	Pathegangoda	9
+LG-31002	Balapitiya PS	1	Galmangoda	10
+LG-31002	Balapitiya PS	1	Brahmanawatta	11
+LG-31002	Balapitiya PS	1	Balapitiya	12
+LG-31002	Balapitiya PS	1	Heenatiya	13
+LG-31002	Balapitiya PS	1	Mahaladuwa	14
+LG-31002	Balapitiya PS	1	Watugedara	15
+LG-31002	Balapitiya PS	1	Andadola	16
+LG-31002	Balapitiya PS	1	Randombe	17
+LG-31002	Balapitiya PS	1	Wadumulla	18
+LG-31002	Balapitiya PS	1	Kandegoda	19
+LG-31012	Ambalangoda PS	1	Godahena	1
+LG-31012	Ambalangoda PS	1	Batapola North	2
+LG-31012	Ambalangoda PS	1	Batapola Central	3
+LG-31012	Ambalangoda PS	1	Batapola East	4
+LG-31012	Ambalangoda PS	1	Batapola West	5
+LG-31012	Ambalangoda PS	1	Nindana	6
+LG-31012	Ambalangoda PS	1	Meetiyagoda	7
+LG-31012	Ambalangoda PS	1	Karuwalabadda	8
+LG-31012	Ambalangoda PS	1	Aluthwala	9
+LG-31012	Ambalangoda PS	1	Berathuduwa	10
+LG-31012	Ambalangoda PS	1	Gonapeenuwala	11
+LG-31012	Ambalangoda PS	1	Arachchikanda	12
+LG-31010	Welivitiya-Divithura PS	1	Athkandura	1
+LG-31010	Welivitiya-Divithura PS	1	Thanabaddegama	2
+LG-31010	Welivitiya-Divithura PS	1	Nabaraatta	3
+LG-31010	Welivitiya-Divithura PS	1	Divithura	4
+LG-31010	Welivitiya-Divithura PS	1	Ampegama	5
+LG-31010	Welivitiya-Divithura PS	1	Galahenkanda	6
+LG-31010	Welivitiya-Divithura PS	1	Nugethota	7
+LG-31010	Welivitiya-Divithura PS	1	Agaliya	8
+LG-31010	Welivitiya-Divithura PS	1	Valiwitiya	9
+LG-31003	Karandeniya PS	1	Uragasmanghandiya North	1
+LG-31003	Karandeniya PS	1	Uragasmanghandiya South	2
+LG-31003	Karandeniya PS	1	Halgahawella	3
+LG-31003	Karandeniya PS	1	Hipankanda	4
+LG-31003	Karandeniya PS	1	Magala	5
+LG-31003	Karandeniya PS	1	Unagaswela	6
+LG-31003	Karandeniya PS	1	Mahaedanda	7
+LG-31003	Karandeniya PS	1	Thalagahawatta	8
+LG-31003	Karandeniya PS	1	Borakanda	9
+LG-31003	Karandeniya PS	1	Kurundugahahethekma	10
+LG-31003	Karandeniya PS	1	Galagoda Atta	11
+LG-31003	Karandeniya PS	1	Mahagoda	12
+LG-31001	Bentota PS	1	Yathramulla	1
+LG-31001	Bentota PS	1	Bodimaluwa	2
+LG-31001	Bentota PS	1	Dope	3
+LG-31001	Bentota PS	1	Haburugala	4
+LG-31001	Bentota PS	1	Elekaka	5
+LG-31001	Bentota PS	1	Mahagoda	6
+LG-31001	Bentota PS	1	Gongalapura	7
+LG-31001	Bentota PS	1	Athuruwella	8
+LG-31001	Bentota PS	1	Kaikawela	9
+LG-31001	Bentota PS	1	Warekamulla	10
+LG-31001	Bentota PS	1	Miriswatta	11
+LG-31001	Bentota PS	1	Rantotuvila	12
+LG-31001	Bentota PS	1	Ma‍ha‍Uragaha	13
+LG-31004	Elpitiya PS	1	Awittawa	1
+LG-31004	Elpitiya PS	1	Omaththa	2
+LG-31004	Elpitiya PS	1	Metiwiliya	3
+LG-31004	Elpitiya PS	1	Indipalegoda	4
+LG-31004	Elpitiya PS	1	Amugoda	5
+LG-31004	Elpitiya PS	1	Ketandola	6
+LG-31004	Elpitiya PS	1	Elpitiya	7
+LG-31004	Elpitiya PS	1	Nawadagala	8
+LG-31004	Elpitiya PS	1	Batuwanhena	9
+LG-31004	Elpitiya PS	1	Thalawa	10
+LG-31004	Elpitiya PS	1	Kudagala Kadirandola	11
+LG-31004	Elpitiya PS	1	Wallambagala	12
+LG-31004	Elpitiya PS	1	Pituwala	13
+LG-31004	Elpitiya PS	1	Ella	14
+LG-31004	Elpitiya PS	1	Ambana Kahadoowa	15
+LG-31004	Elpitiya PS	1	Pinikahana	16
+LG-31004	Elpitiya PS	1	Thibbotuwawa	17
+LG-31007	Neluwa PS	1	Koswatta	1
+LG-31007	Neluwa PS	1	Mawita	2
+LG-31007	Neluwa PS	1	Batuwangala	3
+LG-31007	Neluwa PS	1	Mawanana	4
+LG-31007	Neluwa PS	1	Neluwa	5
+LG-31007	Neluwa PS	1	Lelwala	6
+LG-31007	Neluwa PS	1	Panagoda	7
+LG-31007	Neluwa PS	1	Lankagama	8
+LG-31007	Neluwa PS	1	Dellawa	9
+LG-31007	Neluwa PS	1	Millawa	10
+LG-31006	Thawalama PS	1	Ela Ihala	1
+LG-31006	Thawalama PS	1	Habarakada West	2
+LG-31006	Thawalama PS	1	Thawalama	3
+LG-31006	Thawalama PS	1	Hiniduma	4
+LG-31006	Thawalama PS	1	Panangala West	5
+LG-31006	Thawalama PS	1	Thalangalla	6
+LG-31006	Thawalama PS	1	Halwitigala Colony	7
+LG-31006	Thawalama PS	1	Opatha	8
+LG-31006	Thawalama PS	1	Weerapana	9
+LG-31006	Thawalama PS	1	Panangala East	10
+LG-31008	Nagoda PS	1	Malamura	1
+LG-31008	Nagoda PS	1	Mapalagama	2
+LG-31008	Nagoda PS	1	Paranatanayamgoda	3
+LG-31008	Nagoda PS	1	Gammeddegoda	4
+LG-31008	Nagoda PS	1	Nagoda	5
+LG-31008	Nagoda PS	1	Udugama	6
+LG-31008	Nagoda PS	1	Homadola	7
+LG-31008	Nagoda PS	1	Aluthwatta	8
+LG-31008	Nagoda PS	1	Gonadeniya	9
+LG-31008	Nagoda PS	1	Udalamatta	10
+LG-31008	Nagoda PS	1	Keppitiyagoda	11
+LG-31008	Nagoda PS	1	Uda Welivitiya	12
+LG-31008	Nagoda PS	1	Unanvitiya	13
+LG-31008	Nagoda PS	1	Urala	14
+LG-31008	Nagoda PS	1	Yatalamatta	15
+LG-31005	Niyagama PS	1	Hattaka	1
+LG-31005	Niyagama PS	1	Pitigala	2
+LG-31005	Niyagama PS	1	Godamuna	3
+LG-31005	Niyagama PS	1	Bambarawana	4
+LG-31005	Niyagama PS	1	Weihena	5
+LG-31005	Niyagama PS	1	Naranovita	6
+LG-31005	Niyagama PS	1	Porawagama	7
+LG-31005	Niyagama PS	1	Poddiwala	8
+LG-31005	Niyagama PS	1	Niyagama	9
+LG-31005	Niyagama PS	1	Horangalla	10
+LG-31009	Baddegama PS	1	Halpathota	1
+LG-31009	Baddegama PS	1	Baddegama Town	2
+LG-31009	Baddegama PS	1	Nayapamula	3
+LG-31009	Baddegama PS	1	Hammaliya	4
+LG-31009	Baddegama PS	1	Lelwala	5
+LG-31009	Baddegama PS	1	Weihena	6
+LG-31009	Baddegama PS	1	Baddegama South	7
+LG-31009	Baddegama PS	1	Ganegama	8
+LG-31009	Baddegama PS	1	Keradewala Majuwana	9
+LG-31009	Baddegama PS	1	Ginimallagaha	10
+LG-31009	Baddegama PS	1	Thelikada	11
+LG-31009	Baddegama PS	1	Balagoda	12
+LG-31009	Baddegama PS	1	Andurathwila	13
+LG-31009	Baddegama PS	1	Pahala Keembiya	14
+LG-31009	Baddegama PS	1	Deiyandara	15
+LG-31009	Baddegama PS	1	Wanduramba	16
+LG-31009	Baddegama PS	1	Mabotuwana	17
+LG-31009	Baddegama PS	1	Pitiharawa	18
+LG-31009	Baddegama PS	1	Ihala Keembiya	19
+LG-31018	Yakkalamulla PS	1	Thellambura	1
+LG-31018	Yakkalamulla PS	1	Nakiyadeniya	2
+LG-31018	Yakkalamulla PS	1	Nabadawa	3
+LG-31018	Yakkalamulla PS	1	Yakkalamulla	4
+LG-31018	Yakkalamulla PS	1	Kottawa	5
+LG-31018	Yakkalamulla PS	1	Nevungala	6
+LG-31018	Yakkalamulla PS	1	Thalgampala	7
+LG-31018	Yakkalamulla PS	1	Polpagoda	8
+LG-31018	Yakkalamulla PS	1	Karagoda	9
+LG-31018	Yakkalamulla PS	1	Magedara	10
+LG-31018	Yakkalamulla PS	1	Uduwella	11
+LG-31018	Yakkalamulla PS	1	Walpola	12
+LG-31013	Rathgama PS	1	Urawatta	1
+LG-31013	Rathgama PS	1	Kuleegoda	2
+LG-31013	Rathgama PS	1	Madampagama	3
+LG-31013	Rathgama PS	1	Akurala	4
+LG-31013	Rathgama PS	1	Kahawa Weragoda	5
+LG-31013	Rathgama PS	1	Thelwatta	6
+LG-31013	Rathgama PS	1	Kalupe	7
+LG-31013	Rathgama PS	1	Thotagamuwa	8
+LG-31013	Rathgama PS	1	Katudampe	9
+LG-31013	Rathgama PS	1	Mawadavila	10
+LG-31013	Rathgama PS	1	Hegoda	11
+LG-31013	Rathgama PS	1	Maliduwa	12
+LG-31013	Rathgama PS	1	Ganegoda	13
+LG-31013	Rathgama PS	1	Bopagoda	14
+LG-31013	Rathgama PS	1	Rathgama	15
+LG-31013	Rathgama PS	1	Kapumulugoda	16
+LG-31013	Rathgama PS	1	Boossa	17
+LG-31017	Akmeemana PS	1	Akmeemana	1
+LG-31017	Akmeemana PS	1	Bandungoda	2
+LG-31017	Akmeemana PS	1	Ihalagoda	3
+LG-31017	Akmeemana PS	1	Ihalagoda Colony	4
+LG-31017	Akmeemana PS	1	Hiyare North	5
+LG-31017	Akmeemana PS	1	Hiyare East	6
+LG-31017	Akmeemana PS	1	Halgasmulla	7
+LG-31017	Akmeemana PS	1	Pinnaduwa	8
+LG-31017	Akmeemana PS	1	Walahanduwa	9
+LG-31017	Akmeemana PS	1	Anangoda	10
+LG-31017	Akmeemana PS	2	Haliwala	11
+LG-31017	Akmeemana PS	1	Yatagama	12
+LG-31017	Akmeemana PS	1	Melegoda	13
+LG-31017	Akmeemana PS	1	Pilana	14
+LG-31017	Akmeemana PS	1	Mataramba	15
+LG-31015	Bope-Poddala PS	1	Poddala	1
+LG-31015	Bope-Poddala PS	1	Narawala	2
+LG-31015	Bope-Poddala PS	1	Labuduwa	3
+LG-31015	Bope-Poddala PS	1	Uluvitike	4
+LG-31015	Bope-Poddala PS	1	Wackwella	5
+LG-31015	Bope-Poddala PS	1	Hapugala	6
+LG-31015	Bope-Poddala PS	1	Kurunduwatta	7
+LG-31015	Bope-Poddala PS	1	Welipitimodara	8
+LG-31015	Bope-Poddala PS	1	Kalegana	9
+LG-31015	Bope-Poddala PS	1	Kitulampitiya	10
+LG-31015	Bope-Poddala PS	1	Karapitiya	11
+LG-31015	Bope-Poddala PS	1	Kapuhempala	12
+LG-31019	Imaduwa PS	1	Bedipita	1
+LG-31019	Imaduwa PS	1	Kombala	2
+LG-31019	Imaduwa PS	1	Imaduwa	3
+LG-31019	Imaduwa PS	1	Dikkumbura	4
+LG-31019	Imaduwa PS	1	Thiththagalla	5
+LG-31019	Imaduwa PS	1	Dorape	6
+LG-31019	Imaduwa PS	1	Kahanda	7
+LG-31019	Imaduwa PS	1	Indurannavila	8
+LG-31019	Imaduwa PS	1	Andugoda	9
+LG-31019	Imaduwa PS	1	Kodagoda	10
+LG-31020	Habaraduwa PS	1	Unawatuna	1
+LG-31020	Habaraduwa PS	1	Maharamba	2
+LG-31020	Habaraduwa PS	1	Thalpe	3
+LG-31020	Habaraduwa PS	1	Dodampe	4
+LG-31020	Habaraduwa PS	1	Meepe	5
+LG-31020	Habaraduwa PS	1	Pitiduwa	6
+LG-31020	Habaraduwa PS	1	Harumalgoda	7
+LG-31020	Habaraduwa PS	1	Katukurunda	8
+LG-31020	Habaraduwa PS	1	Koggala	9
+LG-31020	Habaraduwa PS	1	Kathaluwa	10
+LG-31020	Habaraduwa PS	1	Welihengoda	11
+LG-31020	Habaraduwa PS	1	Meegahagoda	12
+LG-31020	Habaraduwa PS	1	Nakanda	13
+LG-31020	Habaraduwa PS	1	Thalduwa	14
+LG-31020	Habaraduwa PS	1	Ahangama	15
+LG-32015	Matara MC	1	Hiththetiya	1
+LG-32015	Matara MC	1	Hiththetiya East	2
+LG-32015	Matara MC	1	Thudawa	3
+LG-32015	Matara MC	1	Weheragampita	4
+LG-32015	Matara MC	1	Uyanwatta	5
+LG-32015	Matara MC	1	Kadeweediya	6
+LG-32015	Matara MC	1	Weliveriya	7
+LG-32015	Matara MC	1	Isadeeen Town	8
+LG-32015	Matara MC	1	Hiththetiya West	9
+LG-32015	Matara MC	1	Walgama North	10
+LG-32015	Matara MC	1	Madiha	11
+LG-32015	Matara MC	1	Walgama South	12
+LG-32015	Matara MC	1	Welegoda	13
+LG-32015	Matara MC	1	Polhena	14
+LG-32015	Matara MC	1	Thotamuna	15
+LG-32015	Matara MC	1	Kotuwegoda	16
+LG-32015	Matara MC	1	Meddawatte	17
+LG-32013	Weligama UC	1	Kohunugamuwa	1
+LG-32013	Weligama UC	1	Aluthweediya	2
+LG-32013	Weligama UC	1	Galbokka	3
+LG-32013	Weligama UC	1	Palana West	4
+LG-32013	Weligama UC	1	Parana Kade	5
+LG-32013	Weligama UC	1	Hettiweediya	6
+LG-32013	Weligama UC	1	Walliwala East	7
+LG-32013	Weligama UC	1	Walliwala West	8
+LG-32013	Weligama UC	1	Mahaweediya	9
+LG-32013	Weligama UC	1	Kapparathota South	10
+LG-32013	Weligama UC	1	Kapparathota North	11
+LG-32001	Pitabeddara PS	1	Kalubowitiyana	1
+LG-32001	Pitabeddara PS	1	Dangala	2
+LG-32001	Pitabeddara PS	1	Alapaladeniya	3
+LG-32001	Pitabeddara PS	1	Morawaka	4
+LG-32001	Pitabeddara PS	1	Rambukana East	5
+LG-32001	Pitabeddara PS	1	Kosnilgoda	6
+LG-32001	Pitabeddara PS	1	Derangala	7
+LG-32001	Pitabeddara PS	1	Pitabeddara	8
+LG-32001	Pitabeddara PS	1	Dankoluwa	9
+LG-32001	Pitabeddara PS	1	Siyambalagoda	10
+LG-32001	Pitabeddara PS	1	Elamaldeniya	11
+LG-32001	Pitabeddara PS	1	Dehigaspe	12
+LG-32002	Kotapola PS	1	Mederipitiya	1
+LG-32002	Kotapola PS	1	Kiriwaldola	2
+LG-32002	Kotapola PS	1	Kandilpana	3
+LG-32002	Kotapola PS	2	Thenipita	4
+LG-32002	Kotapola PS	1	Deniyaya	5
+LG-32002	Kotapola PS	1	Pallegama	6
+LG-32002	Kotapola PS	1	Kolawenigama	7
+LG-32002	Kotapola PS	1	Kotapola North	8
+LG-32002	Kotapola PS	1	Ilukpitiya	9
+LG-32002	Kotapola PS	1	Kotapola South	10
+LG-32002	Kotapola PS	1	Waralla	11
+LG-32002	Kotapola PS	1	Morawaka	12
+LG-32002	Kotapola PS	1	Horagala	13
+LG-32011	Kirinda Puhulwella PS	1	Puhulwella	1
+LG-32011	Kirinda Puhulwella PS	1	Galkanda	2
+LG-32011	Kirinda Puhulwella PS	1	Kirinda	3
+LG-32011	Kirinda Puhulwella PS	1	Hettiyawala	4
+LG-32011	Kirinda Puhulwella PS	1	Karathota	5
+LG-32011	Kirinda Puhulwella PS	1	Walakanda	6
+LG-32011	Kirinda Puhulwella PS	1	Wathukolakanda	7
+LG-32004	Mulatiyana PS	1	Gombaddala	1
+LG-32004	Mulatiyana PS	1	Mulatiyana	2
+LG-32004	Mulatiyana PS	1	Deyiyandara	3
+LG-32004	Mulatiyana PS	1	Ketiyape	4
+LG-32004	Mulatiyana PS	1	Dewalegama	5
+LG-32004	Mulatiyana PS	1	Pitawalgamuwa	6
+LG-32004	Mulatiyana PS	1	Radawela	7
+LG-32004	Mulatiyana PS	1	Seenipella	8
+LG-32004	Mulatiyana PS	1	Beragama	9
+LG-32004	Mulatiyana PS	1	Makandura	10
+LG-32004	Mulatiyana PS	1	Ransegoda	11
+LG-32004	Mulatiyana PS	1	Meepawita	12
+LG-32004	Mulatiyana PS	1	Bamunugama	13
+LG-32003	Pasgoda PS	1	Batandura	1
+LG-32003	Pasgoda PS	1	Vijayagama	2
+LG-32003	Pasgoda PS	1	Beralapanathara	3
+LG-32003	Pasgoda PS	1	Pattigala	4
+LG-32003	Pasgoda PS	1	Ginnaliya	5
+LG-32003	Pasgoda PS	1	Urubokka	6
+LG-32003	Pasgoda PS	1	Keeripitiya	7
+LG-32003	Pasgoda PS	1	Kirilipana	8
+LG-32003	Pasgoda PS	1	Bengamuwa	9
+LG-32003	Pasgoda PS	1	Dampahala	10
+LG-32003	Pasgoda PS	1	Heegoda	11
+LG-32003	Pasgoda PS	1	Pasgoda	12
+LG-32003	Pasgoda PS	1	Andaluwa	13
+LG-32003	Pasgoda PS	1	Rotumba	14
+LG-32003	Pasgoda PS	1	Panakaduwa	15
+LG-32003	Pasgoda PS	1	Mawarala	16
+LG-32005	Athuraliya PS	1	Urumuththa	1
+LG-32005	Athuraliya PS	1	Welihena	2
+LG-32005	Athuraliya PS	1	Porathota	3
+LG-32005	Athuraliya PS	1	Thalahagama	4
+LG-32005	Athuraliya PS	1	Wilpita East	5
+LG-32005	Athuraliya PS	1	Wilpita West	6
+LG-32005	Athuraliya PS	1	Godapitiya	7
+LG-32005	Athuraliya PS	1	Thibbotuwawa	8
+LG-32005	Athuraliya PS	1	Ihala Athuraliya	9
+LG-32005	Athuraliya PS	1	Pahala Athuraliya	10
+LG-32006	Akuressa PS	1	Dolamawatha	1
+LG-32006	Akuressa PS	1	Ehalape	2
+LG-32006	Akuressa PS	1	Ketanwila	3
+LG-32006	Akuressa PS	1	Weliketiya	4
+LG-32006	Akuressa PS	1	Lenama	5
+LG-32006	Akuressa PS	1	Maramba	6
+LG-32006	Akuressa PS	1	Peddapitiya	7
+LG-32006	Akuressa PS	1	Akuressa	8
+LG-32006	Akuressa PS	1	Iluppella	9
+LG-32006	Akuressa PS	1	Bopitiya	10
+LG-32006	Akuressa PS	1	Yakabedda	11
+LG-32006	Akuressa PS	1	Paraduwa	12
+LG-32006	Akuressa PS	1	Henegama	13
+LG-32006	Akuressa PS	1	Nimalawa	14
+LG-32008	Malimbada PS	1	Elgiriya	1
+LG-32008	Malimbada PS	1	Dampella	2
+LG-32008	Malimbada PS	1	Horagoda	3
+LG-32008	Malimbada PS	1	Thelijjawila	4
+LG-32008	Malimbada PS	1	Kadduwa	5
+LG-32008	Malimbada PS	1	Malimbada	6
+LG-32008	Malimbada PS	1	Kirimetimulla	7
+LG-32008	Malimbada PS	1	Akurugoda	8
+LG-32008	Malimbada PS	1	Sulthanagoda	9
+LG-32008	Malimbada PS	1	Malimbada- Galpamuna	10
+LG-32010	Hakmana PS	2	Denagama Mee ella	1
+LG-32010	Hakmana PS	1	Pananwela	2
+LG-32010	Hakmana PS	1	Wepathaira	3
+LG-32010	Hakmana PS	1	Narawelpita	4
+LG-32010	Hakmana PS	1	Ellewela	5
+LG-32010	Hakmana PS	1	Kongala	6
+LG-32010	Hakmana PS	1	Muruthamuraya	7
+LG-32010	Hakmana PS	1	Udupeellegoda	8
+LG-32010	Hakmana PS	1	Gangodagama	9
+LG-32009	Kamburupitiya PS	1	Gathara	1
+LG-32009	Kamburupitiya PS	1	Narandeniya	2
+LG-32009	Kamburupitiya PS	1	Karaputugala	3
+LG-32009	Kamburupitiya PS	1	Ullala	4
+LG-32009	Kamburupitiya PS	1	Kamburupitiya	5
+LG-32009	Kamburupitiya PS	1	Karagoda Uyangoda	6
+LG-32009	Kamburupitiya PS	1	Vitiyala	7
+LG-32009	Kamburupitiya PS	1	Mapalana	8
+LG-32009	Kamburupitiya PS	1	Kahagala	9
+LG-32009	Kamburupitiya PS	1	Urapola	10
+LG-32012	Thihagoda PS	1	Pahala Vitiyala	1
+LG-32012	Thihagoda PS	1	Thihagoda	2
+LG-32012	Thihagoda PS	1	Batuwita	3
+LG-32012	Thihagoda PS	1	Yatiyana	4
+LG-32012	Thihagoda PS	1	Kapuduwa	5
+LG-32012	Thihagoda PS	1	Naimbala	6
+LG-32012	Thihagoda PS	1	Kithalagama	7
+LG-32012	Thihagoda PS	1	Aththudawa	8
+LG-32012	Thihagoda PS	1	Nadugala	9
+LG-32012	Thihagoda PS	1	Palatuwa	10
+LG-32016	Devinuwara PS	1	Kadawadduwa	1
+LG-32016	Devinuwara PS	1	Uda Aparekka	2
+LG-32016	Devinuwara PS	1	Pathegama	3
+LG-32016	Devinuwara PS	1	Naotunna	4
+LG-32016	Devinuwara PS	1	Thalalla North	5
+LG-32016	Devinuwara PS	1	Thalalla	6
+LG-32016	Devinuwara PS	1	Kapugama	7
+LG-32016	Devinuwara PS	1	Kapugama West	8
+LG-32016	Devinuwara PS	1	Devinuwara	9
+LG-32016	Devinuwara PS	1	Devinuwara Point	10
+LG-32016	Devinuwara PS	1	Kapugama East	11
+LG-32016	Devinuwara PS	1	Gandara	12
+LG-32017	Dickwella PS	1	Dandeniya	1
+LG-32017	Dickwella PS	1	Urugamuwa	2
+LG-32017	Dickwella PS	1	Walasgala	3
+LG-32017	Dickwella PS	1	Dandeniya South	4
+LG-32017	Dickwella PS	1	Rathmale	5
+LG-32017	Dickwella PS	1	Belideniya	6
+LG-32017	Dickwella PS	1	Beliwatta	7
+LG-32017	Dickwella PS	1	Kottagoda	8
+LG-32017	Dickwella PS	1	Bambarenda	9
+LG-32017	Dickwella PS	1	Batheegama	10
+LG-32017	Dickwella PS	1	Waththegama	11
+LG-32017	Dickwella PS	1	Dickwella South	12
+LG-32017	Dickwella PS	1	Yonakapura	13
+LG-32017	Dickwella PS	1	Wewurukannala	14
+LG-32017	Dickwella PS	1	Dodampahala West	15
+LG-32017	Dickwella PS	1	Dodampahala East	16
+LG-32014	Matara PS	1	Kanaththagoda	1
+LG-32014	Matara PS	1	Wewahamanduwa	2
+LG-32014	Matara PS	1	Godagama	3
+LG-32014	Matara PS	1	Nawimana South	4
+LG-32014	Matara PS	1	Nawimana North	5
+LG-32014	Matara PS	1	Deeyagaha	6
+LG-32014	Matara PS	1	Kekanadura	7
+LG-32014	Matara PS	1	Kokawala	8
+LG-32014	Matara PS	1	Parawahera	9
+LG-32014	Matara PS	1	Bandaranayakepura	10
+LG-32014	Matara PS	1	Kekanadura Central	11
+LG-32014	Matara PS	1	Makawita	12
+LG-32014	Matara PS	1	Ruwanella	13
+LG-32014	Matara PS	1	Weherahena	14
+LG-32014	Matara PS	1	Wewaihalagoda	15
+LG-32014	Matara PS	1	Thalpawila	16
+LG-32014	Matara PS	1	Rassandeniya	17
+LG-32007	Weligama PS	1	Wahala Kananke	1
+LG-32007	Weligama PS	1	Puhulahena	2
+LG-32007	Weligama PS	1	Wellana	3
+LG-32007	Weligama PS	1	Kokmaduwa	4
+LG-32007	Weligama PS	1	Ibbawala	5
+LG-32007	Weligama PS	1	Pathegama	6
+LG-32007	Weligama PS	1	Midigama West	7
+LG-32007	Weligama PS	1	Midigama East	8
+LG-32007	Weligama PS	1	Mudugamuwa	9
+LG-32007	Weligama PS	1	Palalla	10
+LG-32007	Weligama PS	1	Welipitiya	11
+LG-32007	Weligama PS	1	Hallala	12
+LG-32007	Weligama PS	1	Udukawa	13
+LG-32007	Weligama PS	1	Jayawickramapura	14
+LG-32007	Weligama PS	1	Watagedarmulla	15
+LG-32007	Weligama PS	1	Denipitiya	16
+LG-32007	Weligama PS	1	Polwatta	17
+LG-32007	Weligama PS	1	Polatumodara	18
+LG-32007	Weligama PS	1	Warakapitiya	19
+LG-32007	Weligama PS	1	Kotawila	20
+LG-32007	Weligama PS	1	Kamburugamuwa	21
+LG-32007	Weligama PS	1	Henwala	22
+LG-32007	Weligama PS	1	Mirissa	23
+LG-32007	Weligama PS	1	Mirissa Udupila	24
+LG-32007	Weligama PS	1	Thalaramba	25
+LG-33005	Hambantota MC	1	Keliyapura	1
+LG-33005	Hambantota MC	1	Koholankala	2
+LG-33005	Hambantota MC	1	Mayurapura	3
+LG-33005	Hambantota MC	1	Galwala	4
+LG-33005	Hambantota MC	2	Siribopura	5
+LG-33005	Hambantota MC	2	Samodagama	6
+LG-33005	Hambantota MC	1	Mirijjawila	7
+LG-33005	Hambantota MC	1	Alokapura	8
+LG-33005	Hambantota MC	1	Indiwinna	9
+LG-33005	Hambantota MC	2	Hambantota Bazaar	10
+LG-33012	Tangalla UC	2	Danketiya North	1
+LG-33012	Tangalla UC	1	Danketiya South	2
+LG-33012	Tangalla UC	2	Medaketiya	3
+LG-33012	Tangalla UC	1	Indipokunagoda North	4
+LG-33012	Tangalla UC	1	Indipokunagoda Central	5
+LG-33012	Tangalla UC	1	Indipokunagoda South	6
+LG-33012	Tangalla UC	1	Kotuwegoda	7
+LG-33012	Tangalla UC	2	Pallikkudawa	8
+LG-33008	Weeraketiya PS	1	Julampitiya	1
+LG-33008	Weeraketiya PS	1	Galpottayaya	2
+LG-33008	Weeraketiya PS	1	Okandayaya	3
+LG-33008	Weeraketiya PS	1	Debokkawa	4
+LG-33008	Weeraketiya PS	1	Ambakolawewa	5
+LG-33008	Weeraketiya PS	1	Medamulana	6
+LG-33008	Weeraketiya PS	1	Meegasara	7
+LG-33008	Weeraketiya PS	2	Udukiriwala	8
+LG-33008	Weeraketiya PS	1	Bowala	9
+LG-33008	Weeraketiya PS	1	Galahitiya	10
+LG-33008	Weeraketiya PS	1	Iththademaliya	11
+LG-33008	Weeraketiya PS	1	Weeraketiya	12
+LG-33008	Weeraketiya PS	1	Bedigama	13
+LG-33008	Weeraketiya PS	1	Mulgirigala	14
+LG-33008	Weeraketiya PS	1	Modarawana	15
+LG-33008	Weeraketiya PS	1	Kadigamuwa	16
+LG-33008	Weeraketiya PS	1	Walasmulla	17
+LG-33008	Weeraketiya PS	1	Kanumuldeniya West	18
+LG-33008	Weeraketiya PS	1	Kanumuldeniya	19
+LG-33008	Weeraketiya PS	1	Kanumuldeniya South	20
+LG-33009	Katuwana PS	1	Gomadiya	1
+LG-33009	Katuwana PS	1	Siyarapitiya	2
+LG-33009	Katuwana PS	1	Ritigahayaya	3
+LG-33009	Katuwana PS	1	Welipitiya	4
+LG-33009	Katuwana PS	1	Middeniya	5
+LG-33009	Katuwana PS	1	Murungagasyaya	6
+LG-33009	Katuwana PS	1	Ulahitiyawa	7
+LG-33009	Katuwana PS	1	Horawinna	8
+LG-33009	Katuwana PS	1	Katuwana	9
+LG-33009	Katuwana PS	1	Wathukanda	10
+LG-33009	Katuwana PS	1	Walgammulla	11
+LG-33009	Katuwana PS	1	Namaneliya	12
+LG-33009	Katuwana PS	1	Welandagoda	13
+LG-33009	Katuwana PS	1	Warapitiya	14
+LG-33009	Katuwana PS	1	Dehigahahena	15
+LG-33009	Katuwana PS	1	Kekiriobada	16
+LG-33009	Katuwana PS	1	Horewela	17
+LG-33010	Beliatta PS	1	Tharaperiya	1
+LG-33010	Beliatta PS	1	Nihiluwa	2
+LG-33010	Beliatta PS	1	Dammulla	3
+LG-33010	Beliatta PS	1	Ihala Beligalla	4
+LG-33010	Beliatta PS	1	Agulmaduva	5
+LG-33010	Beliatta PS	1	Aranwela	6
+LG-33010	Beliatta PS	1	Waharakgoda	7
+LG-33010	Beliatta PS	1	Mahaheella	8
+LG-33010	Beliatta PS	1	Getamanna	9
+LG-33010	Beliatta PS	1	Kudaheella	10
+LG-33010	Beliatta PS	1	Beliatta	11
+LG-33010	Beliatta PS	1	Puwakdandawa	12
+LG-33010	Beliatta PS	1	Sitinaamaluwa	13
+LG-33010	Beliatta PS	1	Palapotha	14
+LG-33010	Beliatta PS	1	Nakulugamuwa	15
+LG-33010	Beliatta PS	1	Galagama	16
+LG-33011	Tangalla PS	1	Witharandeniya	1
+LG-33011	Tangalla PS	1	Pattiyapola	2
+LG-33011	Tangalla PS	1	Kattakaduwa	3
+LG-33011	Tangalla PS	1	Ranna	4
+LG-33011	Tangalla PS	1	Nidahasgama	5
+LG-33011	Tangalla PS	1	Rekawa	6
+LG-33011	Tangalla PS	1	Netolpitiya	7
+LG-33011	Tangalla PS	1	Walgameliya	8
+LG-33011	Tangalla PS	1	Thenagama	9
+LG-33011	Tangalla PS	1	Nalagama	10
+LG-33011	Tangalla PS	1	Polommaruwa	11
+LG-33011	Tangalla PS	1	Unakuruwa	12
+LG-33011	Tangalla PS	1	Kandurupokuna	13
+LG-33011	Tangalla PS	1	Seenimodara	14
+LG-33011	Tangalla PS	1	Kudawella	15
+LG-33011	Tangalla PS	1	Mahawela	16
+LG-33007	Angunakolapelessa PS	1	Talawa	1
+LG-33007	Angunakolapelessa PS	1	Dabarella	2
+LG-33007	Angunakolapelessa PS	1	Uswewa	3
+LG-33007	Angunakolapelessa PS	1	Binkama	4
+LG-33007	Angunakolapelessa PS	1	Dandenigama	5
+LG-33007	Angunakolapelessa PS	1	Angunakolapelessa	6
+LG-33007	Angunakolapelessa PS	1	Jandura	7
+LG-33007	Angunakolapelessa PS	1	Dahaamuna	8
+LG-33007	Angunakolapelessa PS	1	Hakuruwela	9
+LG-33007	Angunakolapelessa PS	1	Udayala	10
+LG-33007	Angunakolapelessa PS	1	Attanayala	11
+LG-33006	Ambalantota PS	1	Barawakumbuka	1
+LG-33006	Ambalantota PS	1	Ridiyagama	2
+LG-33006	Ambalantota PS	1	Koggalla	3
+LG-33006	Ambalantota PS	1	Walawewatta	4
+LG-33006	Ambalantota PS	1	Mamadala	5
+LG-33006	Ambalantota PS	1	Wetiya	6
+LG-33006	Ambalantota PS	1	Ethbatuwa	7
+LG-33006	Ambalantota PS	1	Mulana	8
+LG-33006	Ambalantota PS	1	Bataatha	9
+LG-33006	Ambalantota PS	1	Pallegama	10
+LG-33006	Ambalantota PS	1	Miniethiliya	11
+LG-33006	Ambalantota PS	1	Beminiyanwila	12
+LG-33006	Ambalantota PS	1	Malpettawa	13
+LG-33006	Ambalantota PS	1	Puhulyaya	14
+LG-33006	Ambalantota PS	1	Bolana	15
+LG-33006	Ambalantota PS	1	Ambalanthota	16
+LG-33006	Ambalantota PS	1	Nonagama	17
+LG-33006	Ambalantota PS	1	Lunama	18
+LG-33003	Tissamaharama PS	1	Pannagamuwa	1
+LG-33003	Tissamaharama PS	1	Vijithapura	2
+LG-33003	Tissamaharama PS	1	Debarawewa	3
+LG-33003	Tissamaharama PS	1	Gangasiripura	4
+LG-33003	Tissamaharama PS	1	Mahasenpura	5
+LG-33003	Tissamaharama PS	1	Kawanthissapura	6
+LG-33003	Tissamaharama PS	1	Kirinada	7
+LG-33003	Tissamaharama PS	1	Yodhakandiya	8
+LG-33003	Tissamaharama PS	1	Ranakeliya	9
+LG-33003	Tissamaharama PS	1	Magama	10
+LG-33003	Tissamaharama PS	1	Tissamaharama	11
+LG-33003	Tissamaharama PS	1	Nedigamwila	12
+LG-33003	Tissamaharama PS	1	Tissapura	13
+LG-33001	Sooriyawewa PS	1	Meegahajandura	1
+LG-33001	Sooriyawewa PS	1	Surawirugama	2
+LG-33001	Sooriyawewa PS	1	Sooriyawewa	3
+LG-33001	Sooriyawewa PS	1	Viharagala	4
+LG-33001	Sooriyawewa PS	1	Hathporuwa	5
+LG-33001	Sooriyawewa PS	1	Andarawewa	6
+LG-33004	Hambantota PS	1	Boondala	1
+LG-33004	Hambantota PS	1	Pallemalala	2
+LG-33004	Hambantota PS	1	Bandagiriya	3
+LG-33004	Hambantota PS	1	Gonnoruwa	4
+LG-33004	Hambantota PS	1	Arawanamulla	5
+LG-33004	Hambantota PS	1	Udaberagama	6
+LG-33004	Hambantota PS	1	Walawa	7
+LG-33004	Hambantota PS	1	Godawaya	8
+LG-33002	Lunugamvehera PS	1	Mattala	1
+LG-33002	Lunugamvehera PS	1	Ranawaranawa	2
+LG-33002	Lunugamvehera PS	1	Lunugamvehera New Town	3
+LG-33002	Lunugamvehera PS	1	Kendagasmankada	4
+LG-33002	Lunugamvehera PS	1	Beralihela	5
+LG-33002	Lunugamvehera PS	1	Saddhathissapura	6
+LG-33002	Lunugamvehera PS	1	Mihindupura	7
+LG-33002	Lunugamvehera PS	1	Weeravila New Town	8
+LG-33002	Lunugamvehera PS	1	Agbopura	9
+LG-33002	Lunugamvehera PS	1	Rambukwewa	10
+LG-41015	Jaffna MC	1	Vannarpannai North	1
+LG-41015	Jaffna MC	1	Kantharmadam North West	2
+LG-41015	Jaffna MC	1	Kantharmadam North East	3
+LG-41015	Jaffna MC	1	Nallur Irajathani	4
+LG-41015	Jaffna MC	1	Sangiliyan Thoppu	5
+LG-41015	Jaffna MC	1	Ariyalai	6
+LG-41015	Jaffna MC	1	Kalaimakal	7
+LG-41015	Jaffna MC	1	Kantharmadam South	8
+LG-41015	Jaffna MC	1	Iyanar Kovilady	9
+LG-41015	Jaffna MC	1	New Moor Street	10
+LG-41015	Jaffna MC	1	Navanthurai North	11
+LG-41015	Jaffna MC	1	Navanthurai South	12
+LG-41015	Jaffna MC	1	Old Moor Street	13
+LG-41015	Jaffna MC	1	Grand Bazaar	14
+LG-41015	Jaffna MC	1	Attiaddy	15
+LG-41015	Jaffna MC	1	Chundikuli Maruthady	16
+LG-41015	Jaffna MC	1	Ariyalai West	17
+LG-41015	Jaffna MC	1	Columbuthurai	18
+LG-41015	Jaffna MC	1	Passaiyoor	19
+LG-41015	Jaffna MC	1	Eachchamoddai	20
+LG-41015	Jaffna MC	1	Cathridral	21
+LG-41015	Jaffna MC	1	Thirunagar	22
+LG-41015	Jaffna MC	1	Gurunagar	23
+LG-41015	Jaffna MC	1	Jaffna Town	24
+LG-41015	Jaffna MC	1	Koddady Fort	25
+LG-41015	Jaffna MC	1	Reclamation West	26
+LG-41015	Jaffna MC	1	Reclamation East	27
+LG-41009	Valvettithurai UC	1	Thondamanaru	1
+LG-41009	Valvettithurai UC	1	Athiikovilady	2
+LG-41009	Valvettithurai UC	1	Revadi	3
+LG-41009	Valvettithurai UC	1	Polikandy	4
+LG-41009	Valvettithurai UC	1	Valvettithurai	5
+LG-41009	Valvettithurai UC	1	Sivan Koviladi	6
+LG-41009	Valvettithurai UC	1	Valvetty North	7
+LG-41009	Valvettithurai UC	1	Kommanthurai	8
+LG-41009	Valvettithurai UC	1	Mailiathanai	9
+LG-41011	Point Pedro UC	1	Thurraimuham	1
+LG-41011	Point Pedro UC	1	Point Pedro town	2
+LG-41011	Point Pedro UC	1	Munai	3
+LG-41011	Point Pedro UC	1	Thampuruvalai	4
+LG-41011	Point Pedro UC	1	Nellandai	5
+LG-41011	Point Pedro UC	1	Thumpalai	6
+LG-41011	Point Pedro UC	1	Puloly North	7
+LG-41011	Point Pedro UC	1	Odakkarai	8
+LG-41011	Point Pedro UC	1	Puloly Central	9
+LG-41013	Chavakachcheri UC	1	Kalvayal	1
+LG-41013	Chavakachcheri UC	1	Chavakachcheri North	2
+LG-41013	Chavakachcheri UC	1	Manduvil	3
+LG-41013	Chavakachcheri UC	1	Meesalai West	4
+LG-41013	Chavakachcheri UC	1	Meesalai East	5
+LG-41013	Chavakachcheri UC	1	Sangathanai	6
+LG-41013	Chavakachcheri UC	1	Chavakachcheri Town	7
+LG-41013	Chavakachcheri UC	1	Nunavil East - Central	8
+LG-41013	Chavakachcheri UC	1	Nunavil West	9
+LG-41013	Chavakachcheri UC	1	Kovilkudyiruppu - Sea	10
+LG-41013	Chavakachcheri UC	1	Kovilkudyiruppu - A (Land Side)	11
+LG-41002	Karainagar PS	1	Thangodai	1
+LG-41002	Karainagar PS	1	Aalady	2
+LG-41002	Karainagar PS	1	Valanthalai	3
+LG-41002	Karainagar PS	1	Kalapoomy	4
+LG-41002	Karainagar PS	1	Vijavil	5
+LG-41002	Karainagar PS	1	Thuraimugam	6
+LG-41001	Kayts PS	1	Eluvaitivu	1
+LG-41001	Kayts PS	1	Kayts	2
+LG-41001	Kayts PS	1	Naranthanai North	3
+LG-41001	Kayts PS	1	Naranthanai South	4
+LG-41001	Kayts PS	1	Karampon	5
+LG-41001	Kayts PS	1	Analaitivu North	6
+LG-41001	Kayts PS	1	Analaitivu South	7
+LG-41001	Kayts PS	1	Puliyankoodal	8
+LG-41017	Delft PS	1	Delft 01	1
+LG-41017	Delft PS	1	Delft 02	2
+LG-41017	Delft PS	1	Delft 03	3
+LG-41017	Delft PS	1	Delft 04	4
+LG-41017	Delft PS	1	Delft 05	5
+LG-41017	Delft PS	1	Delft 06	6
+LG-41017	Delft PS	1	Delft 07	7
+LG-41017	Delft PS	1	Delft 08	8
+LG-41016	Velanai PS	1	Saravanai	1
+LG-41016	Velanai PS	1	Velanai North East	2
+LG-41016	Velanai PS	1	Allaipiddy	3
+LG-41016	Velanai PS	1	Mandaitivu	4
+LG-41016	Velanai PS	1	Velanai East	5
+LG-41016	Velanai PS	1	Velanai South	6
+LG-41016	Velanai PS	1	Velanai West	7
+LG-41016	Velanai PS	1	Nainativu North	8
+LG-41016	Velanai PS	1	Nainativu South	9
+LG-41016	Velanai PS	1	Pungudutivu West	10
+LG-41016	Velanai PS	1	Pungudutivu East	11
+LG-41016	Velanai PS	1	Pungudutivu Central	12
+LG-41003	Valikamam West PS	1	Chulipuram West and Chulipuram Central	1
+LG-41003	Valikamam West PS	1	Chulipuram East	2
+LG-41003	Valikamam West PS	1	Pannakam - Pan​ippulam	3
+LG-41003	Valikamam West PS	1	Ponnalai	4
+LG-41003	Valikamam West PS	1	Tholpuram	5
+LG-41003	Valikamam West PS	1	Vaddukoddai East - Siththankerni	6
+LG-41003	Valikamam West PS	1	Chankanai West and Chankanai Central	7
+LG-41003	Valikamam West PS	1	Moolai	8
+LG-41003	Valikamam West PS	1	Vaddukoddai North and Vaddukoddai West	9
+LG-41003	Valikamam West PS	1	Chankanai East and Chankanai South	10
+LG-41003	Valikamam West PS	1	Sangarathai	11
+LG-41003	Valikamam West PS	1	Vaddukoddai South and Vaddukoddai South West	12
+LG-41003	Valikamam West PS	1	Arali West and Arali Central	13
+LG-41003	Valikamam West PS	1	Arali South	14
+LG-41003	Valikamam West PS	1	Arali East and Arali North	15
+LG-41005	Valikamam North PS	1	Ilavalai North West	1
+LG-41005	Valikamam North PS	1	Keerimalai	2
+LG-41005	Valikamam North PS	1	Kankesanturai	3
+LG-41005	Valikamam North PS	1	Thaiyitti	4
+LG-41005	Valikamam North PS	1	Mylitti	5
+LG-41005	Valikamam North PS	1	Palali West	6
+LG-41005	Valikamam North PS	1	Palali North	7
+LG-41005	Valikamam North PS	1	Palali South East	8
+LG-41005	Valikamam North PS	1	Mavai Viman Kamam	9
+LG-41005	Valikamam North PS	1	Kollan Kallady	10
+LG-41005	Valikamam North PS	1	Thellippalai South  West	11
+LG-41005	Valikamam North PS	1	Kumbalavelai	12
+LG-41005	Valikamam North PS	1	Thellippalai West	13
+LG-41005	Valikamam North PS	1	Waruththalaivilan	14
+LG-41005	Valikamam North PS	1	Vasavilan	15
+LG-41005	Valikamam North PS	1	Kurumbacitti Kattuvan	16
+LG-41005	Valikamam North PS	1	Tellippalai	17
+LG-41005	Valikamam North PS	1	Alawetti East	18
+LG-41005	Valikamam North PS	1	Alawetti South West	19
+LG-41005	Valikamam North PS	1	Mallakam	20
+LG-41005	Valikamam North PS	1	Mallakam South	21
+LG-41004	Valikamam South-West PS	1	Madagal	1
+LG-41004	Valikamam South-West PS	1	Elavalai	2
+LG-41004	Valikamam South-West PS	1	Periyavilan	3
+LG-41004	Valikamam South-West PS	1	Pandatharippu	4
+LG-41004	Valikamam South-West PS	1	Sillalai	5
+LG-41004	Valikamam South-West PS	1	Wadaliyadeppu	6
+LG-41004	Valikamam South-West PS	1	Piranpattrai	7
+LG-41004	Valikamam South-West PS	1	Makiyapitti Sandil	8
+LG-41004	Valikamam South-West PS	1	Sandilipay South West	9
+LG-41004	Valikamam South-West PS	1	Manipay North West	10
+LG-41004	Valikamam South-West PS	1	Nawaly North	11
+LG-41004	Valikamam South-West PS	1	Manipay South East	12
+LG-41004	Valikamam South-West PS	1	Sudumalai	13
+LG-41004	Valikamam South-West PS	1	Nawaly South East	14
+LG-41004	Valikamam South-West PS	1	Savatkadu	15
+LG-41004	Valikamam South-West PS	1	Uyarappulam	16
+LG-41004	Valikamam South-West PS	1	Anaikkotte	17
+LG-41006	Valikamam South PS	1	Erlalai North East	1
+LG-41006	Valikamam South PS	1	Erlalai West	2
+LG-41006	Valikamam South PS	1	Erlalai Central	3
+LG-41006	Valikamam South PS	1	Kuppilan	4
+LG-41006	Valikamam South PS	1	Punnalaikattuwan	5
+LG-41006	Valikamam South PS	1	Erlalai South	6
+LG-41006	Valikamam South PS	1	Chunnakam East	7
+LG-41006	Valikamam South PS	1	Chunnakam West	8
+LG-41006	Valikamam South PS	1	Kandarodai	9
+LG-41006	Valikamam South PS	1	Sanguveli	10
+LG-41006	Valikamam South PS	1	Uduvil North	11
+LG-41006	Valikamam South PS	1	Chunnakam South	12
+LG-41006	Valikamam South PS	1	Inuvil East	13
+LG-41006	Valikamam South PS	1	Uduvil South	14
+LG-41006	Valikamam South PS	1	Uduvil South East	15
+LG-41006	Valikamam South PS	1	Inuvil West	16
+LG-41006	Valikamam South PS	1	Thavadi North	17
+LG-41006	Valikamam South PS	1	Thavadi South	18
+LG-41007	Valikamam East PS	1	Walalai	1
+LG-41007	Valikamam East PS	1	Paththameni	2
+LG-41007	Valikamam East PS	1	Achchuvely West	3
+LG-41007	Valikamam East PS	1	Achchuvely South	4
+LG-41007	Valikamam East PS	1	Avarangall	5
+LG-41007	Valikamam East PS	1	Wadarawattai	6
+LG-41007	Valikamam East PS	1	Puttur East	7
+LG-41007	Valikamam East PS	1	Puttur West	8
+LG-41007	Valikamam East PS	1	Sirupiddi	9
+LG-41007	Valikamam East PS	1	Achchuveli	10
+LG-41007	Valikamam East PS	1	Urelu	11
+LG-41007	Valikamam East PS	1	Urumpirai North	12
+LG-41007	Valikamam East PS	1	Urumpirai East	13
+LG-41007	Valikamam East PS	1	Neerweli	14
+LG-41007	Valikamam East PS	1	Neerweli North	15
+LG-41007	Valikamam East PS	1	Kopay North	16
+LG-41007	Valikamam East PS	1	Urumpirai South	17
+LG-41007	Valikamam East PS	1	Urumpirai West	18
+LG-41007	Valikamam East PS	1	Kopay Central	19
+LG-41007	Valikamam East PS	1	Kopay South	20
+LG-41007	Valikamam East PS	1	Kalviyang Kadu	21
+LG-41007	Valikamam East PS	1	Irupalai	22
+LG-41008	Vadamaradchy South-West PS	1	Kambarmalai	1
+LG-41008	Vadamaradchy South-West PS	1	Walvetti	2
+LG-41008	Vadamaradchy South-West PS	1	Samarabahu	3
+LG-41008	Vadamaradchy South-West PS	1	Navindil	4
+LG-41008	Vadamaradchy South-West PS	1	Vadiri	5
+LG-41008	Vadamaradchy South-West PS	1	Alwai	6
+LG-41008	Vadamaradchy South-West PS	1	Aththai	7
+LG-41008	Vadamaradchy South-West PS	1	Nelliyady Town	8
+LG-41008	Vadamaradchy South-West PS	1	Imayanan	9
+LG-41008	Vadamaradchy South-West PS	1	Imayanan West	10
+LG-41008	Vadamaradchy South-West PS	1	Uduppidi	11
+LG-41008	Vadamaradchy South-West PS	1	Kalluwan Mandan	12
+LG-41008	Vadamaradchy South-West PS	1	Karanawai	13
+LG-41008	Vadamaradchy South-West PS	1	Uchchil Kappudu	14
+LG-41008	Vadamaradchy South-West PS	1	Karawetti North & West	15
+LG-41008	Vadamaradchy South-West PS	1	Karawetti	16
+LG-41008	Vadamaradchy South-West PS	1	Thunnalai	17
+LG-41008	Vadamaradchy South-West PS	1	Kattaiveli	18
+LG-41008	Vadamaradchy South-West PS	1	Thunnalai South & East	19
+LG-41010	Point Pedro PS	1	Kerudavil	1
+LG-41010	Point Pedro PS	1	Polikandi	2
+LG-41010	Point Pedro PS	1	Alwai North West	3
+LG-41010	Point Pedro PS	1	Viyaparimulai	4
+LG-41010	Point Pedro PS	1	Puloli West	5
+LG-41010	Point Pedro PS	1	Puloli East	6
+LG-41010	Point Pedro PS	1	Vallipuram Kovil	7
+LG-41010	Point Pedro PS	1	Kudaththanai	8
+LG-41010	Point Pedro PS	1	NagarKovil	9
+LG-41010	Point Pedro PS	1	Marudankeni	10
+LG-41010	Point Pedro PS	1	Uduththurai	11
+LG-41010	Point Pedro PS	1	Mulliyan	12
+LG-41012	Chavakachcheri PS	1	Warani	1
+LG-41012	Chavakachcheri PS	1	Nawatkadu Karambai	2
+LG-41012	Chavakachcheri PS	1	Manthuwil	3
+LG-41012	Chavakachcheri PS	1	Sarasalai	4
+LG-41012	Chavakachcheri PS	1	Madduwil North	5
+LG-41012	Chavakachcheri PS	1	Madduvil Chandirapuram	6
+LG-41012	Chavakachcheri PS	1	Kaithadi North	7
+LG-41012	Chavakachcheri PS	1	Kaithadi South	8
+LG-41012	Chavakachcheri PS	1	Madduvil Nunavil	9
+LG-41012	Chavakachcheri PS	1	Meesalai Ramavil	10
+LG-41012	Chavakachcheri PS	1	Kodikamam Metro	11
+LG-41012	Chavakachcheri PS	1	Usan Mirusuvil	12
+LG-41012	Chavakachcheri PS	1	Karambaham Elumadduval	13
+LG-41012	Chavakachcheri PS	1	Vidaththalpalai  Palavi	14
+LG-41012	Chavakachcheri PS	1	Kachchai Allarai	15
+LG-41012	Chavakachcheri PS	1	Thanankalappu  Marawanpulo	16
+LG-41012	Chavakachcheri PS	1	Nawatkuli	17
+LG-41014	Nallur PS	1	Karaikal	1
+LG-41014	Nallur PS	1	Kondawil North	2
+LG-41014	Nallur PS	1	Kondawil East	3
+LG-41014	Nallur PS	1	Kokuwil West	4
+LG-41014	Nallur PS	1	Keniyadi	5
+LG-41014	Nallur PS	1	Kokuwil Central	6
+LG-41014	Nallur PS	1	Kokuwil East	7
+LG-41014	Nallur PS	1	Thirunelweli Central	8
+LG-41014	Nallur PS	1	Thirunelweli	9
+LG-41014	Nallur PS	1	Kalwiyankadu South	10
+LG-41014	Nallur PS	1	Ariyalai East	11
+LG-41014	Nallur PS	1	Maniyam Thoattam	12
+LG-42002	Mannar UC	2	Eluththur	1
+LG-42002	Mannar UC	1	Chawatkattu	2
+LG-42002	Mannar UC	1	Southbar	3
+LG-42002	Mannar UC	1	Panankattikottu	4
+LG-42002	Mannar UC	1	Fort	5
+LG-42002	Mannar UC	2	Uppukulam	6
+LG-42002	Mannar UC	1	Pallimunai	7
+LG-42001	Mannar PS	1	Thalaimannar	1
+LG-42001	Mannar PS	1	Thalaimannar Pier East	2
+LG-42001	Mannar PS	1	Thullukudiyiruppu	3
+LG-42001	Mannar PS	1	Pesalei	4
+LG-42001	Mannar PS	1	Pesalai South	5
+LG-42001	Mannar PS	1	Sirithoppu	6
+LG-42001	Mannar PS	1	Pudukudiyiruppu	7
+LG-42001	Mannar PS	1	Erukkulampitti	8
+LG-42001	Mannar PS	1	Thalwupadu	9
+LG-42001	Mannar PS	1	Tharapuram	10
+LG-42001	Mannar PS	2	Uyilankulam	11
+LG-42004	Nanattan PS	1	Wankalai North	1
+LG-42004	Nanattan PS	1	Wankalai	2
+LG-42004	Nanattan PS	1	Nanattan	3
+LG-42004	Nanattan PS	2	Valkaipettankandal	4
+LG-42004	Nanattan PS	2	Ilahadippitti	5
+LG-42004	Nanattan PS	1	Murunkan	6
+LG-42004	Nanattan PS	1	Katkidanthakulam	7
+LG-42004	Nanattan PS	1	Oluwarayan Kattaiadampan	8
+LG-42005	Musali PS	1	Arippu East	1
+LG-42005	Musali PS	1	Arippu West	2
+LG-42005	Musali PS	1	Pandaraweli	3
+LG-42005	Musali PS	1	Puduweli	4
+LG-42005	Musali PS	1	Silawaththurai	5
+LG-42005	Musali PS	1	Ahathimurippu-Kulankulam	6
+LG-42005	Musali PS	1	Potkeni	7
+LG-42005	Musali PS	1	Maradamadu Veppankulam	8
+LG-42005	Musali PS	1	Kondachchi	9
+LG-42005	Musali PS	1	Palaikkuli	10
+LG-42003	Manthai West PS	1	Vellankulam	1
+LG-42003	Manthai West PS	1	Iluppaikkadawai	2
+LG-42003	Manthai West PS	1	Periyamadu	3
+LG-42003	Manthai West PS	2	Vidaththalthivu	4
+LG-42003	Manthai West PS	1	Nedunkandai	5
+LG-42003	Manthai West PS	1	Alkanddiveli	6
+LG-42003	Manthai West PS	1	Adampan	7
+LG-42003	Manthai West PS	2	Wattakandal	8
+LG-42003	Manthai West PS	1	Madu	9
+LG-42003	Manthai West PS	1	Iranaiiluppaikulam	10
+LG-42003	Manthai West PS	1	Kakayankulam	11
+LG-43004	Vavuniya UC	1	Thandikulam	1
+LG-43004	Vavuniya UC	2	Pattanichchipuliyankulam	2
+LG-43004	Vavuniya UC	1	Pandarikulam	3
+LG-43004	Vavuniya UC	1	Vairavapuliyankulam	4
+LG-43004	Vavuniya UC	1	Kudiyiruppu	5
+LG-43004	Vavuniya UC	1	Bazaar Street	6
+LG-43004	Vavuniya UC	2	Moonrumurippu	7
+LG-43004	Vavuniya UC	1	Rambaikulam	8
+LG-43004	Vavuniya UC	1	Sinnapudukulam	9
+LG-43004	Vavuniya UC	1	Kovilkulam	10
+LG-43001	Vavuniya North PS	1	Kanagarayankulam North Mannakulam	1
+LG-43001	Vavuniya North PS	1	Kanagarayankulam South	2
+LG-43001	Vavuniya North PS	1	Sinnaadampan Nainamaduwa	3
+LG-43001	Vavuniya North PS	1	Kulavisuddan Marailluppei	4
+LG-43001	Vavuniya North PS	1	Nedunkerny	5
+LG-43001	Vavuniya North PS	1	Olumadu Mamadu	6
+LG-43001	Vavuniya North PS	1	Puliyankulam North and South	7
+LG-43001	Vavuniya North PS	1	Paranthan Anandar Puliyankulam	8
+LG-43001	Vavuniya North PS	1	Unchalkatti Maruthodei	9
+LG-43001	Vavuniya North PS	1	Paddikudiyiruppu Katkulam	10
+LG-43001	Vavuniya North PS	1	Gajabapura Monarawewa	11
+LG-43001	Vavuniya North PS	1	Kalyanapura village	12
+LG-43001	Vavuniya North PS	1	Athawetunuwewa	13
+LG-43001	Vavuniya North PS	1	Sampath Nuwara	14
+LG-43005	Vengalacheddikulam PS	1	Periyathampanai-Piramanalkulam	1
+LG-43005	Vengalacheddikulam PS	2	Andiyapuliyankulam	2
+LG-43005	Vengalacheddikulam PS	1	Kurukkalpudukkulam-Kandasamy Nagar	3
+LG-43005	Vengalacheddikulam PS	1	Pavatkulam	4
+LG-43005	Vengalacheddikulam PS	1	Suduvendapulavu	5
+LG-43005	Vengalacheddikulam PS	1	Periyapuliyankulam	6
+LG-43005	Vengalacheddikulam PS	1	Mugaththankulam-Settikulam	7
+LG-43005	Vengalacheddikulam PS	1	Mudaliyarkulam-Kristavakulam	8
+LG-43005	Vengalacheddikulam PS	1	Neriyakulam	9
+LG-43005	Vengalacheddikulam PS	1	Sinnasippikulam	10
+LG-43003	Vavuniya South (Tamil) PS	1	Maradamadu	1
+LG-43003	Vavuniya South (Tamil) PS	1	Semamadu	2
+LG-43003	Vavuniya South (Tamil) PS	1	Ichchankulam	3
+LG-43003	Vavuniya South (Tamil) PS	1	Sasthrikulamkulam	4
+LG-43003	Vavuniya South (Tamil) PS	1	Poowarasankulam	5
+LG-43003	Vavuniya South (Tamil) PS	2	Salambeikulam	6
+LG-43003	Vavuniya South (Tamil) PS	1	Pampaimadu	7
+LG-43003	Vavuniya South (Tamil) PS	1	Marakkaranpalai	8
+LG-43003	Vavuniya South (Tamil) PS	1	Maharambeikulam	9
+LG-43003	Vavuniya South (Tamil) PS	2	Nelukkulam	10
+LG-43003	Vavuniya South (Tamil) PS	2	Kandapuram	11
+LG-43003	Vavuniya South (Tamil) PS	1	Samankulam	12
+LG-43003	Vavuniya South (Tamil) PS	1	Asikulam	13
+LG-43002	Vavuniya South (Sinhala) PS	2	Mamaduwa	1
+LG-43002	Vavuniya South (Sinhala) PS	1	Nedunkulama	2
+LG-43002	Vavuniya South (Sinhala) PS	1	Mahakachchikodiya	3
+LG-43002	Vavuniya South (Sinhala) PS	1	Madukanda	4
+LG-43002	Vavuniya South (Sinhala) PS	1	Avaranthulawa	5
+LG-43002	Vavuniya South (Sinhala) PS	1	Periyaulukulama	6
+LG-43002	Vavuniya South (Sinhala) PS	1	Eerattaperiyakulam	7
+LG-43002	Vavuniya South (Sinhala) PS	1	Alagalla	8
+LG-43002	Vavuniya South (Sinhala) PS	1	Maradammaduwa	9
+LG-44002	Manthai East PS	1	Vinayagapuram	1
+LG-44002	Manthai East PS	1	Karumpulliyan	2
+LG-44002	Manthai East PS	1	Pandiyamkulam	3
+LG-44002	Manthai East PS	1	Palinagar	4
+LG-44002	Manthai East PS	1	Oddaruththakulam	5
+LG-44002	Manthai East PS	1	Panankamam	6
+LG-44002	Manthai East PS	1	Selvapuram	7
+LG-44002	Manthai East PS	1	Naddankandal	8
+LG-44001	Thunukkai PS	1	Ampalaperumalkulam	1
+LG-44001	Thunukkai PS	1	Puttuwedduwan	2
+LG-44001	Thunukkai PS	1	Uyilankulam	3
+LG-44001	Thunukkai PS	1	Thunukkai	4
+LG-44001	Thunukkai PS	1	Mallavi	5
+LG-44001	Thunukkai PS	1	Anichchiyankulam	6
+LG-44001	Thunukkai PS	1	Yogapuram	7
+LG-44001	Thunukkai PS	1	Bharathinagar	8
+LG-44003	Puthukudiyiruppu PS	1	Vishwamadu	1
+LG-44003	Puthukudiyiruppu PS	1	Bharatheepuram	2
+LG-44003	Puthukudiyiruppu PS	1	Udayarkaddu	3
+LG-44003	Puthukudiyiruppu PS	1	Muppuram	4
+LG-44003	Puthukudiyiruppu PS	1	Kombavil	5
+LG-44003	Puthukudiyiruppu PS	1	Punithavalanagar	6
+LG-44003	Puthukudiyiruppu PS	1	Puthukudiyiruppu East	7
+LG-44003	Puthukudiyiruppu PS	1	Muththayankattu	8
+LG-44003	Puthukudiyiruppu PS	1	Pandarawanni	9
+LG-44003	Puthukudiyiruppu PS	1	Thanduwan	10
+LG-44003	Puthukudiyiruppu PS	1	Oddusuddan	11
+LG-44003	Puthukudiyiruppu PS	1	Thirumurukkandy	12
+LG-44004	Maritimepattu PS	1	Karikkaddumulai North	1
+LG-44004	Maritimepattu PS	1	Wattapalai	2
+LG-44004	Maritimepattu PS	1	Mullai Town	3
+LG-44004	Maritimepattu PS	1	Hijrapuram	4
+LG-44004	Maritimepattu PS	1	Mulliyawalai West	5
+LG-44004	Maritimepattu PS	1	Mulliyawalai East	6
+LG-44004	Maritimepattu PS	1	Thaniyuttu	7
+LG-44004	Maritimepattu PS	1	Kanukkarni	8
+LG-44004	Maritimepattu PS	1	Mullaiyoor	9
+LG-44004	Maritimepattu PS	1	Karikkaddumulai East	10
+LG-44004	Maritimepattu PS	1	Kumulamunai	11
+LG-44004	Maritimepattu PS	1	Karikkaddumulai South	12
+LG-44004	Maritimepattu PS	1	Welioya East	13
+LG-45001	Pachchilaipalli PS	1	Muhamalai	1
+LG-45001	Pachchilaipalli PS	1	Kilali	2
+LG-45001	Pachchilaipalli PS	1	Palai	3
+LG-45001	Pachchilaipalli PS	1	Thampalakamam	4
+LG-45001	Pachchilaipalli PS	1	Mullaiady	5
+LG-45001	Pachchilaipalli PS	1	Soranpattu	6
+LG-45001	Pachchilaipalli PS	1	Muhavil	7
+LG-45001	Pachchilaipalli PS	1	Mullipattu	8
+LG-45002	Karachchi PS	1	Paranthan	1
+LG-45002	Karachchi PS	1	Murasumotei	2
+LG-45002	Karachchi PS	1	Kandawalai	3
+LG-45002	Karachchi PS	1	Punnaineeravi	4
+LG-45002	Karachchi PS	1	Piramanthanaru	5
+LG-45002	Karachchi PS	1	Kalmadunagar	6
+LG-45002	Karachchi PS	1	Ramanathapuram	7
+LG-45002	Karachchi PS	1	Wattakkachchi	8
+LG-45002	Karachchi PS	1	Thiruwaiyaru	9
+LG-45002	Karachchi PS	1	Kilinochchi Town	10
+LG-45002	Karachchi PS	1	Ganeshapuram	11
+LG-45002	Karachchi PS	1	Periyaparanthan	12
+LG-45002	Karachchi PS	1	Uruththirapuram	13
+LG-45002	Karachchi PS	1	Akkarayan	14
+LG-45002	Karachchi PS	1	Wannerikkulam	15
+LG-45002	Karachchi PS	1	Konavil	16
+LG-45002	Karachchi PS	1	Selvanagar	17
+LG-45002	Karachchi PS	1	Udayanagar	18
+LG-45002	Karachchi PS	1	Krishnapuram	19
+LG-45002	Karachchi PS	1	Bharathipuram	20
+LG-45002	Karachchi PS	1	Kanahampikaikkulam	21
+LG-45003	Poonakary PS	1	Gowdarimunai	1
+LG-45003	Poonakary PS	1	Gnanimadam	2
+LG-45003	Poonakary PS	1	Pallikkudah	3
+LG-45003	Poonakary PS	1	Kollakurichchi	4
+LG-45003	Poonakary PS	1	Nallur	5
+LG-45003	Poonakary PS	1	Jeyapuram	6
+LG-45003	Poonakary PS	1	Ponnaveli	7
+LG-45003	Poonakary PS	1	Iranaithivu	8
+LG-45003	Poonakary PS	1	Pallavarayankattu	9
+LG-45003	Poonakary PS	1	Kariyalainagapaduvan	10
+LG-45003	Poonakary PS	1	Mulankavil	11
+LG-51006	Batticaloa MC	1	Amirthakali	1
+LG-51006	Batticaloa MC	1	Thiraimadu	2
+LG-51006	Batticaloa MC	1	Sathurukondan	3
+LG-51006	Batticaloa MC	1	Sinna Urani	4
+LG-51006	Batticaloa MC	1	Irudiyapuram	5
+LG-51006	Batticaloa MC	1	Karuwappankerni	6
+LG-51006	Batticaloa MC	1	Mamangam	7
+LG-51006	Batticaloa MC	1	Gnanasuriyam Square	8
+LG-51006	Batticaloa MC	1	Thandavanvali	9
+LG-51006	Batticaloa MC	1	Arasady	10
+LG-51006	Batticaloa MC	1	Periyauppodai	11
+LG-51006	Batticaloa MC	1	Thirichchandur	12
+LG-51006	Batticaloa MC	1	Kallady	13
+LG-51006	Batticaloa MC	1	Nochchimunai	14
+LG-51006	Batticaloa MC	1	Nawakkudai	15
+LG-51006	Batticaloa MC	1	Magnjanthoduvai	16
+LG-51006	Batticaloa MC	1	Puliyantheev	17
+LG-51006	Batticaloa MC	1	Puliyantheev South	18
+LG-51006	Batticaloa MC	1	Thirupperumthurai	19
+LG-51006	Batticaloa MC	1	Pudunagar	20
+LG-51005	Eravur UC	1	Elleinagar	1
+LG-51005	Eravur UC	1	Gifriya	2
+LG-51005	Eravur UC	1	Makkamady	3
+LG-51005	Eravur UC	1	Jamiul Akbar	4
+LG-51005	Eravur UC	1	Rifaipally	5
+LG-51005	Eravur UC	1	Palliadi	6
+LG-51005	Eravur UC	1	Rahumaniya	7
+LG-51005	Eravur UC	1	Arafa	8
+LG-51005	Eravur UC	1	Ottupalli	9
+LG-51005	Eravur UC	1	Kowilpuram	10
+LG-51008	Kattankudy UC	1	Baduriya	1
+LG-51008	Kattankudy UC	1	Al Aksa	2
+LG-51008	Kattankudy UC	1	Anwar	3
+LG-51008	Kattankudy UC	1	Nuraniya	4
+LG-51008	Kattankudy UC	1	Darusalam	5
+LG-51008	Kattankudy UC	1	Mavulana	6
+LG-51008	Kattankudy UC	1	Meera Palli	7
+LG-51008	Kattankudy UC	1	Hiluriya	8
+LG-51008	Kattankudy UC	1	Hasanath	9
+LG-51008	Kattankudy UC	1	Jamiul Lafireen	10
+LG-51002	Koralai Pattu West PS	1	Vadamunai	1
+LG-51002	Koralai Pattu West PS	1	Vahaneri	2
+LG-51002	Koralai Pattu West PS	1	Thiyavattavan	3
+LG-51002	Koralai Pattu West PS	1	Kadadasi Nagaram	4
+LG-51002	Koralai Pattu West PS	1	Oddamavady 1 North	5
+LG-51002	Koralai Pattu West PS	1	Oddamavady 1 South	6
+LG-51002	Koralai Pattu West PS	1	Oddamavady 2	7
+LG-51002	Koralai Pattu West PS	1	Oddamavady 3	8
+LG-51002	Koralai Pattu West PS	1	Miravodai West	9
+LG-51002	Koralai Pattu West PS	1	Miravodai East	10
+LG-51002	Koralai Pattu West PS	1	Mancholai	11
+LG-51004	Eravur Pattu PS	1	Tannamunai	1
+LG-51004	Eravur Pattu PS	1	Kudiirippu	2
+LG-51004	Eravur Pattu PS	1	Mirakerni	3
+LG-51004	Eravur Pattu PS	1	Michnagar	4
+LG-51004	Eravur Pattu PS	1	Ayyankerni Muslim	5
+LG-51004	Eravur Pattu PS	1	Talavai	6
+LG-51004	Eravur Pattu PS	1	Kaluwankerni	7
+LG-51004	Eravur Pattu PS	1	Sittandy East	8
+LG-51004	Eravur Pattu PS	1	Mavadivembu	9
+LG-51004	Eravur Pattu PS	1	Sittandy West	10
+LG-51004	Eravur Pattu PS	1	Vandarumulai	11
+LG-51004	Eravur Pattu PS	1	Kommaturai	12
+LG-51004	Eravur Pattu PS	1	Chenkalady	13
+LG-51004	Eravur Pattu PS	1	Pankudaveli	14
+LG-51004	Eravur Pattu PS	1	Eiralakulam	15
+LG-51004	Eravur Pattu PS	1	Karadiyanaru	16
+LG-51004	Eravur Pattu PS	1	Pullumalai	17
+LG-51004	Eravur Pattu PS	1	Gemunupura	18
+LG-51003	Koralai Pattu PS	1	Kudumbimalai	1
+LG-51003	Koralai Pattu PS	1	Koraveli	2
+LG-51003	Koralai Pattu PS	1	Valachchenai Muslim	3
+LG-51003	Koralai Pattu PS	1	Bayandurachchenai North	4
+LG-51003	Koralai Pattu PS	1	Valachchenai Tamil	5
+LG-51003	Koralai Pattu PS	1	Kalkudah	6
+LG-51003	Koralai Pattu PS	1	Kalmadu	7
+LG-51003	Koralai Pattu PS	1	Bayandurachchenai South	8
+LG-51003	Koralai Pattu PS	1	Semmanodai	9
+LG-51003	Koralai Pattu PS	1	Karuwakerni	10
+LG-51003	Koralai Pattu PS	1	Kinnaiady	11
+LG-51003	Koralai Pattu PS	1	Kiran	12
+LG-51003	Koralai Pattu PS	1	Sandively	13
+LG-51003	Koralai Pattu PS	1	Morokottanchenai	14
+LG-51001	Koralai Pattu North PS	2	Punani East	1
+LG-51001	Koralai Pattu North PS	1	Kadiraveli	2
+LG-51001	Koralai Pattu North PS	1	Puchakerni	3
+LG-51001	Koralai Pattu North PS	1	Palchenai	4
+LG-51001	Koralai Pattu North PS	1	Ampandanaweli	5
+LG-51001	Koralai Pattu North PS	1	Vaharai	6
+LG-51001	Koralai Pattu North PS	1	Uriyankattu	7
+LG-51001	Koralai Pattu North PS	1	Panichankerni	8
+LG-51001	Koralai Pattu North PS	1	Madurankernikulam	9
+LG-51001	Koralai Pattu North PS	1	Mankerni	10
+LG-51012	Manmunai South & Eruvil pattu PS	1	Kurukkalmadam	1
+LG-51012	Manmunai South & Eruvil pattu PS	1	Tettativu	2
+LG-51012	Manmunai South & Eruvil pattu PS	1	Kaludawalai North	3
+LG-51012	Manmunai South & Eruvil pattu PS	1	Kaludawalai South	4
+LG-51012	Manmunai South & Eruvil pattu PS	2	Kaluwanchikudy	5
+LG-51012	Manmunai South & Eruvil pattu PS	1	Eruvil	6
+LG-51012	Manmunai South & Eruvil pattu PS	1	Kurumanweli	7
+LG-51012	Manmunai South & Eruvil pattu PS	1	Mahilur	8
+LG-51012	Manmunai South & Eruvil pattu PS	1	Kottaikallar	9
+LG-51012	Manmunai South & Eruvil pattu PS	1	Periyakallar	10
+LG-51012	Manmunai South & Eruvil pattu PS	1	Turaineelavanai	11
+LG-51009	Manmunai Pattu PS	1	Arayampathy East	1
+LG-51009	Manmunai Pattu PS	1	Arayampadi West	2
+LG-51009	Manmunai Pattu PS	1	Kankeyanodai	3
+LG-51009	Manmunai Pattu PS	1	Arayampathy South	4
+LG-51009	Manmunai Pattu PS	1	Selvanagar	5
+LG-51009	Manmunai Pattu PS	1	Palamunai	6
+LG-51009	Manmunai Pattu PS	1	Manmunai	7
+LG-51009	Manmunai Pattu PS	1	Pudukudiiruppu	8
+LG-51009	Manmunai Pattu PS	1	Kirankulam North	9
+LG-51009	Manmunai Pattu PS	1	Kirankulam South	10
+LG-51007	Manmunai West PS	1	Mahilavaddavan	1
+LG-51007	Manmunai West PS	1	Ayiththiyamalai	2
+LG-51007	Manmunai West PS	1	Karavetti	3
+LG-51007	Manmunai West PS	1	Vilavettuvan	4
+LG-51007	Manmunai West PS	1	Vavunatheev	5
+LG-51007	Manmunai West PS	1	Kannankudah	6
+LG-51007	Manmunai West PS	1	Karayakanee	7
+LG-51007	Manmunai West PS	1	Kanchirankudah	8
+LG-51007	Manmunai West PS	1	Gandhinagar	9
+LG-51007	Manmunai West PS	1	Unnichchai	10
+LG-51010	Manmunai South-West PS	1	Ambalanturai	1
+LG-51010	Manmunai South-West PS	1	Kadukkamunai	2
+LG-51010	Manmunai South-West PS	1	Arasaditheeu	3
+LG-51010	Manmunai South-West PS	1	Mahiladitheev	4
+LG-51010	Manmunai South-West PS	1	Mudalaikkudah	5
+LG-51010	Manmunai South-West PS	1	Munaikkadu North	6
+LG-51010	Manmunai South-West PS	1	Munaikkadu South	7
+LG-51010	Manmunai South-West PS	1	Kokkadicholai	8
+LG-51010	Manmunai South-West PS	1	Pattipolai	9
+LG-51010	Manmunai South-West PS	1	Tantamalai	10
+LG-51011	Poratheevu Pattu PS	1	Tikkodai	1
+LG-51011	Poratheevu Pattu PS	1	Tumbankerni	2
+LG-51011	Poratheevu Pattu PS	1	Palugamam	3
+LG-51011	Poratheevu Pattu PS	1	munaithivu	4
+LG-51011	Poratheevu Pattu PS	1	Kovil Porathivu	5
+LG-51011	Poratheevu Pattu PS	1	Mandur	6
+LG-51011	Poratheevu Pattu PS	1	Vellaveli	7
+LG-51011	Poratheevu Pattu PS	1	Palaiadivettai	8
+LG-51011	Poratheevu Pattu PS	1	Sinnawatta	9
+LG-51011	Poratheevu Pattu PS	1	Tambalawatta	10
+LG-52009	Kalmunai MC	1	Ward 01	1
+LG-52009	Kalmunai MC	1	Ward 02	2
+LG-52009	Kalmunai MC	1	Ward 03	3
+LG-52009	Kalmunai MC	1	Ward 04	4
+LG-52009	Kalmunai MC	1	Ward 05	5
+LG-52009	Kalmunai MC	1	Ward 06	6
+LG-52009	Kalmunai MC	1	Ward 07	7
+LG-52009	Kalmunai MC	1	Ward 08	8
+LG-52009	Kalmunai MC	1	Ward 09	9
+LG-52009	Kalmunai MC	1	Ward 10	10
+LG-52009	Kalmunai MC	1	Ward 11	11
+LG-52009	Kalmunai MC	2	Ward 12	12
+LG-52009	Kalmunai MC	1	Ward 13	13
+LG-52009	Kalmunai MC	1	Ward 14	14
+LG-52009	Kalmunai MC	1	Ward 15	15
+LG-52009	Kalmunai MC	1	Ward 16	16
+LG-52009	Kalmunai MC	1	Ward 17	17
+LG-52009	Kalmunai MC	1	Ward 18	18
+LG-52009	Kalmunai MC	1	Ward 19	19
+LG-52009	Kalmunai MC	1	Ward 20	20
+LG-52009	Kalmunai MC	1	Ward 21	21
+LG-52009	Kalmunai MC	1	Ward 22	22
+LG-52009	Kalmunai MC	1	Ward 23	23
+LG-52015	Akkaraipattu MC	1	Akkaraipattu West	1
+LG-52015	Akkaraipattu MC	1	New Mosque	2
+LG-52015	Akkaraipattu MC	1	Technical College	3
+LG-52015	Akkaraipattu MC	1	Kadiriya - North	4
+LG-52015	Akkaraipattu MC	1	Kadiriya - South	5
+LG-52015	Akkaraipattu MC	1	Akkaraipattu East	6
+LG-52015	Akkaraipattu MC	1	Nooraniya	7
+LG-52015	Akkaraipattu MC	1	Badur	8
+LG-52015	Akkaraipattu MC	1	Akkaraipattu Town	9
+LG-52015	Akkaraipattu MC	1	Town Mosque	10
+LG-52015	Akkaraipattu MC	1	Grand Mosque	11
+LG-52015	Akkaraipattu MC	1	Falah	12
+LG-52006	Ampara UC	1	Rajawewa	1
+LG-52006	Ampara UC	1	Tissapura	2
+LG-52006	Ampara UC	1	Nawagampura	3
+LG-52006	Ampara UC	1	Gemunupura	4
+LG-52006	Ampara UC	1	Samapura	5
+LG-52006	Ampara UC	1	Indrasarapura	6
+LG-52006	Ampara UC	1	Jayawardenapura	7
+LG-52006	Ampara UC	1	Saddathissapura	8
+LG-52006	Ampara UC	1	Mihidupura	9
+LG-52006	Ampara UC	1	Senanayakepura	10
+LG-52001	Dehiattakandiya PS	1	Rathmalkandura	1
+LG-52001	Dehiattakandiya PS	1	Namalgama	2
+LG-52001	Dehiattakandiya PS	1	Ranhelagama	3
+LG-52001	Dehiattakandiya PS	1	Bakmeedeniya	4
+LG-52001	Dehiattakandiya PS	1	Dehiaththakandiya	5
+LG-52001	Dehiattakandiya PS	1	Kadirapura	6
+LG-52001	Dehiattakandiya PS	1	Mawanawela	7
+LG-52001	Dehiattakandiya PS	1	Kudagala	8
+LG-52001	Dehiattakandiya PS	1	Sooriyapokuna	9
+LG-52001	Dehiattakandiya PS	1	Mawanagama	10
+LG-52001	Dehiattakandiya PS	1	Nagaswewa	11
+LG-52001	Dehiattakandiya PS	1	Vijayapura	12
+LG-52001	Dehiattakandiya PS	1	Salpitigama	13
+LG-52001	Dehiattakandiya PS	1	Lihiniyagama	14
+LG-52001	Dehiattakandiya PS	1	Sandamadulla	15
+LG-52001	Dehiattakandiya PS	1	Uththalapura	16
+LG-52001	Dehiattakandiya PS	1	Sandunpura	17
+LG-52001	Dehiattakandiya PS	1	Kudagama	18
+LG-52001	Dehiattakandiya PS	1	Nawamedagama	19
+LG-52001	Dehiattakandiya PS	1	Wewgama	20
+LG-52001	Dehiattakandiya PS	2	Hennanigala	21
+LG-52001	Dehiattakandiya PS	1	Wewmedagama	22
+LG-52017	Damana PS	1	Uksiripura	1
+LG-52017	Damana PS	1	Hingurana	2
+LG-52017	Damana PS	1	Padagoda	3
+LG-52017	Damana PS	1	Pahalalanda	4
+LG-52017	Damana PS	1	Kethsirigama	5
+LG-52017	Damana PS	1	Vadinagala	6
+LG-52017	Damana PS	1	Damana	7
+LG-52017	Damana PS	1	Madawalalanda	8
+LG-52017	Damana PS	1	Thottama	9
+LG-52017	Damana PS	1	Pannalgama	10
+LG-52004	Uhana PS	1	Gonagolla	1
+LG-52004	Uhana PS	1	Nugelanda	2
+LG-52004	Uhana PS	1	Rajagalatenna	3
+LG-52004	Uhana PS	1	Galapitagala	4
+LG-52004	Uhana PS	1	Mayadunna	5
+LG-52004	Uhana PS	1	Veranketagoda	6
+LG-52004	Uhana PS	1	Bokkebedda	7
+LG-52004	Uhana PS	1	Mahakandiya	8
+LG-52004	Uhana PS	1	Himidurawa	9
+LG-52004	Uhana PS	1	Dematamalpelessa	10
+LG-52004	Uhana PS	1	Uhana	11
+LG-52004	Uhana PS	1	Tissapura	12
+LG-52004	Uhana PS	1	Veeragoda	13
+LG-52004	Uhana PS	1	Rajagama	14
+LG-52004	Uhana PS	1	Vijayapura	15
+LG-52004	Uhana PS	1	Dadayanthalawa	16
+LG-52004	Uhana PS	1	Ruhunugama	17
+LG-52003	Mahaoya PS	1	Unuwathura Bubula	1
+LG-52003	Mahaoya PS	1	Tempitiya	2
+LG-52003	Mahaoya PS	1	Samagipura	3
+LG-52003	Mahaoya PS	1	Mahaoya	4
+LG-52003	Mahaoya PS	1	Dambadeniya	5
+LG-52003	Mahaoya PS	1	Kekirihena	6
+LG-52003	Mahaoya PS	1	Kudaharasgala	7
+LG-52003	Mahaoya PS	1	Kelavinna	8
+LG-52003	Mahaoya PS	1	Aranthalawa	9
+LG-52003	Mahaoya PS	1	Pollebedda	10
+LG-52003	Mahaoya PS	1	Lahugala	11
+LG-52005	Namaloya PS	1	Dambethalawa	1
+LG-52005	Namaloya PS	1	Karangawa	2
+LG-52005	Namaloya PS	1	Galamaduwa	3
+LG-52005	Namaloya PS	1	Muwangala	4
+LG-52005	Namaloya PS	1	Kotawehara	5
+LG-52005	Namaloya PS	1	Paragahakele	6
+LG-52005	Namaloya PS	1	Ambagahawella	7
+LG-52005	Namaloya PS	1	Namal Oya	8
+LG-52005	Namaloya PS	1	Coconut Cultivation Colony	9
+LG-52005	Namaloya PS	1	Wavinna	10
+LG-52002	Padiyathalawa PS	1	Galoda	1
+LG-52002	Padiyathalawa PS	1	Palathuruwella	2
+LG-52002	Padiyathalawa PS	1	Serankada	3
+LG-52002	Padiyathalawa PS	1	Moradeniya	4
+LG-52002	Padiyathalawa PS	1	Saranagama	5
+LG-52002	Padiyathalawa PS	1	Padiyathalawa	6
+LG-52002	Padiyathalawa PS	1	Kirawana	7
+LG-52002	Padiyathalawa PS	1	Kehelulla	8
+LG-52002	Padiyathalawa PS	1	Holike	9
+LG-52002	Padiyathalawa PS	1	Kolamanthalawa	10
+LG-52002	Padiyathalawa PS	1	Komana	11
+LG-52002	Padiyathalawa PS	1	Marangala	12
+LG-52007	Navithanveli PS	1	Central Camp North	1
+LG-52007	Navithanveli PS	1	Chalambaikerny North	2
+LG-52007	Navithanveli PS	1	Navidanveli	3
+LG-52007	Navithanveli PS	1	Annamalai	4
+LG-52007	Navithanveli PS	1	Chalambaikerny Central	5
+LG-52007	Navithanveli PS	2	Central Camp	6
+LG-52007	Navithanveli PS	1	Sorikalmunai	7
+LG-52008	Sammanthurai PS	1	Malwatta	1
+LG-52008	Sammanthurai PS	3	Veeramunai	2
+LG-52008	Sammanthurai PS	1	Sinnapali	3
+LG-52008	Sammanthurai PS	1	Maddakalapu Tharavai	4
+LG-52008	Sammanthurai PS	1	Thaikkappakalli	5
+LG-52008	Sammanthurai PS	1	Sammanthurai	6
+LG-52008	Sammanthurai PS	1	Vilinayadi	7
+LG-52008	Sammanthurai PS	1	Malayadi	8
+LG-52008	Sammanthurai PS	1	Malkampitiya	9
+LG-52008	Sammanthurai PS	1	Walathapitiya	10
+LG-52013	Irakkamam PS	1	Varipathanchenai North	1
+LG-52013	Irakkamam PS	1	Irrakkamam Central	2
+LG-52013	Irakkamam PS	1	Irrakkamam North	3
+LG-52013	Irakkamam PS	1	Irrakkamam East	4
+LG-52013	Irakkamam PS	1	Irrakkamam West	5
+LG-52013	Irakkamam PS	2	Irrakkamam South	6
+LG-52013	Irakkamam PS	1	Varipathanchenai South	7
+LG-52014	Akkaraipattu PS	1	Alim Nagar	1
+LG-52014	Akkaraipattu PS	1	Iasankamchcheemai	2
+LG-52014	Akkaraipattu PS	1	Pallikudiyiruppu - North	3
+LG-52014	Akkaraipattu PS	1	Pallikudiyiruppu - South	4
+LG-52014	Akkaraipattu PS	1	Paddyadippiddy	5
+LG-52019	Pottuvil PS	1	Komari 01	1
+LG-52019	Pottuvil PS	1	Komari 02	2
+LG-52019	Pottuvil PS	1	Hidayapuram	3
+LG-52019	Pottuvil PS	1	Wiktarwatte	4
+LG-52019	Pottuvil PS	1	Waddiweli	5
+LG-52019	Pottuvil PS	1	Razzak Moulana Nagar	6
+LG-52019	Pottuvil PS	1	Sinna Puthukkudiyiruppu	7
+LG-52019	Pottuvil PS	1	Maturanchenai	8
+LG-52019	Pottuvil PS	1	Pottuvil Town	9
+LG-52019	Pottuvil PS	1	Kalappukaddu	10
+LG-52019	Pottuvil PS	1	Sarvodayapuram	11
+LG-52019	Pottuvil PS	1	Sinnullai	12
+LG-52012	Addalachchenai PS	1	Deeghawapiya	1
+LG-52012	Addalachchenai PS	1	Al - Hamra	2
+LG-52012	Addalachchenai PS	1	Al -Azhar	3
+LG-52012	Addalachchenai PS	1	Al - Hidaya	4
+LG-52012	Addalachchenai PS	1	Minhaj	5
+LG-52012	Addalachchenai PS	1	Arafa	6
+LG-52012	Addalachchenai PS	1	Al- Muneera	7
+LG-52012	Addalachchenai PS	1	Jumma Mosque	8
+LG-52012	Addalachchenai PS	1	Ikrah	9
+LG-52012	Addalachchenai PS	1	Thaikka Nagar	10
+LG-52012	Addalachchenai PS	1	Puraththoottam	11
+LG-52016	Alayadiwembu PS	1	Akkaraipattu A	1
+LG-52016	Alayadiwembu PS	1	Akkaraipattu B	2
+LG-52016	Alayadiwembu PS	1	Akkaraipattu D	3
+LG-52016	Alayadiwembu PS	1	Alayadiwembu	4
+LG-52016	Alayadiwembu PS	1	Kolavil C	5
+LG-52016	Alayadiwembu PS	1	Akkaraipattu C	6
+LG-52016	Alayadiwembu PS	1	Kolavil A	7
+LG-52016	Alayadiwembu PS	1	Kolavil B	8
+LG-52016	Alayadiwembu PS	1	Panagkadu	9
+LG-52016	Alayadiwembu PS	1	Kannahi Kiramam	10
+LG-52020	Lahugala PS	1	Kandahindagama	1
+LG-52020	Lahugala PS	1	Hulannuge	2
+LG-52020	Lahugala PS	1	Perani Lahugala	3
+LG-52020	Lahugala PS	1	Lahugala	4
+LG-52020	Lahugala PS	1	Dewalagoda	5
+LG-52020	Lahugala PS	1	Pansalgoda	6
+LG-52020	Lahugala PS	1	Panama West	7
+LG-52020	Lahugala PS	1	Shasthrawela	8
+LG-52020	Lahugala PS	1	Panama Central	9
+LG-52020	Lahugala PS	1	Panama North	10
+LG-52020	Lahugala PS	1	Panama South	11
+LG-52010	Karaitheevu PS	1	Maligaikadu East	1
+LG-52010	Karaitheevu PS	1	Maligaikadu West	2
+LG-52010	Karaitheevu PS	1	Karaitheevu North	3
+LG-52010	Karaitheevu PS	1	Karaitheevu West	4
+LG-52010	Karaitheevu PS	1	Mavadipalli	5
+LG-52010	Karaitheevu PS	1	Karaitheevu South	6
+LG-52010	Karaitheevu PS	1	Karaitheevu East	7
+LG-52011	Ninthavur PS	1	Manthottam	1
+LG-52011	Ninthavur PS	1	Meera Nagar	2
+LG-52011	Ninthavur PS	1	Vanniyarnagar	3
+LG-52011	Ninthavur PS	1	Central Part	4
+LG-52011	Ninthavur PS	1	Puthunagar	5
+LG-52011	Ninthavur PS	1	Nellithivu	6
+LG-52011	Ninthavur PS	1	Musthapapuram	7
+LG-52011	Ninthavur PS	1	Arasadi Nagar	8
+LG-52018	Thirukkovil PS	1	Thambette	1
+LG-52018	Thirukkovil PS	1	Thambiluvil North	2
+LG-52018	Thirukkovil PS	1	Thambiluvil East	3
+LG-52018	Thirukkovil PS	1	Thambiluvil West	4
+LG-52018	Thirukkovil PS	1	Thirukkovil West	5
+LG-52018	Thirukkovil PS	1	Thirukkovil East	6
+LG-52018	Thirukkovil PS	1	Vinayagapuram North	7
+LG-52018	Thirukkovil PS	1	Vinayagapuram East	8
+LG-52018	Thirukkovil PS	1	Vinayagapuram West	9
+LG-52018	Thirukkovil PS	1	Thandiadi	10
+LG-53006	Trincomalee UC	2	Murugapuri	1
+LG-53006	Trincomalee UC	2	Abayapura	2
+LG-53006	Trincomalee UC	1	Palayuththu	3
+LG-53006	Trincomalee UC	2	Singhapura	4
+LG-53006	Trincomalee UC	1	Thirukadaloor	5
+LG-53006	Trincomalee UC	1	Peruntheru	6
+LG-53006	Trincomalee UC	1	Sivapuri	7
+LG-53006	Trincomalee UC	1	Orr's Hill	8
+LG-53006	Trincomalee UC	1	Thillainagar	9
+LG-53006	Trincomalee UC	1	Sonagavadi	10
+LG-53006	Trincomalee UC	1	Manayaveli	11
+LG-53006	Trincomalee UC	1	Villundy	12
+LG-53010	Kinniya UC	1	Periyathumunei	1
+LG-53010	Kinniya UC	1	Kinniya	2
+LG-53010	Kinniya UC	1	Sinna Kinniya	3
+LG-53010	Kinniya UC	1	Manchola chennai	4
+LG-53010	Kinniya UC	1	Mancholai	5
+LG-53010	Kinniya UC	1	Annal Nagar	6
+LG-53010	Kinniya UC	1	Faizal Nagar	7
+LG-53010	Kinniya UC	1	Alankerny	8
+LG-53013	Verugal PS	1	Uppural	1
+LG-53013	Verugal PS	1	Ilangeithurei Muhaththuwaram	2
+LG-53013	Verugal PS	1	Karukkamunei	3
+LG-53013	Verugal PS	1	Punagar	4
+LG-53013	Verugal PS	1	Eachchalanpattu	5
+LG-53013	Verugal PS	1	Verugal Muhaththuwaram	6
+LG-53013	Verugal PS	1	Aneithive	7
+LG-53013	Verugal PS	1	Verugal	8
+LG-53012	Seruvila PS	1	Neelapola	1
+LG-53012	Seruvila PS	1	Nawakkenikadu	2
+LG-53012	Seruvila PS	1	Selvanagar	3
+LG-53012	Seruvila PS	1	Seruwila	4
+LG-53012	Seruvila PS	1	Dehiwatta	5
+LG-53012	Seruvila PS	1	Lingapuram	6
+LG-53012	Seruvila PS	1	Thanga Nagar	7
+LG-53012	Seruvila PS	1	Serunuwara	8
+LG-53012	Seruvila PS	1	Mahaweligama	9
+LG-53012	Seruvila PS	1	Somapura	10
+LG-53008	Kanthalai PS	1	Ganthalawa	1
+LG-53008	Kanthalai PS	1	Van Ela	2
+LG-53008	Kanthalai PS	1	Jayanthipura	3
+LG-53008	Kanthalai PS	1	Raja Ela	4
+LG-53008	Kanthalai PS	1	Vendrasanpura	5
+LG-53008	Kanthalai PS	1	Bathiyagama North	6
+LG-53008	Kanthalai PS	1	Bathiyagama South	7
+LG-53008	Kanthalai PS	1	Kanthale	8
+LG-53008	Kanthalai PS	1	Peraru West	9
+LG-53008	Kanthalai PS	1	Peraru East	10
+LG-53008	Kanthalai PS	1	Rajawewa	11
+LG-53008	Kanthalai PS	1	Batukachchiya	12
+LG-53008	Kanthalai PS	1	Agbopura	13
+LG-53004	Morawewa PS	1	Namal Watta	1
+LG-53004	Morawewa PS	1	Morawewa North	2
+LG-53004	Morawewa PS	1	Pankulama	3
+LG-53004	Morawewa PS	2	Nochchikulama	4
+LG-53004	Morawewa PS	1	Mahadiulwewa Stage 02	5
+LG-53004	Morawewa PS	1	Mahadiulwewa Stage 01 North	6
+LG-53004	Morawewa PS	1	Ethabandiwewa	7
+LG-53004	Morawewa PS	1	Rota Wewa	8
+LG-53004	Morawewa PS	1	Mahadiulwewa stage 1 South	9
+LG-53003	Gomarankadawala PS	1	PamburugasWewa	1
+LG-53003	Gomarankadawala PS	1	Maila Wewa	2
+LG-53003	Gomarankadawala PS	1	Kivulakadawala	3
+LG-53003	Gomarankadawala PS	1	Medawachchiya	4
+LG-53003	Gomarankadawala PS	1	Galkadawala	5
+LG-53003	Gomarankadawala PS	1	Bakmeegama	6
+LG-53003	Gomarankadawala PS	1	Pulikandikulama	7
+LG-53003	Gomarankadawala PS	1	Kalyanapura	8
+LG-53003	Gomarankadawala PS	1	Gomarankadawala	9
+LG-53003	Gomarankadawala PS	1	Kandamalawa	10
+LG-53001	Padavi Sri Pura PS	1	Sewa Janapadaya	1
+LG-53001	Padavi Sri Pura PS	1	Gamunupura	2
+LG-53001	Padavi Sri Pura PS	1	Kavanthissapura	3
+LG-53001	Padavi Sri Pura PS	1	Lassanagama	4
+LG-53001	Padavi Sri Pura PS	1	Singhapura	5
+LG-53001	Padavi Sri Pura PS	1	Samanpura	6
+LG-53001	Padavi Sri Pura PS	1	Srithissapura	7
+LG-53001	Padavi Sri Pura PS	1	Sripura	8
+LG-53001	Padavi Sri Pura PS	1	Jayanthi Wewa	9
+LG-53001	Padavi Sri Pura PS	1	Parana Madawachchiya	10
+LG-53005	Trincomalee Town and Gravets PS	1	Sampalthivu	1
+LG-53005	Trincomalee Town and Gravets PS	2	Puliyankulam	2
+LG-53005	Trincomalee Town and Gravets PS	2	Anbuwelipuram	3
+LG-53005	Trincomalee Town and Gravets PS	1	Andamkulam	4
+LG-53005	Trincomalee Town and Gravets PS	1	Kanniya	5
+LG-53005	Trincomalee Town and Gravets PS	1	Kappalthurai	6
+LG-53005	Trincomalee Town and Gravets PS	1	Kavatkudah	7
+LG-53005	Trincomalee Town and Gravets PS	2	Vellamanal	8
+LG-53002	Kuchchaveli PS	1	Thennamaranvady	1
+LG-53002	Kuchchaveli PS	1	Pulmoddai	2
+LG-53002	Kuchchaveli PS	1	Arafathnagar	3
+LG-53002	Kuchchaveli PS	1	Thiriyayai	4
+LG-53002	Kuchchaveli PS	1	Jayanagar	5
+LG-53002	Kuchchaveli PS	1	Kuchchaveli	6
+LG-53002	Kuchchaveli PS	1	Kumburupiddy	7
+LG-53002	Kuchchaveli PS	1	Irakkandy	8
+LG-53002	Kuchchaveli PS	1	Nilaveli	9
+LG-53002	Kuchchaveli PS	1	Iqbalnagar	10
+LG-53007	Thambalagamuwa PS	1	Galmetiyawa North	1
+LG-53007	Thambalagamuwa PS	1	Thambalagamuwa	2
+LG-53007	Thambalagamuwa PS	1	Pokkuruni	3
+LG-53007	Thambalagamuwa PS	1	Meeranagar	4
+LG-53007	Thambalagamuwa PS	1	Sirajnagar	5
+LG-53007	Thambalagamuwa PS	1	Galmetiyawa South	6
+LG-53007	Thambalagamuwa PS	1	Mollipothana North	7
+LG-53007	Thambalagamuwa PS	1	Mollipothana East	8
+LG-53007	Thambalagamuwa PS	1	Mollipothana	9
+LG-53007	Thambalagamuwa PS	1	Mollipothana South	10
+LG-53011	Muttur PS	1	Sampoor	1
+LG-53011	Muttur PS	1	Kattaparichchan	2
+LG-53011	Muttur PS	1	Neidalnagar	3
+LG-53011	Muttur PS	1	Akkaraichenai	4
+LG-53011	Muttur PS	1	Muttur	5
+LG-53011	Muttur PS	1	Jayanagar	6
+LG-53011	Muttur PS	1	Periyapalam	7
+LG-53011	Muttur PS	1	Iruthayapuram	8
+LG-53011	Muttur PS	1	Kiliveddi	9
+LG-53011	Muttur PS	1	Palathopur	10
+LG-53011	Muttur PS	1	Thopoor	11
+LG-53011	Muttur PS	1	Allainagar	12
+LG-53011	Muttur PS	1	Pallikudirippu	13
+LG-53009	Kinniya PS	1	Muneichenei	1
+LG-53009	Kinniya PS	1	Kurinchankeni	2
+LG-53009	Kinniya PS	1	Kakkamunei	3
+LG-53009	Kinniya PS	1	Surangal	4
+LG-53009	Kinniya PS	1	Naduuththu	5
+LG-53009	Kinniya PS	1	Maharoofgramam	6
+LG-53009	Kinniya PS	1	Puvaransanthivu	7
+LG-53009	Kinniya PS	1	Ayiliadi	8
+LG-61012	Kurunegala MC	1	Gangoda	1
+LG-61012	Kurunegala MC	1	Angangala	2
+LG-61012	Kurunegala MC	1	Uthuruwewa	3
+LG-61012	Kurunegala MC	1	Maliga Place	4
+LG-61012	Kurunegala MC	1	Kurunegala Town - East	5
+LG-61012	Kurunegala MC	1	Gettuwana	6
+LG-61012	Kurunegala MC	1	Madamegama	7
+LG-61012	Kurunegala MC	1	Ilupugedera	8
+LG-61012	Kurunegala MC	1	Malkaduwawa Nagarikeya	9
+LG-61012	Kurunegala MC	1	Wehera Nagarikaya	10
+LG-61012	Kurunegala MC	1	Jayanthipura	11
+LG-61012	Kurunegala MC	1	Udawalpola	12
+LG-61012	Kurunegala MC	1	Teliyagonna	13
+LG-61017	Kuliyapitiya UC	1	Meegahakotuwa	1
+LG-61017	Kuliyapitiya UC	1	Kanadulla	2
+LG-61017	Kuliyapitiya UC	1	Dandagamuwa	3
+LG-61017	Kuliyapitiya UC	1	Kadurugashena	4
+LG-61017	Kuliyapitiya UC	1	Kuliyapitiya Town	5
+LG-61017	Kuliyapitiya UC	2	Pallapitiya	6
+LG-61017	Kuliyapitiya UC	1	Meksiwatta	7
+LG-61017	Kuliyapitiya UC	1	Labuyaya	8
+LG-61017	Kuliyapitiya UC	1	Assadduma	9
+LG-61001	Giribawa PS	1	Jayanthipura	1
+LG-61001	Giribawa PS	1	Perakumpura	2
+LG-61001	Giribawa PS	1	Darmarajapura	3
+LG-61001	Giribawa PS	1	Hasthirajapura	4
+LG-61001	Giribawa PS	1	Saliya Asokapura	5
+LG-61001	Giribawa PS	1	Giribawa	6
+LG-61001	Giribawa PS	1	Dewpura	7
+LG-61001	Giribawa PS	1	Warawewa	8
+LG-61001	Giribawa PS	1	Rohanapura	9
+LG-61001	Giribawa PS	1	Sheilepura	10
+LG-61002	Galgamuwa PS	1	Jayabima	1
+LG-61002	Galgamuwa PS	1	Usgala Siyambalangamuwa	2
+LG-61002	Galgamuwa PS	1	Maithrisenpura	3
+LG-61002	Galgamuwa PS	1	Buduruwakanda	4
+LG-61002	Galgamuwa PS	1	Neelagiri	5
+LG-61002	Galgamuwa PS	1	Mahananneriya	6
+LG-61002	Galgamuwa PS	1	Mahathorawa	7
+LG-61002	Galgamuwa PS	1	Nahettikulama	8
+LG-61002	Galgamuwa PS	1	Galgamuwa Town	9
+LG-61002	Galgamuwa PS	1	Maha Galgamuwa	10
+LG-61002	Galgamuwa PS	1	Mahasenpura	11
+LG-61002	Galgamuwa PS	1	Govigampura	12
+LG-61002	Galgamuwa PS	1	Resweherapura	13
+LG-61002	Galgamuwa PS	1	Divulgane	14
+LG-61002	Galgamuwa PS	1	Gallewa	15
+LG-61002	Galgamuwa PS	1	Dewagiripura	16
+LG-61002	Galgamuwa PS	1	Ataragalla	17
+LG-61002	Galgamuwa PS	1	Ehetuwewa	18
+LG-61002	Galgamuwa PS	1	Embogama	19
+LG-61005	Polpithigama PS	1	Kumbukkadewela	1
+LG-61005	Polpithigama PS	1	Moragollagama	2
+LG-61005	Polpithigama PS	1	Nikawewa	3
+LG-61005	Polpithigama PS	1	Madagalla	4
+LG-61005	Polpithigama PS	1	Hathigamuwa	5
+LG-61005	Polpithigama PS	1	Polpithigama	6
+LG-61005	Polpithigama PS	1	Agodagama	7
+LG-61005	Polpithigama PS	1	Thalakolawewa	8
+LG-61005	Polpithigama PS	1	Pothuwila	9
+LG-61005	Polpithigama PS	1	Makulpotha	10
+LG-61005	Polpithigama PS	1	Maeliya	11
+LG-61005	Polpithigama PS	1	Koruwawa	12
+LG-61005	Polpithigama PS	1	Ambagaswewa	13
+LG-61005	Polpithigama PS	1	Kalugalla	14
+LG-61005	Polpithigama PS	1	Doraweruwa	15
+LG-61005	Polpithigama PS	1	Moroththa	16
+LG-61005	Polpithigama PS	1	Pansiyagama	17
+LG-61005	Polpithigama PS	1	Madahapola	18
+LG-61004	Nikaweratiya PS	1	Aluthgama	1
+LG-61004	Nikaweratiya PS	1	Kumbukwewa	2
+LG-61004	Nikaweratiya PS	1	Meewellewa	3
+LG-61004	Nikaweratiya PS	1	Kotawehera	4
+LG-61004	Nikaweratiya PS	1	Ambale	5
+LG-61004	Nikaweratiya PS	1	Koralayagama	6
+LG-61004	Nikaweratiya PS	1	Thumbulla	7
+LG-61004	Nikaweratiya PS	1	Kandegedara	8
+LG-61004	Nikaweratiya PS	1	Sirisethagama	9
+LG-61004	Nikaweratiya PS	1	Dalukgolla	10
+LG-61004	Nikaweratiya PS	1	Randenigama	11
+LG-61004	Nikaweratiya PS	1	Hawanpelessa	12
+LG-61004	Nikaweratiya PS	1	Unagolla	13
+LG-61004	Nikaweratiya PS	1	Rasnayakapura	14
+LG-61004	Nikaweratiya PS	1	Kadigawa	15
+LG-61004	Nikaweratiya PS	1	Nammuwawa	16
+LG-61004	Nikaweratiya PS	1	Heelogama	17
+LG-61004	Nikaweratiya PS	1	Nikaweratiya North	18
+LG-61004	Nikaweratiya PS	1	Nikaweratiya South	19
+LG-61004	Nikaweratiya PS	1	Katagamuwa	20
+LG-61004	Nikaweratiya PS	1	Kiridigalla	21
+LG-61008	Kobeigane PS	1	Boraluwewa	1
+LG-61008	Kobeigane PS	1	Hathalawa	2
+LG-61008	Kobeigane PS	1	Hengamuwa	3
+LG-61008	Kobeigane PS	1	Vithikuliya	4
+LG-61008	Kobeigane PS	1	Pannawa	5
+LG-61008	Kobeigane PS	1	Walaswewa	6
+LG-61008	Kobeigane PS	1	Alahenegama	7
+LG-61008	Kobeigane PS	1	Kobeigane	8
+LG-61008	Kobeigane PS	1	Baladora	9
+LG-61008	Kobeigane PS	1	Bamunugama	10
+LG-61003	Maho PS	1	Kasikotte	1
+LG-61003	Maho PS	1	Ranoruwa	2
+LG-61003	Maho PS	1	Ambanpola	3
+LG-61003	Maho PS	1	Abakolawewa	4
+LG-61003	Maho PS	1	Kettapahuwa	5
+LG-61003	Maho PS	1	Walaliya	6
+LG-61003	Maho PS	1	Ipalogama	7
+LG-61003	Maho PS	1	Daladagama	8
+LG-61003	Maho PS	2	Mahawa	9
+LG-61003	Maho PS	1	Thumbullegama	10
+LG-61003	Maho PS	1	Ihalagama	11
+LG-61003	Maho PS	1	Konwewa	12
+LG-61003	Maho PS	1	Yapahuwa	13
+LG-61003	Maho PS	1	Karambe	14
+LG-61003	Maho PS	1	Embogama	15
+LG-61003	Maho PS	1	Panwewa	16
+LG-61003	Maho PS	1	Balalla	17
+LG-61003	Maho PS	1	Katuwannawa	18
+LG-61003	Maho PS	1	Nagollagama	19
+LG-61006	Ibbagamuwa PS	1	Divulwewa	1
+LG-61006	Ibbagamuwa PS	1	Thambagalla	2
+LG-61006	Ibbagamuwa PS	1	Ganewatta	3
+LG-61006	Ibbagamuwa PS	1	Malagamuwa	4
+LG-61006	Ibbagamuwa PS	1	Hiripitiya	5
+LG-61006	Ibbagamuwa PS	1	Kumbukgate	6
+LG-61006	Ibbagamuwa PS	1	Thiththawella	7
+LG-61006	Ibbagamuwa PS	1	Kimbulwanepura	8
+LG-61006	Ibbagamuwa PS	1	Medamulla	9
+LG-61006	Ibbagamuwa PS	1	Ussawa	10
+LG-61006	Ibbagamuwa PS	1	Panliyadda	11
+LG-61006	Ibbagamuwa PS	1	Kendawala	12
+LG-61006	Ibbagamuwa PS	1	Ambanpola	13
+LG-61006	Ibbagamuwa PS	1	Thihawa	14
+LG-61006	Ibbagamuwa PS	1	Dolukanda East	15
+LG-61006	Ibbagamuwa PS	1	Hunupola	16
+LG-61006	Ibbagamuwa PS	1	Kiribamuna	17
+LG-61006	Ibbagamuwa PS	1	Kandulawa	18
+LG-61006	Ibbagamuwa PS	1	Polgolla	19
+LG-61006	Ibbagamuwa PS	1	Meddekatiya	20
+LG-61006	Ibbagamuwa PS	1	Kiridigalla	21
+LG-61006	Ibbagamuwa PS	1	Ibbaagamuwa	22
+LG-61006	Ibbagamuwa PS	1	Mahamukalanyaaya	23
+LG-61006	Ibbagamuwa PS	1	Bakmeegolla	24
+LG-61006	Ibbagamuwa PS	1	Bathelegoda	25
+LG-61007	Wariyapola PS	1	Ethawa	1
+LG-61007	Wariyapola PS	1	Thennakongama	2
+LG-61007	Wariyapola PS	1	Divulkale	3
+LG-61007	Wariyapola PS	1	Ebawalapittiya	4
+LG-61007	Wariyapola PS	1	Amunugama	5
+LG-61007	Wariyapola PS	1	Pothuwewa	6
+LG-61007	Wariyapola PS	1	Werella	7
+LG-61007	Wariyapola PS	1	Padeniya	8
+LG-61007	Wariyapola PS	1	Awulegama	9
+LG-61007	Wariyapola PS	1	Habarawa	10
+LG-61007	Wariyapola PS	1	Rambawewa	11
+LG-61007	Wariyapola PS	1	Wariyapola	12
+LG-61007	Wariyapola PS	1	Wilaakatupotha	13
+LG-61007	Wariyapola PS	1	Elavitigama	14
+LG-61007	Wariyapola PS	1	Mahekeliya	15
+LG-61007	Wariyapola PS	1	Walpola	16
+LG-61007	Wariyapola PS	1	Bamunakotwa	17
+LG-61007	Wariyapola PS	1	Kattupotha	18
+LG-61007	Wariyapola PS	1	Panadhare	19
+LG-61007	Wariyapola PS	1	Kedapathwehara	20
+LG-61007	Wariyapola PS	1	Eetanawatta	21
+LG-61007	Wariyapola PS	1	Kanotuwa	22
+LG-61007	Wariyapola PS	1	Dhemataluva	23
+LG-61010	Paduwasnuwara PS	1	Dothella	1
+LG-61010	Paduwasnuwara PS	1	Kevitiya	2
+LG-61010	Paduwasnuwara PS	1	Pallegama	3
+LG-61010	Paduwasnuwara PS	1	Hettipola	4
+LG-61010	Paduwasnuwara PS	1	Sunandapura	5
+LG-61010	Paduwasnuwara PS	1	Mandapola	6
+LG-61010	Paduwasnuwara PS	1	Panduwasnuwara	7
+LG-61010	Paduwasnuwara PS	1	Palugaswewa	8
+LG-61010	Paduwasnuwara PS	1	Bandara Koswatta	9
+LG-61010	Paduwasnuwara PS	1	Kolombagama	10
+LG-61010	Paduwasnuwara PS	1	Rathmalla	11
+LG-61010	Paduwasnuwara PS	1	Thissawa	12
+LG-61010	Paduwasnuwara PS	1	Thengodagedara	13
+LG-61010	Paduwasnuwara PS	1	Moonamaldeniya	14
+LG-61010	Paduwasnuwara PS	1	Dahanekgedara	15
+LG-61010	Paduwasnuwara PS	1	Pihimbiya	16
+LG-61010	Paduwasnuwara PS	1	Karagahagedara	17
+LG-61010	Paduwasnuwara PS	1	Gomugomuwa	18
+LG-61010	Paduwasnuwara PS	1	Mangulagama	19
+LG-61010	Paduwasnuwara PS	1	Wijayaudagama	20
+LG-61010	Paduwasnuwara PS	1	Kirimetiyawa	21
+LG-61010	Paduwasnuwara PS	1	Kanogama	22
+LG-61009	Bingiriya PS	1	Getulawa	1
+LG-61009	Bingiriya PS	1	Manelembuwa	2
+LG-61009	Bingiriya PS	1	Weerapokuna	3
+LG-61009	Bingiriya PS	1	Thisogama	4
+LG-61009	Bingiriya PS	1	Panawewa	5
+LG-61009	Bingiriya PS	1	Bingiriya	6
+LG-61009	Bingiriya PS	1	Wellarawa	7
+LG-61009	Bingiriya PS	1	Kaduruwewa	8
+LG-61009	Bingiriya PS	1	Maunawa	9
+LG-61009	Bingiriya PS	1	Halmillawewa	10
+LG-61009	Bingiriya PS	1	Tharana	11
+LG-61009	Bingiriya PS	1	Padiwela	12
+LG-61009	Bingiriya PS	1	Heenpannawa	13
+LG-61018	Udubaddawa PS	1	Weerakodiyana	1
+LG-61018	Udubaddawa PS	1	Yagamwela	2
+LG-61018	Udubaddawa PS	1	Divurumpola	3
+LG-61018	Udubaddawa PS	1	Kappangamuwa	4
+LG-61018	Udubaddawa PS	1	Udubaddawa	5
+LG-61018	Udubaddawa PS	1	Bunnehepola	6
+LG-61018	Udubaddawa PS	1	Kattimahana	7
+LG-61018	Udubaddawa PS	1	Dummalasooriya	8
+LG-61018	Udubaddawa PS	1	Bibiladeniya	9
+LG-61018	Udubaddawa PS	1	Dunukadeniya	10
+LG-61018	Udubaddawa PS	1	Horatepola	11
+LG-61019	Pannala PS	1	Gallahemulla	1
+LG-61019	Pannala PS	1	Welpalla	2
+LG-61019	Pannala PS	1	Nedalagamuwa	3
+LG-61019	Pannala PS	1	Irriyagolla	4
+LG-61019	Pannala PS	1	Paragammana	5
+LG-61019	Pannala PS	1	Ingaradawula	6
+LG-61019	Pannala PS	1	Hamangalla	7
+LG-61019	Pannala PS	1	Katugampala	8
+LG-61019	Pannala PS	1	Weththewa	9
+LG-61019	Pannala PS	1	Malgamuwa	10
+LG-61019	Pannala PS	1	Meddepola	11
+LG-61019	Pannala PS	1	Bammanna	12
+LG-61019	Pannala PS	2	Elabadagama	13
+LG-61019	Pannala PS	1	Kongoda	14
+LG-61019	Pannala PS	1	Daraluwa	15
+LG-61019	Pannala PS	1	Gonulla	16
+LG-61019	Pannala PS	1	Sandalankawa	17
+LG-61019	Pannala PS	1	Nalawalana	18
+LG-61019	Pannala PS	1	Makandura	19
+LG-61019	Pannala PS	1	Pannala	20
+LG-61019	Pannala PS	1	Thalammehera	21
+LG-61019	Pannala PS	1	Labbala	22
+LG-61019	Pannala PS	1	Bopitiya	23
+LG-61019	Pannala PS	1	Maththegama	24
+LG-61016	Kuliyapitiya PS	1	Koshena	1
+LG-61016	Kuliyapitiya PS	1	Deegalla	2
+LG-61016	Kuliyapitiya PS	1	Kabalewa	3
+LG-61016	Kuliyapitiya PS	1	Embawa	4
+LG-61016	Kuliyapitiya PS	1	Piduma	5
+LG-61016	Kuliyapitiya PS	1	Kirindawa	6
+LG-61016	Kuliyapitiya PS	1	Baminigalla	7
+LG-61016	Kuliyapitiya PS	1	Medelpola	8
+LG-61016	Kuliyapitiya PS	1	Pothuhera	9
+LG-61016	Kuliyapitiya PS	1	Kekunagolla	10
+LG-61016	Kuliyapitiya PS	1	Karangamuwa	11
+LG-61016	Kuliyapitiya PS	1	Siyambalagaskotuwa	12
+LG-61016	Kuliyapitiya PS	1	Bogamulla	13
+LG-61016	Kuliyapitiya PS	1	Horambawa	14
+LG-61016	Kuliyapitiya PS	1	Nakkawatta	15
+LG-61016	Kuliyapitiya PS	1	Kithalawa	16
+LG-61016	Kuliyapitiya PS	1	Bohingamuwa	17
+LG-61016	Kuliyapitiya PS	1	Galahitiyawa	18
+LG-61016	Kuliyapitiya PS	1	Kumbalwala	19
+LG-61016	Kuliyapitiya PS	1	Mahinpitiya	20
+LG-61016	Kuliyapitiya PS	1	Kalugamuwa	21
+LG-61016	Kuliyapitiya PS	1	Diyadora	22
+LG-61016	Kuliyapitiya PS	1	Wewagama	23
+LG-61016	Kuliyapitiya PS	1	Galgammulla	24
+LG-61016	Kuliyapitiya PS	1	Deekirikewa	25
+LG-61021	Alawwa PS	1	Galgamuwa	1
+LG-61021	Alawwa PS	1	Kandegedara	2
+LG-61021	Alawwa PS	1	Maharachchimulla	3
+LG-61021	Alawwa PS	1	Nungamuwa	4
+LG-61021	Alawwa PS	1	Waduwawa	5
+LG-61021	Alawwa PS	1	Wettewa	6
+LG-61021	Alawwa PS	1	Nugawela	7
+LG-61021	Alawwa PS	1	Boyawalana	8
+LG-61021	Alawwa PS	1	Nawathalwatta	9
+LG-61021	Alawwa PS	1	Humbuluwa	10
+LG-61021	Alawwa PS	1	Abbowa	11
+LG-61021	Alawwa PS	1	Yattalgoda	12
+LG-61021	Alawwa PS	1	Paramaulla	13
+LG-61021	Alawwa PS	1	Alawwa	14
+LG-61021	Alawwa PS	1	Koholana	15
+LG-61020	Narammala PS	2	Kadahapola	1
+LG-61020	Narammala PS	1	Ganegoda	2
+LG-61020	Narammala PS	1	Narammala	3
+LG-61020	Narammala PS	1	Dhampalassa	4
+LG-61020	Narammala PS	1	Kottapitiya	5
+LG-61020	Narammala PS	1	Rangallepola	6
+LG-61020	Narammala PS	1	Kiwulgalla	7
+LG-61020	Narammala PS	1	Muthugala	8
+LG-61020	Narammala PS	1	Dambadeniya	9
+LG-61020	Narammala PS	1	Paranagama	10
+LG-61020	Narammala PS	1	Kudagammana	11
+LG-61015	Polgahawela PS	1	Loakaahettiya	1
+LG-61015	Polgahawela PS	1	Weerambugedara	2
+LG-61015	Polgahawela PS	1	Pidhuruwella	3
+LG-61015	Polgahawela PS	1	Kanumale	4
+LG-61015	Polgahawela PS	1	Uhumeeya	5
+LG-61015	Polgahawela PS	1	Bulupitiya	6
+LG-61015	Polgahawela PS	1	Kalugaamuwa	7
+LG-61015	Polgahawela PS	1	Udugama	8
+LG-61015	Polgahawela PS	1	Hiripathwella	9
+LG-61015	Polgahawela PS	1	Mawathagama	10
+LG-61015	Polgahawela PS	1	Pothuhera	11
+LG-61015	Polgahawela PS	1	Handugala	12
+LG-61015	Polgahawela PS	1	Thalawaththegedara	13
+LG-61015	Polgahawela PS	1	Udapola	14
+LG-61015	Polgahawela PS	1	Rathmalgoda	15
+LG-61015	Polgahawela PS	1	Polpitiya	16
+LG-61015	Polgahawela PS	1	Aaragoda	17
+LG-61015	Polgahawela PS	2	Godawela	18
+LG-61015	Polgahawela PS	1	Epakanda	19
+LG-61015	Polgahawela PS	1	Polgahawela North	20
+LG-61015	Polgahawela PS	1	Polgahawela South	21
+LG-61015	Polgahawela PS	1	Panaliya	22
+LG-61011	Kurunegala PS	1	Minhettiya	1
+LG-61011	Kurunegala PS	1	Thalvita	2
+LG-61011	Kurunegala PS	1	Wellawa	3
+LG-61011	Kurunegala PS	1	Waraddana	4
+LG-61011	Kurunegala PS	1	Kudagalgamuwa	5
+LG-61011	Kurunegala PS	1	Maaspotha	6
+LG-61011	Kurunegala PS	1	Siyambalangamuwa	7
+LG-61011	Kurunegala PS	1	Yanthampalawa	8
+LG-61011	Kurunegala PS	1	Bamunugedara	9
+LG-61011	Kurunegala PS	1	Maraluwawa	10
+LG-61011	Kurunegala PS	1	Thorayaya	11
+LG-61011	Kurunegala PS	1	Kowana	12
+LG-61011	Kurunegala PS	1	Kaudawatta	13
+LG-61011	Kurunegala PS	1	Malkaduwawa	14
+LG-61011	Kurunegala PS	1	Bamunawala	15
+LG-61011	Kurunegala PS	1	Boyagane	16
+LG-61011	Kurunegala PS	1	Wanduragala	17
+LG-61011	Kurunegala PS	1	Vilbawa	18
+LG-61011	Kurunegala PS	1	Mallawapitiya	19
+LG-61011	Kurunegala PS	1	Mehiella	20
+LG-61011	Kurunegala PS	1	Millawa	21
+LG-61011	Kurunegala PS	1	Doratiyawa	22
+LG-61011	Kurunegala PS	1	Wattegedara	23
+LG-61011	Kurunegala PS	1	Mathawa	24
+LG-61011	Kurunegala PS	1	Katupitiya	25
+LG-61013	Mawathagama PS	1	Barandana	1
+LG-61013	Mawathagama PS	1	Hindagolla	2
+LG-61013	Mawathagama PS	1	Udanagama	3
+LG-61013	Mawathagama PS	1	Pothubowa	4
+LG-61013	Mawathagama PS	1	Pilassa	5
+LG-61013	Mawathagama PS	1	Arampola	6
+LG-61013	Mawathagama PS	1	Delgollawatta	7
+LG-61013	Mawathagama PS	1	Mawathagama North	8
+LG-61013	Mawathagama PS	1	Mawathagama South	9
+LG-61013	Mawathagama PS	1	Meethenwela	10
+LG-61013	Mawathagama PS	1	Watareka	11
+LG-61013	Mawathagama PS	1	Kahapathwala	12
+LG-61013	Mawathagama PS	1	Ilukewela	13
+LG-61013	Mawathagama PS	1	Paragahadeniya	14
+LG-61013	Mawathagama PS	1	Bandaragala	15
+LG-61013	Mawathagama PS	1	Matibokka	16
+LG-61014	Rideegama PS	1	Andapola	1
+LG-61014	Rideegama PS	1	Wadurassa	2
+LG-61014	Rideegama PS	1	Minirangama	3
+LG-61014	Rideegama PS	1	Balawaththala	4
+LG-61014	Rideegama PS	1	Lihiniwehara	5
+LG-61014	Rideegama PS	1	Dodamgaslanda	6
+LG-61014	Rideegama PS	1	Palleyaya	7
+LG-61014	Rideegama PS	1	Rideegama	8
+LG-61014	Rideegama PS	1	Morathiha	9
+LG-61014	Rideegama PS	1	Rambadagalla	10
+LG-61014	Rideegama PS	1	Delwita	11
+LG-61014	Rideegama PS	1	Eeriyagolla	12
+LG-61014	Rideegama PS	1	Panagamuwa	13
+LG-61014	Rideegama PS	1	Ambakote	14
+LG-61014	Rideegama PS	1	Buluwewa	15
+LG-61014	Rideegama PS	1	Hawanpola	16
+LG-61014	Rideegama PS	1	Madagama	17
+LG-61014	Rideegama PS	1	Ogodapola	18
+LG-61014	Rideegama PS	1	Meeliyadda	19
+LG-61014	Rideegama PS	1	Pihimbuwa	20
+LG-61014	Rideegama PS	1	Pussalla	21
+LG-61014	Rideegama PS	1	Kanadeniyawala	22
+LG-62006	Puttalam UC	1	Puttalam Central	1
+LG-62006	Puttalam UC	1	Manalgundu	2
+LG-62006	Puttalam UC	1	Puttalam East	3
+LG-62006	Puttalam UC	1	Nedumkulam	4
+LG-62006	Puttalam UC	1	Pudukudirippuwa	5
+LG-62006	Puttalam UC	1	Lagoon Place	6
+LG-62006	Puttalam UC	1	Puttalam North	7
+LG-62006	Puttalam UC	1	Puttalam South	8
+LG-62006	Puttalam UC	1	Senakudirippuwa	9
+LG-62006	Puttalam UC	1	Thiladiya North	10
+LG-62006	Puttalam UC	1	Thiladiya South	11
+LG-62009	Chilaw UC	1	Kurusapaduwa	1
+LG-62009	Chilaw UC	1	Wattakkalliya	2
+LG-62009	Chilaw UC	1	Weralabada South	3
+LG-62009	Chilaw UC	1	Weralabada North	4
+LG-62009	Chilaw UC	1	Aluthwatta	5
+LG-62009	Chilaw UC	1	Aluthwatta South	6
+LG-62009	Chilaw UC	1	Ichchampitiya	7
+LG-62009	Chilaw UC	1	Melpura	8
+LG-62009	Chilaw UC	1	Pitipana South	9
+LG-62009	Chilaw UC	1	Weralabada	10
+LG-62009	Chilaw UC	1	Pitipana North	11
+LG-62009	Chilaw UC	1	Pitipana East	12
+LG-62001	Kalpitiya PS	1	Palliyawatta	1
+LG-62001	Kalpitiya PS	1	Anawasal	2
+LG-62001	Kalpitiya PS	1	Mandalakudawa	3
+LG-62001	Kalpitiya PS	2	Kandakuliya	4
+LG-62001	Kalpitiya PS	1	Musalpitiya	5
+LG-62001	Kalpitiya PS	1	Thalavila	6
+LG-62001	Kalpitiya PS	1	Ettala	7
+LG-62001	Kalpitiya PS	2	Norochchola	8
+LG-62001	Kalpitiya PS	1	Mampuriya	9
+LG-62001	Kalpitiya PS	1	Daluwa	10
+LG-62001	Kalpitiya PS	1	Karamba	11
+LG-62001	Kalpitiya PS	1	Viruthodai	12
+LG-62001	Kalpitiya PS	1	Palasola	13
+LG-62001	Kalpitiya PS	1	Kadayamotte	14
+LG-62001	Kalpitiya PS	1	Sinnapaduwa	15
+LG-62001	Kalpitiya PS	1	Kottanthievu	16
+LG-62001	Kalpitiya PS	1	Kattakaduwa	17
+LG-62005	Puttalam PS	1	Mullipuram	1
+LG-62005	Puttalam PS	1	Manalthivu	2
+LG-62005	Puttalam PS	1	Weppamadu	3
+LG-62005	Puttalam PS	1	Sirambiadiya	4
+LG-62005	Puttalam PS	1	Nelumwewa	5
+LG-62005	Puttalam PS	1	Kaladiya	6
+LG-62005	Puttalam PS	1	Attavilluwa	7
+LG-62005	Puttalam PS	1	Rathmalyaya	8
+LG-62005	Puttalam PS	1	Palaviya	9
+LG-62005	Puttalam PS	1	Pottuvilluwa	10
+LG-62005	Puttalam PS	1	Weerapura	11
+LG-62005	Puttalam PS	1	Madurankuliya	12
+LG-62005	Puttalam PS	1	Mangalaeliya	13
+LG-62005	Puttalam PS	1	Mundel	14
+LG-62002	Wanathavilluwa PS	1	Ralmaduwa	1
+LG-62002	Wanathavilluwa PS	1	Eluwankulama	2
+LG-62002	Wanathavilluwa PS	1	Serakkuliya	3
+LG-62002	Wanathavilluwa PS	1	Karathivu South	4
+LG-62002	Wanathavilluwa PS	1	Karathivu	5
+LG-62002	Wanathavilluwa PS	1	Mangala Pura	6
+LG-62002	Wanathavilluwa PS	1	Wanathavilluwa	7
+LG-62002	Wanathavilluwa PS	1	Wijayapura	8
+LG-62002	Wanathavilluwa PS	1	Samagipura	9
+LG-62002	Wanathavilluwa PS	1	Vattakandal	10
+LG-62002	Wanathavilluwa PS	1	Mailankulama	11
+LG-62003	Karuwalagaswewa PS	1	Pahala Puliyankulama	1
+LG-62003	Karuwalagaswewa PS	1	Saliyawewa	2
+LG-62003	Karuwalagaswewa PS	1	Palugassegama	3
+LG-62003	Karuwalagaswewa PS	1	Weerapura	4
+LG-62003	Karuwalagaswewa PS	1	Kumbukwewa	5
+LG-62003	Karuwalagaswewa PS	1	Aluthgama	6
+LG-62003	Karuwalagaswewa PS	1	Ihala Puliyankulama	7
+LG-62003	Karuwalagaswewa PS	1	Thambapanniya	8
+LG-62003	Karuwalagaswewa PS	1	Thabbowa	9
+LG-62003	Karuwalagaswewa PS	1	Murukkuwatawana	10
+LG-62003	Karuwalagaswewa PS	1	Karuwalagaswewa	11
+LG-62004	Nawagattegama PS	1	Mahameddewa	1
+LG-62004	Nawagattegama PS	1	Rambakanayagama	2
+LG-62004	Nawagattegama PS	1	Kirimetiyawa	3
+LG-62004	Nawagattegama PS	1	Thammennawetiya	4
+LG-62004	Nawagattegama PS	1	Kuruluwewa	5
+LG-62004	Nawagattegama PS	1	Kelewewa	6
+LG-62004	Nawagattegama PS	1	Welewewa	7
+LG-62004	Nawagattegama PS	1	Konkadawala	8
+LG-62004	Nawagattegama PS	1	Inginimitiya	9
+LG-62008	Anamaduwa PS	1	Kottukachchiya	1
+LG-62008	Anamaduwa PS	1	Thonigala	2
+LG-62008	Anamaduwa PS	1	Labugala	3
+LG-62008	Anamaduwa PS	1	Maha Uswewa	4
+LG-62008	Anamaduwa PS	1	Paramakanda	5
+LG-62008	Anamaduwa PS	1	Dharmapalaya	6
+LG-62008	Anamaduwa PS	1	Anamaduwa	7
+LG-62008	Anamaduwa PS	1	Wadatta	8
+LG-62008	Anamaduwa PS	1	Kivula	9
+LG-62008	Anamaduwa PS	1	Kawayankulama	10
+LG-62008	Anamaduwa PS	1	Baranankattuwa	11
+LG-62008	Anamaduwa PS	1	Andigama	12
+LG-62008	Anamaduwa PS	1	Walpaluwa	13
+LG-62008	Anamaduwa PS	1	Mudalakkuliya	14
+LG-62008	Anamaduwa PS	1	Madawakkulama	15
+LG-62008	Anamaduwa PS	1	Nagavila	16
+LG-62008	Anamaduwa PS	1	Katupotha	17
+LG-62008	Anamaduwa PS	1	Pallama	18
+LG-62007	Arachchikattuwa PS	2	Andimunaipulichchakulama	1
+LG-62007	Arachchikattuwa PS	1	Udappuwa	2
+LG-62007	Arachchikattuwa PS	1	Wilpatha	3
+LG-62007	Arachchikattuwa PS	1	Wijayakatupotha	4
+LG-62007	Arachchikattuwa PS	1	Battuluoya	5
+LG-62007	Arachchikattuwa PS	1	Sengaloya	6
+LG-62007	Arachchikattuwa PS	1	Adippala	7
+LG-62007	Arachchikattuwa PS	1	Arachchikattuwa	8
+LG-62007	Arachchikattuwa PS	1	Karukupane	9
+LG-62007	Arachchikattuwa PS	1	Bangadeniya	10
+LG-62007	Arachchikattuwa PS	1	Diganwewa	11
+LG-62007	Arachchikattuwa PS	1	Elivitiya	12
+LG-62010	Chilaw PS	2	Munneshwarama	1
+LG-62010	Chilaw PS	1	Manuwangama	2
+LG-62010	Chilaw PS	1	Vilattawa	3
+LG-62010	Chilaw PS	1	Karavitagara	4
+LG-62010	Chilaw PS	1	Mungandaluwa	5
+LG-62010	Chilaw PS	1	Maikkulama	6
+LG-62010	Chilaw PS	1	Ambakandavila	7
+LG-62010	Chilaw PS	1	Kakkapalliya	8
+LG-62010	Chilaw PS	1	Thambagalla	9
+LG-62010	Chilaw PS	1	Mahagama	10
+LG-62010	Chilaw PS	1	Medagama	11
+LG-62010	Chilaw PS	1	Pambala	12
+LG-62010	Chilaw PS	1	Pothuvila	13
+LG-62010	Chilaw PS	1	Uraliyagara	14
+LG-62010	Chilaw PS	1	Irattakulama	15
+LG-62010	Chilaw PS	1	Marakkalagama	16
+LG-62010	Chilaw PS	1	Suduwella	17
+LG-62010	Chilaw PS	1	Galmuruwa	18
+LG-62011	Nattandiya PS	1	Iranavila	1
+LG-62011	Nattandiya PS	1	Thoduwawa	2
+LG-62011	Nattandiya PS	1	Mattakotuwella	3
+LG-62011	Nattandiya PS	1	Mahawewa	4
+LG-62011	Nattandiya PS	1	Kudawewa	5
+LG-62011	Nattandiya PS	1	Galamuna	6
+LG-62011	Nattandiya PS	1	Yatakalana	7
+LG-62011	Nattandiya PS	1	Dunkannawa	8
+LG-62011	Nattandiya PS	1	Thabbowa	9
+LG-62011	Nattandiya PS	1	Nattandiya	10
+LG-62011	Nattandiya PS	1	Walahapitiya	11
+LG-62011	Nattandiya PS	1	Hattiniya	12
+LG-62011	Nattandiya PS	1	Koswadiya	13
+LG-62011	Nattandiya PS	1	Thalvila	14
+LG-62011	Nattandiya PS	1	Maravila	15
+LG-62011	Nattandiya PS	1	Mudukatuwa	16
+LG-62011	Nattandiya PS	1	Mavila	17
+LG-62011	Nattandiya PS	1	Naravila	18
+LG-62011	Nattandiya PS	1	Koswatta	19
+LG-62011	Nattandiya PS	1	Kottaramulla	20
+LG-62011	Nattandiya PS	1	Thummodara	21
+LG-62011	Nattandiya PS	1	Ihala Katuneriya	22
+LG-62011	Nattandiya PS	1	Pahala Katuneriya	23
+LG-62011	Nattandiya PS	1	Meda Katuneriya	24
+LG-62012	Wennappuwa PS	1	Kolinjadiya	1
+LG-62012	Wennappuwa PS	1	Ulhitiyawa	2
+LG-62012	Wennappuwa PS	1	Wennappuwa	3
+LG-62012	Wennappuwa PS	1	Udasirigama	4
+LG-62012	Wennappuwa PS	1	Lunuvila	5
+LG-62012	Wennappuwa PS	1	Sirigampala	6
+LG-62012	Wennappuwa PS	1	Kirimetiyana	7
+LG-62012	Wennappuwa PS	1	Thulawala	8
+LG-62012	Wennappuwa PS	1	Kahatavila	9
+LG-62012	Wennappuwa PS	1	Lihiriyagama	10
+LG-62012	Wennappuwa PS	1	Haldanduwana	11
+LG-62012	Wennappuwa PS	1	Bandirippuwa	12
+LG-62012	Wennappuwa PS	1	Dummaladeniya	13
+LG-62012	Wennappuwa PS	1	Nainamadama	14
+LG-62012	Wennappuwa PS	1	Boralessa	15
+LG-62012	Wennappuwa PS	1	Katukenda	16
+LG-62012	Wennappuwa PS	1	Mohottimulla	17
+LG-62012	Wennappuwa PS	1	Singakkuliya	18
+LG-62012	Wennappuwa PS	1	Yogiyana	19
+LG-62012	Wennappuwa PS	1	Morukkuliya	20
+LG-62012	Wennappuwa PS	1	Dankotuwa	21
+LG-62012	Wennappuwa PS	1	Gonavila	22
+LG-62012	Wennappuwa PS	1	Bolawatta	23
+LG-62012	Wennappuwa PS	1	Kammala	24
+LG-62012	Wennappuwa PS	1	Waikkala	25
+LG-71005	Anuradhapura MC	1	Pethispura	1
+LG-71005	Anuradhapura MC	1	Saliya Mawatha	2
+LG-71005	Anuradhapura MC	1	Henewatta	3
+LG-71005	Anuradhapura MC	1	Nuwaraweva	4
+LG-71005	Anuradhapura MC	1	Isurumuniya	5
+LG-71005	Anuradhapura MC	1	Abhaya pedesa	6
+LG-71005	Anuradhapura MC	2	Jayanthi pedesa	7
+LG-71005	Anuradhapura MC	1	Pubudupura	8
+LG-71005	Anuradhapura MC	1	Mahanama Uyana	9
+LG-71005	Anuradhapura MC	1	Kumbichchankulama	10
+LG-71005	Anuradhapura MC	1	Samanpura	11
+LG-71005	Anuradhapura MC	1	Buddhagaya Pedesa	12
+LG-71005	Anuradhapura MC	1	Thammennakulama	13
+LG-71005	Anuradhapura MC	1	Sirimevan Uyana	14
+LG-71003	Medawachchiya PS	1	Poonewa	1
+LG-71003	Medawachchiya PS	1	Mahakumbukgollewa	2
+LG-71003	Medawachchiya PS	1	Ethakada	3
+LG-71003	Medawachchiya PS	1	Hirallugama	4
+LG-71003	Medawachchiya PS	1	Mahadivulweva	5
+LG-71003	Medawachchiya PS	1	Isinbessagama	6
+LG-71003	Medawachchiya PS	1	Walpola	7
+LG-71003	Medawachchiya PS	1	Yakawewa	8
+LG-71003	Medawachchiya PS	1	Puleliya	9
+LG-71003	Medawachchiya PS	1	Medawachchiya	10
+LG-71003	Medawachchiya PS	1	Kanadara Divulweva	11
+LG-71003	Medawachchiya PS	1	Kirigalwewa	12
+LG-71006	Rambewa PS	1	Kadurugasdamana	1
+LG-71006	Rambewa PS	1	Wahamalgollewa	2
+LG-71006	Rambewa PS	1	Ikirigollewa	3
+LG-71006	Rambewa PS	1	Diviyaudabendaweva	4
+LG-71006	Rambewa PS	1	Pihimbiyagollewa	5
+LG-71006	Rambewa PS	1	Konakumbukweva	6
+LG-71006	Rambewa PS	1	Kedekallanchiya	7
+LG-71006	Rambewa PS	1	Mahakanadarawa Right  Bank Track 2	8
+LG-71006	Rambewa PS	1	Rambewa	9
+LG-71006	Rambewa PS	1	Pandukabhayapura	10
+LG-71006	Rambewa PS	1	Rotaweva	11
+LG-71002	Kebithigollewa PS	1	Halmillawetiya	1
+LG-71002	Kebithigollewa PS	1	Kahatagollewa	2
+LG-71002	Kebithigollewa PS	1	Wahalkada North	3
+LG-71002	Kebithigollewa PS	1	Thiththagonewa	4
+LG-71002	Kebithigollewa PS	1	Eethalviddaweva	5
+LG-71002	Kebithigollewa PS	1	Kebithigollewa	6
+LG-71002	Kebithigollewa PS	1	Gonumeriyawa	7
+LG-71002	Kebithigollewa PS	1	Handagala Kirimetiyawa	8
+LG-71002	Kebithigollewa PS	1	Gonuhathdenawa	9
+LG-71002	Kebithigollewa PS	2	Bandara Ulpatha	10
+LG-71001	Padaviya PS	1	Buddhangala	1
+LG-71001	Padaviya PS	1	Parakramapura	2
+LG-71001	Padaviya PS	1	Elikimbulagala	3
+LG-71001	Padaviya PS	1	Abhayapura	4
+LG-71001	Padaviya PS	1	Maithreepura	5
+LG-71001	Padaviya PS	1	Sudarshanagama	6
+LG-71001	Padaviya PS	1	Padaviya	7
+LG-71001	Padaviya PS	1	Bogahawewa	8
+LG-71001	Padaviya PS	1	Mahasenpura	9
+LG-71001	Padaviya PS	1	Kumbukweva	10
+LG-71007	Kahatagasdigiliya PS	1	Rathmalgahaweva	1
+LG-71007	Kahatagasdigiliya PS	1	Dachchihalmillewa	2
+LG-71007	Kahatagasdigiliya PS	1	Mahakiribbewa	3
+LG-71007	Kahatagasdigiliya PS	1	Rampathwila	4
+LG-71007	Kahatagasdigiliya PS	1	Diganhalmillewa	5
+LG-71007	Kahatagasdigiliya PS	1	Kahatagasdigiliya	6
+LG-71007	Kahatagasdigiliya PS	1	Mahawewa	7
+LG-71007	Kahatagasdigiliya PS	1	Pandarellawa	8
+LG-71007	Kahatagasdigiliya PS	1	Divulwewa	9
+LG-71007	Kahatagasdigiliya PS	1	Nekatunuwewa	10
+LG-71008	Horowpothana PS	1	Wahalkada South	1
+LG-71008	Horowpothana PS	1	Maradanmaduwa	2
+LG-71008	Horowpothana PS	1	Kapugollewa	3
+LG-71008	Horowpothana PS	1	Dutuweva	4
+LG-71008	Horowpothana PS	1	Nikaweva	5
+LG-71008	Horowpothana PS	1	Sinhala Walahawiddaweva	6
+LG-71008	Horowpothana PS	1	Morakewa	7
+LG-71008	Horowpothana PS	1	Mukkaraweva	8
+LG-71008	Horowpothana PS	1	Horowpothana	9
+LG-71008	Horowpothana PS	1	Maradankadawala	10
+LG-71008	Horowpothana PS	1	Parangiyawadiya	11
+LG-71008	Horowpothana PS	1	Dekethipothana	12
+LG-71009	Galenbindunuwewa PS	1	Upuldeniya	1
+LG-71009	Galenbindunuwewa PS	1	Ellaweva	2
+LG-71009	Galenbindunuwewa PS	1	Dutuweva	3
+LG-71009	Galenbindunuwewa PS	1	Kokaweva	4
+LG-71009	Galenbindunuwewa PS	1	Getalawa	5
+LG-71009	Galenbindunuwewa PS	1	Kumbukwewa	6
+LG-71009	Galenbindunuwewa PS	1	Galenbindunuwewa	7
+LG-71009	Galenbindunuwewa PS	1	Hurulu Jayapura	8
+LG-71009	Galenbindunuwewa PS	1	Sivalakulama	9
+LG-71009	Galenbindunuwewa PS	1	Yakalla	10
+LG-71009	Galenbindunuwewa PS	1	Kurunegala Colony	11
+LG-71015	Thalawa PS	1	Hirigollegama	1
+LG-71015	Thalawa PS	1	Pahala Thalawa	2
+LG-71015	Thalawa PS	1	Thalawa	3
+LG-71015	Thalawa PS	1	Kurunduweva	4
+LG-71015	Thalawa PS	1	Kiralogama	5
+LG-71015	Thalawa PS	1	Eriyagama	6
+LG-71015	Thalawa PS	1	Kongollewa	7
+LG-71015	Thalawa PS	1	Maha Bellankadawala	8
+LG-71015	Thalawa PS	1	Nallachchiya	9
+LG-71015	Thalawa PS	1	Thammennawa	10
+LG-71015	Thalawa PS	1	Thambuththegama	11
+LG-71015	Thalawa PS	1	Ikiriweva	12
+LG-71015	Thalawa PS	1	Thelhiriyawa	13
+LG-71015	Thalawa PS	1	Ihala Halmillewa	14
+LG-71015	Thalawa PS	1	Palugasweva	15
+LG-71015	Thalawa PS	1	Mawathaweva	16
+LG-71015	Thalawa PS	1	Eppawala	17
+LG-71015	Thalawa PS	1	Endagala	18
+LG-71015	Thalawa PS	1	Katiyawa	19
+LG-71015	Thalawa PS	1	Keledivulwewa	20
+LG-71011	Nuwaragam Palatha East PS	1	Sravasthipura	1
+LG-71011	Nuwaragam Palatha East PS	1	Pothanegama	2
+LG-71011	Nuwaragam Palatha East PS	1	Vanniyankulama	3
+LG-71011	Nuwaragam Palatha East PS	1	Vijayapura	4
+LG-71011	Nuwaragam Palatha East PS	1	Thammennapura	5
+LG-71011	Nuwaragam Palatha East PS	1	Kalaththewa	6
+LG-71011	Nuwaragam Palatha East PS	1	Kawarakkulama	7
+LG-71011	Nuwaragam Palatha East PS	1	Sucharithagama	8
+LG-71011	Nuwaragam Palatha East PS	1	Nelubewa	9
+LG-71011	Nuwaragam Palatha East PS	1	Thuruwila	10
+LG-71011	Nuwaragam Palatha East PS	1	Hidogama	11
+LG-71004	Nuwaragam Palatha Central PS	1	Mahawilachchiya	1
+LG-71004	Nuwaragam Palatha Central PS	1	Pemaduwa	2
+LG-71004	Nuwaragam Palatha Central PS	1	Tanthirimale	3
+LG-71004	Nuwaragam Palatha Central PS	1	Gambirigasweva	4
+LG-71004	Nuwaragam Palatha Central PS	1	Ethdathkalla	5
+LG-71004	Nuwaragam Palatha Central PS	1	Oyamaduwa	6
+LG-71004	Nuwaragam Palatha Central PS	1	Alayapattuwa	7
+LG-71004	Nuwaragam Palatha Central PS	1	Galkadawala	8
+LG-71004	Nuwaragam Palatha Central PS	1	Paniyankadawala	9
+LG-71004	Nuwaragam Palatha Central PS	1	Saliyapura	10
+LG-71004	Nuwaragam Palatha Central PS	1	Perimiyankulama	11
+LG-71004	Nuwaragam Palatha Central PS	1	Viharapalugama	12
+LG-71004	Nuwaragam Palatha Central PS	1	Maha Bulankulama	13
+LG-71004	Nuwaragam Palatha Central PS	1	Pandulagama	14
+LG-71004	Nuwaragam Palatha Central PS	1	Devanampiyatissapura	15
+LG-71004	Nuwaragam Palatha Central PS	1	Theppankulama	16
+LG-71013	Nochchiyagama PS	1	Ehetuwagama	1
+LG-71013	Nochchiyagama PS	1	Bogahawewa	2
+LG-71013	Nochchiyagama PS	1	Mudithagama	3
+LG-71013	Nochchiyagama PS	1	Horuvila	4
+LG-71013	Nochchiyagama PS	1	Lindawewa	5
+LG-71013	Nochchiyagama PS	1	Nochchiyagama	6
+LG-71013	Nochchiyagama PS	1	Halmillakulama	7
+LG-71013	Nochchiyagama PS	1	Ralapanawa	8
+LG-71013	Nochchiyagama PS	1	Galadivulweva	9
+LG-71013	Nochchiyagama PS	1	Dombawalagama	10
+LG-71013	Nochchiyagama PS	1	Pahala Halmillewa	11
+LG-71013	Nochchiyagama PS	1	Ottappuwa	12
+LG-71014	Rajanganaya PS	1	Rajanganaya Track 16-17	1
+LG-71014	Rajanganaya PS	1	Rajanganaya Track 15	2
+LG-71014	Rajanganaya PS	1	Rajanganaya Track 13-14	3
+LG-71014	Rajanganaya PS	1	Rajanganaya Track 09-10-12	4
+LG-71014	Rajanganaya PS	1	Gemunupura	5
+LG-71014	Rajanganaya PS	1	Angamuwa	6
+LG-71014	Rajanganaya PS	1	Rajanganaya Track 03-04	7
+LG-71014	Rajanganaya PS	1	Rajanganaya Track 05th Post	8
+LG-71014	Rajanganaya PS	1	Sirimapura	9
+LG-71014	Rajanganaya PS	1	Kalundegama	10
+LG-71016	Galnewa PS	1	Makulewa	1
+LG-71016	Galnewa PS	1	Hurigasweva	2
+LG-71016	Galnewa PS	1	Kalankuttiya	3
+LG-71016	Galnewa PS	1	Karuwalagasweva	4
+LG-71016	Galnewa PS	1	Bulnewa	5
+LG-71016	Galnewa PS	1	Siyambalewa	6
+LG-71016	Galnewa PS	1	Galnewa	7
+LG-71016	Galnewa PS	1	Avukana	8
+LG-71016	Galnewa PS	1	Negama	9
+LG-71016	Galnewa PS	1	Siyambalangamuwa	10
+LG-71018	Ipalogama PS	1	Mahailuppallama	1
+LG-71018	Ipalogama PS	1	Ipalogama	2
+LG-71018	Ipalogama PS	1	Kunchikulama	3
+LG-71018	Ipalogama PS	1	Konapathirawa	4
+LG-71018	Ipalogama PS	1	Senapura	5
+LG-71018	Ipalogama PS	1	Kallanchiyagama	6
+LG-71018	Ipalogama PS	1	Hiripitiyagama	7
+LG-71018	Ipalogama PS	1	Kagama	8
+LG-71018	Ipalogama PS	1	Kalaweva	9
+LG-71018	Ipalogama PS	1	Vijithapura	10
+LG-71010	Mihinthale PS	1	Kunchikulama	1
+LG-71010	Mihinthale PS	1	Kurundankulama	2
+LG-71010	Mihinthale PS	1	Doramadalawa	3
+LG-71010	Mihinthale PS	1	Mahakanadarawa Left Bank	4
+LG-71010	Mihinthale PS	1	Seeppukulama	5
+LG-71010	Mihinthale PS	1	Mihintale	6
+LG-71010	Mihinthale PS	1	Ruwangama	7
+LG-71010	Mihinthale PS	1	Namalweva	8
+LG-71010	Mihinthale PS	1	Maradankalla	9
+LG-71010	Mihinthale PS	1	Kasamaduwa	10
+LG-71012	Thirappane PS	1	Nachchaduwa	1
+LG-71012	Thirappane PS	1	Thirappane	2
+LG-71012	Thirappane PS	1	Uttimaduwa	3
+LG-71012	Thirappane PS	1	Payirimaduwa	4
+LG-71012	Thirappane PS	1	Athungama	5
+LG-71012	Thirappane PS	1	Selesthimaduwa	6
+LG-71012	Thirappane PS	1	Alisthana	7
+LG-71012	Thirappane PS	1	Walagambahuwa	8
+LG-71012	Thirappane PS	1	Labunoruwa	9
+LG-71012	Thirappane PS	1	Muriyakadawala	10
+LG-71017	Kekirawa PS	1	Maradankadawala	1
+LG-71017	Kekirawa PS	1	Nawakkulama	2
+LG-71017	Kekirawa PS	1	Madawala	3
+LG-71017	Kekirawa PS	1	Ganewalpola	4
+LG-71017	Kekirawa PS	1	Olukarada	5
+LG-71017	Kekirawa PS	1	Ihalagama	6
+LG-71017	Kekirawa PS	2	Kekirawa Town	7
+LG-71017	Kekirawa PS	1	Maldenipura	8
+LG-71017	Kekirawa PS	1	Palugasweva	9
+LG-71017	Kekirawa PS	1	Habarana	10
+LG-71017	Kekirawa PS	1	Bellankadawala	11
+LG-71017	Kekirawa PS	1	Maha Kekirawa	12
+LG-71017	Kekirawa PS	1	Horapola	13
+LG-71017	Kekirawa PS	1	Uduruwa	14
+LG-71017	Kekirawa PS	1	Madatugama	15
+LG-71017	Kekirawa PS	1	Kandalama	16
+LG-71019	Palagala PS	1	Gamsabha Halmillewa	1
+LG-71019	Palagala PS	1	Balaluweva	2
+LG-71019	Palagala PS	1	Katukeliyawa	3
+LG-71019	Palagala PS	1	Daniyagama	4
+LG-71019	Palagala PS	1	Andiyagala	5
+LG-71019	Palagala PS	1	Maneruwa	6
+LG-71019	Palagala PS	1	Pelbendiyawa	7
+LG-71019	Palagala PS	1	Budugehinna	8
+LG-71019	Palagala PS	1	Ranawa	9
+LG-71019	Palagala PS	1	Dambuluhalmillaweva	10
+LG-72007	Polonnaruwa MC	1	Bendiwewa	1
+LG-72007	Polonnaruwa MC	1	Polonnaruwa	2
+LG-72007	Polonnaruwa MC	1	Pothgul Pedesa	3
+LG-72007	Polonnaruwa MC	1	Mahaweli Pedesa	4
+LG-72007	Polonnaruwa MC	2	Kaduruwela	5
+LG-72008	Elahera PS	1	Diyabeduma	1
+LG-72008	Elahera PS	1	Konduruwawa	2
+LG-72008	Elahera PS	1	Attanakadawala	3
+LG-72008	Elahera PS	1	Madudamana	4
+LG-72008	Elahera PS	1	Segala	5
+LG-72008	Elahera PS	1	Damanayaya	6
+LG-72008	Elahera PS	1	Bakamuna	7
+LG-72008	Elahera PS	1	Maluweyaya	8
+LG-72008	Elahera PS	1	Elahera	9
+LG-72008	Elahera PS	1	Atharagallewa	10
+LG-72001	Hingurakgoda PS	1	Galoya	1
+LG-72001	Hingurakgoda PS	1	Moragaswewa	2
+LG-72001	Hingurakgoda PS	1	Minihirigama	3
+LG-72001	Hingurakgoda PS	1	Ulpathwewa	4
+LG-72001	Hingurakgoda PS	1	Yoda Ela	5
+LG-72001	Hingurakgoda PS	1	Siriketha	6
+LG-72001	Hingurakgoda PS	1	Hinguraka Bandaragama	7
+LG-72001	Hingurakgoda PS	1	Samapura	8
+LG-72001	Hingurakgoda PS	1	Yatiyalpatana	9
+LG-72001	Hingurakgoda PS	1	Minneriya	10
+LG-72001	Hingurakgoda PS	1	Bathgampaththuwa	11
+LG-72001	Hingurakgoda PS	1	Girithale	12
+LG-72001	Hingurakgoda PS	1	Bubula	13
+LG-72001	Hingurakgoda PS	1	Hingurakgoda	14
+LG-72001	Hingurakgoda PS	1	Ulkatupotha	15
+LG-72001	Hingurakgoda PS	1	Unagalawehera	16
+LG-72001	Hingurakgoda PS	1	Jayanthipura	17
+LG-72001	Hingurakgoda PS	1	Agbopura	18
+LG-72001	Hingurakgoda PS	1	Chethiyagirigama	19
+LG-72001	Hingurakgoda PS	1	Sudu Kanda - Nikawewa	20
+LG-72002	Medirigiriya PS	1	Bisopura	1
+LG-72002	Medirigiriya PS	1	Jayathugama	2
+LG-72002	Medirigiriya PS	1	Meegaswewa	3
+LG-72002	Medirigiriya PS	1	Palliyagodella	4
+LG-72002	Medirigiriya PS	1	Ambagas wewa	5
+LG-72002	Medirigiriya PS	1	Bisobandaragama	6
+LG-72002	Medirigiriya PS	1	New Town	7
+LG-72002	Medirigiriya PS	1	Manikhorowwa	8
+LG-72002	Medirigiriya PS	1	Bisobandara	9
+LG-72002	Medirigiriya PS	1	Medirigiriya	10
+LG-72002	Medirigiriya PS	1	Perakumpura	11
+LG-72002	Medirigiriya PS	1	Diyasenpura	12
+LG-72002	Medirigiriya PS	1	Jayagampura	13
+LG-72002	Medirigiriya PS	1	Wijayapura	14
+LG-72002	Medirigiriya PS	1	Thalakola Wewa	15
+LG-72002	Medirigiriya PS	1	Kusumpokuna	16
+LG-72002	Medirigiriya PS	1	Diwulankadawala	17
+LG-72002	Medirigiriya PS	1	Yudaganawa	18
+LG-72002	Medirigiriya PS	1	Weheragala	19
+LG-72003	Lankapura PS	1	Pansalgodella	1
+LG-72003	Lankapura PS	1	Buddayaya	2
+LG-72003	Lankapura PS	1	Sungawila	3
+LG-72003	Lankapura PS	1	Nelumpura	4
+LG-72003	Lankapura PS	1	Patunugama	5
+LG-72003	Lankapura PS	1	Kegalugama	6
+LG-72003	Lankapura PS	1	Senanayakapura	7
+LG-72003	Lankapura PS	1	Hingurakdamana	8
+LG-72003	Lankapura PS	1	Pulasthigama	9
+LG-72003	Lankapura PS	1	Thambala	10
+LG-72003	Lankapura PS	2	Alhilalpura	11
+LG-72003	Lankapura PS	1	Lankapura	12
+LG-72003	Lankapura PS	1	Thalpotha	13
+LG-72004	Welikanda PS	1	Singhepura	1
+LG-72004	Welikanda PS	1	Kandakaduwa	2
+LG-72004	Welikanda PS	1	Katuwanvila	3
+LG-72004	Welikanda PS	1	Karapola	4
+LG-72004	Welikanda PS	1	Sandunpitiya	5
+LG-72004	Welikanda PS	1	Mahasenpura	6
+LG-72004	Welikanda PS	1	Kadawathmaduwa	7
+LG-72004	Welikanda PS	1	Monarathenna	8
+LG-72004	Welikanda PS	1	Sevanapitiya	9
+LG-72004	Welikanda PS	1	Nelumwewa	10
+LG-72005	Dimbulagala PS	2	Dimbulagala	1
+LG-72005	Dimbulagala PS	1	Wijayabapura	2
+LG-72005	Dimbulagala PS	1	Aralaganwila	3
+LG-72005	Dimbulagala PS	1	Bogas Wewa	4
+LG-72005	Dimbulagala PS	1	Elle Wewa	5
+LG-72005	Dimbulagala PS	1	Kalukele	6
+LG-72005	Dimbulagala PS	1	Yakkure	7
+LG-72005	Dimbulagala PS	1	Siripura	8
+LG-72005	Dimbulagala PS	1	Galeliya	9
+LG-72005	Dimbulagala PS	1	Weheragala	10
+LG-72005	Dimbulagala PS	1	Pimburaththawa	11
+LG-72005	Dimbulagala PS	1	Alawakumbura	12
+LG-72006	Polonnaruwa PS	1	Wijayabahupura	1
+LG-72006	Polonnaruwa PS	1	Sewagama	2
+LG-72006	Polonnaruwa PS	1	Wijayarajapura	3
+LG-72006	Polonnaruwa PS	1	Medamaluwa	4
+LG-72006	Polonnaruwa PS	1	Kadawela Wewa	5
+LG-72006	Polonnaruwa PS	1	Palugasdamana	6
+LG-72006	Polonnaruwa PS	1	Aluthwewa	7
+LG-72006	Polonnaruwa PS	2	Gallella	8
+LG-72006	Polonnaruwa PS	1	Kalahagala	9
+LG-81008	Badulla MC	1	Medapathana	1
+LG-81008	Badulla MC	1	Kailagoda	2
+LG-81008	Badulla MC	1	Badulla North	3
+LG-81008	Badulla MC	1	Pitawelagama	4
+LG-81008	Badulla MC	1	Badulla West	5
+LG-81008	Badulla MC	1	Katupelella	6
+LG-81008	Badulla MC	1	Badulla Central	7
+LG-81008	Badulla MC	2	Badulupitiya	8
+LG-81008	Badulla MC	2	Badulla East	9
+LG-81008	Badulla MC	1	Hindagoda	10
+LG-81008	Badulla MC	1	Badulla South	11
+LG-81008	Badulla MC	1	Hingurugamuwa	12
+LG-81008	Badulla MC	1	Kanupelella	13
+LG-81014	Bandarawela MC	1	Diyabibila	1
+LG-81014	Bandarawela MC	1	Wewathenna	2
+LG-81014	Bandarawela MC	1	Bindunuwewa	3
+LG-81014	Bandarawela MC	1	Kebillawela North	4
+LG-81014	Bandarawela MC	2	Bandarawela West	5
+LG-81014	Bandarawela MC	2	Bandarawela East	6
+LG-81014	Bandarawela MC	1	Inikambedda	7
+LG-81014	Bandarawela MC	1	Kinigama	8
+LG-81017	Haputale UC	1	Panketiya	1
+LG-81017	Haputale UC	1	Sherwood Janapadaya	2
+LG-81017	Haputale UC	1	Station Road	3
+LG-81017	Haputale UC	1	Icepeella	4
+LG-81017	Haputale UC	1	Temple Road	5
+LG-81017	Haputale UC	1	MagiripuraPathana	6
+LG-81017	Haputale UC	1	Magiripura	7
+LG-81001	Mahiyanganaya PS	1	Rotalawela	1
+LG-81001	Mahiyanganaya PS	1	Ginnoruwa	2
+LG-81001	Mahiyanganaya PS	1	Ulhitiya	3
+LG-81001	Mahiyanganaya PS	1	Aluttarama	4
+LG-81001	Mahiyanganaya PS	1	Girandurukotte	5
+LG-81001	Mahiyanganaya PS	1	Dambana	6
+LG-81001	Mahiyanganaya PS	1	Beligalla	7
+LG-81001	Mahiyanganaya PS	1	Bathalayaya	8
+LG-81001	Mahiyanganaya PS	1	Sorabora	9
+LG-81001	Mahiyanganaya PS	1	Mahiyanganaya	10
+LG-81001	Mahiyanganaya PS	1	Elewela	11
+LG-81001	Mahiyanganaya PS	1	Dambarawa	12
+LG-81001	Mahiyanganaya PS	1	Mapakadawewa	13
+LG-81001	Mahiyanganaya PS	1	Pangaragammana	14
+LG-81002	Rideemaliyadda PS	1	Serana	1
+LG-81002	Rideemaliyadda PS	1	Keselpotha North	2
+LG-81002	Rideemaliyadda PS	1	Keselpotha South	3
+LG-81002	Rideemaliyadda PS	1	Ekiriyankumbura	4
+LG-81002	Rideemaliyadda PS	1	Pethiyagoda	5
+LG-81002	Rideemaliyadda PS	1	Uva Thissapura	6
+LG-81002	Rideemaliyadda PS	1	Gemunupura	7
+LG-81002	Rideemaliyadda PS	1	Andaulpotha	8
+LG-81002	Rideemaliyadda PS	1	Rideemaliyadda North	9
+LG-81002	Rideemaliyadda PS	1	Kuruvithenna	10
+LG-81002	Rideemaliyadda PS	1	Arawa	11
+LG-81005	Soranathota PS	1	Budugekanda	1
+LG-81005	Soranathota PS	1	Pussellawa	2
+LG-81005	Soranathota PS	1	Egodawela	3
+LG-81005	Soranathota PS	1	Kuttiyagolla	4
+LG-81005	Soranathota PS	1	Rideepana	5
+LG-81005	Soranathota PS	1	Pussellakanda	6
+LG-81005	Soranathota PS	1	Soranathota	7
+LG-81005	Soranathota PS	2	Kandegedara	8
+LG-81005	Soranathota PS	1	Kohowila	9
+LG-81003	Meegahakivula PS	1	Balagolla	1
+LG-81003	Meegahakivula PS	1	Karandagahamada	2
+LG-81003	Meegahakivula PS	1	Meegahakivula	3
+LG-81003	Meegahakivula PS	1	Akurukaduwa	4
+LG-81003	Meegahakivula PS	1	Kalugahakandura	5
+LG-81003	Meegahakivula PS	1	Roberiya	6
+LG-81003	Meegahakivula PS	1	Pitamaruwa	7
+LG-81003	Meegahakivula PS	1	Ketawatta	8
+LG-81003	Meegahakivula PS	1	Kohana	9
+LG-81003	Meegahakivula PS	1	Thaldena	10
+LG-81004	Kandaketiya PS	1	Mahakele	1
+LG-81004	Kandaketiya PS	1	Kandakepu Ulpatha	2
+LG-81004	Kandaketiya PS	1	Baduluoya	3
+LG-81004	Kandaketiya PS	1	Kandaketiya	4
+LG-81004	Kandaketiya PS	1	Kivulegedara	5
+LG-81004	Kandaketiya PS	1	Mudagamuwa	6
+LG-81004	Kandaketiya PS	1	Maliyadda	7
+LG-81004	Kandaketiya PS	1	Godunna	8
+LG-81004	Kandaketiya PS	1	Galauda	9
+LG-81004	Kandaketiya PS	1	Bokanoruwa	10
+LG-81006	Passara PS	1	Kahataruppa	1
+LG-81006	Passara PS	1	Madugasthalawa	2
+LG-81006	Passara PS	1	Welgolla	3
+LG-81006	Passara PS	1	Maligathenna	4
+LG-81006	Passara PS	1	Tholabowatta	5
+LG-81006	Passara PS	2	Passara	6
+LG-81006	Passara PS	1	Sapuroda	7
+LG-81006	Passara PS	1	Pelgahathenna	8
+LG-81006	Passara PS	1	Puhulwatta	9
+LG-81006	Passara PS	1	Ambathenna	10
+LG-81006	Passara PS	1	Bibilegama	11
+LG-81006	Passara PS	1	Kanawerella	12
+LG-81007	Lunugala PS	1	Ekiriya	1
+LG-81007	Lunugala PS	1	Batawatta	2
+LG-81007	Lunugala PS	1	Janathapura	3
+LG-81007	Lunugala PS	1	Arawakumbura	4
+LG-81007	Lunugala PS	1	Pallekiruwa	5
+LG-81007	Lunugala PS	2	Lunugala	6
+LG-81007	Lunugala PS	1	Sumudugama	7
+LG-81007	Lunugala PS	2	Madulsima	8
+LG-81007	Lunugala PS	1	Yapamma	9
+LG-81007	Lunugala PS	1	Maduwatta	10
+LG-81009	Badulla PS	1	Andeniya	1
+LG-81009	Badulla PS	1	Sirimalgoda	2
+LG-81009	Badulla PS	1	Damanwara	3
+LG-81009	Badulla PS	1	Kendagolla	4
+LG-81009	Badulla PS	1	Thelbedda Watta	5
+LG-81009	Badulla PS	1	Wewessa	6
+LG-81009	Badulla PS	1	Vineethagama	7
+LG-81009	Badulla PS	1	Udawela	8
+LG-81009	Badulla PS	1	Rambukpotha	9
+LG-81009	Badulla PS	1	Glen Alpin Estate	10
+LG-81010	Hali-Ela PS	1	Jagulla	1
+LG-81010	Hali-Ela PS	2	Bogoda	2
+LG-81010	Hali-Ela PS	1	Anthuduwawela	3
+LG-81010	Hali-Ela PS	2	Hali Ela	4
+LG-81010	Hali-Ela PS	1	Bogahamaditta	5
+LG-81010	Hali-Ela PS	1	Mahawattegama	6
+LG-81010	Hali-Ela PS	1	Welikemulla	7
+LG-81010	Hali-Ela PS	1	Imbulgoda	8
+LG-81010	Hali-Ela PS	1	Kandana	9
+LG-81010	Hali-Ela PS	1	Springvalley	10
+LG-81010	Hali-Ela PS	1	Medagama	11
+LG-81010	Hali-Ela PS	2	Uduwara	12
+LG-81010	Hali-Ela PS	1	Morethota	13
+LG-81010	Hali-Ela PS	1	Niliathugoda	14
+LG-81010	Hali-Ela PS	2	Etampitiya	15
+LG-81010	Hali-Ela PS	1	Wepassawela	16
+LG-81010	Hali-Ela PS	1	Katugaha	17
+LG-81010	Hali-Ela PS	1	Maligathenna	18
+LG-81010	Hali-Ela PS	1	Kurukude	19
+LG-81010	Hali-Ela PS	1	Malitta	20
+LG-81011	Uva Paranagama PS	1	Maspanna	1
+LG-81011	Uva Paranagama PS	1	Wewegama	2
+LG-81011	Uva Paranagama PS	2	Gampaha	3
+LG-81011	Uva Paranagama PS	1	Dimbulana	4
+LG-81011	Uva Paranagama PS	1	Bambarapana	5
+LG-81011	Uva Paranagama PS	1	Weliulla	6
+LG-81011	Uva Paranagama PS	1	Pannalawela	7
+LG-81011	Uva Paranagama PS	1	Ethkandawaka	8
+LG-81011	Uva Paranagama PS	1	Paranagama	9
+LG-81011	Uva Paranagama PS	1	Thawalampola	10
+LG-81011	Uva Paranagama PS	1	Uduhawara	11
+LG-81011	Uva Paranagama PS	1	Perawella	12
+LG-81011	Uva Paranagama PS	1	Galahagama	13
+LG-81011	Uva Paranagama PS	1	Medawela	14
+LG-81011	Uva Paranagama PS	1	Dangamuwa	15
+LG-81011	Uva Paranagama PS	1	Ambagasdowa	16
+LG-81011	Uva Paranagama PS	1	Pallewela	17
+LG-81011	Uva Paranagama PS	1	Yahalarawa	18
+LG-81011	Uva Paranagama PS	1	Kotawera	19
+LG-81011	Uva Paranagama PS	1	Rathamba	20
+LG-81012	Welimada PS	1	Boragas	1
+LG-81012	Welimada PS	1	Hulankapolla	2
+LG-81012	Welimada PS	1	Vidurupola	3
+LG-81012	Welimada PS	1	Divurumgama	4
+LG-81012	Welimada PS	1	Welimada	5
+LG-81012	Welimada PS	1	Puranwela	6
+LG-81012	Welimada PS	1	Landegama	7
+LG-81012	Welimada PS	1	Dambawinna	8
+LG-81012	Welimada PS	1	Dikkapitiya	9
+LG-81012	Welimada PS	1	Diaraba Estate	10
+LG-81012	Welimada PS	1	Mirahawatta	11
+LG-81012	Welimada PS	1	Udupeella	12
+LG-81012	Welimada PS	1	Nawela	13
+LG-81012	Welimada PS	1	Nedungamuwa	14
+LG-81012	Welimada PS	1	Idamegama	15
+LG-81012	Welimada PS	1	Keppetipola	16
+LG-81012	Welimada PS	1	Ambewela	17
+LG-81012	Welimada PS	1	Kandepuhulpola	18
+LG-81012	Welimada PS	1	Boralanda	19
+LG-81012	Welimada PS	2	Guruthalawa	20
+LG-81012	Welimada PS	1	Galedanda	21
+LG-81012	Welimada PS	1	Pitapola	22
+LG-81012	Welimada PS	1	Ohiya	23
+LG-81012	Welimada PS	1	Maligathenna	24
+LG-81013	Bandarawela PS	1	Mathetilla	1
+LG-81013	Bandarawela PS	1	Diganathenna	2
+LG-81013	Bandarawela PS	1	Kirioruwa	3
+LG-81013	Bandarawela PS	1	Egodagama	4
+LG-81013	Bandarawela PS	1	Makulella	5
+LG-81013	Bandarawela PS	1	Liyangahawela	6
+LG-81013	Bandarawela PS	1	Doolgolla	7
+LG-81013	Bandarawela PS	1	Kebillawela South	8
+LG-81013	Bandarawela PS	1	Obadaella	9
+LG-81013	Bandarawela PS	1	Nayabedda Estate	10
+LG-81015	Ella PS	1	Millagama	1
+LG-81015	Ella PS	1	Halpe	2
+LG-81015	Ella PS	2	Demodara	3
+LG-81015	Ella PS	2	Beddewela	4
+LG-81015	Ella PS	1	Pupula	5
+LG-81015	Ella PS	2	Ballaketuwa	6
+LG-81015	Ella PS	1	Ella	7
+LG-81015	Ella PS	1	Rawana Ella	8
+LG-81015	Ella PS	1	Heeloya	9
+LG-81015	Ella PS	1	Dowa	10
+LG-81016	Haputale PS	1	Kahaththewela	1
+LG-81016	Haputale PS	1	Kahagolla	2
+LG-81016	Haputale PS	1	Diyathalawa	3
+LG-81016	Haputale PS	1	Ellagama	4
+LG-81016	Haputale PS	2	Haputhalegama	5
+LG-81016	Haputale PS	1	Kadurugamuwa	6
+LG-81016	Haputale PS	1	Umankandura	7
+LG-81016	Haputale PS	2	Haputale	8
+LG-81016	Haputale PS	2	Dambethenna	9
+LG-81018	Haldummulla PS	1	Uvathenna	1
+LG-81018	Haldummulla PS	1	Walhaputhenna	2
+LG-81018	Haldummulla PS	2	Haldummulla	3
+LG-81018	Haldummulla PS	1	Harankahawa	4
+LG-81018	Haldummulla PS	1	Soragune	5
+LG-81018	Haldummulla PS	1	Nikapotha	6
+LG-81018	Haldummulla PS	2	Koslanda	7
+LG-81018	Haldummulla PS	1	Punagala	8
+LG-81018	Haldummulla PS	1	Gampaha	9
+LG-81018	Haldummulla PS	1	Mahalanda	10
+LG-82001	Bibile PS	1	Radaliyadda	1
+LG-82001	Bibile PS	1	Nilgala	2
+LG-82001	Bibile PS	1	Pitakumbura	3
+LG-82001	Bibile PS	1	Nagala	4
+LG-82001	Bibile PS	1	Bibile	5
+LG-82001	Bibile PS	1	Wegama	6
+LG-82001	Bibile PS	1	Mallehawa	7
+LG-82001	Bibile PS	1	Kuruwamba	8
+LG-82001	Bibile PS	1	Dodamgolla	9
+LG-82001	Bibile PS	1	Kotagama	10
+LG-82003	Medagama PS	1	Pothubandhana	1
+LG-82003	Medagama PS	1	Kotabowa	2
+LG-82003	Medagama PS	1	Nannapurawa	3
+LG-82003	Medagama PS	1	Kohukumbura	4
+LG-82003	Medagama PS	1	Monarawana	5
+LG-82003	Medagama PS	1	Thimbiriya	6
+LG-82003	Medagama PS	1	Medagama	7
+LG-82003	Medagama PS	1	Kendawinna	8
+LG-82003	Medagama PS	1	Bakinigahawela	9
+LG-82003	Medagama PS	1	Amunekandura	10
+LG-82002	Madulla PS	1	Inginiyagala	1
+LG-82002	Madulla PS	1	Baduluwela	2
+LG-82002	Madulla PS	1	Thampalawela	3
+LG-82002	Madulla PS	1	Makulla	4
+LG-82002	Madulla PS	1	Alpitiya	5
+LG-82002	Madulla PS	1	Ihawa	6
+LG-82002	Madulla PS	1	Mariarawa	7
+LG-82002	Madulla PS	1	Neelawabedda	8
+LG-82002	Madulla PS	1	Obbegoda	9
+LG-82002	Madulla PS	1	Dambagalle	10
+LG-82002	Madulla PS	1	Therela	11
+LG-82004	Siyambalanduwa PS	1	Buddama	1
+LG-82004	Siyambalanduwa PS	1	Pallewela	2
+LG-82004	Siyambalanduwa PS	1	Kotagoda	3
+LG-82004	Siyambalanduwa PS	1	Samanalabedda	4
+LG-82004	Siyambalanduwa PS	1	Muthukandiya	5
+LG-82004	Siyambalanduwa PS	1	Mahakalugolla	6
+LG-82004	Siyambalanduwa PS	1	Siyamabalanduwa	7
+LG-82004	Siyambalanduwa PS	1	Kodayana	8
+LG-82004	Siyambalanduwa PS	1	Dombagahawela	9
+LG-82004	Siyambalanduwa PS	1	Liyangolla	10
+LG-82004	Siyambalanduwa PS	1	Ethimale	11
+LG-82004	Siyambalanduwa PS	1	Gemunupura	12
+LG-82004	Siyambalanduwa PS	1	Thissapura	13
+LG-82004	Siyambalanduwa PS	1	Kotiyagala	14
+LG-82005	Moneragala PS	1	Nakkala	1
+LG-82005	Moneragala PS	1	Batugammana	2
+LG-82005	Moneragala PS	1	Magandanamulla	3
+LG-82005	Moneragala PS	2	Moneragala	4
+LG-82005	Moneragala PS	1	Muppane	5
+LG-82005	Moneragala PS	1	Maduruketiya	6
+LG-82005	Moneragala PS	1	Horombuwa	7
+LG-82005	Moneragala PS	1	Hulandawa	8
+LG-82005	Moneragala PS	1	Bohitiya	9
+LG-82005	Moneragala PS	1	Kahambana	10
+LG-82006	Badalkumbura PS	1	Wekumbura	1
+LG-82006	Badalkumbura PS	1	Maligathenna	2
+LG-82006	Badalkumbura PS	1	Karawila	3
+LG-82006	Badalkumbura PS	1	Madukotanarawa	4
+LG-82006	Badalkumbura PS	1	Eththalamulla	5
+LG-82006	Badalkumbura PS	1	Badalkumbura	6
+LG-82006	Badalkumbura PS	1	Alupotha	7
+LG-82006	Badalkumbura PS	1	Dewathura	8
+LG-82006	Badalkumbura PS	1	Hingurukaduwa	9
+LG-82006	Badalkumbura PS	1	Athala	10
+LG-82006	Badalkumbura PS	1	Katugahagalge	11
+LG-82008	Buttala PS	1	Pelwatta	1
+LG-82008	Buttala PS	1	Yudaganawa	2
+LG-82008	Buttala PS	1	Udagama	3
+LG-82008	Buttala PS	1	Medagama	4
+LG-82008	Buttala PS	1	Gaminipura	5
+LG-82008	Buttala PS	1	Maligawila	6
+LG-82008	Buttala PS	1	Okkampitiya	7
+LG-82008	Buttala PS	1	Gonaganara	8
+LG-82008	Buttala PS	1	Puhulkotuwa	9
+LG-82008	Buttala PS	1	Mahasenpura	10
+LG-82008	Buttala PS	1	Kukurampola	11
+LG-82009	Katharagama PS	1	Karawile	1
+LG-82009	Katharagama PS	1	Sellakataragama	2
+LG-82009	Katharagama PS	2	Katharagama	3
+LG-82009	Katharagama PS	1	Mailagama	4
+LG-82009	Katharagama PS	1	Kandasurindugama	5
+LG-82009	Katharagama PS	1	Detagamuwa Janapadaya (Colony)	6
+LG-82009	Katharagama PS	2	Kataragama New Town	7
+LG-82007	Wellawaya PS	1	Randeniya	1
+LG-82007	Wellawaya PS	1	Kotikambokka	2
+LG-82007	Wellawaya PS	1	Anapallama	3
+LG-82007	Wellawaya PS	1	Warunagama	4
+LG-82007	Wellawaya PS	2	Wellawaya	5
+LG-82007	Wellawaya PS	1	Buduruwagala	6
+LG-82007	Wellawaya PS	1	Neluwagala	7
+LG-82007	Wellawaya PS	1	Handapanagala	8
+LG-82007	Wellawaya PS	1	Siripuragama	9
+LG-82007	Wellawaya PS	1	Thelulla	10
+LG-82007	Wellawaya PS	1	Mahaaragama	11
+LG-82007	Wellawaya PS	1	Uva Kudaoya	12
+LG-82007	Wellawaya PS	1	Balaharuwa	13
+LG-82010	Thanamalvila PS	1	Kandiyapitawewa	1
+LG-82010	Thanamalvila PS	1	Kotaveheramankada	2
+LG-82010	Thanamalvila PS	1	Hambegamuwa	3
+LG-82010	Thanamalvila PS	1	Mahawewa	4
+LG-82010	Thanamalvila PS	1	Sooriya Ara	5
+LG-82010	Thanamalvila PS	1	Sittarama	6
+LG-82010	Thanamalvila PS	1	Seenukkuwa	7
+LG-82010	Thanamalvila PS	1	Bodagama	8
+LG-82010	Thanamalvila PS	1	Katupilagama North	9
+LG-82010	Thanamalvila PS	1	Katupilagama South	10
+LG-82010	Thanamalvila PS	1	Muthuminigama	11
+LG-82010	Thanamalvila PS	1	Sevanagala	12
+LG-82010	Thanamalvila PS	1	Indikolapelessa	13
+LG-82010	Thanamalvila PS	1	Habaraluwewa	14
+LG-82010	Thanamalvila PS	1	Kiri Ibbanwewa	15
+LG-82010	Thanamalvila PS	1	Samagipura	16
+LG-82010	Thanamalvila PS	1	Nugegalayaya	17
+LG-82010	Thanamalvila PS	1	Haburugala	18
+LG-82010	Thanamalvila PS	1	Habarattawela	19
+LG-82010	Thanamalvila PS	1	Mahagama	20
+LG-91004	Ratnapura MC	1	Ratnapura New Town	1
+LG-91004	Ratnapura MC	1	Kospelawinna	2
+LG-91004	Ratnapura MC	2	Mihindugama	3
+LG-91004	Ratnapura MC	1	Weralupa	4
+LG-91004	Ratnapura MC	1	Dewalegawa	5
+LG-91004	Ratnapura MC	1	Muwagama	6
+LG-91004	Ratnapura MC	1	Ratnapura Town West	7
+LG-91004	Ratnapura MC	1	Ratnapura Town North	8
+LG-91004	Ratnapura MC	1	Godigamuwa	9
+LG-91004	Ratnapura MC	1	Angammana	10
+LG-91004	Ratnapura MC	1	Thiriwanaketiya	11
+LG-91004	Ratnapura MC	1	Batugedara	12
+LG-91004	Ratnapura MC	1	Mudduwa	13
+LG-91004	Ratnapura MC	1	Samagipura	14
+LG-91006	Balangoda UC	1	Bulathgama	1
+LG-91006	Balangoda UC	1	Thumbagoda	2
+LG-91006	Balangoda UC	1	Hunukumbura	3
+LG-91006	Balangoda UC	1	Kirindigala	4
+LG-91006	Balangoda UC	1	Oluganthota	5
+LG-91006	Balangoda UC	1	Dehigasthalawa	6
+LG-91006	Balangoda UC	1	Balangoda Town	7
+LG-91006	Balangoda UC	1	Balangoda	8
+LG-91006	Balangoda UC	1	Kumaragama	9
+LG-91006	Balangoda UC	1	Ellepola	10
+LG-91016	Embilipitiya UC	1	Hingure Ara	1
+LG-91016	Embilipitiya UC	1	Embilipitiya Pallegama	2
+LG-91016	Embilipitiya UC	1	Kalagedi Ara	3
+LG-91016	Embilipitiya UC	1	Moraketiya	4
+LG-91016	Embilipitiya UC	1	Halmillaketiya	5
+LG-91016	Embilipitiya UC	1	Embilipitiya New Town	6
+LG-91016	Embilipitiya UC	1	Yodhagama	7
+LG-91016	Embilipitiya UC	1	Modarawana	8
+LG-91001	Eheliyagoda PS	1	Kalatuwawa West	1
+LG-91001	Eheliyagoda PS	1	Walawita	2
+LG-91001	Eheliyagoda PS	1	Diwurumpitiya	3
+LG-91001	Eheliyagoda PS	1	Minnana	4
+LG-91001	Eheliyagoda PS	1	Bopeththa Didda	5
+LG-91001	Eheliyagoda PS	1	Udumaththa	6
+LG-91001	Eheliyagoda PS	1	Iddamalgoda	7
+LG-91001	Eheliyagoda PS	1	Pelpitiya	8
+LG-91001	Eheliyagoda PS	1	Wilegoda	9
+LG-91001	Eheliyagoda PS	2	Kendangamuwa	10
+LG-91001	Eheliyagoda PS	1	Yakudagoda	11
+LG-91001	Eheliyagoda PS	1	Mahara	12
+LG-91001	Eheliyagoda PS	1	Wiyalagoda	13
+LG-91001	Eheliyagoda PS	1	Paleegala	14
+LG-91001	Eheliyagoda PS	1	Mitipola	15
+LG-91001	Eheliyagoda PS	1	Karandana North	16
+LG-91001	Eheliyagoda PS	1	Karandana South	17
+LG-91001	Eheliyagoda PS	1	Hindurangala	18
+LG-91003	Ratnapura PS	1	Ketawala	1
+LG-91003	Ratnapura PS	1	Siripagama	2
+LG-91003	Ratnapura PS	1	Sri Palabaddala	3
+LG-91003	Ratnapura PS	1	Kudawa	4
+LG-91003	Ratnapura PS	1	Dehenakanda	5
+LG-91003	Ratnapura PS	1	Bambarabotuwa	6
+LG-91003	Ratnapura PS	1	Gurubewilagama	7
+LG-91003	Ratnapura PS	1	Batewela	8
+LG-91003	Ratnapura PS	1	Amunutenna	9
+LG-91003	Ratnapura PS	1	Hapugastenna	10
+LG-91003	Ratnapura PS	1	Rathgama	11
+LG-91003	Ratnapura PS	1	Embuldeniya	12
+LG-91003	Ratnapura PS	1	Malangama	13
+LG-91003	Ratnapura PS	1	Amuthagoda	14
+LG-91003	Ratnapura PS	1	Kahangama	15
+LG-91003	Ratnapura PS	1	Ketaliyanpalla	16
+LG-91003	Ratnapura PS	1	Ethoya	17
+LG-91003	Ratnapura PS	1	Egoda Malwala	18
+LG-91003	Ratnapura PS	1	Meehitiya	19
+LG-91003	Ratnapura PS	1	Durekkanda	20
+LG-91003	Ratnapura PS	1	Galabada	21
+LG-91003	Ratnapura PS	1	Banagoda	22
+LG-91002	Kuruvita PS	1	Talawitiya	1
+LG-91002	Kuruvita PS	1	Bodhimaluwa	2
+LG-91002	Kuruvita PS	1	Pussella	3
+LG-91002	Kuruvita PS	1	Pathberiya	4
+LG-91002	Kuruvita PS	1	Dewipahala	5
+LG-91002	Kuruvita PS	1	Sudagala	6
+LG-91002	Kuruvita PS	1	Erathna	7
+LG-91002	Kuruvita PS	1	Kuruwita	8
+LG-91002	Kuruvita PS	1	Kadangoda	9
+LG-91002	Kuruvita PS	1	Delgamuwa	10
+LG-91002	Kuruvita PS	1	Millawitiya	11
+LG-91002	Kuruvita PS	1	Miyanadeniya	12
+LG-91002	Kuruvita PS	1	Deheragoda	13
+LG-91002	Kuruvita PS	1	Ellawala	14
+LG-91002	Kuruvita PS	1	Matuwagala	15
+LG-91002	Kuruvita PS	1	Theppanawa	16
+LG-91002	Kuruvita PS	1	Pathagama	17
+LG-91002	Kuruvita PS	1	Walandura	18
+LG-91002	Kuruvita PS	1	Kosgoda	19
+LG-91002	Kuruvita PS	1	Galukagama	20
+LG-91002	Kuruvita PS	1	Kithulpe	21
+LG-91002	Kuruvita PS	1	Dodampe	22
+LG-91002	Kuruvita PS	1	Dodampe West	23
+LG-91002	Kuruvita PS	1	Kiriella	24
+LG-91002	Kuruvita PS	1	Munasinghapura	25
+LG-91002	Kuruvita PS	1	Ellagawa	26
+LG-91009	Pelmadulla PS	1	Hakamuwa	1
+LG-91009	Pelmadulla PS	1	Niralgama	2
+LG-91009	Pelmadulla PS	1	Poththakanda	3
+LG-91009	Pelmadulla PS	1	Marapana	4
+LG-91009	Pelmadulla PS	1	Mawudella	5
+LG-91009	Pelmadulla PS	1	Welimaluwa	6
+LG-91009	Pelmadulla PS	1	Bopeththa	7
+LG-91009	Pelmadulla PS	1	Berenduwa	8
+LG-91009	Pelmadulla PS	1	Lellopitiya	9
+LG-91009	Pelmadulla PS	1	Dewalegama	10
+LG-91009	Pelmadulla PS	1	Denawaka Pathakada	11
+LG-91009	Pelmadulla PS	1	Godagama	12
+LG-91009	Pelmadulla PS	1	Ganegama	13
+LG-91009	Pelmadulla PS	1	Kuttapitiya	14
+LG-91009	Pelmadulla PS	1	Denawaka Udakada	15
+LG-91009	Pelmadulla PS	1	Pelmadulla	16
+LG-91009	Pelmadulla PS	1	Bopitiya	17
+LG-91009	Pelmadulla PS	1	Poronuwa	18
+LG-91009	Pelmadulla PS	2	Panawenna	19
+LG-91009	Pelmadulla PS	1	Borala	20
+LG-91009	Pelmadulla PS	1	Kattange	21
+LG-91007	Balangoda PS	1	Egoda Waleboda	1
+LG-91007	Balangoda PS	1	Rassagala	2
+LG-91007	Balangoda PS	1	Ellewatta	3
+LG-91007	Balangoda PS	1	Meddekanda	4
+LG-91007	Balangoda PS	1	Massenna	5
+LG-91007	Balangoda PS	1	Balangoda	6
+LG-91007	Balangoda PS	1	Pallekanda	7
+LG-91007	Balangoda PS	1	Ellepola	8
+LG-91007	Balangoda PS	1	Mawela	9
+LG-91007	Balangoda PS	1	Kirimetithenna	10
+LG-91007	Balangoda PS	1	Dehigasthalawa	11
+LG-91007	Balangoda PS	1	Yahalawela	12
+LG-91007	Balangoda PS	1	Wikiliya	13
+LG-91007	Balangoda PS	1	Bowatta	14
+LG-91007	Balangoda PS	1	Damahana	15
+LG-91007	Balangoda PS	1	Mahawalathenna	16
+LG-91007	Balangoda PS	1	Rajawaka	17
+LG-91007	Balangoda PS	1	Diyawinna	18
+LG-91007	Balangoda PS	1	Thanjanthenna	19
+LG-91007	Balangoda PS	1	Kalthota	20
+LG-91007	Balangoda PS	1	Medabedda	21
+LG-91005	Imbulpe PS	1	Waleboda North	1
+LG-91005	Imbulpe PS	1	Bolthumbe	2
+LG-91005	Imbulpe PS	2	Maddegama	3
+LG-91005	Imbulpe PS	1	Belihuloya	4
+LG-91005	Imbulpe PS	1	Muttettuwegama	5
+LG-91005	Imbulpe PS	1	Halpe	6
+LG-91005	Imbulpe PS	1	Imbulpe	7
+LG-91005	Imbulpe PS	1	Atawakwala	8
+LG-91005	Imbulpe PS	1	Morahela	9
+LG-91005	Imbulpe PS	1	Wegapitiya	10
+LG-91005	Imbulpe PS	1	Rathmalawinna	11
+LG-91005	Imbulpe PS	1	Aluthnuwara	12
+LG-91005	Imbulpe PS	1	Hatharabage	13
+LG-91014	Godakawela PS	2	Hapurudeniya	1
+LG-91014	Godakawela PS	1	Hiramadagama	2
+LG-91014	Godakawela PS	1	Alpitiya	3
+LG-91014	Godakawela PS	1	Kawuduwawa	4
+LG-91014	Godakawela PS	1	Galahitiya	5
+LG-91014	Godakawela PS	1	Godakawela	6
+LG-91014	Godakawela PS	1	Niyangama	7
+LG-91014	Godakawela PS	1	Balawinna	8
+LG-91014	Godakawela PS	1	Thambagamuwa	9
+LG-91014	Godakawela PS	1	Dambawinna	10
+LG-91014	Godakawela PS	1	Malwatta	11
+LG-91014	Godakawela PS	2	Masimbula	12
+LG-91014	Godakawela PS	1	Horamula	13
+LG-91014	Godakawela PS	1	Kottala	14
+LG-91014	Godakawela PS	1	Rakwana Town	15
+LG-91014	Godakawela PS	1	Rakwana North	16
+LG-91013	Kahawatta PS	1	Yatagara	1
+LG-91013	Kahawatta PS	1	Yainna	2
+LG-91013	Kahawatta PS	1	Wellandura	3
+LG-91013	Kahawatta PS	1	Atakalanpanna	4
+LG-91013	Kahawatta PS	1	Nambuluwa	5
+LG-91013	Kahawatta PS	1	Kalalella	6
+LG-91013	Kahawatta PS	1	Madalagama	7
+LG-91013	Kahawatta PS	2	Endana	8
+LG-91013	Kahawatta PS	1	Pannila	9
+LG-91008	Weligepola PS	2	Hunuwala	1
+LG-91008	Weligepola PS	1	Udawela	2
+LG-91008	Weligepola PS	1	Opanayaka	3
+LG-91008	Weligepola PS	1	Akarella	4
+LG-91008	Weligepola PS	1	Panana	5
+LG-91008	Weligepola PS	1	Ranwala	6
+LG-91008	Weligepola PS	1	Badullegama	7
+LG-91008	Weligepola PS	1	Weligepola	8
+LG-91008	Weligepola PS	1	Handagiriya	9
+LG-91008	Weligepola PS	1	Galpaya	10
+LG-91010	Nivithigala PS	1	Dambuluwana	1
+LG-91010	Nivithigala PS	1	Karangoda	2
+LG-91010	Nivithigala PS	1	Elapatha	3
+LG-91010	Nivithigala PS	1	Weragama	4
+LG-91010	Nivithigala PS	1	Niriella	5
+LG-91010	Nivithigala PS	1	Hangamuwa	6
+LG-91010	Nivithigala PS	1	Pahala Karawita	7
+LG-91010	Nivithigala PS	1	Niwitigala	8
+LG-91010	Nivithigala PS	1	Noragalla	9
+LG-91010	Nivithigala PS	1	Watapotha	10
+LG-91010	Nivithigala PS	1	Kolombugama	11
+LG-91010	Nivithigala PS	1	Halkandaliya	12
+LG-91010	Nivithigala PS	1	Uda Karawita	13
+LG-91010	Nivithigala PS	1	Delwala	14
+LG-91011	Ayagama PS	1	Ketepola	1
+LG-91011	Ayagama PS	1	Madabaddara	2
+LG-91011	Ayagama PS	1	Galathura	3
+LG-91011	Ayagama PS	1	Sinhalagoda	4
+LG-91011	Ayagama PS	1	Pallekada	5
+LG-91011	Ayagama PS	1	Dumbara Manana	6
+LG-91011	Ayagama PS	1	Pitakanda	7
+LG-91011	Ayagama PS	1	Ayagama	8
+LG-91011	Ayagama PS	1	Udugala	9
+LG-91011	Ayagama PS	1	Paragala	10
+LG-91012	Kalawana PS	1	Wewagama	1
+LG-91012	Kalawana PS	1	Jathuwangoda	2
+LG-91012	Kalawana PS	1	Kalawana	3
+LG-91012	Kalawana PS	1	Thapassarakanda	4
+LG-91012	Kalawana PS	1	Hangarangala	5
+LG-91012	Kalawana PS	1	Delgoda	6
+LG-91012	Kalawana PS	1	Weddagala	7
+LG-91012	Kalawana PS	1	Panapola	8
+LG-91012	Kalawana PS	1	Pothupitiya	9
+LG-91012	Kalawana PS	1	Rambuka	10
+LG-91015	Embilipitiya PS	1	Pallebedda	1
+LG-91015	Embilipitiya PS	1	Kolambageara	2
+LG-91015	Embilipitiya PS	1	Udawalawa	3
+LG-91015	Embilipitiya PS	1	Rathkerewwa	4
+LG-91015	Embilipitiya PS	1	Gangeyaya	5
+LG-91015	Embilipitiya PS	1	Maduwanwela	6
+LG-91015	Embilipitiya PS	1	Ranchamadama	7
+LG-91015	Embilipitiya PS	1	Walalgoda	8
+LG-91015	Embilipitiya PS	1	Panamura	9
+LG-91015	Embilipitiya PS	1	Diyapota	10
+LG-91015	Embilipitiya PS	1	Mulendiyawala	11
+LG-91015	Embilipitiya PS	1	Konkatuwa	12
+LG-91015	Embilipitiya PS	1	Thorakolayaya	13
+LG-91015	Embilipitiya PS	1	Hingura	14
+LG-91015	Embilipitiya PS	1	Thunkama	15
+LG-91015	Embilipitiya PS	1	Kuttigala	16
+LG-91015	Embilipitiya PS	1	Padalangala	17
+LG-91017	Kolonna PS	2	Buluthota	1
+LG-91017	Kolonna PS	1	Kolonna	2
+LG-91017	Kolonna PS	1	Ranhotikanda	3
+LG-91017	Kolonna PS	1	Kumburugamuwa	4
+LG-91017	Kolonna PS	1	Maduwanwela Peranigama	5
+LG-91017	Kolonna PS	1	Buthkanda	6
+LG-91017	Kolonna PS	1	Boraluwageaina	7
+LG-91017	Kolonna PS	1	Kella	8
+LG-91017	Kolonna PS	1	Koppakanda	9
+LG-91017	Kolonna PS	1	Omalpe	10
+LG-92005	Kegalle UC	1	Ambanpitiya Nagarikaya	1
+LG-92005	Kegalle UC	1	Habudugala	2
+LG-92005	Kegalle UC	1	Anguruwella	3
+LG-92005	Kegalle UC	1	Wevaladeniya	4
+LG-92005	Kegalle UC	1	Olagama	5
+LG-92005	Kegalle UC	1	Kurunduhinna	6
+LG-92005	Kegalle UC	1	Madeiyawa	7
+LG-92005	Kegalle UC	1	Meepitiya	8
+LG-92005	Kegalle UC	1	Nilmalgoda	9
+LG-92005	Kegalle UC	1	Pitihuma	10
+LG-92005	Kegalle UC	1	Gangoda	11
+LG-92005	Kegalle UC	1	Rokhill	12
+LG-92007	Warakapola PS	1	Thulhiriya	1
+LG-92007	Warakapola PS	1	Opatha	2
+LG-92007	Warakapola PS	1	Kodapaluwa	3
+LG-92007	Warakapola PS	1	Vaddeniya	4
+LG-92007	Warakapola PS	1	Aegalla	5
+LG-92007	Warakapola PS	1	Morawaka	6
+LG-92007	Warakapola PS	1	Mangedara	7
+LG-92007	Warakapola PS	1	Ambepussa	8
+LG-92007	Warakapola PS	2	Warakapola	9
+LG-92007	Warakapola PS	1	Othnapitiya	10
+LG-92007	Warakapola PS	1	Nelundeniya	11
+LG-92007	Warakapola PS	1	Dedigama	12
+LG-92007	Warakapola PS	1	Kukulpane	13
+LG-92007	Warakapola PS	1	Athnawala	14
+LG-92007	Warakapola PS	1	Godawela	15
+LG-92007	Warakapola PS	1	Algama Ihalagama	16
+LG-92007	Warakapola PS	1	Uduwaka	17
+LG-92007	Warakapola PS	1	Weragoda	18
+LG-92007	Warakapola PS	1	Menikkadawara	19
+LG-92007	Warakapola PS	1	Mahapallegama	20
+LG-92007	Warakapola PS	1	Alpitiya	21
+LG-92007	Warakapola PS	1	Algama	22
+LG-92007	Warakapola PS	1	Pahala Lenagala	23
+LG-92007	Warakapola PS	1	Weragala	24
+LG-92006	Galigamuwa PS	1	Helamada	1
+LG-92006	Galigamuwa PS	1	Wattarama	2
+LG-92006	Galigamuwa PS	1	Devalegama	3
+LG-92006	Galigamuwa PS	1	Valagama	4
+LG-92006	Galigamuwa PS	1	Adurapotha	5
+LG-92006	Galigamuwa PS	1	Hathnagoda	6
+LG-92006	Galigamuwa PS	1	Yattogoda	7
+LG-92006	Galigamuwa PS	1	Kobbewala	8
+LG-92006	Galigamuwa PS	1	Galigamuwa	9
+LG-92006	Galigamuwa PS	1	Naberiyawa	10
+LG-92006	Galigamuwa PS	1	Alawala	11
+LG-92006	Galigamuwa PS	1	Babararena	12
+LG-92006	Galigamuwa PS	1	Atugoda	13
+LG-92006	Galigamuwa PS	1	Kinigama	14
+LG-92006	Galigamuwa PS	1	Arandara	15
+LG-92006	Galigamuwa PS	1	Naadeniya	16
+LG-92006	Galigamuwa PS	1	Pindeniya	17
+LG-92006	Galigamuwa PS	1	Malwana	18
+LG-92006	Galigamuwa PS	1	Kotiyakumbura	19
+LG-92006	Galigamuwa PS	1	Aruggammana	20
+LG-92004	Kegalle PS	1	Siyambalapitiya	1
+LG-92004	Kegalle PS	1	Puwakdeniya	2
+LG-92004	Kegalle PS	1	Kalugalla	3
+LG-92004	Kegalle PS	1	Paranagampala	4
+LG-92004	Kegalle PS	1	Abanpitiya	5
+LG-92004	Kegalle PS	1	Paragammana	6
+LG-92004	Kegalle PS	1	Akiriyagala	7
+LG-92004	Kegalle PS	1	Karandupana	8
+LG-92004	Kegalle PS	1	Deewela	9
+LG-92004	Kegalle PS	1	Hettimulla	10
+LG-92004	Kegalle PS	1	Maakura	11
+LG-92004	Kegalle PS	1	Malavita	12
+LG-92004	Kegalle PS	1	Hungampala	13
+LG-92004	Kegalle PS	1	Meedeniya	14
+LG-92004	Kegalle PS	1	Alapalawala	15
+LG-92004	Kegalle PS	1	Aregama	16
+LG-92004	Kegalle PS	1	Undugoda	17
+LG-92004	Kegalle PS	1	Bogala	18
+LG-92004	Kegalle PS	1	Ganthuna	19
+LG-92001	Rambukkana PS	1	Kudagama	1
+LG-92001	Rambukkana PS	1	Hewadiiwela	2
+LG-92001	Rambukkana PS	1	Gabbala	3
+LG-92001	Rambukkana PS	1	Parape	4
+LG-92001	Rambukkana PS	1	Weligamuwa	5
+LG-92001	Rambukkana PS	1	Deliwala	6
+LG-92001	Rambukkana PS	1	Walgama	7
+LG-92001	Rambukkana PS	1	Meeduma	8
+LG-92001	Rambukkana PS	1	Diyasunnatha	9
+LG-92001	Rambukkana PS	1	Eriyagolla	10
+LG-92001	Rambukkana PS	1	Kansalagamuwa	11
+LG-92001	Rambukkana PS	1	Pinnawala	12
+LG-92001	Rambukkana PS	1	Imbulgasdeniya	13
+LG-92001	Rambukkana PS	1	Hiriwadunna	14
+LG-92001	Rambukkana PS	1	Kiriwandeniya	15
+LG-92001	Rambukkana PS	1	Dunukewala	16
+LG-92001	Rambukkana PS	1	Naranbedda	17
+LG-92001	Rambukkana PS	1	Kumbaloluwa	18
+LG-92001	Rambukkana PS	1	Molagoda	19
+LG-92001	Rambukkana PS	1	Kadigamuwa	20
+LG-92001	Rambukkana PS	1	Beddawala	21
+LG-92002	Mawanella PS	1	Wegantale	1
+LG-92002	Mawanella PS	1	Randiwala	2
+LG-92002	Mawanella PS	1	Makehelwala	3
+LG-92002	Mawanella PS	1	Makadawara	4
+LG-92002	Mawanella PS	1	Hingula	5
+LG-92002	Mawanella PS	1	Hinguloya	6
+LG-92002	Mawanella PS	1	Mahawatta	7
+LG-92002	Mawanella PS	1	Mawanella	8
+LG-92002	Mawanella PS	1	Utuwankanda	9
+LG-92002	Mawanella PS	1	Ambulugala	10
+LG-92002	Mawanella PS	1	Levuke	11
+LG-92002	Mawanella PS	1	Kringadeniya	12
+LG-92002	Mawanella PS	1	Edanduwawa	13
+LG-92002	Mawanella PS	1	Uyanwatta	14
+LG-92002	Mawanella PS	1	Aluthnuwara	15
+LG-92002	Mawanella PS	1	Mawela	16
+LG-92002	Mawanella PS	1	Mahanthegama	17
+LG-92002	Mawanella PS	1	Verake	18
+LG-92002	Mawanella PS	1	Ambadeniya	19
+LG-92002	Mawanella PS	1	Eraminigammana	20
+LG-92002	Mawanella PS	1	Ginihappitiya	21
+LG-92002	Mawanella PS	1	Hemmathagama	22
+LG-92002	Mawanella PS	1	Madulbowa	23
+LG-92002	Mawanella PS	1	Kehelpannala	24
+LG-92003	Aranayaka PS	1	Deewela	1
+LG-92003	Aranayaka PS	1	Uduwewela	2
+LG-92003	Aranayaka PS	1	Ussaapitiya	3
+LG-92003	Aranayaka PS	1	Talgamuwa	4
+LG-92003	Aranayaka PS	1	Nikapitiya	5
+LG-92003	Aranayaka PS	1	Asmadala	6
+LG-92003	Aranayaka PS	1	Debathgama	7
+LG-92003	Aranayaka PS	1	Hathgampala	8
+LG-92003	Aranayaka PS	1	Gawilipitiya	9
+LG-92003	Aranayaka PS	1	Dippitiya	10
+LG-92003	Aranayaka PS	1	Habalakkawa	11
+LG-92003	Aranayaka PS	1	Thalgaspitiya	12
+LG-92003	Aranayaka PS	1	Getaberikanda	13
+LG-92003	Aranayaka PS	1	Ganthuna	14
+LG-92003	Aranayaka PS	1	Narangala	15
+LG-92003	Aranayaka PS	1	Aranayaka	16
+LG-92003	Aranayaka PS	1	Hakurugammana	17
+LG-92003	Aranayaka PS	1	Selawa	18
+LG-92010	Yatiyanthota PS	1	Mattamagoda	1
+LG-92010	Yatiyanthota PS	1	Galpatha	2
+LG-92010	Yatiyanthota PS	1	Kabulumulla	3
+LG-92010	Yatiyanthota PS	1	Yatiyantota	4
+LG-92010	Yatiyanthota PS	1	Jayavindagama	5
+LG-92010	Yatiyanthota PS	1	Dombepola	6
+LG-92010	Yatiyanthota PS	1	Amanawala	7
+LG-92010	Yatiyanthota PS	1	Seepoth	8
+LG-92010	Yatiyanthota PS	1	Dunukedeniya	9
+LG-92010	Yatiyanthota PS	1	Malwatta	10
+LG-92010	Yatiyanthota PS	1	Neluwatukanda	11
+LG-92010	Yatiyanthota PS	1	Ganepalla	12
+LG-92010	Yatiyanthota PS	1	Garagoda	13
+LG-92010	Yatiyanthota PS	1	Meegastanna	14
+LG-92010	Yatiyanthota PS	1	Pelellegama	15
+LG-92010	Yatiyanthota PS	1	Gonagamuwa	16
+LG-92010	Yatiyanthota PS	1	Kitulgala	17
+LG-92009	Bulathkohupitiya PS	1	Kabagamuwa	1
+LG-92009	Bulathkohupitiya PS	1	Puspane	2
+LG-92009	Bulathkohupitiya PS	1	Bulathkohupitiya	3
+LG-92009	Bulathkohupitiya PS	1	Ihala Newusmiyar	4
+LG-92009	Bulathkohupitiya PS	1	Uduwa	5
+LG-92009	Bulathkohupitiya PS	1	Kandawa	6
+LG-92009	Bulathkohupitiya PS	1	Lewala	7
+LG-92009	Bulathkohupitiya PS	1	Wegalla	8
+LG-92009	Bulathkohupitiya PS	1	Ampagala	9
+LG-92009	Bulathkohupitiya PS	1	Panapitiya	10
+LG-92009	Bulathkohupitiya PS	1	Dedugala	11
+LG-92008	Ruwanwella PS	1	Mahakanda	1
+LG-92008	Ruwanwella PS	1	Galepitemada	2
+LG-92008	Ruwanwella PS	1	Lewengama	3
+LG-92008	Ruwanwella PS	2	Pettangoda	4
+LG-92008	Ruwanwella PS	1	Dorenuwa	5
+LG-92008	Ruwanwella PS	1	Siyambelawela	6
+LG-92008	Ruwanwella PS	1	Boppetta	7
+LG-92008	Ruwanwella PS	1	Dannorua	8
+LG-92008	Ruwanwella PS	1	Wahereka	9
+LG-92008	Ruwanwella PS	1	Wahakula	10
+LG-92008	Ruwanwella PS	1	Morawatta	11
+LG-92008	Ruwanwella PS	1	Ruwanwella	12
+LG-92008	Ruwanwella PS	1	Wendela	13
+LG-92008	Ruwanwella PS	1	Moraliya	14
+LG-92008	Ruwanwella PS	1	Madagoda	15
+LG-92008	Ruwanwella PS	1	Amithirigala	16
+LG-92012	Deraniyagala PS	1	Ballehela	1
+LG-92012	Deraniyagala PS	1	Keerihena	2
+LG-92012	Deraniyagala PS	1	Udabage	3
+LG-92012	Deraniyagala PS	1	Wattegedara	4
+LG-92012	Deraniyagala PS	1	Deraniyagala	5
+LG-92012	Deraniyagala PS	1	Basnagala	6
+LG-92012	Deraniyagala PS	1	Polgaswatta	7
+LG-92012	Deraniyagala PS	1	Poddenikanda	8
+LG-92012	Deraniyagala PS	1	Miyanavita	9
+LG-92012	Deraniyagala PS	1	Udapola	10
+LG-92012	Deraniyagala PS	1	Magala	11
+LG-92012	Deraniyagala PS	1	Dikellakanda	12
+LG-92011	Dehiovita PS	1	Kurupatta	1
+LG-92011	Dehiovita PS	1	Magammana	2
+LG-92011	Dehiovita PS	1	Kalegama	3
+LG-92011	Dehiovita PS	1	Kanengama	4
+LG-92011	Dehiovita PS	1	Atulugamwela	5
+LG-92011	Dehiovita PS	1	Ihala Talduwa	6
+LG-92011	Dehiovita PS	1	Pahela Talduwa	7
+LG-92011	Dehiovita PS	1	Dehiowita	8
+LG-92011	Dehiovita PS	1	Walpola	9
+LG-92011	Dehiovita PS	1	Borelangkada	10
+LG-92011	Dehiovita PS	1	Dikkella	11
+LG-92011	Dehiovita PS	1	Batangala	12
+LG-92011	Dehiovita PS	1	Bomaluwa	13
+LG-92011	Dehiovita PS	1	Maniangama	14
+LG-92011	Dehiovita PS	1	Madola	15
+LG-92011	Dehiovita PS	1	Welangalle	16
+LG-92011	Dehiovita PS	1	Panawala	17
+LG-92011	Dehiovita PS	1	Hingurelakanda	18
+LG-92011	Dehiovita PS	1	Ambelanpitiya	19
+LG-92011	Dehiovita PS	1	Imbulpitiya	20

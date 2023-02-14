@@ -64,14 +64,14 @@ class CandidateLoader:
 
         else:
             return cand_lg_ents[0].id
-
+    
     @classmethod
     def from_file(cls, district_id, lg_id, file):
         data_list = TSVFile(file.path).read()
         candidates = []
         party_name = '.'.join(file.name.split('.')[:-2])
         for data in data_list:
-            ward_num, ward_name = cls.clean_ward_name(
+            ward_num, _ = cls.clean_ward_name(
                 data.get('ward', 'None')
             )
 
@@ -79,7 +79,6 @@ class CandidateLoader:
                 district_id,
                 lg_id,
                 ward_num,
-                ward_name,
                 cls.clean_party(party_name),
                 data['name'],
             )
@@ -150,8 +149,8 @@ class CandidateLoader:
         d_list = sorted(
             d_list,
             key=lambda d: d['lg_id']
-            + str(d['ward_name'])
-            + d['party_name']
+            + str(d['ward_num'] + 10_000)
+            + d['party']
             + d['name'],
         )
 

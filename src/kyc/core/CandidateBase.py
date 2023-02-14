@@ -6,8 +6,7 @@ class CandidateBase:
     district_id: str
     lg_id: str
     ward_num: int
-    ward_name: str
-    party_name: str
+    party: str
     name: str
 
     @staticmethod
@@ -23,8 +22,7 @@ class CandidateBase:
             'district_id': self.district_id,
             'lg_id': self.lg_id,
             'ward_num': self.ward_num,
-            'ward_name': self.ward_name,
-            'party_name': self.party_name,
+            'party': self.party,
             'name': self.name,
         }
 
@@ -34,7 +32,6 @@ class CandidateBase:
             district_id=d['district_id'],
             lg_id=d['lg_id'],
             ward_num=(int)(d['ward_num']),
-            ward_name=d['ward_name'],
-            party_name=d['party_name'],
+            party=d['party'],
             name=d['name'],
         )
