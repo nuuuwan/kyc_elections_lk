@@ -5,6 +5,7 @@ from dataclasses import dataclass
 class CandidateBase:
     district_id: str
     lg_id: str
+    ward_num: int
     ward_name: str
     party_name: str
     name: str
@@ -21,6 +22,7 @@ class CandidateBase:
         return {
             'district_id': self.district_id,
             'lg_id': self.lg_id,
+            'ward_num': self.ward_num,
             'ward_name': self.ward_name,
             'party_name': self.party_name,
             'name': self.name,
@@ -31,6 +33,7 @@ class CandidateBase:
         return cls(
             district_id=d['district_id'],
             lg_id=d['lg_id'],
+            ward_num=(int)(d['ward_num']),
             ward_name=d['ward_name'],
             party_name=d['party_name'],
             name=d['name'],

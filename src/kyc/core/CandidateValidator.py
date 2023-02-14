@@ -12,6 +12,7 @@ ICON_BAD = '❌'
 
 class CandidateValidator:
     MIN_PARTIES_PER_LG = 4
+    MIN_WARD_NAME_LEN = 4
 
     @classmethod
     def get_idx(cls):
@@ -101,7 +102,7 @@ class CandidateValidator:
             )
             d_list.append(d)
         d_list = sorted(d_list, key=lambda d: d['district_id'])
-        report_path = 'data/report_coverage.csv'
+        report_path = 'data/report.coverage.tsv'
         TSVFile(report_path).write(d_list)
         log.info(f'Wrote {report_path}')
 
@@ -140,6 +141,58 @@ class CandidateValidator:
         log.debug(message) if n_names_repeated == 0 else log.error(message)
 
         d_list = sorted(d_list, key=lambda d: d['district_id'])
-        report_path = 'data/reported_repeated_names.csv'
+        report_path = 'data/report.repeated_names.tsv'
+        TSVFile(report_path).write(d_list)
+        log.info(f'Wrote {report_path}')
+
+    @classmethod
+    def get_lg_to_ward_to_name(cls):
+        candidates = cls.list_all()
+        idx = {}
+        for candidate in candidates:
+            lg_id = candidate.lg_id
+            ward_num = candidate.ward_num
+            ward_name = candidate.ward_name
+            if lg_id not in idx:
+                idx[lg_id] = {}
+            idx[lg_id][ward_num] = ward_name
+
+        return idx
+
+    @classmethod
+    def validate_for_missing_ward_names(cls):
+        lg_idx = Ent.idx_from_type(EntType.LG)
+        district_idx = Ent.idx_from_type(EntType.DISTRICT)
+
+        l2w2n = cls.get_lg_to_ward_to_name()
+        n_has_name = 0
+        n_total = 0
+        d_list = []
+        for lg_id, ward_to_name in l2w2n.items():
+            lg_ent = lg_idx[lg_id]
+            district_ent = district_idx[lg_ent.district_id]
+            for ward_num, ward_name in ward_to_name.items():
+                n_total += 1
+                if len(ward_name) < cls.MIN_WARD_NAME_LEN:
+                    log.warning(f'{lg_id} {ward_num} missing ward name')
+                    d = dict(
+                        district_id=district_ent.id,
+                        district_name=district_ent.name,
+                        lg_id=lg_id,
+                        lg_name=lg_ent.name,
+                        ward_num=ward_num,
+                        ward_name=ward_name,
+                    )
+                    d_list.append(d)
+                else:
+                    n_has_name += 1
+
+        msg = f'{n_has_name}/{n_total} wards have valid ward name'
+        log.info(msg) if n_has_name == n_total else log.error(msg)
+
+        d_list = sorted(
+            d_list, key=lambda d: d['lg_id'] + str(d['ward_num'] + 10000)
+        )
+        report_path = 'data/report.missing_ward_names.tsv'
         TSVFile(report_path).write(d_list)
         log.info(f'Wrote {report_path}')

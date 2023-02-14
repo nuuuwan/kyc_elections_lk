@@ -1,4 +1,5 @@
 import os
+import re
 
 from gig import Ent, EntType
 from utils import Directory, JSONFile, Log, TSVFile
@@ -20,8 +21,16 @@ class CandidateLoader:
         return ''.join([word[0] for word in words])
 
     @classmethod
-    def clean_ward_name(cls, ward_name):
-        return ward_name.replace(' - ', '-')
+    def clean_ward_name(cls, x):
+        if str(x) == 'None':
+            return 0, 'PR List'
+
+        x = x.replace(' - ', '-')
+        x = re.sub(r'\s+', ' ', x).strip()
+        words = x.split('-')
+        ward_num = (int)(words[0])
+        ward_name = '-'.join(words[1:])
+        return ward_num, ward_name
 
     @classmethod
     def clean_lg_name(cls, lg_name):
@@ -62,10 +71,15 @@ class CandidateLoader:
         candidates = []
         party_name = '.'.join(file.name.split('.')[:-2])
         for data in data_list:
+            ward_num, ward_name = cls.clean_ward_name(
+                data.get('ward', 'None')
+            )
+
             candidate = cls(
                 district_id,
                 lg_id,
-                cls.clean_ward_name(data.get('ward', 'None')),
+                ward_num,
+                ward_name,
                 cls.clean_party(party_name),
                 data['name'],
             )
