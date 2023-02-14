@@ -1,0 +1,534 @@
+[
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "ACMC",
+    "name": "Awul Hazan Mohomad Rihai"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "ACMC",
+    "name": "Mohamad Anas Pathima Pazniya"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "ACMC",
+    "name": "Mohamad Hanifa Pathumma"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "ACMC",
+    "name": "Mohamad Imran Mohamad Amjad"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "ACMC",
+    "name": "Mohamad Nawaz Paththima Nazripa"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "ACMC",
+    "name": "Mohamad Nizam Mohamed Abrap"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "ACMC",
+    "name": "Mohamad Paaruk Nurul Hana"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "ACMC",
+    "name": "Mohamad Sabkin Mohamad Farhath"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "ACMC",
+    "name": "Mohammad Hanifa Mohammad Ashraf Ali"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Gomarage Don Shriyani"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Koruwage Sureka Nidarshani Fernando"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Koruwage Udeni Amalka Fernando"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "MOHIDEEN HASAN MOHAMAD FAIROOS"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Mohamad Niyas Mohamad Nihar"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Mohamad Saleem Mohamad Sajid Abdulla"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Mohomad Faleel Fathumma Deena"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Mohomad Rafaideen Mohomad Munawwar"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Seyyad Ahamad Mohamad Ihusan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Ahamed Ripai Mohamad Rifkan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Annamalei Nadarajan Pakyaraja"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Diwadalage Wasanthi Silva"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Diyagu Hennadi Jayaweera Patabendige Roshan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Kavidul Ameer Mohomad Shamran"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Mahawaththage Don Jagath Mahinda Peiris"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Molligoda Arachchige Nadishani Perera"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Rathubalage Sarojini Nisansala Kumari Silva"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Thudugala Munasinghage Nirupama Priyadarshani Munasingha"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Abdul Raheem Mohomadu Sufiyan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Akeel Bacha Mohamad Suhair"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mohamad Hazan Fathima Rinuza"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mohamad Jemil Marikkar Mohamad Ifthikar"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mohamad Mansoor Mohamad Dahlan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mohamad Nazeer Mohamad Istibisar"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mohamad Rafeek Sithti Rafeeka"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mohamad Rawuf Pathumma Rihana"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mohomed Rafaideen Sitti Nilupa"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 1,
+    "party": "ACMC",
+    "name": "Mohamad Haalis Mohamad Rilwan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 1,
+    "party": "IG1",
+    "name": "Mahamarakkala Patabendige Gihan Dhanushka Dias"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 1,
+    "party": "JJB",
+    "name": "Jeevan Chaminda Sampath Liyanaguruge"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 1,
+    "party": "SJB",
+    "name": "Hewa Palihakkarage Eranda"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 2,
+    "party": "ACMC",
+    "name": "Mohamad Sabikeen Mohamad Riyaz"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 2,
+    "party": "IG1",
+    "name": "Mohamad Faleel Mohamad Asam"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 2,
+    "party": "JJB",
+    "name": "Muhammadu Nalir Muhammadu Iqbal"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 2,
+    "party": "SJB",
+    "name": "Mohamad Munaufar Mohamad Siyan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 3,
+    "party": "ACMC",
+    "name": "Mohomat Musthapa Mohomat Rizwan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 3,
+    "party": "IG1",
+    "name": "Mashood Riyad Ahamad"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 3,
+    "party": "JJB",
+    "name": "Mohamad Ansar Mohamad Usama Hasan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 3,
+    "party": "SJB",
+    "name": "Mohamad Mulaffar Mohamad Amjad"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 4,
+    "party": "ACMC",
+    "name": "Mohamad Piridawus Mohamad Rawuzan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 4,
+    "party": "ACMC",
+    "name": "Mohammad Paaiz Pawuzul Minna"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 4,
+    "party": "IG1",
+    "name": "Muhambadu Mashahoor Muhammad Mafas"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 4,
+    "party": "IG1",
+    "name": "Munaweera Jayasinghe Hegoda Arachchi Padmakanthi"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 4,
+    "party": "JJB",
+    "name": "Ahamed Samsadeen Mohamad Mihiraj"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 4,
+    "party": "JJB",
+    "name": "Seenarathna Mallika Jayanthi Silva"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 4,
+    "party": "SJB",
+    "name": "Hettiya Kandage Hemali Prasangika Fernando"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 4,
+    "party": "SJB",
+    "name": "Pakeer Mohomad Mohomad Usman"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 5,
+    "party": "ACMC",
+    "name": "Mohamad Sawahir Mohamad Husair"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 5,
+    "party": "IG1",
+    "name": "Ahamad Omar Farook"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 5,
+    "party": "JJB",
+    "name": "Abul Asayim Mohammad Asmi Ajwad"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 5,
+    "party": "SJB",
+    "name": "Mohomad Naleem Mohomad Irshath"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 6,
+    "party": "ACMC",
+    "name": "Mohamad Hilmi Mohamad Harzan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 6,
+    "party": "IG1",
+    "name": "Mohamad Nowfar Fowsul Ameer"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 6,
+    "party": "JJB",
+    "name": "Mohamad Jabir Mohamad Haris"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 6,
+    "party": "SJB",
+    "name": "Mohamad Shapi Mohamad Muspir"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 7,
+    "party": "ACMC",
+    "name": "Abdur Rahuman Mohamad Hifaz"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 7,
+    "party": "IG1",
+    "name": "Ahamad Ilman Ahamad Ifkar"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 7,
+    "party": "JJB",
+    "name": "Mohamad Milhan Mohommadu Lafir"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 7,
+    "party": "SJB",
+    "name": "Mohomad Nisamudeen Mohomad Nizran"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 8,
+    "party": "ACMC",
+    "name": "Abdur Baari Mohamad Jesmin"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 8,
+    "party": "IG1",
+    "name": "Mohamad Mursi Abul Asaim Muhammad"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 8,
+    "party": "JJB",
+    "name": "Mohomad Asad Mohomad Aroosi"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 8,
+    "party": "SJB",
+    "name": "Mohamad Jeseem Aflal Ahamad"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 9,
+    "party": "ACMC",
+    "name": "Mohamad Jezmi Ahamed Aashik"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 9,
+    "party": "IG1",
+    "name": "Mohemmadu Ashar Mohommadu Fayas"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 9,
+    "party": "JJB",
+    "name": "Mohamad Sihabdeen Mohamad Ramlan"
+  },
+  {
+    "district_id": "LK-13",
+    "lg_id": "LG-13012",
+    "ward_num": 9,
+    "party": "SJB",
+    "name": "Mohamad Fasi Mohamad Hasan"
+  }
+]

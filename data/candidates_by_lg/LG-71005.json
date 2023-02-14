@@ -1,0 +1,2347 @@
+[
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Amanthi Nadeesha Herathnayaka"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Jayalath Sugathadasage Sunil Kumara Abeysekara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Jayasingha Mudiyanselage Pubudu Saranga"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Kasthuri Arachchi Kankanamlage Anoma Swarnalatha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Kushan Thishaksha Sandakelum Rudrigo"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Mahathelge Radhika Oshadhi Peiris"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Ranathunga Arachchilage Latha Rani Malkanthi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Senevirathna Mudiyanselage Udeni Rajapaksha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Sethuwa Wimaladasage Ashoka"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Sisirasenage Dinesh Lakmal Sisirasena"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Thennakoon Mudiyanselage Dulaj Thanuja Thennakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Wasthuwa Panikikiyalage Nihal Chamila Kumari"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "AJP",
+    "name": "Wijesundara Mudiyanselage Dinesha Kumuduni Wijesundara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Dissanayake Mudiyanselage Mahesh Nisantha Dissanayake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Hettige Upali Wijerathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Hewa Abeypitiyage Sudath Rathnasiri Abepitiya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Hewa Battage Madara Priyadarshanie Rajakaruna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Hewamanage Mallika Chandani"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Indrani Habadivulwewa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Jayamaha Hitihamillage Thakshila Nayomi Jayamaha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Mohotti Mudiyanselage Malanie Kusumalatha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Priyanthi Thejani Gunawardhane"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Thanthirige Chamith Kavinda Perera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Thennakoon Mudiyanselage Jayarathne"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Urala liyanage Anurukshi Madhuwanthi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "APA",
+    "name": "Warnakulasooriya Jenive Freeda Magreat Thisera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Abeysingha Mudiyanselage Dinesha Rukmal Bandara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Ambalangodage Udaya Deshapriya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Arumugam Nagamani Kanagasabe Nirmala"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Chanika Madhuwanthi Karunarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Ilankoon Mudiyanselage Rajitha Bandara Ilankoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Kumudu Priyantha Hewa Gallage"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Mapalagama Liyanage Pavithra Nadun Abeywaradhana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Nadeera Prabath Dharamadasa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Rathanayake Mudiyanselage Champika Nilmini Nawarathna Menike"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Rathnayaka Mudiyanselage Achintha Anuruddha Rathnayaka"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Suranga Sanjeewa Kumara Mohotti"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Wasala Mudiyanselage Maheshi Dileka Madhubhani Dissanayaka"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Yamannilage Pathmini Kumarai Jayasingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Asuramanagedara Ranjan Jayathilake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Bethmage Don Gayan Kanishka Wijewardhana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Galgamuwage Nandasena"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Handuwalage Ishara Sanjeewani Herath"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Hetti Arachchilage Karunarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Jayage Renuka Damayanthi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Koswaththa Muhandiramlage Inoka anne"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Kularathna Galgamuwa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Loku Ketiyapage Chalani Eranga"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Rajapaksha Gedara Sanjeewani Nenasiri Rajapaksha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Samarakoon Mudiyanselage Delan Dhananjaya Bandara Samarakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Samarakoon Mudiyanselage Gnanarathne Samarakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "FSP",
+    "name": "Sirisenage Kumudu Priyadarshani Rathnayake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Ambagahawitage Anura"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Hakmana Arachchige Ravidu Dulanjana Hakmana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Horathal Pedige Leelawathi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Liyanadura Suminda Lakmal Wijaya Kumara Mendis"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Madhurasinghe Mudiyanselage Nadeeka Rasanjali"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Mallawa Arachchige Sanath Samarasekara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Mallawa Thanthirige Hansika Sandeepani Perera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Muthunayake Pedige Dhanushika Anuruddhika"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Muthunayake Pedige Duminda Dayananada"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Nanedirige Anusha Rathna Kumari Sedarasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Nuwan Munasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Ullusu Hewage Wijitha De Silva"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Weerasuriya Kankanamalage Chandra Damayanthi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Dahampath Mudiyanselage Dhanushka Chamikara Dahampath"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Elpitiya Acharige Ranhil Pradeep Elpitiya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Hewa Pathiarana Sugath Nishantha Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Hikkaduwa Liyanage Dhanapala"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Inoka Sandamali Elpitiya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Karunapathiranage Chandana Pradeep Wasantha Kumara Pathirana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Kumarasinha Arachchige Anulawathi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Mathara Maha Widana Muhamdiram Patabadige Dharmasiri"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Pasi Hannadige Kusumalatha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Rapunmali Nadeege Mallika"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Shashinika Shyamali Diwakara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Wanninayaka Mudiyanselage Sunanda Kuamara Thennakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "IG2",
+    "name": "Wilegoda Mudalige Susantha Janaki Wilegoda"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Adimali Kamkanamge Manori Priyanga Rathnasekara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Anomaji Samantha Udayangani Rajapakshe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Baddrani Rajapaksha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Ekanayakage Dilani Priyangika Ekanayake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Ekanayake Pathirannahlage Asela Indika Wijesingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Hettiarachige Janaka Perera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Imihami Mudianselage Subhashini Menaka Sirisena"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Jayasinghe Pathiranage Namal Ekanayake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Kaluarachchi Sumithrananda"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Lalith Nimal Siri Rajakaruna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Mallava Arachchige Chandravathi Hemalatha Karunaratne"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Pieris Harold Marvin Kumar"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Wawegedara Kumarasinhalage Prabath Keerthi Wawegedara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Alkedamayalage Nilanka Shyamali Kumari"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Anusha Kumudu Kumari Senavirathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Balachandra Arachchige Dona Ajantha Sajeewani"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Dharamadasage Niluka Priyanthi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Dilhani Priyangika Thotawaththa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Dippita Hewage Rathnapala"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Kabalgas Thanne Gedara Chathuranga Shayamal"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Kumarasingha Hetti Arachchilage Don Gayan Madhusanka Kumarasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Medagedara Sarath Chaminda Samarasingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Ranasingha Arachchilage Jagath Chinthaka"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Samarakkodi Arachchillage Siriyalatha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Weerapurage Ishara Chandana Fernando"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "PSP",
+    "name": "Yasanayakage Wijesingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Deliwalage chamodhi Nawodhaya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Ekanayaka Mudiyanselage Kanthilatha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Frensishku Baduge Gayan Krushantha De Silva"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Herath Mudiyanselage Ransingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Karunapali Sunanda Rajapaksha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Loku Arachchige Anoma Shayamali Dhammika"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Muhamad Shahid Muhamad Al Farish"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Nayana Sajeewani Maduwanthi Ranathunga"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Piyorish Samarasinahage Sujeewa Chandralal Rathnayaka"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Shanthi Nishanka Dhaladhawaththa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Thilak Shantha Ginige"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Udaya Kumari Marambage"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Upul Bandara Liyanage"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Bovithanthrige Anusha Shrimathi Samarasinha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Daranagama Arachchige Ruwanthika Niroshanie"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Dewage Nohoth Kathri Arachchige Don Ruwan Kathriarachchi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Don Saman Vitharana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Don Seeman Ralalage Sirithunga"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Ediri Arachchige Niluka Erandi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Elibichchci Rajapaksha Appuahamilage Manel Chandralatha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Galbadaduwa Thanthirige Shayini Parami"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Koongahagedara Dingiri Bange Premarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Kumudu Kokila Abeysekara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Makavitage Chaminda Ajith Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Punchihewage Pramesh Chamil De Silva"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Thilakarathnage Chaminda Kumara Dissanayaka"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Babun Appulage Dharmarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Batuvita Liyanarathnage Wasanthi Chamila Kumari"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Hagoda Gamage Chandrani Pushpalatha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Herath Mudiyanselage Disna Ranjani"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Jayasiri Mudiyanselage Mahesika Jayamini Bandara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Kalu Hapuge Leelawathi Sandhya Kumari Wickramasingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Kekulavala Vidanelage Samith Chaminda Kekulavala"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Lokubalasuriyage Nelum Priyadarshana Lokubalasuriya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Mallava Ralalage Sarath Amarasinha Mallava"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Mapalagama Arachchige Shyamali"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Mohidin Pichche Mohammad Ansar"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Upul Wijithasiri Ovitagedara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Upul Wijithasiri Ovitagedara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Wijerathna Mudiyanselage Thilina Sampath Sulochana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Chandrapala Hettihewa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Dolamullage Navodya Chalani Hansika"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Dulani Niranjala Fernando"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Haneepa Sahira Bhanu"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Niranjan Perera Wijesooriya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Pathirage Don Nanda Pushpakumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Ranamuka Wimal Gunawardhana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Sharly Warusha Vithana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Suseema Thennakoon Mapa Kulasekara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Thudugala Mudalige Suren Anuradha Fernando"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Thuduwage Disna Ranjani"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Uditha Namali Gunaveera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Wellalage Jayasena Upali Nanayakkara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "AJP",
+    "name": "Diyagama Sudassi Tero"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "APA",
+    "name": "Kibi Manage Madhu Shivanthika"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "FPF",
+    "name": "Manawaduge Krishantha Sampath Manawadu"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "FSP",
+    "name": "Sinhalage Gamini Weerasena Medagamgoda"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "IG1",
+    "name": "Remon De Silva Nanayakkara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "IG2",
+    "name": "Sanjeewa Prashantha Kumara Jayasingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "JJB",
+    "name": "Sooriya Arachchi Kankanamlage Gamini Chandrasiri"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "PSP",
+    "name": "Wijesekara Mudiyanselage Gayan Wajira Wijesekara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "SJB",
+    "name": "Gunasinha Arachchilage Shiwantha Malik Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "SLFP",
+    "name": "Polgahawela Dewalage Sarath Kumara Weerasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "SLPP",
+    "name": "Jayasiri Mudiyanselage Manisha Roshini Bandara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 1,
+    "party": "UNP",
+    "name": "Nishan Sanjaya Pieris"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "AJP",
+    "name": "Thalavinne Akalanka Anuradha Chandrasiri Wasala"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "APA",
+    "name": "Hetti Arachchilage Udaya Kumara Gunarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "FPF",
+    "name": "Thelhawadi Durayalage Janaka Anura Priyadarshana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "FSP",
+    "name": "Peerisge Sudharma Pieris Ehelekotuwa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "IG1",
+    "name": "Muthunayake Pedige Sumith Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "IG2",
+    "name": "Rankiri Pathirannehalage Ariyarathna Wikramarachchi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "JJB",
+    "name": "Ekanayake Mudiyanselage Sugath Rohana Bandara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "PSP",
+    "name": "Wanasinghe Mudiyanselage Ashoka Muthukumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "SJB",
+    "name": "Sumedha Dharshana Rajpaksha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "SLFP",
+    "name": "Kathri Arachchige Indrani"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "SLPP",
+    "name": "Lanka Bharana Gedara Premachandra"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 2,
+    "party": "UNP",
+    "name": "Lahiru Umesh Wijethunga Fernando"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "AJP",
+    "name": "Kiribanda Samarakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "APA",
+    "name": "Lekam Gamage Mithun Madhusanka"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "FPF",
+    "name": "Rajapakshalage Sudharmasiri"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "FSP",
+    "name": "Wickramasinghe Mudiyanselage Mahakumbure Gedara Amal Ranjan"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "IG1",
+    "name": "Mallawa Thanthirige Hasintha Pasindu Perera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "IG2",
+    "name": "Ranushka Priyan Ranchagoda"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "JJB",
+    "name": "Singappuli Arachchilage Kamil Prabhath Satharasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "PSP",
+    "name": "Ranaweera Arachchilage Wiraj Dhananjaya Wishwa Theekshana Wimukthi Ranaweera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "SJB",
+    "name": "Ilangasinha Arachchige Kanthi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "SLFP",
+    "name": "Kapuduwa Vithanage Nirosh Indika Lakmini Vithana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "SLPP",
+    "name": "Koralege Thilak Gunarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 3,
+    "party": "UNP",
+    "name": "Jayaweera Patabadige Shanuth Wimanshana Samarakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "AJP",
+    "name": "Jayasingha Mudiyanselage Lahiru Kasun Karunarathne"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "APA",
+    "name": "Bambarenda Guruge Dhanushka Chamara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "FPF",
+    "name": "Kalu Arachchilage Ruwan Prasan"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "FSP",
+    "name": "Dinesh Chamara Wickramakaluthotage"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "IG1",
+    "name": "Supun piyumalee Senavirathne"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "IG2",
+    "name": "Manamalage Sumith Nandalal Fernando"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "JJB",
+    "name": "Suriyabandara Meegasthanne Nimalawansa Punchi Bandara Munasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "PSP",
+    "name": "Humbulu Arachchige Chanaka Prasad"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "SJB",
+    "name": "Konnaran Mudiyanselage Nayani Pradeepika"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "SLFP",
+    "name": "Sanjeewa Hemantha Gunasekara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "SLPP",
+    "name": "Weerasooriya Muhamdiramlage Supini Sandamali"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 4,
+    "party": "UNP",
+    "name": "Ranasinha Arachchilage Susantha Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "AJP",
+    "name": "Don Sainika Surath Sumithra Arachchi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "APA",
+    "name": "Ranasingha Arachige Imeshika Ranasingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "FPF",
+    "name": "Wedagedara Doris Kumari Wedagedara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "FSP",
+    "name": "Waththe Gedara Dukganna Ralalage Piyumal Matheesha Bandara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "IG1",
+    "name": "Jee kiyanage Sajeewani Maheshika Wijesundara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "IG2",
+    "name": "Abeysingha Arachchige Don Jude Bulad"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "JJB",
+    "name": "Dulwala Galange Gedara Wasantha Pradeep Kumara Dissanayake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "PSP",
+    "name": "Dharamadasage Suresh Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "SJB",
+    "name": "Dhaluwathumulla Gamage pramashasa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "SLFP",
+    "name": "Jayawardhana Mudiyanselage Saman Priyantha Jayawardhana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "SLPP",
+    "name": "James Samarasinghe Premasiri"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 5,
+    "party": "UNP",
+    "name": "Poddiwala Hewage Anuradha Nalin Polgoda"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "AJP",
+    "name": "Kasun Lakmal Ranasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "APA",
+    "name": "Jayasingha Arachchilage Ishara Dumindika"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "FPF",
+    "name": "Bandula Jayasinha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "FSP",
+    "name": "Anushka Kumari Samarakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "IG1",
+    "name": "Karuna Pedige Suranjani Wijerathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "IG2",
+    "name": "Ilangakoon Mudiyanselage Ganagarani Ilangakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "JJB",
+    "name": "Sarukkali Patabandige Priyangika"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "PSP",
+    "name": "Wannihamige Piyarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "SJB",
+    "name": "Wijesinghe Arachchilage Don Sarath Chandrapala"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "SLFP",
+    "name": "Basnayaka Mudiyanselage Nalin Priyantha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "SLPP",
+    "name": "Palithantrige Neil Manoj"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 6,
+    "party": "UNP",
+    "name": "Samarathunga Randunu Appuhamilage Surangi Renuka Samarathunga"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "AJP",
+    "name": "Gunasenage Warnika Upulani Marasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "AJP",
+    "name": "Rankiri Pathirannehalage Sriyani Anuruddhika Padma Kumari"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "APA",
+    "name": "Mahammud Abdulla Abbas Kutti"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "APA",
+    "name": "Rathnayake Mudiyanselage Tharanga Lakmal Ariyarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "FPF",
+    "name": "Kiribandage Ananda Herath"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "FPF",
+    "name": "Thennakoon Mudiyanselage Ranjana Pradeep Thennakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "FSP",
+    "name": "Godage Seewali"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "FSP",
+    "name": "Herath Mudiyanselage Bandage Karunasinha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "IG1",
+    "name": "Anusha Tharangani De Silva Nanayakkara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "IG1",
+    "name": "Julion Ferdinendis Kasun Chinthana Dilshan"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "IG2",
+    "name": "Mahesh Janaka Wikramarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "IG2",
+    "name": "Ranasinha Mudiyanselage Saman Anuruddha Bandara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "JJB",
+    "name": "Cordon Mary Umar Hassanar Akbar"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "JJB",
+    "name": "Navaratnaraja Karunaratne"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "PSP",
+    "name": "Alaldeen Mohommed Ramesh"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "SJB",
+    "name": "Chamindha Poriyapaporuma"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "SJB",
+    "name": "Roshan Ishman Buhari"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "SLFP",
+    "name": "Ahmed Shawahir Mohomed Sarook"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "SLFP",
+    "name": "Guththila Kaviraj Mudiyanselage Nilantha Sudarshana Kaviraj"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "SLPP",
+    "name": "Ainul Haque Amirul Haque"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "SLPP",
+    "name": "Sri Narayana Brahmana Rajakaruna Dissanayaka Vadinamuna Mudiyanse Ralahamilage Ranjith Chandrakumara Rajakaruna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "UNP",
+    "name": "Geeganage Sumith Kumara Weerasooriya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 7,
+    "party": "UNP",
+    "name": "Sawujan Mohomad Musafik"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "AJP",
+    "name": "Dissanayake Mudiyanselage Ajith Dissanayake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "APA",
+    "name": "Don Rumesh Anuruddha lokusuriya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "FPF",
+    "name": "Aruma kankanamge Thamara Nilmini De Silva"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "FSP",
+    "name": "Wickramahettiya Konthahelage Ranjan"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "IG1",
+    "name": "Korala Gamage Don Ruchira Udara Thilakarathne"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "IG2",
+    "name": "Ambalangoda Guruge Anoja Perera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "JJB",
+    "name": "Herath Mudiyanselage Wasantha Samarasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "PSP",
+    "name": "Salinda Bandara Senavirathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "SJB",
+    "name": "Rathanayaka Mudhiyanselage Dinidu Sarwajith"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "SLFP",
+    "name": "Herath Mudiyanselage Lakshitha Dassanayake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "SLPP",
+    "name": "Mahagama Vidanelage Buddhika Premadasa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 8,
+    "party": "UNP",
+    "name": "Gardiyawasam Balage Nuwan Chathuranga"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "AJP",
+    "name": "Wickramasinghe Weerakkodi Mudalige Ranjith Kumara Wickramasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "APA",
+    "name": "Wathukarage Ranga Wickramasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "FPF",
+    "name": "Rathanayaka Desin Kankanamalage Susil Thilakarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "FSP",
+    "name": "Balasooriya Mudiyanselage Wajira Sirimewan Balasooriya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "IG1",
+    "name": "Nanthamuni Arachchilage Sanjaya Dislhan"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "IG2",
+    "name": "Piyadi Gamage Ananda Jayavilal"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "JJB",
+    "name": "Munasinghe Mudiyanselage Ranil Ravindra Munasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "PSP",
+    "name": "Kumarasingha Hetti Arachchilage Don Ashoka Nawarathna Kumarasingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "SJB",
+    "name": "Dhanesh Anjana Punchihewa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "SLFP",
+    "name": "Dodamduwa Hewavitharanalage Chaminda Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "SLPP",
+    "name": "Herath Mudiyanselage Madhusha Sandamali"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 9,
+    "party": "UNP",
+    "name": "Marakkala manage Mallika De Silva"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "AJP",
+    "name": "Pearl Brenda De Zoyza"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "APA",
+    "name": "Jayamaha Hitihamillage Manoj Suranga Jayamaha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "FPF",
+    "name": "Nalin Sanjeewa Siriwaradhana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "FSP",
+    "name": "Anoja Kumari Samarakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "IG1",
+    "name": "Hetti Pathiranalage Damith chandana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "IG2",
+    "name": "Ranjith Gunarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "JJB",
+    "name": "Munasinghe Arachchige Ajith Munasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "PSP",
+    "name": "Chandrasekara Mudiyanselage Asha Tharangani Herath"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "SJB",
+    "name": "Thilakarathna Mudhiyanselage Namal Dhanjaya Thalakarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "SLFP",
+    "name": "Kamburugamuwe Loku Arachchilage Ajith Jayalal"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "SLPP",
+    "name": "Rathnayaka Mudiyanselage Somadasa Banda"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 10,
+    "party": "UNP",
+    "name": "Wasala Mudiyanselage Sameera Sampath Bandara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "AJP",
+    "name": "Sharashad Roshan Munseer"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "APA",
+    "name": "Rathnayake Mudiyanselage Tharanga Lakmal Ariyarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "FPF",
+    "name": "Ambalangodage Pradeep Nilantha Deshapriya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "FSP",
+    "name": "Upali Gunarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "IG1",
+    "name": "Rankeththe gedara Shanuka Abhiman Dissanayake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "IG2",
+    "name": "Hewa Wellalage Samantha Kumara Samaraweera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "JJB",
+    "name": "Menik Ralage Gamini Ilangasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "SJB",
+    "name": "Ransingha Arachchilage Wimal Ravindra Ranasingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "SLFP",
+    "name": "Ekanayaka Mudiyanselage Sirima Gunawardhana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "SLPP",
+    "name": "Munaweera Tanthirige Nandipala Munaweera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 11,
+    "party": "UNP",
+    "name": "Thennakoon Mudiyanselage Dharmasena"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "AJP",
+    "name": "Delkadura Arachchige Bandula Jeewaka De Silva Abeysekara Gunarathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "APA",
+    "name": "Chamara Nayana Nanjana Weerakoon"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "FPF",
+    "name": "Nambukara Wasam Appubaduge Samitha Dinil De Silva"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "FSP",
+    "name": "Ranhoti Bandaralage Sanjeewa Mahesh Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "IG1",
+    "name": "Pramith Lakshan Kalu Arachchi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "IG2",
+    "name": "Koku Hannadige Indika Aruna Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "JJB",
+    "name": "Herath Bandage Seetha Herath"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "PSP",
+    "name": "Medagedara Nimsara Dulakshana Samarasingha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "SJB",
+    "name": "Morayasge Ruwan Sanjeewa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "SLFP",
+    "name": "Rajapaksha Wasala Mudiyanselage Ajith Rajapaksha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "SLPP",
+    "name": "Dumidu Dayasen Retiyala"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 12,
+    "party": "UNP",
+    "name": "Loku Geeganage Thusitha Kosala Loku Geeganage"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "AJP",
+    "name": "Sooriya Arachchige Ishara Sri Devi"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "APA",
+    "name": "Senavirathna Arachchilage Madhusha Sesan Senavirathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "FPF",
+    "name": "Dewamunige Upali Samarajeewa"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "FSP",
+    "name": "Weerasinha Dissanayaka Dayarathna Udayananda"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "IG1",
+    "name": "Julion Ferdinend Charidu Shehan"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "IG2",
+    "name": "Ashan Kosala Sellaperuma"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "JJB",
+    "name": "Konara Mudiyanselage Priyantha Mangala Bandaranayake"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "PSP",
+    "name": "Wickrama Arachchilage Roshan Padmakumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "SJB",
+    "name": "Govinnage Kawidu Imalsha Pushpa Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "SLFP",
+    "name": "Hetti Arachchige Don Asoka Ananda"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "SLPP",
+    "name": "Rathnayaka Mudiyanselage Dushantha Ruwan Kumara"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 13,
+    "party": "UNP",
+    "name": "Dissanayaka Mudiyanselage Rukman Suranga Dissanayaka"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "AJP",
+    "name": "Garukarage Champa Eranjani Perera"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "APA",
+    "name": "Pulahith Arachchilage Suresh Sudarshana"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "FPF",
+    "name": "Kanakanamge Wickramarathne"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "FSP",
+    "name": "Neel Jayantha Wickramakaluthotage"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "IG1",
+    "name": "Ishara Sampath Mandurusinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "IG2",
+    "name": "Athuraliya Welandagodage Amila Dewapriya"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "JJB",
+    "name": "Mahawela Gedarage Gunasinghe"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "PSP",
+    "name": "Ranchagoda Kankanange Sugath Anuradha"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "SJB",
+    "name": "Nalin Priyantha Senewirathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "SLFP",
+    "name": "Senavirathna Ranbandage Malani Senavirathna"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "SLPP",
+    "name": "Kariyawasam Pathiranage Sachin Chamoda"
+  },
+  {
+    "district_id": "LK-71",
+    "lg_id": "LG-71005",
+    "ward_num": 14,
+    "party": "UNP",
+    "name": "Herath Mudiyanselage Saminda Thushara Herath"
+  }
+]

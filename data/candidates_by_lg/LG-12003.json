@@ -1,0 +1,884 @@
+[
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Alpenisge Gunasiri Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Aluthdura Hewage Janaki Priyadarshanie"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Dissanayake Mudiyanselage Chandima Kumari Samarasekara"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Hamudra Dhammika Lalantha Gunasekara"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Kalu Arachchilage Don Vijitha Weerasinghe"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Pitigala Kankanamalage Eshani Rasangika"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Punchi Arachchige Nirosha Dilrukshi Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Rambukkanage Shiwantha Perera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Weragalage Don Pradeep Sanjeewa"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "FPF",
+    "name": "Wijendra Waduge Dona Ramani Charlette"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Balasuriya Appuhamilage Upali"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Davundage Samanthi Darshika Priyadarshanie"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Don Hetti Arachchi Chanki Malka Madhuwanthi"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Dunuhinga Suranga Nandimithra"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Kiriliyanage Kajin Majinus Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Koralagamage Asha Subuddhi Chandrarathna"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Mabima Hewayalage Thamara Jayanthi"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Manam Anil Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Rathnayake Mudiyanselage Malani Rathnayake"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Wanni Arachchige Chandrika Pathminie"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Bothalage Chaminda Upul Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Bothalage Jehanthinie Selin Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Harsha Geetha Galmangoda Guruge"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Herath Mudiyanse Arachchige Chandrasena"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Manikka Baduge Upali Wijethunge"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Nilmini Saroja Kathriarachchi"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Nirosha Kumari Manikpura"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Rupasinghe Arachchilage Sumanawathi"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Uduwarige Hemalatha Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Wellage Jayalath Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Benthara Liyanage Nuwan Sameera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Dissanayake Mudiyanselage Subhashinie Priyantha Dissanayake"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Gamage Pushpa Chandrakanthi"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Halpolana Henalage Richard Teronne Halpola"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Kadupitige Yamuna Chamarasinghe"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Leena Badde Liyanage"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Matarakiri Liyanage Nilantha Chandimal Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mellawa Thanthrige Ruwan Prasad Perera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Rathnayake Mudiyanselage Thushara Benjamin Rathnayake"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Sembupurage Neluka Niranjani Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Dimingu Kankanamalage Isuru Niranjan Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Ginigaddarage Apsara Damayanthi"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Jayakodi Arachchige Ranga Madhushan"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Meragal Pedi Gedara Milton Swarnasiri"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Naidappulage Niran Chamara Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Pitipanage Anusha Lakmali Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Sinnaththommelage Ranoj Jeewantha Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Surasinghe Arachchige Dinusha Dilhani Fonseka"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Thanthirige Inoka Hemanthi Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Weda Eranga Deepika"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Buddarage Samanthi Renuka Perera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Gajasinghe Badana Arachchige Sunil Rohan Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Handuna Dewalage Kusum Nadeeka Ariyawansa"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Illawathuragedara Saman Kumara Weerasena"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Jayaweeramudalige Dona Pemala"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Manikkuge Manjula Krishanthi Abeyrathna"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Muthumuni Nadeeshani Tharaka Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Muthumuni Premasiri"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Puhul Hene Gedara Jayamini Upul Kumara"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Thennakoon Mudiyanselage Dilantha Samanpriya"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 1,
+    "party": "FPF",
+    "name": "Dehiwalage Indika Niroshan Perera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 1,
+    "party": "IG1",
+    "name": "Malmala Kankanamalage Peter Joseph Perera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 1,
+    "party": "JJB",
+    "name": "Weerakkodige Shiranthi Priyangika Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 1,
+    "party": "SJB",
+    "name": "Walimita Wedage Sameera Thushanga Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 1,
+    "party": "SLPP",
+    "name": "Manamalage Damith Nilanka Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 1,
+    "party": "UNP",
+    "name": "Sellappulige Anthony Ajith Palitha Rosa"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 2,
+    "party": "FPF",
+    "name": "Thiththalapitige Sujith Sanjeewa Peiris"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 2,
+    "party": "IG1",
+    "name": "Manamalage Laksiri Roshan Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 2,
+    "party": "JJB",
+    "name": "Thambiah Mudiyanselage Keerthirathna"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 2,
+    "party": "SJB",
+    "name": "Kadupitige Kaushalya Chamarasinghe"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 2,
+    "party": "SLPP",
+    "name": "Dimingu Kankanamalage Chamith Nishantha Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 2,
+    "party": "UNP",
+    "name": "Mahagammullage Mahesh Kumara Abeywardhana"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 3,
+    "party": "FPF",
+    "name": "Dehiwalage Don Sheron Dedunu Lakmali"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 3,
+    "party": "IG1",
+    "name": "Galkanda Arachchige Thilak Kumudu Siriwardhana"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 3,
+    "party": "JJB",
+    "name": "Munipurage Marian Viraj"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 3,
+    "party": "SJB",
+    "name": "Muthuthanthrige Rushantha Tharaka Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 3,
+    "party": "SLPP",
+    "name": "Kathriarachchige Don Nilan Priyanga"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 3,
+    "party": "UNP",
+    "name": "Kolambage Shyami Niluka Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 4,
+    "party": "FPF",
+    "name": "Magodage Don Nishan Samantha Nonis"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 4,
+    "party": "IG1",
+    "name": "Subasinghe Arachchige Nayana Kamini Perera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 4,
+    "party": "JJB",
+    "name": "Manikku Arachchige Sampath Sanjeewa"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 4,
+    "party": "SJB",
+    "name": "Wanniarachchige Don Suran Chandika Perera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 4,
+    "party": "SLPP",
+    "name": "Kariyawasam Pathirage Manoshana"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 4,
+    "party": "UNP",
+    "name": "Arumathanthrige Dimuthu Prabath Kumara"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 5,
+    "party": "FPF",
+    "name": "Muthukuda Rajapaksage Gihan Lahiru"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 5,
+    "party": "IG1",
+    "name": "Mallawa Thanthrige Dinnel Nesto Perera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 5,
+    "party": "JJB",
+    "name": "Bothalage Chamindra Nayanapriya Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 5,
+    "party": "SJB",
+    "name": "Mellawa Thanthrige Thilakasiri Perera"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 5,
+    "party": "SLPP",
+    "name": "Ponnawila Widanalage Don Piyasiri Gunasekara"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 5,
+    "party": "UNP",
+    "name": "Mallawa Arachchige Malkanthi"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 6,
+    "party": "FPF",
+    "name": "Vinodan Chaminda Samarasekara"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 6,
+    "party": "IG1",
+    "name": "Manthrige Sisira Kumara"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 6,
+    "party": "JJB",
+    "name": "Jayasinghe Arachchige Suresh Chaminda Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 6,
+    "party": "SJB",
+    "name": "Nissanka Sangeeth Srinadha De Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 6,
+    "party": "SLPP",
+    "name": "Thotabaddage Lalith Rohan Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 6,
+    "party": "UNP",
+    "name": "Amarasinghe Senadeerage Don Chaminda Sampath Jayawardhana"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 7,
+    "party": "FPF",
+    "name": "Weda Kumarasiri De Silva"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 7,
+    "party": "IG1",
+    "name": "Jayakodi Arachchige Nalinda"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 7,
+    "party": "JJB",
+    "name": "Francis Niroshanie Kumari"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 7,
+    "party": "SJB",
+    "name": "Hiddiyadura Daminda Mendis Abeynayake"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 7,
+    "party": "SLPP",
+    "name": "Kachchakaduge Sama Hansamala Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 7,
+    "party": "UNP",
+    "name": "Tennakoon Mudiyanselage Dilson Anula Piyal"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 8,
+    "party": "FPF",
+    "name": "Nangallage Niranjan Kumara Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 8,
+    "party": "IG1",
+    "name": "Bothalage Harsha Roshan Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 8,
+    "party": "JJB",
+    "name": "Wewalage George Pradeepthi Namal Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 8,
+    "party": "SJB",
+    "name": "Wellawaththage Sarath Peiris"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 8,
+    "party": "SLPP",
+    "name": "Weerasinghe Muhandiramge Don George Dhamsiri"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 8,
+    "party": "UNP",
+    "name": "Hetti Arachchige Don Chamara Lakshan"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 9,
+    "party": "FPF",
+    "name": "Madugasthalawe Wimalabuddhi Thero"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 9,
+    "party": "IG1",
+    "name": "Sarath Thanthiriwaththa"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 9,
+    "party": "JJB",
+    "name": "Hetti Arachchige Don Sudarsha Champika Hettiarachchi"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 9,
+    "party": "SJB",
+    "name": "Lokubalasuriyage Anton Lokubalasuriya"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 9,
+    "party": "SLPP",
+    "name": "Hettiarachchila Gamini Hettiarachchi"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 9,
+    "party": "UNP",
+    "name": "Rathnayake Mudiyanselage Yehan Cenasty Rathnayake"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 10,
+    "party": "FPF",
+    "name": "Dewarasinghe Gretian Francis De Zoysa"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 10,
+    "party": "IG1",
+    "name": "Nawarathna Raja Suneth Chaminda"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 10,
+    "party": "JJB",
+    "name": "Bothalage Anthony Gretion Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 10,
+    "party": "SJB",
+    "name": "Salpadoruge John Denzil Fernando"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 10,
+    "party": "SLPP",
+    "name": "Randunu Pathirennehelage Ruwan Nishantha Randeni"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 10,
+    "party": "UNP",
+    "name": "Paththage Jayantha Kumara"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 11,
+    "party": "FPF",
+    "name": "Beruwalage Sanath Piyasiri"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 11,
+    "party": "IG1",
+    "name": "Gallage Nishantha Deepani Dias"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 11,
+    "party": "JJB",
+    "name": "Madampitiyage Upul Rasantha"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 11,
+    "party": "SJB",
+    "name": "Madampitige Nimal Iranga"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 11,
+    "party": "SLPP",
+    "name": "Ruwan Chinthaka Weerasekara"
+  },
+  {
+    "district_id": "LK-12",
+    "lg_id": "LG-12003",
+    "ward_num": 11,
+    "party": "UNP",
+    "name": "Madapitige Surath Iranga"
+  }
+]

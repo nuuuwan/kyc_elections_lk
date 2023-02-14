@@ -1,0 +1,968 @@
+[
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Deegoda Gamage Gayani Madugeethika"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Godamuna Vithanage Nadeeka Madhuwanthi"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Hetti Arachchige Pushpa"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Inoka Priyadarshanie Kanakarathna"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Jagodage Ruwan Pradeep"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Kariyawasam Manage Neranjala Madhurangi"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Mabotuwana Vithanage Chandrasingha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Metaramba Koralage Santha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Suraweera Arachchige Premalatha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Walliamma Pathmanadan"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Yaddehiwaththage Yukthananda"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Anandawaththa Kankanamge Dhanushka Neranjan"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Beranagoda Gamage Indika Hemanthi"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Gamaralalage Gedara Champika Jayasooriya"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Karagoda Pathiranage Samanthasiri"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Karalan Manohar"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Karapperuma Mudiyanselage Udahagedara Jagath"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Makunda Gamage Daisy Susila Malkanthi"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Nabadawa Hewage Hasantha Deepamal"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Nanayakkara Samaranayaka Thanuja Priyadarshanie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Ranepura Hewage Nayana Wasanthi"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Serasingha Pathiranage Pathmasiri"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Akurugoda Ishwarage Anoma Geethanjalie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Deegoda Gamage Priyanganie Mala D Gamage"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Hewagamage Wimala"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Idikadulla Kankanamge Yasanthalal"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Imaduwa Withanage Damith Indika"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Jagodage Dinusha Tharanganie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Kananke Liyanage Prasath"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Lokunaran Godage Nisansala Sewwandi"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mayakaduwage Mahinda"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Sudusingha Mawwege Chandrasiri Jayarathna"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Thellamburahettige Isuri Vindya Virajinie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Asanka Prageeth Kumara Samarawickrama"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Gardiya Hewawasam Dodangodage Ramyalatha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Hewa Katuwandeniyage Athula Prasad"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Kottawa Gamage Dharmadasa"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Kottawa Yaddehige Duminda Pushpa Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Lelwala Liyanage Damith Priyantha Perera"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Subasingha Gamachchige Lakmini Rasangika Kumari"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Suduwelikandage Tharanga Shyamali"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Walimuni Arachchige Anusha Darshani"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Walpita Gamage Lakmini Udaya Kumari"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Waththe Bandarage Nilanthi"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Ajith Pushpakumara Thellambure Hettige"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Akurugoda Ishwarage Shriyanthi Priyadarshanie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Alagiya Handi Sangeeth Kumara De Silva"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Epa Senevirathna Deepal Sanjeewa"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Hettigoda Gamage Mavin Jayarathna"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Hewa Dewage Sumithra"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Kariyawasam Pethangodage Sisira Kumararathna"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Magedara Meddagodage Amarawathie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Thellambura Gamage Tharanga Vinodanie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Wathogala Hewage Kusal Ishara Sampath"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Wickrama Arachchige Shriyani"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Adheeshwara Hallala Pathiranage Udaya Prabhath Pathirana"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Ambalanduwa Kankanamge Prashanthi Neranjala"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Bulathgei Wijayawardhana Amarasingha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Haththotuwa Gamage Hasika Jayanganie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Mawella Kankanamge Sanduni Imasha Nirmani"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Nallaperuma Loku Thanthrige Pamod Piyushan"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Peththa Dorage Sandamali"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Thalagaha Gedara Wasanthi Priyangika"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Thamara Samanmalie Wickramanayaka"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Wijesingha Gamarachchige Yohan Jayanth"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Yaddehiwaththagei Wimalasiri"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 1,
+    "party": "IG0",
+    "name": "Thellambura Vithanage Suranji"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 1,
+    "party": "JJB",
+    "name": "Udumalagala Gamage Ruchira Sanath Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 1,
+    "party": "SJB",
+    "name": "Kankanam Gamage Nandana Lal Ajith Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 1,
+    "party": "SLFP",
+    "name": "Imaduwa Withanage Rukman Priyantha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 1,
+    "party": "SLPP",
+    "name": "Hirimuthugoda Gamage Nandanie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 1,
+    "party": "UNP",
+    "name": "Nabadawa Vithanage Sumith Jayalal"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 2,
+    "party": "IG0",
+    "name": "Udumalagala Gamage Rusiru Dhananjaya"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 2,
+    "party": "JJB",
+    "name": "Mangala Don Prasanna Prema Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 2,
+    "party": "SJB",
+    "name": "Ranaweerage Indika Prabhath"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 2,
+    "party": "SLFP",
+    "name": "Korala Gamage Wasantha Sanjiwa Abeynayaka"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 2,
+    "party": "SLPP",
+    "name": "Alawaththa Kankanamge Anura Prasanna"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 2,
+    "party": "UNP",
+    "name": "Kalahe Kankanamge Priyantha Sujeewa Piyasiri"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 3,
+    "party": "IG0",
+    "name": "Wathogalahewage Nalaka Senarath"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 3,
+    "party": "JJB",
+    "name": "Kariyawasam Gamthanthrige Ananda"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 3,
+    "party": "SJB",
+    "name": "Nabadiwa Hewage Damith Deshapriya"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 3,
+    "party": "SLFP",
+    "name": "Kariyawasam Haputhanthirige Anju Gayan"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 3,
+    "party": "SLPP",
+    "name": "Nabadawa Vithanage Prasanna Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 3,
+    "party": "UNP",
+    "name": "Nabandawa Vithanage Upali Indrasiri"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 4,
+    "party": "IG0",
+    "name": "Udumalagala Gamage Janaka Rukshan"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 4,
+    "party": "JJB",
+    "name": "Udumalagala Gamage Thilanka Rukmal"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 4,
+    "party": "SJB",
+    "name": "Gammedde Randakkarage Kasun Tharanga"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 4,
+    "party": "SLFP",
+    "name": "Dimuthu Dimal Samarasingha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 4,
+    "party": "SLPP",
+    "name": "Dippiti Vithanage Denad Dewapriya"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 4,
+    "party": "UNP",
+    "name": "Gaminie Nanayakkara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 5,
+    "party": "IG0",
+    "name": "Dodampe Gamage Sisira Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 5,
+    "party": "JJB",
+    "name": "Kottawa Yaddehige Sampath Nishantha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 5,
+    "party": "SJB",
+    "name": "Udumalagala Gamage Anoja Janaki Kumari"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 5,
+    "party": "SLFP",
+    "name": "Malgaha Gamage Lakshman Palitha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 5,
+    "party": "SLPP",
+    "name": "Arambegoda Lokugamage Sumanawathie Gunasekara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 5,
+    "party": "UNP",
+    "name": "Aruna Paragoda Liyanage"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 6,
+    "party": "IG0",
+    "name": "Hikgoda Liyanagamage Palitha Rupasingha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 6,
+    "party": "JJB",
+    "name": "Wilegoda Mudalige Susan Weera Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 6,
+    "party": "SJB",
+    "name": "Opatha Kankanamge Ranjith"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 6,
+    "party": "SLFP",
+    "name": "Akuratiya Gamage Anoma Priyadarshani"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 6,
+    "party": "SLPP",
+    "name": "Hewagal Hewage Miyuru Bhashitha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 6,
+    "party": "UNP",
+    "name": "Chumith Gavinda Abeygunasekara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 7,
+    "party": "IG0",
+    "name": "Hetti Arachchige Saman Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 7,
+    "party": "JJB",
+    "name": "Poramba Liyanage Prasanga Rangana"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 7,
+    "party": "SJB",
+    "name": "Kalehe Waththege Mahinda Jayalath"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 7,
+    "party": "SLFP",
+    "name": "Ayesh Tharuka Madhusanka Wijewaththa"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 7,
+    "party": "SLPP",
+    "name": "Nabadawa Hewa Mudalige Nayana Padmini"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 7,
+    "party": "UNP",
+    "name": "Jayasekara Vithanage Samarawickrama"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 8,
+    "party": "IG0",
+    "name": "Wijesekara Gamachchige Samantha Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 8,
+    "party": "JJB",
+    "name": "Wewelwala Hewage Hasitha Prasadinie Lenarol"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 8,
+    "party": "SJB",
+    "name": "Walawe Palliyaguruge Chandana Udayakumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 8,
+    "party": "SLFP",
+    "name": "Nimal Sepala Amarawickrama"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 8,
+    "party": "SLPP",
+    "name": "Jayawardhana Liyanage Gaminie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 8,
+    "party": "UNP",
+    "name": "Kiringoda Gamage Weerasekara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 9,
+    "party": "IG0",
+    "name": "Samarasingha Kapparage Lional"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 9,
+    "party": "JJB",
+    "name": "Godawaththa Liyanage Prasad"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 9,
+    "party": "SJB",
+    "name": "Kapparage Sandya Kumari Priyadarshanie"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 9,
+    "party": "SLFP",
+    "name": "Karagoda Gamage Harischandra"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 9,
+    "party": "SLPP",
+    "name": "Ahangama Vithanage Piyathissa"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 9,
+    "party": "UNP",
+    "name": "Samaraweera Siriwardhana Chamudi Shanika"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 10,
+    "party": "IG0",
+    "name": "Petikiri Koralalage Kamani Shyama Kumari"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 10,
+    "party": "JJB",
+    "name": "Charith Dulinda Gunarathna Yapa"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 10,
+    "party": "SJB",
+    "name": "Maddegodage Nayana Kantha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 10,
+    "party": "SLFP",
+    "name": "Okandawaththa Hewage Renuka Malkanthi"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 10,
+    "party": "SLPP",
+    "name": "Ranepura Hewage Sisira Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 10,
+    "party": "UNP",
+    "name": "Ahangama Vithanage Sarath"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 11,
+    "party": "IG0",
+    "name": "Hewa Dewa Ajantha Weerasingha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 11,
+    "party": "JJB",
+    "name": "Henegama Manage Nimesha Thilakarathna"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 11,
+    "party": "SJB",
+    "name": "Hewa Dewage Nilantha Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 11,
+    "party": "SLFP",
+    "name": "Ranasingha Hewage Dayawansha"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 11,
+    "party": "SLPP",
+    "name": "Wewelwala Hewage Priyalal Sandun Kumara"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 11,
+    "party": "UNP",
+    "name": "Hewadewa Indrani"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 12,
+    "party": "IG0",
+    "name": "Udumalagala Gamage Piyadasa"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 12,
+    "party": "JJB",
+    "name": "Mirihanduwa Withanage Chanaka Lakmal"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 12,
+    "party": "SJB",
+    "name": "Meda Okandage Sisira"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 12,
+    "party": "SLFP",
+    "name": "Siman Meru Pathiranage Anura Saman Dias"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 12,
+    "party": "SLPP",
+    "name": "Hettigoda Gamage Pubudu Harshanath Hettigoda"
+  },
+  {
+    "district_id": "LK-31",
+    "lg_id": "LG-31018",
+    "ward_num": 12,
+    "party": "UNP",
+    "name": "Piyasena Welandawa Gamage"
+  }
+]

@@ -16,6 +16,7 @@ def sleep(min_sleep=1, sleep_span=5):
 
 
 class HomePagePipeline:
+    DIR_DATA = 'data/scraped_data'
     MAX_TIME_WAIT_AFTER_SCRAPE_LG = 5
     MAX_TIME_WAIT_AFTER_SCRAPE_DISTRICT = 5
     MAX_INCR_WAIT_AFTER_SELECT_LG = 5
@@ -27,7 +28,7 @@ class HomePagePipeline:
         fptp_candidate_list = self.fptp_candidate_list
         pr_candidate_list = self.pr_candidate_list
 
-        dir_lg = os.path.join('data', district_name, lg_name)
+        dir_lg = os.path.join(self.DIR_DATA, district_name, lg_name)
         if not os.path.exists(dir_lg):
             os.system(f'mkdir -p "{dir_lg}"')
 
@@ -47,7 +48,7 @@ class HomePagePipeline:
         sleep(0.5, self.MAX_TIME_WAIT_AFTER_SCRAPE_PARTY)
 
     def scrape_lg(self, district_name, lg_name):
-        dir_lg = os.path.join('data', district_name, lg_name)
+        dir_lg = os.path.join(self.DIR_DATA, district_name, lg_name)
         lg_name_clean = Candidate.clean_lg_name(lg_name)
         if os.path.exists(dir_lg):
             log.debug(f'Skipping {lg_name_clean}')

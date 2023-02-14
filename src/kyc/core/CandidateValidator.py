@@ -158,5 +158,3 @@ class CandidateValidator:
             idx[lg_id][ward_num] = ward_name
 
         return idx
-
-    

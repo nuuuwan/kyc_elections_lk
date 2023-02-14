@@ -10,7 +10,7 @@ log = Log('CandidateLoader')
 
 
 class CandidateLoader:
-    DIR_DATA = 'data'
+    DIR_DATA = 'data/scraped_data'
     CANDIDATES_PATH = os.path.join(DIR_DATA, 'candidates.tsv')
     MIN_CANDIDATES_PER_LG = 5
 
@@ -64,16 +64,14 @@ class CandidateLoader:
 
         else:
             return cand_lg_ents[0].id
-    
+
     @classmethod
     def from_file(cls, district_id, lg_id, file):
         data_list = TSVFile(file.path).read()
         candidates = []
         party_name = '.'.join(file.name.split('.')[:-2])
         for data in data_list:
-            ward_num, _ = cls.clean_ward_name(
-                data.get('ward', 'None')
-            )
+            ward_num, _ = cls.clean_ward_name(data.get('ward', 'None'))
 
             candidate = cls(
                 district_id,
@@ -165,3 +163,30 @@ class CandidateLoader:
     def list_all(cls):
         d_list = TSVFile(cls.CANDIDATES_PATH).read()
         return [cls.from_dict(d) for d in d_list]
+
+    @classmethod
+    def get_lg_to_candidates(cls):
+        candidates = cls.list_all()
+        idx = {}
+        for candidate in candidates:
+            lg_id = candidate.lg_id
+            if lg_id not in idx:
+                idx[lg_id] = []
+            idx[lg_id].append(candidate)
+        return idx
+
+    @classmethod
+    def store_by_lg(cls):
+        idx = cls.get_lg_to_candidates()
+        for lg_id, candidates in idx.items():
+            d_list = [candidate.to_dict() for candidate in candidates]
+            d_list = sorted(
+                d_list,
+                key=lambda d: str(d['ward_num'] + 1_000) + d['party'] + d['name'],
+            )
+            lg_data_path = os.path.join(
+                'data',
+                'candidates_by_lg',
+                f'{lg_id}.json',
+            )
+            JSONFile(lg_data_path).write(d_list)
