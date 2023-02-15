@@ -3,15 +3,13 @@ from kyc.scraper.HomePage import HomePage
 
 
 # TODO
-# Polonnaruwa
-# Trincomalee
 # Vavuniya
 # Kilinochchi
 # Mannar
 # Mullaitivu
 
 def main():
-    district_name = 'Polonnaruwa'
+    district_name = 'Trincomalee'
     assert district_name in DISTRICT_NAMES
 
     home_page = HomePage()

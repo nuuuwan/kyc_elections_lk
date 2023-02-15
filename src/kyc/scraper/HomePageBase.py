@@ -82,7 +82,12 @@ class HomePageBase:
             if option.text in ['(Select)', 'lga e 1']:
                 continue
 
-            if option.text.strip() == '' or option.text.startswith('Koralai Pattu West'):
+            if any([
+                option.text.strip() == '',
+                option.text.startswith('Koralai Pattu West'),
+                option.text.startswith('Seruvila P.S'),
+
+            ]):
                 lg_name = '-v' + option.get_attribute("value")
             else:
                 lg_name = option.text

@@ -34,6 +34,9 @@ DISTRICT_TO_LG_NAME_TO_ID = {
     'LK-53': {
         'Kantale P.S': 'LG-53008',
         'Padavisiripura P.S': 'LG-53001',
+        '-v193': 'LG-53012',
+        '-v194': 'LG-53013',
+        '-v354': 'LG-53009',
     },
     'LK-62': {
         'KALPITIYA PRADHESIYA SABHA': 'LG-62001',

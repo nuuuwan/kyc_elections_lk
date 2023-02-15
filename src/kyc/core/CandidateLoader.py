@@ -38,6 +38,7 @@ class CandidateLoader:
             lg_name.replace('Municipal Council', 'MC')
             .replace('Urban Council', 'UC')
             .replace('Pradeshiya Sabha', 'PS')
+            .replace('P.S', 'PS')
         )
 
     @classmethod
