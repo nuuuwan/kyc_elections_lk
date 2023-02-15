@@ -74,7 +74,7 @@ class HomePageBase:
         select_lgs = self.elem_select_lgs
         lg_names = []
         for option in select_lgs.find_elements(By.TAG_NAME, 'option'):
-            if option.text == '(Select)':
+            if option.text in ['(Select)', 'lga e 1']:
                 continue
 
             if option.text.strip() == '':

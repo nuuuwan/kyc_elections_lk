@@ -842,13 +842,6 @@
   {
     "district_id": "LK-91",
     "lg_id": "LG-91001",
-    "ward_num": 0,
-    "party": "USP",
-    "name": "(None)"
-  },
-  {
-    "district_id": "LK-91",
-    "lg_id": "LG-91001",
     "ward_num": 1,
     "party": "FPF",
     "name": "Jomahandige Darshana Sanath Priyantha Sirisena"

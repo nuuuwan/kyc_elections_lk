@@ -12,6 +12,9 @@ DISTRICT_TO_LG_NAME_TO_ID = {
     'LK-32': {
         '-v335': 'LG-32014',
     },
+    'LK-33': {
+        '-v328': 'LG-33001',
+    },
     'LK-51': {
         'Eravur Town UC': 'LG-51005',
     },

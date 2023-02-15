@@ -11,7 +11,12 @@ class CandidateBase:
 
     @staticmethod
     def is_name_valid(name):
-        return name.strip() and name[0] != '-' and name[0] != '_'
+        return all([
+            name.strip(),
+            name[0] != '-',
+            name[0] != '_',
+            str(name).strip() != '(None)',
+        ])
 
     @property
     def is_valid(self):

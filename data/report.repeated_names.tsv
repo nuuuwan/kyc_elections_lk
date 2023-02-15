@@ -3,6 +3,7 @@ LK-11	LG-11001	0	SLFP	Mohammad Nazim Nawazia Begum
 LK-11	LG-11001	0	SLFP	Mohammad Nazim Nawazia Begum
 LK-11	LG-11002	2	IG1	Mohamad Jamaldeen Mohamad Naleem
 LK-11	LG-11002	2	SEP	Weerasingha Arachchige Sunil
+LK-11	LG-11004	0	JSP	Nisansala Kumari
 LK-11	LG-11004	0	JSP	P.R.Bindumathi
 LK-11	LG-11008	10	JSP	P.R.Bindumathi
 LK-11	LG-11004	0	JSP	W.A.Vipula
@@ -11,6 +12,7 @@ LK-11	LG-11004	0	UPP	Periyasami Sudarshan
 LK-11	LG-11004	16	JJB	Sunil Liyanage
 LK-11	LG-11004	22	JSP	Chinthaka Jayasena
 LK-11	LG-11008	8	JSP	Chinthaka Jayasena
+LK-11	LG-11005	23	IG2	Kankanam Gamage Sarath Kumara
 LK-11	LG-11006	8	IG1	Muniyandi Ravi
 LK-11	LG-11008	0	JSP	Murugan Mogana
 LK-11	LG-11009	0	LJP	Kannan Indra Devi
@@ -94,7 +96,6 @@ LK-23	LG-23003	0	SJB	Herath Mudiyanselage Chandradasa
 LK-23	LG-23006	0	FPF	Rathnayake Mudiyanselage Jayasekara
 LK-23	LG-23002	11	FPF	Rathnayaka Mudiyanselage Wijerathna
 LK-23	LG-23011	0	IG0	Subramaniyam Sivakumar
-LK-23	LG-23011	0	UNFF	(None)
 LK-31	LG-31019	0	JJB	Weerasingha Arachchige Sunil
 LK-31	LG-31008	0	SLFP	Himashi Dilsara Ponnamperuma
 LK-31	LG-31009	0	FPF	Ajith Jayasekara
@@ -225,6 +226,7 @@ LK-32	LG-32002	12	FPF	Padmanadan Munisami
 LK-32	LG-32002	12	NDF	Padmanadan Munisami
 LK-32	LG-32002	13	FPF	Chulani Lasanthi Hettiarachchi
 LK-32	LG-32002	13	NDF	Chulani Lasanthi Hettiarachchi
+LK-32	LG-32008	5	JJB	Kankanam Gamage Ranjith
 LK-32	LG-32010	0	FPF	Chanaka Chamindalal Wadanambi
 LK-32	LG-32010	0	SLPP	Chanaka Chamindalal Wadanambi
 LK-32	LG-32010	0	FPF	Dewundara Paththinige Chinthaka Mishan Kumara
@@ -392,10 +394,11 @@ LK-32	LG-32014	17	SLFP	Muhandiramge Gunasekara Anusha Nishanthi Gunasekara
 LK-32	LG-32002	0	SLPP	Dahanayakage Pradeep Nandana
 LK-32	LG-32002	10	FPF	Dahanayakage Pradeep Nandana
 LK-32	LG-32002	10	NDF	Dahanayakage Pradeep Nandana
-LK-32	LG-32007	0	JJB	(None)
-LK-32	LG-32007	0	SJB	(None)
-LK-32	LG-32010	0	IG1	(None)
-LK-32	LG-32014	0	SJB	(None)
+LK-33	LG-33004	0	JSP	Nisansala Kumari
+LK-33	LG-33009	10	FPF	Kankanam Gamage Sarath Kumara
+LK-33	LG-33010	0	JJB	Kankanam Gamage Ranjith
+LK-33	LG-33008	0	FPF	Jayasekara Pathiranage Siriyalatha
+LK-33	LG-33008	5	FPF	Jayasekara Pathiranage Siriyalatha
 LK-61	LG-61017	0	UNP	Mohamad Jamaldeen Mohamad Naleem
 LK-61	LG-61005	8	JJB	Ekanayaka Mudiyanselage Mahinda
 LK-61	LG-61005	0	UNP	Herath Mudiyanselage Sarath Bandara
@@ -495,7 +498,6 @@ LK-71	LG-71019	10	SLFP	Dissanayake Mudiyanselage Karunarathne
 LK-71	LG-71019	10	SLPP	Dissanayake Mudiyanselage Karunarathne
 LK-71	LG-71009	11	UNP	Herath Mudiyanselage Karunarathna
 LK-71	LG-71006	11	UNP	Herath Mudiyanselage Gunathilaka
-LK-71	LG-71016	0	NLNP	(None)
 LK-81	LG-81012	4	UNP	Sunil Liyanage
 LK-81	LG-81011	0	SJB	Yapa Mudiyanselage Jayarathna
 LK-81	LG-81010	2	UNP	Rathnayaka Mudiyanselage Gunarathna
@@ -560,7 +562,6 @@ LK-91	LG-91013	0	UNP	Subramaniam Sivakumar
 LK-91	LG-91009	0	IG1	Subramaniyam Sivakumar
 LK-91	LG-91009	21	IG1	Subramaniyam Sivakumar
 LK-91	LG-91008	0	JJB	Herath Mudiyanselage Mallika Herath
-LK-91	LG-91001	0	USP	(None)
 LK-92	LG-92009	5	UNP	Mahadurage Jayathissa
 LK-92	LG-92006	0	UNP	Herath Mudiyanselage Sisira Kumara
 LK-92	LG-92009	0	SLFP	Subramaniam Sivakumar

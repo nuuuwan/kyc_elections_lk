@@ -27109,7 +27109,6 @@ LK-23	LG-23011	0	SLFP	R. Sridaran
 LK-23	LG-23011	0	SLFP	Rathnaraja Aloysius Roy Desmond Godfrey
 LK-23	LG-23011	0	SLFP	Seemon Arachchige Darshani Nisansala Mendis
 LK-23	LG-23011	0	SLFP	Suppiah Poorniyanathan
-LK-23	LG-23011	0	UNFF	(None)
 LK-23	LG-23011	0	UNP	Dissanayake Mudiyanselage Kiribo Kotuwe Gedara Harshana Dissanayake
 LK-23	LG-23011	0	UNP	Gunawarna Waduge Ranjith Fernando
 LK-23	LG-23011	0	UNP	Jesudasan Arulnayagi
@@ -31683,121 +31682,251 @@ LK-32	LG-32007	0	FPF	Sellahennadige Sriyani
 LK-32	LG-32007	0	FPF	Siriwardhananapage Chaminda Sanjeewa
 LK-32	LG-32007	0	FPF	Wanni Arachchige Pemasiri
 LK-32	LG-32007	0	FPF	Weerasinghe Ransilige Sumithra
-LK-32	LG-32007	0	JJB	(None)
-LK-32	LG-32007	0	JSP	Ahangama Vithanage Chandrasena
-LK-32	LG-32007	0	JSP	Ediriweera Arachchige Kapila Janaka Ediriweera
-LK-32	LG-32007	0	JSP	Hallala Hondage Premawathee
-LK-32	LG-32007	0	JSP	Hewa Iluppellage Chandrika
-LK-32	LG-32007	0	JSP	Hewa Kaluhala Mullege Karunasena
-LK-32	LG-32007	0	JSP	Jayasekara Vithanage Nadun Asanka
-LK-32	LG-32007	0	JSP	Jayasekara Vithanage Sunethra Lakmali
-LK-32	LG-32007	0	JSP	Karadugoda Kankanamge Akna Gayali Hasara
-LK-32	LG-32007	0	JSP	Lokuhetti Chandrasiri
-LK-32	LG-32007	0	JSP	Pallik Kondage Karunawathie
-LK-32	LG-32007	0	JSP	Pushpa Kodippili Abhayawardhane
-LK-32	LG-32007	0	JSP	Samarasinghe Vidanage Shreemathi
-LK-32	LG-32007	0	JSP	Shyamali Damayanthi Hewapathirana
-LK-32	LG-32007	0	JSP	Ujith Indika Mahagama
-LK-32	LG-32007	0	JSP	Welikada Kankanamge Gamini Prasanna
-LK-32	LG-32007	0	JSP	Wellana Gamage Sumedha Gunathilake
-LK-32	LG-32007	0	JSP	Wickramasinghe Vidanapathiranage Suranga Roshan Wickramasinghe
-LK-32	LG-32007	0	JSP	Yamuna Wickramanayake
-LK-32	LG-32007	0	JSP	kolabadde Durage Jeewan Suresh
-LK-32	LG-32007	0	SJB	(None)
-LK-32	LG-32007	0	SLPP	Appuhennadige Ruwani Kanchana Munidasa
-LK-32	LG-32007	0	SLPP	Denipitiya Gallage Chandra Pushpa Kumara
-LK-32	LG-32007	0	SLPP	Gardiya Weligamage Dammika Sampath Priyadarshana
-LK-32	LG-32007	0	SLPP	Hewa Diddeniyage Thusari Priyanka
-LK-32	LG-32007	0	SLPP	Hewanaimanage Nadun Sanjeewa
-LK-32	LG-32007	0	SLPP	Hewanaimanage Priyangika
-LK-32	LG-32007	0	SLPP	J. W. B. Chathisha Malshan
-LK-32	LG-32007	0	SLPP	Kapugamage Ramani
-LK-32	LG-32007	0	SLPP	Loku Bahithage Gayani Nilushika
-LK-32	LG-32007	0	SLPP	Loku Bahithage Ravindra Lakshitha
-LK-32	LG-32007	0	SLPP	Lokubahithage Kanthi Rupashriya
-LK-32	LG-32007	0	SLPP	Loronsu Patabedige Hansini Chethana
-LK-32	LG-32007	0	SLPP	Navimanage Chathura Sanjeewa
-LK-32	LG-32007	0	SLPP	P. K. Roshan Indika
-LK-32	LG-32007	0	SLPP	Poonam Kristhombuge Briatis
-LK-32	LG-32007	0	SLPP	Poonam Kristhombuge Dorin Ragini
-LK-32	LG-32007	0	SLPP	Punchi Hewage Ashoka
-LK-32	LG-32007	0	SLPP	Samaraweeralage Ramisha Nilanthi
-LK-32	LG-32007	0	SLPP	Vidana Gamage Anusha Sajeewani Vidanagamage
+LK-32	LG-32007	0	JJB	Deen Kodithuwakku Karunarathne
+LK-32	LG-32007	0	JJB	Disanayake Mudiyanselage Mudiyanse
+LK-32	LG-32007	0	JJB	Eththiligoda Vidana Gamage Sirisena
+LK-32	LG-32007	0	JJB	Hetti Arachchige Kavindi Madhubhashini
+LK-32	LG-32007	0	JJB	Imaduwa Wickrama Acharige Diluka Priyabhashini
+LK-32	LG-32007	0	JJB	Janaka Thilak Kumara Pathiranage
+LK-32	LG-32007	0	JJB	Kananke Liyanage Dayananda
+LK-32	LG-32007	0	JJB	Malavi Pathiranage Gavini Yasodhara
+LK-32	LG-32007	0	JJB	Marakkala Hennadige Lakshman Gunawardhane
+LK-32	LG-32007	0	JJB	Muhammadu Kasim Muhammadu Harish
+LK-32	LG-32007	0	JJB	Navoda Godevithana
+LK-32	LG-32007	0	JJB	Paragoda Gamage Ranjani
+LK-32	LG-32007	0	JJB	Ranchigoda Gamage Somawathie
+LK-32	LG-32007	0	JJB	Samarakankanamge Upasena
+LK-32	LG-32007	0	JJB	Sandrani Nekathige Jayantha Pradeep
+LK-32	LG-32007	0	JJB	Serasinghe Pathiranage Jayantha Kumarasiri
+LK-32	LG-32007	0	JJB	Serasinghe Yapa Dilupa Nilmini
+LK-32	LG-32007	0	JJB	Thalagaha Gedara Pushpa Malani Ranathunge
+LK-32	LG-32007	0	JJB	Wickramage Indrani
+LK-32	LG-32007	0	JSP	Appuhennadige Ruwani Kanchana Munidasa
+LK-32	LG-32007	0	JSP	Denipitiya Gallage Chandra Pushpa Kumara
+LK-32	LG-32007	0	JSP	Gardiya Weligamage Dammika Sampath Priyadarshana
+LK-32	LG-32007	0	JSP	Hewa Diddeniyage Thusari Priyanka
+LK-32	LG-32007	0	JSP	Hewanaimanage Nadun Sanjeewa
+LK-32	LG-32007	0	JSP	Hewanaimanage Priyangika
+LK-32	LG-32007	0	JSP	J. W. B. Chathisha Malshan
+LK-32	LG-32007	0	JSP	Kapugamage Ramani
+LK-32	LG-32007	0	JSP	Loku Bahithage Gayani Nilushika
+LK-32	LG-32007	0	JSP	Loku Bahithage Ravindra Lakshitha
+LK-32	LG-32007	0	JSP	Lokubahithage Kanthi Rupashriya
+LK-32	LG-32007	0	JSP	Loronsu Patabedige Hansini Chethana
+LK-32	LG-32007	0	JSP	Navimanage Chathura Sanjeewa
+LK-32	LG-32007	0	JSP	P. K. Roshan Indika
+LK-32	LG-32007	0	JSP	Poonam Kristhombuge Briatis
+LK-32	LG-32007	0	JSP	Poonam Kristhombuge Dorin Ragini
+LK-32	LG-32007	0	JSP	Punchi Hewage Ashoka
+LK-32	LG-32007	0	JSP	Samaraweeralage Ramisha Nilanthi
+LK-32	LG-32007	0	JSP	Vidana Gamage Anusha Sajeewani Vidanagamage
+LK-32	LG-32007	0	SJB	Ahangama Vithanage Chandrasena
+LK-32	LG-32007	0	SJB	Ediriweera Arachchige Kapila Janaka Ediriweera
+LK-32	LG-32007	0	SJB	Hallala Hondage Premawathee
+LK-32	LG-32007	0	SJB	Hewa Iluppellage Chandrika
+LK-32	LG-32007	0	SJB	Hewa Kaluhala Mullege Karunasena
+LK-32	LG-32007	0	SJB	Jayasekara Vithanage Nadun Asanka
+LK-32	LG-32007	0	SJB	Jayasekara Vithanage Sunethra Lakmali
+LK-32	LG-32007	0	SJB	Karadugoda Kankanamge Akna Gayali Hasara
+LK-32	LG-32007	0	SJB	Lokuhetti Chandrasiri
+LK-32	LG-32007	0	SJB	Pallik Kondage Karunawathie
+LK-32	LG-32007	0	SJB	Pushpa Kodippili Abhayawardhane
+LK-32	LG-32007	0	SJB	Samarasinghe Vidanage Shreemathi
+LK-32	LG-32007	0	SJB	Shyamali Damayanthi Hewapathirana
+LK-32	LG-32007	0	SJB	Ujith Indika Mahagama
+LK-32	LG-32007	0	SJB	Welikada Kankanamge Gamini Prasanna
+LK-32	LG-32007	0	SJB	Wellana Gamage Sumedha Gunathilake
+LK-32	LG-32007	0	SJB	Wickramasinghe Vidanapathiranage Suranga Roshan Wickramasinghe
+LK-32	LG-32007	0	SJB	Yamuna Wickramanayake
+LK-32	LG-32007	0	SJB	kolabadde Durage Jeewan Suresh
+LK-32	LG-32007	0	SLPP	Akurugoda Gamage Janaka Prasanna
+LK-32	LG-32007	0	SLPP	Chandima Sameera Hewapathirana
+LK-32	LG-32007	0	SLPP	Chathurika Jayamini Rathnayake
+LK-32	LG-32007	0	SLPP	Dickmadu Godage Nishantha
+LK-32	LG-32007	0	SLPP	Gamachchi Pathiranage Dayapala
+LK-32	LG-32007	0	SLPP	Gamachchige Duminda Indika Wijesekara
+LK-32	LG-32007	0	SLPP	Gangoda Gamachchige Samadasa
+LK-32	LG-32007	0	SLPP	Hikkaduwe Galappaththige Mangalika Galappaththi
+LK-32	LG-32007	0	SLPP	Juwana Hennadige Vihanga Padmika De Silva
+LK-32	LG-32007	0	SLPP	Katapodi Kankanamge Charlot
+LK-32	LG-32007	0	SLPP	Malaviya Arachchige Chandrasiri
+LK-32	LG-32007	0	SLPP	Munadeniya Manage Uditha Eranga
+LK-32	LG-32007	0	SLPP	Palliyaguruge Harsha Sandakumari
+LK-32	LG-32007	0	SLPP	Sahan Dhamesha Hewa Waravita
+LK-32	LG-32007	0	SLPP	Sathya Shyamali Manawadu
+LK-32	LG-32007	0	SLPP	Vidana Gamachchige Erandi Shashikala
+LK-32	LG-32007	0	SLPP	Vidana Gamage Samaranayake Naveesha Dhananjaya
+LK-32	LG-32007	0	SLPP	Vineetha Kodagoda
+LK-32	LG-32007	0	SLPP	Wijesinghe Muhandiramge Yanthrika
+LK-32	LG-32007	0	UNP	Daluwaththage Vilie Nihal
+LK-32	LG-32007	0	UNP	Gallala Gamachchige Hemalatha
+LK-32	LG-32007	0	UNP	Haththotuwa Mudalige Rumesh Rangana
+LK-32	LG-32007	0	UNP	Kolabadda Durage Umali Thaksala
+LK-32	LG-32007	0	UNP	Lahadapurage Nandawathie
+LK-32	LG-32007	0	UNP	Lahadapurage Vindya Kasthuri Kulasuriya
+LK-32	LG-32007	0	UNP	Madduma Liyanage Vinod Vidushka
+LK-32	LG-32007	0	UNP	Medawewe Gedara Induni
+LK-32	LG-32007	0	UNP	Modara Nekathige Mahindapala
+LK-32	LG-32007	0	UNP	Mohomad Munauwar Abdullah Riyas
+LK-32	LG-32007	0	UNP	Munasinghe Disanayakage Teeta Shriyani
+LK-32	LG-32007	0	UNP	Pitiduwa Gamage Kusumawathie
+LK-32	LG-32007	0	UNP	Polwaththa Gallage Piyal Ranadewa
+LK-32	LG-32007	0	UNP	Porawaka Arachchige Kalidu Pasan Sadashan
+LK-32	LG-32007	0	UNP	Priyanga Dilruksi Samarawickrama
+LK-32	LG-32007	0	UNP	Ranasinghe Aiththappulige Gayan
+LK-32	LG-32007	0	UNP	Salahudeen Mohomad Kamal
+LK-32	LG-32007	0	UNP	Samarawickrama Vidana Arachchige Nandalal
+LK-32	LG-32007	0	UNP	Watareka Gamage Darshika Chinthani Gamage
 LK-32	LG-32007	1	FPF	Paragoda Liyanapathiranage Shriyani
-LK-32	LG-32007	1	JSP	Ranadheera Gamage Hemanthi
-LK-32	LG-32007	1	SLPP	Poonam Kristhombuge Harshani Chathurangi
+LK-32	LG-32007	1	JJB	Ranarolge Ajith Priyantha
+LK-32	LG-32007	1	JSP	Poonam Kristhombuge Harshani Chathurangi
+LK-32	LG-32007	1	SJB	Ranadheera Gamage Hemanthi
+LK-32	LG-32007	1	SLPP	Ramanayakage Hemachandra
+LK-32	LG-32007	1	UNP	Gardi Hettiarachchige Sirinimal
 LK-32	LG-32007	2	FPF	Kirindeniya Gamage Hemantha
-LK-32	LG-32007	2	JSP	Indula Dias Wijesekara
-LK-32	LG-32007	2	SLPP	Arumathanthirige Jeewani Madhunika Amarasinghe
+LK-32	LG-32007	2	JJB	Ranawaka Arachchige Kamani Mala Alwis
+LK-32	LG-32007	2	JSP	Arumathanthirige Jeewani Madhunika Amarasinghe
+LK-32	LG-32007	2	SJB	Indula Dias Wijesekara
+LK-32	LG-32007	2	SLPP	Boopitiya Vidanegamage Dhammika
+LK-32	LG-32007	2	UNP	Paththiniya Durage Robin Sanka Amarasena
 LK-32	LG-32007	3	FPF	Hakmana Pathiranage Manjula Priyansa Ranasinghe
-LK-32	LG-32007	3	JSP	Thenikoralage Nandika Dilan Kumara
-LK-32	LG-32007	3	SLPP	Siman Meru Pathiranage Palitha Pathirana
+LK-32	LG-32007	3	JJB	Weerasinghe Pathiranage Lahiru Sankalpa
+LK-32	LG-32007	3	JSP	Siman Meru Pathiranage Palitha Pathirana
+LK-32	LG-32007	3	SJB	Thenikoralage Nandika Dilan Kumara
+LK-32	LG-32007	3	SLPP	Idunil Ajith Kumara Hewavitharana
+LK-32	LG-32007	3	UNP	Vidanapathirana Wickramasinghe Supun Thilanka
 LK-32	LG-32007	4	FPF	Chandima Lakmal Gamage
-LK-32	LG-32007	4	JSP	Parana Gamage Dhammika
-LK-32	LG-32007	4	SLPP	Wanasinghe Mudiyanselage Karunananda Wanasinghe
+LK-32	LG-32007	4	JJB	Hallala Hondage Chaminda Premalal
+LK-32	LG-32007	4	JSP	Wanasinghe Mudiyanselage Karunananda Wanasinghe
+LK-32	LG-32007	4	SJB	Parana Gamage Dhammika
+LK-32	LG-32007	4	SLPP	Horadugoda Galhenage Siripala Dayawansa
+LK-32	LG-32007	4	UNP	Sumanarathne Hettige
 LK-32	LG-32007	5	FPF	Mudu Gamuwa Manage Prasad Milinda
-LK-32	LG-32007	5	JSP	Ehelape Gamage Dharmasiri
-LK-32	LG-32007	5	SLPP	Agampodidurage Inoka Kumari
+LK-32	LG-32007	5	JJB	Kananke Delapalage Dulip Kumara Waidyarathne
+LK-32	LG-32007	5	JSP	Agampodidurage Inoka Kumari
+LK-32	LG-32007	5	SJB	Ehelape Gamage Dharmasiri
+LK-32	LG-32007	5	SLPP	Ileperuma Jinadasa Karunarathnage Samantha
+LK-32	LG-32007	5	UNP	Magedara Manage Pushpa Ranjanie Wimalaweera
 LK-32	LG-32007	6	FPF	Wijesekara Gamarachchige Ajith Priyantha
-LK-32	LG-32007	6	JSP	Mudugamuwa Hewage Rasika Priyankara
-LK-32	LG-32007	6	SLPP	Daluwaththa Galappaththige Namal
+LK-32	LG-32007	6	JJB	Wijesekara Gamachchige Kamalawathie
+LK-32	LG-32007	6	JSP	Daluwaththa Galappaththige Namal
+LK-32	LG-32007	6	SJB	Mudugamuwa Hewage Rasika Priyankara
+LK-32	LG-32007	6	SLPP	Weerakkutti Arachchige Jeewantha Kumara
+LK-32	LG-32007	6	UNP	Hewa Wellalage Janaka Sanjeewa
 LK-32	LG-32007	7	FPF	Jayasekara Vithanage Ajantha Indika Kumara
-LK-32	LG-32007	7	JSP	Lasantha Wickramasekara
-LK-32	LG-32007	7	SLPP	Poonam Kristhombu Lakshma Malani
+LK-32	LG-32007	7	JJB	Gangabada Arachchige Noman Chandrika
+LK-32	LG-32007	7	JSP	Poonam Kristhombu Lakshma Malani
+LK-32	LG-32007	7	SJB	Lasantha Wickramasekara
+LK-32	LG-32007	7	SLPP	Omila Dias Gunaseela Jayawardhana
+LK-32	LG-32007	7	UNP	Sakunthala Wijesekara
 LK-32	LG-32007	8	FPF	Denagama Rahula Thero
-LK-32	LG-32007	8	JSP	Thuppahi Patabendige Sameera Dhanushkada Silva
-LK-32	LG-32007	8	SLPP	Poonam Kristhombuge Achini Udeshika
+LK-32	LG-32007	8	JJB	Dhammalage Suwendra Dhanapali
+LK-32	LG-32007	8	JSP	Poonam Kristhombuge Achini Udeshika
+LK-32	LG-32007	8	SJB	Thuppahi Patabendige Sameera Dhanushkada Silva
+LK-32	LG-32007	8	SLPP	Gangoda Gamachchige Jayasena
+LK-32	LG-32007	8	UNP	Sajiwani Lankapriya Elapatha
 LK-32	LG-32007	9	FPF	Don Gunasena Nanayakkara
-LK-32	LG-32007	9	JSP	Dona Gunaseeli Lokuhetti
-LK-32	LG-32007	9	SLPP	Hewa Inapthappulige Pradeep Chandana
+LK-32	LG-32007	9	JJB	Liyanadurage Sudath Rohana
+LK-32	LG-32007	9	JSP	Hewa Inapthappulige Pradeep Chandana
+LK-32	LG-32007	9	SJB	Dona Gunaseeli Lokuhetti
+LK-32	LG-32007	9	SLPP	Nanayakkara Don Sarath Chandrawansha
+LK-32	LG-32007	9	UNP	Kananke Vithanage Dayalatha
 LK-32	LG-32007	10	FPF	Mohotti Malwaththage Pradeep Kumara
-LK-32	LG-32007	10	JSP	Nugaduwa Vithanage Thilini Lakshika
-LK-32	LG-32007	10	SLPP	Hakmana Paranaliyanage Ranga Prajeewa
+LK-32	LG-32007	10	JJB	Kariyawasam Katukoliya Gamage Dayarathne
+LK-32	LG-32007	10	JSP	Hakmana Paranaliyanage Ranga Prajeewa
+LK-32	LG-32007	10	SJB	Nugaduwa Vithanage Thilini Lakshika
+LK-32	LG-32007	10	SLPP	Ranasinghe Arachchige Preethi Namalie
+LK-32	LG-32007	10	UNP	Maha Thelge Indika Chaminda Peeris
 LK-32	LG-32007	11	FPF	Muhammadu Ali Mirukani
-LK-32	LG-32007	11	JSP	Mohamd Sarook Ahamad Safri
-LK-32	LG-32007	11	SLPP	Galbokka Hewage Ruwani Tharanga De Silva
+LK-32	LG-32007	11	JJB	Mohamad Razik Mohamad Mahir
+LK-32	LG-32007	11	JSP	Galbokka Hewage Ruwani Tharanga De Silva
+LK-32	LG-32007	11	SJB	Mohamd Sarook Ahamad Safri
+LK-32	LG-32007	11	SLPP	Muhammadu Kalidu Muhammadu Asmi
+LK-32	LG-32007	11	UNP	Mohomad Mohomad Mushni
 LK-32	LG-32007	12	FPF	Nanayakkara Aparekkage Tharanga Damayanthi Nayanika
-LK-32	LG-32007	12	JSP	Vidana Gamage Janaka Shrimantha
-LK-32	LG-32007	12	SLPP	Harshani Vithanage
+LK-32	LG-32007	12	JJB	Karadugoda Kankanamge Anura Priyantha
+LK-32	LG-32007	12	JSP	Harshani Vithanage
+LK-32	LG-32007	12	SJB	Vidana Gamage Janaka Shrimantha
+LK-32	LG-32007	12	SLPP	Jayawardane Kankanamge Menaka
+LK-32	LG-32007	12	UNP	Samaradiwakara Wickramasinghe Indrapala
 LK-32	LG-32007	13	FPF	Walpola Indarathana Thero
-LK-32	LG-32007	13	JSP	Dickwella Vithanage Sumith
-LK-32	LG-32007	13	SLPP	Beliwaththa Liyanage Udith Ishara
+LK-32	LG-32007	13	JJB	Weerasinghe Pathiranage Kamal
+LK-32	LG-32007	13	JSP	Beliwaththa Liyanage Udith Ishara
+LK-32	LG-32007	13	SJB	Dickwella Vithanage Sumith
+LK-32	LG-32007	13	SLPP	Kekunawela Pathiranage Kelum Dhammika
+LK-32	LG-32007	13	UNP	Parana Vithanage Shanaka Madhushan
 LK-32	LG-32007	14	FPF	Dheerasinghe Arachchige Ishara Sampath
-LK-32	LG-32007	14	JSP	Harsha Nirmala Lanka Vithanachchi
-LK-32	LG-32007	14	SLPP	Baranige Ranil Asanka
+LK-32	LG-32007	14	JJB	Hewa Walgamage Don Kavindrajith
+LK-32	LG-32007	14	JSP	Baranige Ranil Asanka
+LK-32	LG-32007	14	SJB	Harsha Nirmala Lanka Vithanachchi
+LK-32	LG-32007	14	SLPP	Kaduruwana Gamage Shanaka
+LK-32	LG-32007	14	UNP	Malagoda Gamage Ajith Janapriya Wickramasinghe
 LK-32	LG-32007	15	FPF	Nanayakkara Palliyaguruge Dharmashashie Mahesh
-LK-32	LG-32007	15	JSP	Mohamad Usein Mohamad Asan
-LK-32	LG-32007	15	SLPP	Saman Liyana Pathirana
+LK-32	LG-32007	15	JJB	Kammalgoda Mudalige Surendra Shriyananda
+LK-32	LG-32007	15	JSP	Saman Liyana Pathirana
+LK-32	LG-32007	15	SJB	Mohamad Usein Mohamad Asan
+LK-32	LG-32007	15	SLPP	Weerakoon Rathnayake Arachchige Kumuduni Priyantha
+LK-32	LG-32007	15	UNP	Nambu Wasam Epita Kaduwa Gamage Anura
 LK-32	LG-32007	16	FPF	Jathun Gamage Samansiri
-LK-32	LG-32007	16	JSP	Abdul Saththar Mohamad Ajmal
-LK-32	LG-32007	16	SLPP	Amara Shantha Gunathilake
+LK-32	LG-32007	16	JJB	Kondarage Sameera Prabhash Darshana
+LK-32	LG-32007	16	JSP	Amara Shantha Gunathilake
+LK-32	LG-32007	16	SJB	Abdul Saththar Mohamad Ajmal
+LK-32	LG-32007	16	SLPP	Indika Sri Mangala Abeykoon
+LK-32	LG-32007	16	UNP	Ruwan Priyankara Samarawickrama
 LK-32	LG-32007	17	FPF	Rathnaweera Patabendige Susantha Rathnaweera
-LK-32	LG-32007	17	JSP	Nalaka Chaminda Jayawardhane
-LK-32	LG-32007	17	SLPP	Wanasinghe Mudiyanselage Sashindya Rashmini Wanasinghe
+LK-32	LG-32007	17	JJB	Hewa Lunuwilage Nelka Nadeeshani
+LK-32	LG-32007	17	JSP	Wanasinghe Mudiyanselage Sashindya Rashmini Wanasinghe
+LK-32	LG-32007	17	SJB	Nalaka Chaminda Jayawardhane
+LK-32	LG-32007	17	SLPP	Ediriweera Patabedige Sudarshanie
+LK-32	LG-32007	17	UNP	Tharanga Darshana Jayawardhana
 LK-32	LG-32007	18	FPF	Upali Stephen Daluwaththa
-LK-32	LG-32007	18	JSP	Anura Premalal Daluwaththa
-LK-32	LG-32007	18	SLPP	P. K. Manjula Prasanna
+LK-32	LG-32007	18	JJB	Uswaththage Anil Shantha Warshawithana
+LK-32	LG-32007	18	JSP	P. K. Manjula Prasanna
+LK-32	LG-32007	18	SJB	Anura Premalal Daluwaththa
+LK-32	LG-32007	18	SLPP	Wathudura Bandhanage Somasiri
+LK-32	LG-32007	18	UNP	Hewapathiranage Dayawathie
 LK-32	LG-32007	19	FPF	Vidanapathiranage Jayawickrama
-LK-32	LG-32007	19	JSP	Deweni Guru Kankanamge Raveendra Lankajeewa
-LK-32	LG-32007	19	SLPP	Hewa Kasakara Annakkage Hasitha Rashminda
+LK-32	LG-32007	19	JJB	Rajapaksha Arachchige Siripala
+LK-32	LG-32007	19	JSP	Hewa Kasakara Annakkage Hasitha Rashminda
+LK-32	LG-32007	19	SJB	Deweni Guru Kankanamge Raveendra Lankajeewa
+LK-32	LG-32007	19	SLPP	Liyana Palliyage Siripala
+LK-32	LG-32007	19	UNP	Hewa Gamage Terans Pradeep Hewagama
 LK-32	LG-32007	20	FPF	Athapaththu Hewa Komangodage Jagath
-LK-32	LG-32007	20	JSP	Hannagala Gamage Naleen Nishantha
-LK-32	LG-32007	20	SLPP	Kottal Baddegei Premajayantha
+LK-32	LG-32007	20	JJB	Chamil Vithana
+LK-32	LG-32007	20	JSP	Kottal Baddegei Premajayantha
+LK-32	LG-32007	20	SJB	Hannagala Gamage Naleen Nishantha
+LK-32	LG-32007	20	SLPP	Daya Thilak Perumpuliarachchi
+LK-32	LG-32007	20	UNP	Naimana Liyanage Kularathne
 LK-32	LG-32007	21	FPF	Daya Pushpakumara Hewa Bettage
-LK-32	LG-32007	21	JSP	Vindika Ipalawaththa
-LK-32	LG-32007	21	SLPP	P. K. Prasad Sanjeewa
+LK-32	LG-32007	21	JJB	Paranamanage Prasantha Rohan
+LK-32	LG-32007	21	JSP	P. K. Prasad Sanjeewa
+LK-32	LG-32007	21	SJB	Vindika Ipalawaththa
+LK-32	LG-32007	21	SLPP	Hewa Elegodage Chaminda Sujith Kumara
+LK-32	LG-32007	21	UNP	Dikkumburage Kulaweera
 LK-32	LG-32007	22	FPF	Amara Devika Rubasinghe
-LK-32	LG-32007	22	JSP	Indrajith Upali Udaya Kumara Vidanagamachchi
-LK-32	LG-32007	22	SLPP	Sandamali Ruwan Pathirana
+LK-32	LG-32007	22	JJB	Serasinghe Pathiranage Sampath Chaminda
+LK-32	LG-32007	22	JSP	Sandamali Ruwan Pathirana
+LK-32	LG-32007	22	SJB	Indrajith Upali Udaya Kumara Vidanagamachchi
+LK-32	LG-32007	22	SLPP	Saliya Nanayakkara
+LK-32	LG-32007	22	UNP	Vithanage Ariyapala
 LK-32	LG-32007	23	FPF	Boda Hennadige Lakmini Wathsala
-LK-32	LG-32007	23	JSP	Ahangama Merenchige Shaseela Gayan Hasantha De Silva
-LK-32	LG-32007	23	SLPP	Pelaketiyage Sameera Prabod Buddhika
+LK-32	LG-32007	23	JJB	Asanka Duminda Kaluarachchi
+LK-32	LG-32007	23	JSP	Pelaketiyage Sameera Prabod Buddhika
+LK-32	LG-32007	23	SJB	Ahangama Merenchige Shaseela Gayan Hasantha De Silva
+LK-32	LG-32007	23	SLPP	Piyadigamage Susantha Jayalath
+LK-32	LG-32007	23	UNP	Wijesinghe Muhandiramge Shyam Viraj
 LK-32	LG-32007	24	FPF	Krishami Niroshan Wickramathunga
-LK-32	LG-32007	24	JSP	Jinasena Lakshman Samaranayake
-LK-32	LG-32007	24	SLPP	Kanakka Hewage Nilupika Ariyadasa
+LK-32	LG-32007	24	JJB	Barni Shrinath Senarathne
+LK-32	LG-32007	24	JSP	Kanakka Hewage Nilupika Ariyadasa
+LK-32	LG-32007	24	SJB	Jinasena Lakshman Samaranayake
+LK-32	LG-32007	24	SLPP	Vidana Gamachchige Vimal
+LK-32	LG-32007	24	UNP	Heenatigala Kankanamge Pulasthi Rangana
 LK-32	LG-32007	25	FPF	Vidana Arachchige Sumudu Premathilake
-LK-32	LG-32007	25	JSP	Kankanam Durage Udayanga Sandaruwan
-LK-32	LG-32007	25	SLPP	Hewa Wedage Supun Tharaka Sampath
+LK-32	LG-32007	25	JJB	Hewapaththinige Pramod Indunith
+LK-32	LG-32007	25	JSP	Hewa Wedage Supun Tharaka Sampath
+LK-32	LG-32007	25	SJB	Kankanam Durage Udayanga Sandaruwan
+LK-32	LG-32007	25	SLPP	Sadun Prasanga Muthumala
+LK-32	LG-32007	25	UNP	Buddhika Chathuranga Ediriweera
 LK-32	LG-32008	0	DVJP	Haththotuwa Gamage Shriyani Priyadarshanee
 LK-32	LG-32008	0	DVJP	Hewa Gamage Priyanganee
 LK-32	LG-32008	0	DVJP	Hewa Rahinduwage Mangala Kumara
@@ -31996,7 +32125,6 @@ LK-32	LG-32010	0	FPF	Peduru Arachchige Tharanga Janaki Jayasinghe
 LK-32	LG-32010	0	FPF	Priyadarshani Garusinghe
 LK-32	LG-32010	0	FPF	Ranbandi Kaludurage Dilini Sathsarani
 LK-32	LG-32010	0	FPF	Vidana Gamachchige Sampath
-LK-32	LG-32010	0	IG1	(None)
 LK-32	LG-32010	0	JJB	Jayawardhana Gamachchige Karuna Niroshini Kumari Jayawardhana
 LK-32	LG-32010	0	JJB	Nammunni Arachchige Pemalal
 LK-32	LG-32010	0	JJB	Pamabokke Arachchige Piyathissa
@@ -32398,7 +32526,6 @@ LK-32	LG-32014	0	JJB	Naotunna Gamage Lalani Indika
 LK-32	LG-32014	0	JJB	Punchi Hewage Lalani
 LK-32	LG-32014	0	JJB	Ranathunga Mudiyanselage Sara Samiri Liyanage
 LK-32	LG-32014	0	JJB	Vitharana Palliya Guruge Rupa Madhushani
-LK-32	LG-32014	0	SJB	(None)
 LK-32	LG-32014	0	SLFP	Darumura Hettige Inoka Damayanthi
 LK-32	LG-32014	0	SLFP	Galagamage Priyantha Jayalath
 LK-32	LG-32014	0	SLFP	Geegana Hewage Jayantha
@@ -33025,6 +33152,2161 @@ LK-32	LG-32017	16	SJB	Appuwa Baduge Chadra Pathmani
 LK-32	LG-32017	16	SLPP	Edirisuriya Patabedige Sajith Saranga Kumara
 LK-32	LG-32017	16	UNA	Abdul Razik Mohammad Rizwan
 LK-32	LG-32017	16	UNP	Abeysooriya Patabandige Tharindu Asanka
+LK-33	LG-33001	0	FPF	Aluthwalaguruge Kumudu Niranjani Perera
+LK-33	LG-33001	0	FPF	Halanayaka Hemantha
+LK-33	LG-33001	0	FPF	Kaluhennadige Nilanthi Renuka
+LK-33	LG-33001	0	FPF	Munasinghe Arachchige Rasika Jayaruwan
+LK-33	LG-33001	0	FPF	Ranasin Liyanage Nimal Chaminda Kumara
+LK-33	LG-33001	0	FPF	Weerasin Wickramage Priyantha Kumara
+LK-33	LG-33001	0	FPF	Widana Gamage Nirosha Priyanganee
+LK-33	LG-33001	0	IG1	Galle Hewage Deepika Sandya Kumari
+LK-33	LG-33001	0	IG1	Herath Mudiyanselage Dinesh Saman Priyadarshana
+LK-33	LG-33001	0	IG1	Imesha Geethangani Mahapathirana
+LK-33	LG-33001	0	IG1	Munasingha Arachchige Nalaka Sandaruwan
+LK-33	LG-33001	0	IG1	Ragamunige Mallika Wasanthi
+LK-33	LG-33001	0	IG1	Weerasekara Arachchige Upul Chaminda Kumara
+LK-33	LG-33001	0	IG1	Weerasin Pathiranage Bandula Priyashantha
+LK-33	LG-33001	0	JJB	Gabbalage Chithra Malkanthi
+LK-33	LG-33001	0	JJB	Gunathilaka Siriwardhana Sujith
+LK-33	LG-33001	0	JJB	Iddamalgoda Mohottige Inoka Priyadarshani
+LK-33	LG-33001	0	JJB	Kekulahandi Sarath Mebal Jayasiri
+LK-33	LG-33001	0	JJB	Subasin Kattadige Sunil Jayasinghe
+LK-33	LG-33001	0	JJB	Warsha Hannadige Buddika Dinesh
+LK-33	LG-33001	0	JJB	Weerasinghe Hewage Kanthi
+LK-33	LG-33001	0	JSP	Dinesha Hemali Gamage
+LK-33	LG-33001	0	JSP	H.A.Chandralatha
+LK-33	LG-33001	0	JSP	H.Sarath Janaka
+LK-33	LG-33001	0	JSP	Imasha Rasanjali
+LK-33	LG-33001	0	JSP	K.Sunil Shantha
+LK-33	LG-33001	0	JSP	P.A.Prasanna Dharmasena
+LK-33	LG-33001	0	JSP	S.Sarath Kumara
+LK-33	LG-33001	0	SJB	Edirimannage Krishna Madushani
+LK-33	LG-33001	0	SJB	Enderage Nalin Janaka
+LK-33	LG-33001	0	SJB	Jayasekara Kankanam Pathiranage Lahiru Chinthaka Kumara
+LK-33	LG-33001	0	SJB	Liyana Arachchige Ariyarathne
+LK-33	LG-33001	0	SJB	Madawala Liyanage Renuka
+LK-33	LG-33001	0	SJB	Manjula Nelum Upali Higuranage
+LK-33	LG-33001	0	SJB	Roopaningal Sanju Nawoda Dilshani Dissanayake De Silva
+LK-33	LG-33001	0	SLPP	Godakande Arachchige Piyadasa
+LK-33	LG-33001	0	SLPP	Kaludurage Chandana Sri Ananda
+LK-33	LG-33001	0	SLPP	Konaru Mudalige Jayasiri
+LK-33	LG-33001	0	SLPP	Mathugama Arachchige Sujeewa Kusum Perera
+LK-33	LG-33001	0	SLPP	Vitharanage Sudeshika Lakmali
+LK-33	LG-33001	0	SLPP	Witharana Gamage Shiromi Pushpamala
+LK-33	LG-33001	0	SLPP	Witharana Palliya Guruge Sumith
+LK-33	LG-33001	0	UNP	Akalanka Chandima Rathnayaka Weerakoon
+LK-33	LG-33001	0	UNP	Hewa Pannage Sarath Wijerathna
+LK-33	LG-33001	0	UNP	Hewa Vitharanage Kaveesha Udeshmi
+LK-33	LG-33001	0	UNP	Jayasekara Gajahingamage Lesli Jayasekara
+LK-33	LG-33001	0	UNP	Jayawarna Arachchige Subhashani
+LK-33	LG-33001	0	UNP	Piliyandala Arachchilage Amasha Deshani
+LK-33	LG-33001	0	UNP	Sujith Kumara Jayasinghe
+LK-33	LG-33001	1	FPF	Ranaweera Kodithuwakkuge Mahinda Puspa Kumara
+LK-33	LG-33001	1	IG1	Hakmana Kankanamge Sisira Kumara
+LK-33	LG-33001	1	JJB	Hewa Walgamage Irosha Sarojanee
+LK-33	LG-33001	1	JSP	Dhanushka Bandusena
+LK-33	LG-33001	1	SJB	Jagath Prasanna Wickcramanayaka
+LK-33	LG-33001	1	SLPP	Ruwan Pathiranage Sugath Gamini
+LK-33	LG-33001	1	UNP	Samarasingha Kamal Roshan
+LK-33	LG-33001	2	FPF	Kankanam Pathiranage Mahesh Kumara
+LK-33	LG-33001	2	IG1	Wagachchige Pushpa
+LK-33	LG-33001	2	JJB	Medaduwage Indika Thusara
+LK-33	LG-33001	2	JSP	Gimhani Supunsara
+LK-33	LG-33001	2	SJB	Hewa Gallage Dilan Sameera
+LK-33	LG-33001	2	SLPP	Neelakara Kekunamullage Thilina Dilhan
+LK-33	LG-33001	2	UNP	Danuka Lakshan Kodikara
+LK-33	LG-33001	3	FPF	Weerasinghe Pathiranage Kelum Indika Ranga
+LK-33	LG-33001	3	IG1	Rathnayaka Kankanamge Ruwan Kumara
+LK-33	LG-33001	3	JJB	Hewa Ambepitiyage Mahesh Tharanga Indunil
+LK-33	LG-33001	3	JSP	Iduru Madhushan
+LK-33	LG-33001	3	SJB	Wagachchige Subaka Pradeep Kumara Wagachchi
+LK-33	LG-33001	3	SLPP	Wanniarachchi Kankanamge Amila Darshana
+LK-33	LG-33001	3	UNP	Sedara Liyanage Vijitha Senankaliyanage
+LK-33	LG-33001	4	FPF	Gamhewa Sanduni Maduwanthi
+LK-33	LG-33001	4	IG1	Hewa Hakuruge Subodha Sanjeewa
+LK-33	LG-33001	4	JJB	Malwanage Sujith
+LK-33	LG-33001	4	JSP	K.M.Senavirathne
+LK-33	LG-33001	4	SJB	Nammuni Arachchige Samantha Ajith Kumara
+LK-33	LG-33001	4	SLPP	Ekanayaka Mudiyanselage Shantha Bandara
+LK-33	LG-33001	4	UNP	Peduru Arachchige Ariyarathna
+LK-33	LG-33001	5	FPF	Wickrama Arachchige Sandaruwan Lakmal
+LK-33	LG-33001	5	IG1	Weerasinghage Pradeep Tharanga Weerasingha
+LK-33	LG-33001	5	JJB	Samarawikrama Liyanage Chaminda Kumara
+LK-33	LG-33001	5	JSP	Hewa Alankarage Wimalasena
+LK-33	LG-33001	5	SJB	Ranaweera Dissanayakage Priyanga
+LK-33	LG-33001	5	SLPP	Willaddara Heelage Priyantha Pushpa Kumara
+LK-33	LG-33001	5	UNP	Yapa Mudiyanselage Anuruddhika Chamila Kumari
+LK-33	LG-33001	6	FPF	Pemasiri Muthumala
+LK-33	LG-33001	6	IG1	Vijamuni Arachchige Neel Suranga
+LK-33	LG-33001	6	JJB	Thiwanka Vimukthi Madusanka Samarakoon
+LK-33	LG-33001	6	JSP	Andaraweera Chandima
+LK-33	LG-33001	6	SJB	Katumullage Princy Jayadewa
+LK-33	LG-33001	6	SLPP	Munasinghe Arachchige Chintha Dilhani
+LK-33	LG-33001	6	UNP	Pinchahewage Janaka Prabath
+LK-33	LG-33002	0	FPF	Dahanayaka Koralege Desi Nona
+LK-33	LG-33002	0	FPF	Dewaraja Mala Warage Nalin
+LK-33	LG-33002	0	FPF	Edirisooriya Patabendige Sujeewa Chathurani
+LK-33	LG-33002	0	FPF	Jaya Sundara Gamage Supun Thilanka
+LK-33	LG-33002	0	FPF	Jayasundara Mudiyanselage Sulochana Muthumini Jayasundara
+LK-33	LG-33002	0	FPF	Liyanage Thilina Pethum
+LK-33	LG-33002	0	FPF	Mohomad Abdulla Mohomad Fasli
+LK-33	LG-33002	0	FPF	Ram Pata Bedige Chanchala Priyadarshanee
+LK-33	LG-33002	0	FPF	Vijithapala Ubewarna
+LK-33	LG-33002	0	IG1	Alu Dewage Niluka Lakmali
+LK-33	LG-33002	0	IG1	Gunasekara Vijitha
+LK-33	LG-33002	0	IG1	Ihala Gamage Sanjeewa Thushara
+LK-33	LG-33002	0	IG1	Kalu Durage Sandali Dilhara
+LK-33	LG-33002	0	IG1	Loku Gamage Nihal
+LK-33	LG-33002	0	IG1	Munasinghe Samaranayaka Chandralatha
+LK-33	LG-33002	0	IG1	Suba Singhe Kattadige Siripala
+LK-33	LG-33002	0	IG1	Vidana Gamage Priyanka Sujeewani Vidanagamage
+LK-33	LG-33002	0	IG1	Weligath Sethuge Sudesh Kalum Priyanga
+LK-33	LG-33002	0	JJB	Athuraliya Vidana Gamage Iresha Shamalee
+LK-33	LG-33002	0	JJB	Garaduwa Barage Chamila Janaki
+LK-33	LG-33002	0	JJB	Hettiarachchige Nirosh Dimuthu Prasanga
+LK-33	LG-33002	0	JJB	Kottal Baddage Dilruk Kumari
+LK-33	LG-33002	0	JJB	Lamahewage Ravi Sugath
+LK-33	LG-33002	0	JJB	Meegasdeniya Kankanamge Priyantha
+LK-33	LG-33002	0	JJB	Ranaweera Nirosha Kumari
+LK-33	LG-33002	0	JJB	Siyambaladuwa Pathiranage Siripala
+LK-33	LG-33002	0	JJB	Thalahena Dolakarage Wasantha Wijesundara
+LK-33	LG-33002	0	SJB	Abedeera Patabendige Anoja Priyadarshanee
+LK-33	LG-33002	0	SJB	Andarage Chamini Nuwandika
+LK-33	LG-33002	0	SJB	Jayasooriya Lokugamhewage Nisanthi
+LK-33	LG-33002	0	SJB	Jayaweera Sayakkarage Suraj Achalanka
+LK-33	LG-33002	0	SJB	Kumarapperuma Arachchige Kasun Chinthaka
+LK-33	LG-33002	0	SJB	Nawimana Urapolage Samitha Chathuranga
+LK-33	LG-33002	0	SJB	Nishshanka Mudiyanselage Seetha
+LK-33	LG-33002	0	SJB	Punchi Hewage Sagara Pushpa Kumara
+LK-33	LG-33002	0	SJB	Sri Warnasingha Patabendhige Chamindarosan
+LK-33	LG-33002	0	SLPP	Hathagala Patabandige Chamini Shashikala Sahindi
+LK-33	LG-33002	0	SLPP	Hettige Disnaka Mahesh
+LK-33	LG-33002	0	SLPP	Jayasekara Patabendige Imesh Ashan Priyannath
+LK-33	LG-33002	0	SLPP	Mapa Mudiyanselage Thilakasiri
+LK-33	LG-33002	0	SLPP	Mullawitharanage Inoka Sanjeewanee
+LK-33	LG-33002	0	SLPP	Ranasingha Arachchige Sarojanee
+LK-33	LG-33002	0	SLPP	Samarawickrama Jayawardhanage Inoka Sanjeewanee
+LK-33	LG-33002	0	SLPP	Samarawickrama Kodikarage Upali
+LK-33	LG-33002	0	SLPP	Wijesingha Kodippilige Chandimala Sajeewanee
+LK-33	LG-33002	0	UNP	Ebraham Galappaththige Iresha Maduwanthi
+LK-33	LG-33002	0	UNP	Godallage Thakshila Dilrukshi Gunasekara
+LK-33	LG-33002	0	UNP	Hewa Lunuvilage Sirisena
+LK-33	LG-33002	0	UNP	Hewa Meemina Wickramasingha Nipuni Nimedika
+LK-33	LG-33002	0	UNP	Kapuduwa Vitharana Kawishka Kavinda
+LK-33	LG-33002	0	UNP	Liyana Arachchige Podimahaththaya
+LK-33	LG-33002	0	UNP	Nimesh Lakshan Disanayaka
+LK-33	LG-33002	0	UNP	Priyantha Shyaman Alahakoon
+LK-33	LG-33002	0	UNP	Sudu Singha Champika Lakmali
+LK-33	LG-33002	1	FPF	Weerasinghage Ranjith
+LK-33	LG-33002	1	IG1	Weerasingha Pathiranage Asoka Kumara
+LK-33	LG-33002	1	JJB	Subasingha Gamaarachchige Pradeep Indika Kumara
+LK-33	LG-33002	1	SJB	Weerasingha Pathiranage Presad Nilantha
+LK-33	LG-33002	1	SLPP	Aluth Gamage Chamith Presanna
+LK-33	LG-33002	1	UNP	Epa Kankanamge Nihal Ranjith
+LK-33	LG-33002	2	FPF	Jayawarna Achchige Dileesha Charunee
+LK-33	LG-33002	2	IG1	Abewarna Arachchige Ruwan Arunathilaka
+LK-33	LG-33002	2	JJB	Narayanage Shyama Udayanganee
+LK-33	LG-33002	2	SJB	Wijekankanam Pathiranage Upul Nisantha
+LK-33	LG-33002	2	SLPP	Walakumburegoda Ranjith Amarasiri
+LK-33	LG-33002	2	UNP	Warnakula Ediriweera Patabadige Somapala
+LK-33	LG-33002	3	FPF	Honda Kattadi Geegana Badanage Chaminda Pushpa Kumara
+LK-33	LG-33002	3	IG1	Jayawardhana Weerasinghe Pathiranage Ranjith
+LK-33	LG-33002	3	JJB	Pallawelage Jagath Pallawela
+LK-33	LG-33002	3	SJB	Hewa Peduru Arachchige Gunarathna
+LK-33	LG-33002	3	SLPP	Thella Murege Rasika Dinesh Udaya Kumara
+LK-33	LG-33002	3	UNP	Janaka Predeep Wijemuni
+LK-33	LG-33002	4	FPF	Lahiru Tharaka Wijethunga
+LK-33	LG-33002	4	IG1	Sandaruwan Pramesh Senadheera
+LK-33	LG-33002	4	JJB	Kotte Samarasinghage Mahinda Jayashantha
+LK-33	LG-33002	4	SJB	Aran Wela Gamage Anil Priyantha
+LK-33	LG-33002	4	SLPP	Dinesh Indika Abewardhana
+LK-33	LG-33002	4	UNP	Mala Kanthi Abeykon
+LK-33	LG-33002	5	FPF	Mahamada Kalapuwage Shehan Vimukthika
+LK-33	LG-33002	5	IG1	Rathnayaka Gamage Anura
+LK-33	LG-33002	5	JJB	Vijamunige Amaradasa
+LK-33	LG-33002	5	SJB	Hewa Halpage Saman Pushpakumara
+LK-33	LG-33002	5	SLPP	Karunarathna Abesundara Jayarathna
+LK-33	LG-33002	5	UNP	Weerasingha Gamarachchige Namal Indika
+LK-33	LG-33002	6	FPF	Kanahala Gamage Indrani
+LK-33	LG-33002	6	IG1	Nambu Hewage Nandasiri
+LK-33	LG-33002	6	JJB	Kattadige Senewirathna
+LK-33	LG-33002	6	SJB	Abewickrama Gunarathna Palliya Guruge Rasika Sanjeewa
+LK-33	LG-33002	6	SLPP	Buddika Susantha Kodithuwakku
+LK-33	LG-33002	6	UNP	Sudath Priyantha Disanayaka
+LK-33	LG-33002	7	FPF	Dahanayakage Don Rupasena
+LK-33	LG-33002	7	IG1	Juwana Hennadige Anula Malkanthi
+LK-33	LG-33002	7	JJB	Merenchige Rasika Sampath
+LK-33	LG-33002	7	SJB	Hathamune Gamage Premalatha
+LK-33	LG-33002	7	SLPP	Kalu Hennadige Lalith
+LK-33	LG-33002	7	UNP	Thennakonge Jayasiri
+LK-33	LG-33002	8	FPF	Beruwalage Niroshanee
+LK-33	LG-33002	8	IG1	Ranawakagei Kamani Nilanthi
+LK-33	LG-33002	8	JJB	Kottal Baddage Jayantha
+LK-33	LG-33002	8	SJB	Hewa Pasgodage Upul Laksiri
+LK-33	LG-33002	8	SLPP	Jothirathna Ganithage Niluka
+LK-33	LG-33002	8	UNP	Sumith Sudu Singha
+LK-33	LG-33002	9	FPF	Hewa Hitina Maluwage Chaminda Predeep
+LK-33	LG-33002	9	IG1	Wijethunga Liyana Arachchige Neel
+LK-33	LG-33002	9	JJB	Chandrasekara Yapa Sarath
+LK-33	LG-33002	9	SJB	Hewa Batagodage Nimal
+LK-33	LG-33002	9	SLPP	Weerappuli Sumith Priyankara
+LK-33	LG-33002	9	UNP	Kunandara Kankanange Sarath
+LK-33	LG-33002	10	FPF	Wanni Arachchige Wijedasa
+LK-33	LG-33002	10	IG1	MahamadaKalapuwage Rohan Sanjeewa
+LK-33	LG-33002	10	JJB	Yakalle Arachchige Ranith Buddika Yakalle Arachchi
+LK-33	LG-33002	10	SJB	Jayasekara Galagamage Ruwan Chaminda
+LK-33	LG-33002	10	SLPP	Horagoda Gamage Anura Nishantha
+LK-33	LG-33002	10	UNP	Kirinde Hewage Sudath Priyantha
+LK-33	LG-33003	0	FPF	Balamanage Samindi Oshaka Madushani
+LK-33	LG-33003	0	FPF	Gajahin Gamage Rasika Kumudunee
+LK-33	LG-33003	0	FPF	Gandara Patabendige Suranga
+LK-33	LG-33003	0	FPF	Hettiarachchige Saminda
+LK-33	LG-33003	0	FPF	Ishan Rashmika Dissanayaka
+LK-33	LG-33003	0	FPF	Kolambage Mahesha Maduwanthi
+LK-33	LG-33003	0	FPF	Liyanage Sriyani Malkanthi
+LK-33	LG-33003	0	FPF	Pallimulle Hewa Geeganage Geethika Sandamali
+LK-33	LG-33003	0	FPF	Shantha Thushara Samarasooriya
+LK-33	LG-33003	0	FPF	Thennakoon Mudiyanselage Kaumadi Nuwanthika
+LK-33	LG-33003	0	FPF	Weerathunga Arachchige Biyula Thushani
+LK-33	LG-33003	0	IG1	Dadallage Thakshala Priyadarshanee
+LK-33	LG-33003	0	IG1	Dinith Pramod Dissanayaka
+LK-33	LG-33003	0	IG1	Disna Damayanthi Ranasingha Kodithuwakku
+LK-33	LG-33003	0	IG1	Gamage Chandrani
+LK-33	LG-33003	0	IG1	Kadapodi Kankanamge Kamal Indika Kumara
+LK-33	LG-33003	0	IG1	Magamage Ramees Tharaka
+LK-33	LG-33003	0	IG1	Malavi Arachchige Damayanthi Asoka
+LK-33	LG-33003	0	IG1	Nammuni Arachchi Hewa Welhenage Sugath Ruwan Kumara
+LK-33	LG-33003	0	IG1	Thalpawela Vidana Kankanamge Arjuna Prasad
+LK-33	LG-33003	0	IG1	Thilakachcharige Isuru Sanjaya
+LK-33	LG-33003	0	IG1	Walpolage Samanthika Kumudunee
+LK-33	LG-33003	0	JJB	Baladurage Nipuna Gayashan
+LK-33	LG-33003	0	JJB	Deesa Weerakkodi Sureka Priyadarshanee
+LK-33	LG-33003	0	JJB	Gode Vithanage Nadeeka Priyadarshanee
+LK-33	LG-33003	0	JJB	Gonapolage Pemasiri
+LK-33	LG-33003	0	JJB	Kanuketiya Gamage Thamila Dilrukshi
+LK-33	LG-33003	0	JJB	Kodithuwakkuge Rathna
+LK-33	LG-33003	0	JJB	Kristhombu Baduge Disna Shyamalee
+LK-33	LG-33003	0	JJB	Muhammath Lahirin Mohomad Asar
+LK-33	LG-33003	0	JJB	Rathnayaka Weerakoon Sirisena
+LK-33	LG-33003	0	JJB	Samasundara Hettihewage Sudath
+LK-33	LG-33003	0	JJB	Weerasingha Mudiyanselage Yamuna Nayana Chandrika
+LK-33	LG-33003	0	JSP	Dilan Lakmal
+LK-33	LG-33003	0	JSP	Greshan Fernando
+LK-33	LG-33003	0	JSP	Hettiarachchige Karunawathee
+LK-33	LG-33003	0	JSP	Iyan Nimnaka Edirisingha
+LK-33	LG-33003	0	JSP	Loku Yaddehige Manoji Lakmali
+LK-33	LG-33003	0	JSP	Lokugamhewage Udeshika Wasana
+LK-33	LG-33003	0	JSP	M.A.Kanthi
+LK-33	LG-33003	0	JSP	M.K.Gunawathee
+LK-33	LG-33003	0	JSP	Pethum Chithana
+LK-33	LG-33003	0	JSP	R.M.Namal Sanjaya
+LK-33	LG-33003	0	JSP	Sumana Ranjanee
+LK-33	LG-33003	0	SJB	Abeydeera Sooriyapatabendige Rasika Sudarshana
+LK-33	LG-33003	0	SJB	Abeyweera Arachchige Deepika
+LK-33	LG-33003	0	SJB	Alupotha Gamage Pema Latha
+LK-33	LG-33003	0	SJB	Amadoru Galappaththige Sampath
+LK-33	LG-33003	0	SJB	Gandara Patabendige Rathnapala
+LK-33	LG-33003	0	SJB	Jasin Arachchige Thanuja Dilani
+LK-33	LG-33003	0	SJB	Juvana Hennadige Saththyadasa Jayantha
+LK-33	LG-33003	0	SJB	Kadigamuwage Sanjeewanee
+LK-33	LG-33003	0	SJB	Kirama Egodage Renuka
+LK-33	LG-33003	0	SJB	Munasingha Arachchilage Ruwan Priyantha Munasingha
+LK-33	LG-33003	0	SJB	Renda Patabendige Priya Kusum Susantha
+LK-33	LG-33003	0	SLPP	Godagama Arachchige Indralatha
+LK-33	LG-33003	0	SLPP	Jayasooriya Arukattu Patabendige Sumudu Priyantha
+LK-33	LG-33003	0	SLPP	Kapu Gamage Suraj Dilshan
+LK-33	LG-33003	0	SLPP	Kasthuri Arachchige Chammi
+LK-33	LG-33003	0	SLPP	Munasingha Samaranayaka Sureka Nilmini
+LK-33	LG-33003	0	SLPP	Parana Liyana Chali Gunarathna
+LK-33	LG-33003	0	SLPP	Samarasingha Arachchige Premathunga
+LK-33	LG-33003	0	SLPP	Sunila Kanthi Abayakoon
+LK-33	LG-33003	0	SLPP	Thalpawila Vidana Kankanamge Sanjeewanee
+LK-33	LG-33003	0	SLPP	Vidana Gamage Chandradasa
+LK-33	LG-33003	0	SLPP	Vinoda Hewage Duminda Prasad
+LK-33	LG-33003	0	UNP	Ahangama Vidanage Kalindi
+LK-33	LG-33003	0	UNP	Chinthaka Mahesh Gunawardana
+LK-33	LG-33003	0	UNP	Ellewela Pahalage Hashini Madushani
+LK-33	LG-33003	0	UNP	Godagama Sahababduge Shehani Shyavindi
+LK-33	LG-33003	0	UNP	Kahakachchi Patabendige Pasangi Charuka
+LK-33	LG-33003	0	UNP	Kalamulla Arachchige Kularathna
+LK-33	LG-33003	0	UNP	Kiralawella Palliyaguruge Sirisena
+LK-33	LG-33003	0	UNP	Nambukara Thanthirige Piyasena
+LK-33	LG-33003	0	UNP	Renage Raween Dilusha
+LK-33	LG-33003	0	UNP	Rinoosha Lakmali Jayawarna
+LK-33	LG-33003	0	UNP	Sanath Edurisooriya
+LK-33	LG-33003	1	FPF	Geegana Gamage Udana Deshapriya
+LK-33	LG-33003	1	IG1	Hewa Lokulunuvilage Virendra Viraj
+LK-33	LG-33003	1	JJB	Jayasiri Alahapperuma
+LK-33	LG-33003	1	JSP	A . Chandima
+LK-33	LG-33003	1	SJB	Getamanna Hengala Gamage Neeta
+LK-33	LG-33003	1	SLPP	Vitharana Gamage Upul
+LK-33	LG-33003	1	UNP	Abeykoon Jalath Sanjeewa Shameera
+LK-33	LG-33003	2	FPF	Jayawardana Pathiranage Pradeep Suranga
+LK-33	LG-33003	2	IG1	Ihala Pathiranage Lasantha Kumara
+LK-33	LG-33003	2	JJB	Munasingha Arachchige Ariyasena
+LK-33	LG-33003	2	JSP	M.G.Randika Madushani
+LK-33	LG-33003	2	SJB	Andrahennadige Anil Thushara Indrajith
+LK-33	LG-33003	2	SLPP	Chathumini Dilshani Wijenayaka
+LK-33	LG-33003	2	UNP	Wellambage Suseema Perera
+LK-33	LG-33003	3	FPF	Dulanjalee Maduwanthi Andarage
+LK-33	LG-33003	3	IG1	Hewa Kankanamge Pemadasa
+LK-33	LG-33003	3	JJB	Lankageeganage Saminda
+LK-33	LG-33003	3	JSP	Roshan Kumara
+LK-33	LG-33003	3	SJB	Kodithuwakku Arachchige Duminda Jagath Kumara
+LK-33	LG-33003	3	SLPP	Kankanam Hettige Viraj Pethum Chathuranga
+LK-33	LG-33003	3	UNP	Don Wimalaranga Weerasooriya
+LK-33	LG-33003	4	FPF	Shaminda Ishara Samarasooriya
+LK-33	LG-33003	4	IG1	Thalpe Liyanage Pushpa Kumara
+LK-33	LG-33003	4	JJB	Loku Hennedige Kumudu Sujeewa Priyantha
+LK-33	LG-33003	4	JSP	Loku Ganhewage Upali
+LK-33	LG-33003	4	SJB	Kaluhennadige Gaminee
+LK-33	LG-33003	4	SLPP	Bishmi Harindi Rajapaksha
+LK-33	LG-33003	4	UNP	Parana Gamage Mahinda
+LK-33	LG-33003	5	FPF	Katapoluge Chaminda Jayalal
+LK-33	LG-33003	5	IG1	Wijesekara Pathiranage Gaminee
+LK-33	LG-33003	5	JJB	Puhulwella Maha Pathiranage Anura Priyantha
+LK-33	LG-33003	5	JSP	Gayani Tharika
+LK-33	LG-33003	5	SJB	Chaminda Dias Wannige
+LK-33	LG-33003	5	SLPP	Noopehewage Imesh Kaushan Jayasena
+LK-33	LG-33003	5	UNP	Jayasinghamana Arachchige Ajith
+LK-33	LG-33003	6	FPF	Agampodi Ruwan Chandrajith De Soysa
+LK-33	LG-33003	6	IG1	Siri Baddana Chandrani
+LK-33	LG-33003	6	JJB	Rubasinge Rajith Priyadarshana
+LK-33	LG-33003	6	JSP	Kadukannage Laksiri
+LK-33	LG-33003	6	SJB	Pallaththarage Chandrasena
+LK-33	LG-33003	6	SLPP	Rathnayaka Mudiyanselage Ishanka Dilruk
+LK-33	LG-33003	6	UNP	Pallik Kondage Renuka
+LK-33	LG-33003	7	FPF	Amaraweera Pathiranage Tharindu Amaraweera
+LK-33	LG-33003	7	IG1	Kyiru Mohammad Pawus
+LK-33	LG-33003	7	JJB	Jayaweera Baduge Darmadasa
+LK-33	LG-33003	7	JSP	G.Piyananda Thero
+LK-33	LG-33003	7	SJB	Mohammad Lahirin Mohammad Haneefa
+LK-33	LG-33003	7	SLPP	Galappaththi Kankanamge Mahesh Sameera
+LK-33	LG-33003	7	UNP	Mohamad Jawurdeen Shapran Jawurdeen
+LK-33	LG-33003	8	FPF	Hewa Edirappuli Gayan Dinusha
+LK-33	LG-33003	8	IG1	Samantha Amarasingha
+LK-33	LG-33003	8	JJB	Bedde Kamkanamge Niluka Kumudunee
+LK-33	LG-33003	8	JSP	H.W.Anurudda
+LK-33	LG-33003	8	SJB	Mahamarakkalage Manjula Nirmalee
+LK-33	LG-33003	8	SLPP	Rathnayaka Korale Mudalige Rohitha
+LK-33	LG-33003	8	UNP	Koku Hennadige Shanika
+LK-33	LG-33003	9	FPF	Hewa Wellalage Kalindu Nilukshan
+LK-33	LG-33003	9	IG1	Parana Hewage Priyanthi Sureka
+LK-33	LG-33003	9	JJB	Weerasin Pathiranage Priyanka Shyamalee
+LK-33	LG-33003	9	JSP	Sayakkarage Chamari Thirushika
+LK-33	LG-33003	9	SJB	Vitharana Gamage Suraj Priyashan
+LK-33	LG-33003	9	SLPP	Palatu Kamkanamge Ariyasena
+LK-33	LG-33003	9	UNP	Liyana Arachchige Sunil Piyankara
+LK-33	LG-33003	10	FPF	Vidana Pathiranage Sujeewa Nilmini
+LK-33	LG-33003	10	IG1	Dammika Nishantha Kodithuwakku
+LK-33	LG-33003	10	JJB	Hewa Lokuge Pemasiri
+LK-33	LG-33003	10	JSP	Suramya Weerasigha
+LK-33	LG-33003	10	SJB	Ruwanpathiranage Jayarathna
+LK-33	LG-33003	10	SLPP	Hewa Thondilage Chinthaka Sandakelum
+LK-33	LG-33003	10	UNP	Dewundara Wasinge Sumith Priyadarshana
+LK-33	LG-33003	11	FPF	Dilum Tharuka Hemal Hewavitharana
+LK-33	LG-33003	11	IG1	Palapotha Sayakkarage Tharaka Praneeth Madushan
+LK-33	LG-33003	11	JJB	Dikkumburage Kamal Thusara
+LK-33	LG-33003	11	JSP	Hewa Wedage Thilakarathna
+LK-33	LG-33003	11	SJB	Godella Waththa Arachchige Priyantha Sisira Kumara
+LK-33	LG-33003	11	SLPP	Sujith Nishantha Sayakkara
+LK-33	LG-33003	11	UNP	Ahangama Vidanage Nanda
+LK-33	LG-33003	12	FPF	Kodikarage Ruwan Lakmal
+LK-33	LG-33003	12	IG1	Asanka Deshapriya Kodithuwakku Arachchi
+LK-33	LG-33003	12	JJB	Hewa Lokuge Jayasiri
+LK-33	LG-33003	12	JSP	Ishan Thilina Prasad
+LK-33	LG-33003	12	SJB	Suramya Weerasingha
+LK-33	LG-33003	12	SLPP	Nambukara Gamage Sarath
+LK-33	LG-33003	12	UNP	Asurappuli Gamage Priyanka Moohanlal
+LK-33	LG-33003	13	FPF	Indika Samantha Jathunga Dahanayaka
+LK-33	LG-33003	13	IG1	Nammunni Arachchi Hewa Welhenage Wijethunga
+LK-33	LG-33003	13	JJB	Senanayakage Dayasena
+LK-33	LG-33003	13	JSP	Thilan Rukmal
+LK-33	LG-33003	13	SJB	Liyana Patabendige Prema Rohana
+LK-33	LG-33003	13	SLPP	Yakalle Kankanamge Wasantha Priyadarshana
+LK-33	LG-33003	13	UNP	Peskuwalge Don Sanjaya
+LK-33	LG-33004	0	FPF	Akurugoda Gamage Manori Muthumali
+LK-33	LG-33004	0	FPF	Hewa Usarambage Naveen Chandima
+LK-33	LG-33004	0	FPF	Indiketiya Hewage Dilini Sudarshika
+LK-33	LG-33004	0	FPF	Janaki Thamara Kumudini Gajaweera
+LK-33	LG-33004	0	FPF	Manikkage Sisira Kumara
+LK-33	LG-33004	0	FPF	Puwakgaha Kumbure Gedara Nadeeka Prasanna
+LK-33	LG-33004	0	FPF	Rohan Lakmini Disanayaka
+LK-33	LG-33004	0	FPF	Weerawarna Pattiyakumburage Sudeshika Madhushani
+LK-33	LG-33004	0	FSP	Aluthpata Bendige Dhanushka Dilhani
+LK-33	LG-33004	0	FSP	Hewapathiranage Prageetha Udeshika
+LK-33	LG-33004	0	FSP	Kulappu Gamage Somawathi
+LK-33	LG-33004	0	FSP	Mahanthonige Ranjani
+LK-33	LG-33004	0	FSP	Majuwana Kankanamge Wayani Nisansala
+LK-33	LG-33004	0	FSP	Mallika Arachchige Gunasiri
+LK-33	LG-33004	0	FSP	Munasinghe Arachchige Dhammika
+LK-33	LG-33004	0	FSP	Thelikorale Arachchige Subhath Nalinda Kumara
+LK-33	LG-33004	0	IG1	Denagama Siththarachcharige Shiromi
+LK-33	LG-33004	0	IG1	Ediriweera Patabendige Randika Kumara
+LK-33	LG-33004	0	IG1	Hakmana Kodithuwakku Ge Nimada Wathsaranee
+LK-33	LG-33004	0	IG1	Hetti Arachchige Lasantha Choolawansa
+LK-33	LG-33004	0	IG1	Hewa Hakuru Ge Chandrika Madumali
+LK-33	LG-33004	0	IG1	Hewa Wellalage Kithsiri Hemantha Kumara
+LK-33	LG-33004	0	IG1	Hewa Witharana Gamage Janaka Wasantha Kumara
+LK-33	LG-33004	0	IG1	Jayasekara Arachchige Dhaneesha Sewwandi
+LK-33	LG-33004	0	JJB	Asurappuli Gamage Yamuna
+LK-33	LG-33004	0	JJB	Jayasekara Galagamage Ajith Wasantha
+LK-33	LG-33004	0	JJB	Jayawardhana Saliya
+LK-33	LG-33004	0	JJB	Medagama Gamage Dusmantha
+LK-33	LG-33004	0	JJB	Palli Mulla Hewa Geeganage Piyaseeli Werathunga
+LK-33	LG-33004	0	JJB	Ranasin Kodithuwakku Gaminee
+LK-33	LG-33004	0	JJB	Ridiyagama Sabhapathi Ranhoti Gamage Anoma Ramya Kumari
+LK-33	LG-33004	0	JJB	Senewirathna Gajaheen Gamage Nilma Darshanee
+LK-33	LG-33004	0	JSP	Dandeni Arachchige Thusitha Udayanga
+LK-33	LG-33004	0	JSP	Hewa Walimunige Priyangika Lakmali
+LK-33	LG-33004	0	JSP	Kodithuwakku Arachchige Dulanji Prabuddhika
+LK-33	LG-33004	0	JSP	Kooragamage Imalka Sanjeewani
+LK-33	LG-33004	0	JSP	Meepage Indunil Pushpa Kumara
+LK-33	LG-33004	0	JSP	Nisansala Kumari
+LK-33	LG-33004	0	JSP	Weerasekara Kankanam Arachchige Priyanthi
+LK-33	LG-33004	0	JSP	Wijesinghe Arachchige Vipula
+LK-33	LG-33004	0	SJB	Asurappuli Gamage Niluka Dishani
+LK-33	LG-33004	0	SJB	Jayasinghe Arachchige Sarath Gamini
+LK-33	LG-33004	0	SJB	Kalas Gamage Niroshani Priyangika
+LK-33	LG-33004	0	SJB	Ridigama Gamage Sepala
+LK-33	LG-33004	0	SJB	Sabhapathi Ranhoti Gamage Ranga Ranhoti
+LK-33	LG-33004	0	SJB	Salahudin Siththi Marsuna
+LK-33	LG-33004	0	SJB	Sayakkarage Kumuduni
+LK-33	LG-33004	0	SJB	Weraduwa Waduge Sunil Santha
+LK-33	LG-33004	0	SLPP	Gammeddage Inoka Sandamali
+LK-33	LG-33004	0	SLPP	Hewa Kandage Ajantha
+LK-33	LG-33004	0	SLPP	Jalath Ranasingha Disanayaka Siripala
+LK-33	LG-33004	0	SLPP	Karuna Pejjalage Himali Nadeera Nishanthi Karunarathna
+LK-33	LG-33004	0	SLPP	Kodithuwakku Kankanamge Sandya
+LK-33	LG-33004	0	SLPP	Rathnappuli Gamage Poojitha Buddhapriya
+LK-33	LG-33004	0	SLPP	Saleeradeera Kankanamge Nadeesha Madhushani
+LK-33	LG-33004	0	SLPP	Weerasingha Pathirathna Nuwan
+LK-33	LG-33004	0	UNP	Balapitiyage Chamila
+LK-33	LG-33004	0	UNP	Denagama Witharanage Ariyasena
+LK-33	LG-33004	0	UNP	Idirisinghe Mudiyanselage Deepika Virajani Idirisinghe
+LK-33	LG-33004	0	UNP	Nammuni Arachchige Dinesha Anuradhi
+LK-33	LG-33004	0	UNP	Pallemalachchige Gunadasa
+LK-33	LG-33004	0	UNP	Wasantha Abeygunawardhana
+LK-33	LG-33004	0	UNP	Weerawila Gamage Trasila Roshanee Kumudu Kumari
+LK-33	LG-33004	0	UNP	Wejeweera Patabendinge Ranmal Kumara
+LK-33	LG-33004	1	FPF	Kotambe Wijesinghe Jagath
+LK-33	LG-33004	1	FSP	Samarawickramage Siril Samarawickrama
+LK-33	LG-33004	1	IG1	Jayarathna Gamage Lalitha
+LK-33	LG-33004	1	JJB	Sooriya Mudiyanselage Laksiri Pradeep
+LK-33	LG-33004	1	JSP	Weerasinghe Basnayaka Gunarathna
+LK-33	LG-33004	1	SJB	Hewa Mayinaththuge Wajira
+LK-33	LG-33004	1	SLPP	Hewa Suduhakuruge Pradeep Nishantha
+LK-33	LG-33004	1	UNP	Chandrasoma Weerarathna
+LK-33	LG-33004	2	FPF	Mahanaman Geegana Gamage Thanoj Kavinda
+LK-33	LG-33004	2	FSP	Geegana Kankanamge Ranjith Somaweera
+LK-33	LG-33004	2	IG1	Wengappulli Arachchige Pathmasiri
+LK-33	LG-33004	2	JJB	Hewa Wathudurage Wimalathissa
+LK-33	LG-33004	2	JSP	Dadallage Kelum Priyadarshana
+LK-33	LG-33004	2	SJB	Hasani Imalka Madusanee Rathnaweera
+LK-33	LG-33004	2	SLPP	Diyogu Hennadi Chandrani Gunawardhana
+LK-33	LG-33004	2	UNP	Roshani Hettiarachchi
+LK-33	LG-33004	3	FPF	Paranamanage Rathnapala
+LK-33	LG-33004	3	FSP	Mahanama Lokuarachchige Kasun Buddika
+LK-33	LG-33004	3	IG1	Weerappuli Gamage Chinthaka Pradeep
+LK-33	LG-33004	3	JJB	Munasinghe Arachchige Chandradasa Munasinghe
+LK-33	LG-33004	3	JSP	Hathagala Patabendige Ravindu Madusanka
+LK-33	LG-33004	3	SJB	Tenuwara Hennedige Priyantha
+LK-33	LG-33004	3	SLPP	Wijesooriya Arachchige Nalinda
+LK-33	LG-33004	3	UNP	Jalath Munasinghe Dharmasiri
+LK-33	LG-33004	4	FPF	Kahingalagei Pathmika Ranjanee
+LK-33	LG-33004	4	FSP	Wijenayaka Korale Kankanamge Pasindu Nimsara
+LK-33	LG-33004	4	IG1	Dewundara Paththinige Ruwan Sagara
+LK-33	LG-33004	4	JJB	Rajapaksha Gunasekara Ajith
+LK-33	LG-33004	4	JSP	Piyumi Priyangani
+LK-33	LG-33004	4	SJB	Gunasekara Susil
+LK-33	LG-33004	4	SLPP	Hewagama Nihal Chandana
+LK-33	LG-33004	4	UNP	Gamini Weerasinghe
+LK-33	LG-33004	5	FPF	Buddhiyagama Rajapaksha Priyantha Rajapaksha
+LK-33	LG-33004	5	FSP	Malagoda Gamage Kusumseeli
+LK-33	LG-33004	5	IG1	Senewirathna Ranhoti Gamage Chamil Prasanga
+LK-33	LG-33004	5	JJB	Kulappuwa Wadu Sumith Kumara
+LK-33	LG-33004	5	JSP	Senaka Mahesh Kushman
+LK-33	LG-33004	5	SJB	Punchi Patabendige Manjula Prasad
+LK-33	LG-33004	5	SLPP	Sayakkarage Upul Sanjaya
+LK-33	LG-33004	5	UNP	Bogaha Pitiya Gamage Inoka
+LK-33	LG-33004	6	FPF	Loku Withanapathirannehelage Piyumali Sarani Pathirana
+LK-33	LG-33004	6	FSP	Mohottige Chaminda Pushpa Kumara
+LK-33	LG-33004	6	IG1	Amarasinghe Arachchige Chandaka Saman Priyantha
+LK-33	LG-33004	6	JJB	Heelle Pathiranage Sriyani
+LK-33	LG-33004	6	JSP	Kodithuwakkuge Susantha Kumara
+LK-33	LG-33004	6	SJB	Jayasooriya Baduge Siril Eliance Siril Jayasooriya
+LK-33	LG-33004	6	SLPP	Senarath Vidana Pathirana Janith Chameera Samaranayaka
+LK-33	LG-33004	6	UNP	Anura Kumara Gajanayaka
+LK-33	LG-33004	7	FPF	Weerappuli Gamage Ranjith Priyantha
+LK-33	LG-33004	7	FSP	Majuwana Kankanamge Chaminda Sagara Buddhika
+LK-33	LG-33004	7	IG1	Dewa Bandanage Nilantha Kumara Ranasinghe
+LK-33	LG-33004	7	JJB	Ranjith Marasinghe
+LK-33	LG-33004	7	JSP	Kodithuwakku Arachchige Nandana Wijesinghe
+LK-33	LG-33004	7	SJB	Udamaala Wijerathna Gamage Prasad Wijerathna Eliance Prasad Wijerathna
+LK-33	LG-33004	7	SLPP	Gamini Samara Gunarathna
+LK-33	LG-33004	7	UNP	Weerappuli Gamage Bandulasena
+LK-33	LG-33004	8	FPF	Hewa Usarambage Rasika Chamara
+LK-33	LG-33004	8	FSP	Ubeysinghe Arachchige Nimna Shehan Kalpana
+LK-33	LG-33004	8	IG1	Kapugama Geeganage Vimukthi Madhusanka Dehigaslanda
+LK-33	LG-33004	8	JJB	Hewa Edirappullige Yasarathna
+LK-33	LG-33004	8	JSP	Kodithuwakku Arachchige Nelsan
+LK-33	LG-33004	8	SJB	Singha Arachchige Nandasena
+LK-33	LG-33004	8	SLPP	Kalu Hennadige Umalshi Isunika
+LK-33	LG-33004	8	UNP	Samararathna Arachchige Nihal Santha
+LK-33	LG-33005	0	IG1	Badanage Kanthi
+LK-33	LG-33005	0	IG1	Galetumba Disanayakage Tasani Pravida Nelanji
+LK-33	LG-33005	0	IG1	Gamwasam Gamage Sunethra Malanee
+LK-33	LG-33005	0	IG1	Gawasinghage Priyantha
+LK-33	LG-33005	0	IG1	Hewa Walasmullage Indika Prasansiri
+LK-33	LG-33005	0	IG1	Jayasinghe Arachchige Chamindu Chiranga Senewirathna Jayasinghe
+LK-33	LG-33005	0	IG1	Panadura Kankanamge Madhuka Chandima Priyadarshani
+LK-33	LG-33005	0	IG1	Samindi Hirunika Jayasooriya
+LK-33	LG-33005	0	IG1	Sunil Gunawardhana
+LK-33	LG-33005	0	IG1	Wickramage Don Upul Kumara
+LK-33	LG-33005	0	IG1	Widanagamage Dimuthu Chathuranga
+LK-33	LG-33005	0	JJB	Abeysinghe Pathiranage Chandra
+LK-33	LG-33005	0	JJB	Beragama Gamage Prithika
+LK-33	LG-33005	0	JJB	Fathima Shihara Wafa
+LK-33	LG-33005	0	JJB	Herath Mudiyanselage Asiri Indika Herath
+LK-33	LG-33005	0	JJB	Mohamad Nibras Sarook
+LK-33	LG-33005	0	JJB	Mohamad Suhail Raseen
+LK-33	LG-33005	0	JJB	Samaraweera Siriwardhana Don Mahinda
+LK-33	LG-33005	0	JJB	Siththi Sapaya Sayipideen
+LK-33	LG-33005	0	JJB	Sunil Chandrasiri Gamanayaka
+LK-33	LG-33005	0	JJB	Swarna Ediriweera Jayawarna
+LK-33	LG-33005	0	JJB	Withanage Manjula Kumara
+LK-33	LG-33005	0	SJB	Dadallage Dulip Kumara
+LK-33	LG-33005	0	SJB	Edirinada Shilpachcharige Samanthi Kumari
+LK-33	LG-33005	0	SJB	Gnei Sareena Sahid
+LK-33	LG-33005	0	SJB	Goluwa Marakkalage Rohan Maduranga
+LK-33	LG-33005	0	SJB	Hangamuwa Nekathige Indrani
+LK-33	LG-33005	0	SJB	Jayalath Munasinghe Chandani Disna Kumari
+LK-33	LG-33005	0	SJB	Mohamad Maharuf Mohamad Fazil
+LK-33	LG-33005	0	SJB	Seyyadu Mubarak Kudsi Omar
+LK-33	LG-33005	0	SJB	Siyabudin Asmudeen
+LK-33	LG-33005	0	SJB	Thalpawila Vidana Kankanamge Vijitha
+LK-33	LG-33005	0	SJB	Thasim Mohomad Nizar
+LK-33	LG-33005	0	SLPP	Hetti Kankanamge Don Thilini Wasana
+LK-33	LG-33005	0	SLPP	Hidellana Jayasinghe Mudiyanselage Nihal Gunasekara
+LK-33	LG-33005	0	SLPP	Jayasekara Dasith Nimodya
+LK-33	LG-33005	0	SLPP	Kodikarage Sumithra
+LK-33	LG-33005	0	SLPP	Mohomad Munaseel Sheik Mujibar Cheka
+LK-33	LG-33005	0	SLPP	Samarawickrama Jayawardhana Liyanaarachchige Viraj Madusanka
+LK-33	LG-33005	0	SLPP	Sheik Mujibar Sheik Mufas
+LK-33	LG-33005	0	SLPP	Thilini Shashikala Sudusinghe
+LK-33	LG-33005	0	SLPP	Wickramasinghage Nirosha Sanjeewani
+LK-33	LG-33005	0	SLPP	Wisinthu Baduge Chithra Renuka
+LK-33	LG-33005	0	SLPP	Witharana Pathiranage Girty
+LK-33	LG-33005	0	UNP	Gintota Widane Arachchige Shyamalee
+LK-33	LG-33005	0	UNP	Meegompatti Gedara Dammika Rupasinghe
+LK-33	LG-33005	0	UNP	Mohamad Najimudeen Mohamad Faizal
+LK-33	LG-33005	0	UNP	Mohomad Razik Sitthi Rinosa
+LK-33	LG-33005	0	UNP	Mohomad Shyamdeen Muhammadhu Lafir
+LK-33	LG-33005	0	UNP	Rathnaweera Patabendige Ranjith Gamini Rathnaweera
+LK-33	LG-33005	0	UNP	Rizwan Sohan Saley
+LK-33	LG-33005	0	UNP	Seiyyadu Ali Haidar Moulana
+LK-33	LG-33005	0	UNP	Sitthi Shareena Salahudeen
+LK-33	LG-33005	0	UNP	Thuwan Mohamad Fareed Ameed
+LK-33	LG-33005	0	UNP	Walimunige Sama Priyani Wijesinghe
+LK-33	LG-33005	1	IG1	Wedage Sampath Sirinanda
+LK-33	LG-33005	1	JJB	Uyangodage Siripala
+LK-33	LG-33005	1	SJB	Niluka Gallage
+LK-33	LG-33005	1	SLPP	Pallegangoda Wahumpurage Priyantha Kumarathunga
+LK-33	LG-33005	1	UNP	Hewa Heenipellage Rathnasiri
+LK-33	LG-33005	2	IG1	Samarasinghe Pathiranage Pushpa Kumara
+LK-33	LG-33005	2	JJB	Kirimamuni Dasa
+LK-33	LG-33005	2	SJB	Srimathi Muthukumarana
+LK-33	LG-33005	2	SLPP	Jasenthu Kankanamge Buddhapriya Shantha Kumara
+LK-33	LG-33005	2	UNP	Akmeemana Hetti Arachchige Chamith Chathurya
+LK-33	LG-33005	3	IG1	Krishantha Gajaweera
+LK-33	LG-33005	3	JJB	Kansawage Lasantha Chandimal
+LK-33	LG-33005	3	SJB	Parana Palliya Guruge Pradeep Suranga
+LK-33	LG-33005	3	SLPP	Walimunige Ajantha Rohana
+LK-33	LG-33005	3	UNP	Lokumarakkalage Chandralal Jayasiri
+LK-33	LG-33005	4	IG1	Mohamad Riyas Mohamad Rahamathulla
+LK-33	LG-33005	4	JJB	Sakariya Mohomad Rismi
+LK-33	LG-33005	4	SJB	Mohomad Husen Mohomad Risan
+LK-33	LG-33005	4	SLPP	Mohomed Thawfik Sirajudeen
+LK-33	LG-33005	4	UNP	Mohomad Fareed
+LK-33	LG-33005	5	IG1	Imeka Sewwandi Kumari Thail
+LK-33	LG-33005	5	IG1	Mohomad Buhari Mohamad
+LK-33	LG-33005	5	JJB	Hewa Wedage Neel Roshan Kumara
+LK-33	LG-33005	5	JJB	Mohamad Munaf Mohamad Shihan
+LK-33	LG-33005	5	SJB	Dilruk Chathuranga Punchihewa
+LK-33	LG-33005	5	SJB	Mohomad Sharifdeen Faris
+LK-33	LG-33005	5	SLPP	Kiridena Mohottige Ajith Prasanna
+LK-33	LG-33005	5	SLPP	Mohomad Alawi Malhar
+LK-33	LG-33005	5	UNP	Mohomad Mohamad Fasmi
+LK-33	LG-33005	5	UNP	Munasinghe Liyana Arachchige Nisanka Nilushi
+LK-33	LG-33005	6	IG1	Kadar Mohomad Rapeek Mohomad Jinan Amaan
+LK-33	LG-33005	6	IG1	Suwada Hennadige Samanthi Chanika
+LK-33	LG-33005	6	JJB	Athapaththu Disanayake Sumanaseeli
+LK-33	LG-33005	6	JJB	Seyyadu Faris Mawlana
+LK-33	LG-33005	6	SJB	Mohomad Nisamudeen Mohomad Nizar
+LK-33	LG-33005	6	SJB	Safiyudeen Mohamad Risham
+LK-33	LG-33005	6	SLPP	Basnayaka Mudiyanselage Piyantha Bandara
+LK-33	LG-33005	6	SLPP	Mohomad Thawusad Rauf
+LK-33	LG-33005	6	UNP	Baba Shamri Hareem
+LK-33	LG-33005	6	UNP	Mohamad Asis Jaleel
+LK-33	LG-33005	7	IG1	Eraj Ravindra Fernando
+LK-33	LG-33005	7	JJB	Naorunnage Kusumsiri
+LK-33	LG-33005	7	SJB	Krishnagirige Ranjith Kumarasiri
+LK-33	LG-33005	7	SLPP	Denagama Dissanayakage Ranjith Susantha
+LK-33	LG-33005	7	UNP	Wijayasiri Kankanamdurage Wimalasiri
+LK-33	LG-33005	8	IG1	Kamburugamuwa Gamarachchige Gamini Sri Ananda
+LK-33	LG-33005	8	JJB	Samararathna Benadiklage Chamidu Eranga
+LK-33	LG-33005	8	SJB	Dahathun Arachchige Gamini
+LK-33	LG-33005	8	SLPP	Gajanayaka Mudalige Roy Rohitha
+LK-33	LG-33005	8	UNP	Kamburugamuwa Gamacharige Harinda Lakmal
+LK-33	LG-33005	9	IG1	Hewa Kankanamge Ruwan Prasanna
+LK-33	LG-33005	9	JJB	Kolamba Bhandagarikage Dona Mangalika
+LK-33	LG-33005	9	SJB	Sayakkara Aruna Shantha
+LK-33	LG-33005	9	SLPP	Wanniarachchi Kankanamge Priyantha Lalith Kumara
+LK-33	LG-33005	9	UNP	Haseem Mohomad Rahath
+LK-33	LG-33005	10	IG1	Mahagamage Anil Manjula
+LK-33	LG-33005	10	IG1	Salahudeen Mohamad Nilamudeen
+LK-33	LG-33005	10	JJB	Ebidigala Arachchilage Roshan Madhuwntha
+LK-33	LG-33005	10	JJB	Nazoor Shiyabudeen Thuwan Rashik
+LK-33	LG-33005	10	SJB	Kamlin Mohammath Samsudeen
+LK-33	LG-33005	10	SJB	Mohomad Issadeen Mohomad Junaidin
+LK-33	LG-33005	10	SLPP	Denagama Witharanage Anula Sriyani
+LK-33	LG-33005	10	SLPP	Mohomad Malhaar Abdur Rahumaan
+LK-33	LG-33005	10	UNP	Gnei Milani Harim
+LK-33	LG-33005	10	UNP	Wajira Manel Rathnaweera Patabendige
+LK-33	LG-33006	0	DEJP	Cheththasinghe Arachchige Siriyawathi
+LK-33	LG-33006	0	DEJP	Garusin Arachchige Saman
+LK-33	LG-33006	0	DEJP	Guniyangodage Asoka
+LK-33	LG-33006	0	DEJP	Kaludurage Gayani Mindula
+LK-33	LG-33006	0	DEJP	Kaludurage Wimalka Manoj
+LK-33	LG-33006	0	DEJP	Lokugamage Dushan Madhushanka
+LK-33	LG-33006	0	DEJP	Lokumunasinghege Dilini Pradeepa Kumari
+LK-33	LG-33006	0	DEJP	Malaweera Arachchige Chathurika Sewwandi
+LK-33	LG-33006	0	DEJP	Meemanage Rupawathi Perera
+LK-33	LG-33006	0	DEJP	Muhammadu Akbar Mohammed Asif
+LK-33	LG-33006	0	DEJP	Pathirana Arachchige Kelum Mahesh Madhushanka
+LK-33	LG-33006	0	DEJP	Ranasingha Mudiyanselage Wijesiri
+LK-33	LG-33006	0	DEJP	Subhasin Arachchige Harshani Kaushalya
+LK-33	LG-33006	0	DEJP	Thuppahige Dinani Sudarshima Sampath
+LK-33	LG-33006	0	DEJP	Wannigamage Kasun Sameera
+LK-33	LG-33006	0	FPF	Bebi Mahaththaya Rajapaksha
+LK-33	LG-33006	0	FPF	Dinesh Rathnayaka
+LK-33	LG-33006	0	FPF	Galhena Appuhamilage Nimansa Virunadi Kumarasingha
+LK-33	LG-33006	0	FPF	Galhene Appuhamilage Anura Kumarasingha
+LK-33	LG-33006	0	FPF	Mas Jaya Mas Mohammadu Jesil
+LK-33	LG-33006	0	FPF	Nilanthi Jayawardhana Amadoru
+LK-33	LG-33006	0	FPF	Palapotha Liyanage Dorin Elka
+LK-33	LG-33006	0	FPF	Pincha Hewage Isanka Roshalee
+LK-33	LG-33006	0	FPF	Rajapaksha Pathiranage Prasanna Sanjeewa Rajapaksha
+LK-33	LG-33006	0	FPF	Ruwan Pathiranage Susantha
+LK-33	LG-33006	0	FPF	Saman Edirisooriya
+LK-33	LG-33006	0	FPF	Sarath Jayasingha
+LK-33	LG-33006	0	FPF	Sri Warnasingha Paramadhige Nayana Gee Madhu
+LK-33	LG-33006	0	FPF	Wellana Hewage Nirosha
+LK-33	LG-33006	0	FPF	Wijesekara Pathiranage Anjalee Niwarthana
+LK-33	LG-33006	0	IG1	Anusha Samarasingha
+LK-33	LG-33006	0	IG1	Hewamayinaththuge Susantha
+LK-33	LG-33006	0	IG1	Jayasekara Liyana Patabedige Karunasena
+LK-33	LG-33006	0	IG1	Kadawedduwa Gamage Saman Kumara
+LK-33	LG-33006	0	IG1	Kankanam Pathiranage Anoma Priyadarshanee
+LK-33	LG-33006	0	IG1	Moratu Hewage Kelum Chandana
+LK-33	LG-33006	0	IG1	Nambukara Palliya Guruge Neel Jayarathna
+LK-33	LG-33006	0	IG1	Nandina Hewage Priyanga
+LK-33	LG-33006	0	IG1	Puwakdandawa Guruge Karunawathee
+LK-33	LG-33006	0	IG1	Rahubadde Kankanamge Tharaka Dheerasundara
+LK-33	LG-33006	0	IG1	Ranasingha Rathnayakage Niluka Lakmali
+LK-33	LG-33006	0	IG1	Sendiya Hakuru Rasika Priyadarshanee
+LK-33	LG-33006	0	IG1	Thalawita Gamage Chathura Madhushanka
+LK-33	LG-33006	0	IG1	Uduwila Arachchige Dayanee
+LK-33	LG-33006	0	IG1	Weerasooriya Arachchige Sampath Jayavilal
+LK-33	LG-33006	0	JJB	Ashoka Senanayaka
+LK-33	LG-33006	0	JJB	Athula Weladagoda Hewage
+LK-33	LG-33006	0	JJB	Denagama Mayinaththuge Ruwan Priyantha
+LK-33	LG-33006	0	JJB	Galappaththi Arachchige Nilmini Renuka
+LK-33	LG-33006	0	JJB	Heenipella Gamage Suranga Sanjeewa
+LK-33	LG-33006	0	JJB	Jayawardhana Kankanamge Senani
+LK-33	LG-33006	0	JJB	Jayawardhana Pathiranage Anil Priyantha
+LK-33	LG-33006	0	JJB	Karunawu Pedige Inosha Udeni Fernando
+LK-33	LG-33006	0	JJB	Meda Alawathu Kotuwegedara Thanuja Subhashini
+LK-33	LG-33006	0	JJB	Millawa Gamage Sudantha
+LK-33	LG-33006	0	JJB	Palle Malala Achchige Dayananda
+LK-33	LG-33006	0	JJB	Rathnayaka Galetambage Ravindra Chinthaka
+LK-33	LG-33006	0	JJB	Sheik Salim Sheik Nishar
+LK-33	LG-33006	0	JJB	Waduge Vineetha
+LK-33	LG-33006	0	JJB	Wahumpurage Samanthilatha
+LK-33	LG-33006	0	SJB	Bogahapitiya Gamage Lasanthi Anushka
+LK-33	LG-33006	0	SJB	Chaminda Pushpa Kumara Sudusingha
+LK-33	LG-33006	0	SJB	Diyagu Badathuruge Upul
+LK-33	LG-33006	0	SJB	Don Francisku Anoma
+LK-33	LG-33006	0	SJB	Hennadigamage Jeewan Kumara
+LK-33	LG-33006	0	SJB	Hewa Lunuwilage Hema Mala
+LK-33	LG-33006	0	SJB	Kunamge Chamindra Priyangani
+LK-33	LG-33006	0	SJB	Munasingha Arachchige Viran Maduwantha
+LK-33	LG-33006	0	SJB	Parana Gamage Sriyakanthi
+LK-33	LG-33006	0	SJB	Prabodha Madushani Jothimuni
+LK-33	LG-33006	0	SJB	Rathnayaka Weerakoon Vidana Gamage Saman Madhuranga
+LK-33	LG-33006	0	SJB	Sarath Hewagamage
+LK-33	LG-33006	0	SJB	Weerasin Pathirana Sathish Indunil
+LK-33	LG-33006	0	SJB	Wijenayaka Malavikankanamge Dilip Kumara
+LK-33	LG-33006	0	SJB	Yatiyana Vidana Arachchige Nishadi Kaushalya
+LK-33	LG-33006	0	SLPP	Abedeera Liyana Arachchige Asanka
+LK-33	LG-33006	0	SLPP	Barakath Alisa Dar Bar Ali
+LK-33	LG-33006	0	SLPP	Chandima Udani Gunawardana
+LK-33	LG-33006	0	SLPP	Desa Wijesekara Bandaranayaka Kasun Rohana
+LK-33	LG-33006	0	SLPP	Hewa Alankarage Indika Kumara
+LK-33	LG-33006	0	SLPP	Hewa Anthonige Priyantha Ranasingha
+LK-33	LG-33006	0	SLPP	Jayasooriya Patabedige Shanika Surangi
+LK-33	LG-33006	0	SLPP	Jayasundara Kankanam Pathiranage Surangani
+LK-33	LG-33006	0	SLPP	Jayawarna Arachchige Leel
+LK-33	LG-33006	0	SLPP	Lanka Nilmini Liyanapatabendi
+LK-33	LG-33006	0	SLPP	Malaweera Arachchilage Chamira Madhushan
+LK-33	LG-33006	0	SLPP	Meegasdeniya Kankanamge Nalaka Ruwan Kumara
+LK-33	LG-33006	0	SLPP	Patabendige Madhusha Rasangi
+LK-33	LG-33006	0	SLPP	Renuka Nadasesin Abedheera
+LK-33	LG-33006	0	SLPP	Senarath Rathnayaka Nandasena
+LK-33	LG-33006	0	UNP	Aluth Patabendige Rasika Kelum
+LK-33	LG-33006	0	UNP	Amarasingha Kankanamage Jayadasa
+LK-33	LG-33006	0	UNP	Dhapana Durage Piyasena
+LK-33	LG-33006	0	UNP	Edirisingha Arachchige Kasmila Madhushani
+LK-33	LG-33006	0	UNP	Geekiyanage Fernando Suvineetha Lalani
+LK-33	LG-33006	0	UNP	Hewa Arachchige Nilantha Dulan Perera
+LK-33	LG-33006	0	UNP	Kankanam Pathiranage Chamila Lakshmi Gunasekara
+LK-33	LG-33006	0	UNP	Kumarasingha Kankanam Gamage Dhammika
+LK-33	LG-33006	0	UNP	Loku Yaddehige Malani
+LK-33	LG-33006	0	UNP	Nalani Wickkramasekara
+LK-33	LG-33006	0	UNP	Rangoda Liyana Arachchige Upul Sanjaya Silva
+LK-33	LG-33006	0	UNP	Senarath Rathnayaka Wimalarathna
+LK-33	LG-33006	0	UNP	Sri Warnasingha Paramadige Wasantha
+LK-33	LG-33006	0	UNP	Thalahawita Gamage Mahesha Dilani
+LK-33	LG-33006	0	UNP	Thalpehewage Tekshi Pesala De Silva
+LK-33	LG-33006	1	DEJP	Manoj Vidanagama
+LK-33	LG-33006	1	FPF	Kodithuwakku Hashini Madhurangi
+LK-33	LG-33006	1	IG1	Hewaradage Somarathna
+LK-33	LG-33006	1	JJB	Jayawardana Pathiranage Asantha Madushan
+LK-33	LG-33006	1	SJB	Wanni Arachchige Ranjani
+LK-33	LG-33006	1	SLPP	Wawulan Bokka Gamage Thushan Buddhika
+LK-33	LG-33006	1	UNP	Ihala kodippilige Susantha Indika Kumara
+LK-33	LG-33006	2	DEJP	Jayasuriya Patabendige Sandaruwan
+LK-33	LG-33006	2	FPF	Niroshana Dilhan Iddamalgoda
+LK-33	LG-33006	2	IG1	Hewa Kandage Kamal Chandrarathna
+LK-33	LG-33006	2	JJB	Pilana Kankanamge Kumuduni
+LK-33	LG-33006	2	SJB	Yatiyana Vidana Arachchige Damith Thushantha
+LK-33	LG-33006	2	SLPP	Parana Liyanage Pemasiri
+LK-33	LG-33006	2	UNP	Hettiarachchige Nuwan Siriranga Prabath
+LK-33	LG-33006	3	DEJP	Gamhewage Srimal Chandana
+LK-33	LG-33006	3	FPF	Karunanayaka Subasinghage Asiri Vimukthi
+LK-33	LG-33006	3	IG1	Medagama Gamage Amaradasa
+LK-33	LG-33006	3	JJB	Lal Nishshanka Ubewarna
+LK-33	LG-33006	3	SJB	Gajahin Gamage Tharanga
+LK-33	LG-33006	3	SLPP	Jayantha Abeygunawardhana Samarasingha
+LK-33	LG-33006	3	UNP	Jayasekara Gajaheen Gamage Tharanga
+LK-33	LG-33006	4	DEJP	Jagoda Gamage Senani
+LK-33	LG-33006	4	FPF	Weerasin Pathiranage Rasika Grace Kumara
+LK-33	LG-33006	4	IG1	Pramadige Indika Nishantha
+LK-33	LG-33006	4	JJB	Lokuhewa Gamage Gunadasa
+LK-33	LG-33006	4	SJB	Thalpawila Vidana Kankanamge Manoj Samarasingha
+LK-33	LG-33006	4	SLPP	Jayawickrama Arachchige Dileep Senaka
+LK-33	LG-33006	4	UNP	Rathnayakage Piyasena
+LK-33	LG-33006	5	DEJP	Jayasuriya Patabendige Dinal Kavindya Sampath
+LK-33	LG-33006	5	FPF	Edirisooriya Kattadi Arachchige Krishan Dhanushka
+LK-33	LG-33006	5	IG1	Denagama Vitharanage Lionel
+LK-33	LG-33006	5	JJB	Lebunusingha Arachchi Patabendige Wijayadasa
+LK-33	LG-33006	5	SJB	Ediriweera Jayasena
+LK-33	LG-33006	5	SLPP	Munasingha Arachchige Himasha Malshani
+LK-33	LG-33006	5	UNP	Weerarathna Arachchi Patabedige Mangalika Biyatris
+LK-33	LG-33006	6	DEJP	Angulugahagamage Mahinda
+LK-33	LG-33006	6	FPF	Mangalika Dassanayaka
+LK-33	LG-33006	6	IG1	Kodithuwakku Arachchige Anoma Priyangi Kodithuwakku
+LK-33	LG-33006	6	JJB	Madurapperuma Arachchige Pemawathi
+LK-33	LG-33006	6	SJB	Bamunusingha Nanayakkara Jagath Dammika
+LK-33	LG-33006	6	SLPP	Manikku Rathnaweera Patabendige Darshana Sanjeewa
+LK-33	LG-33006	6	UNP	Kankanam Gamage Amila Prasanna
+LK-33	LG-33006	7	DEJP	Jayasuriya Patabedige Kelum Suranjith
+LK-33	LG-33006	7	FPF	Wanigasin Rathnayaka Ariyasena
+LK-33	LG-33006	7	IG1	Rathnayaka Gamage Tharanga
+LK-33	LG-33006	7	JJB	Dhammika Rajapaksha
+LK-33	LG-33006	7	SJB	Desin Wijenayaka Piyadasa
+LK-33	LG-33006	7	SLPP	Harsha Kumar Punchi Hewa
+LK-33	LG-33006	7	UNP	Wanigasekara Thisara Dhananjaya
+LK-33	LG-33006	8	DEJP	Vitharana Kankanamge Malshan Prabodha
+LK-33	LG-33006	8	FPF	Abeywickkrama Chaminda Udaya Kumara
+LK-33	LG-33006	8	IG1	Munasingha Arachchige Damith Munasingha
+LK-33	LG-33006	8	JJB	Nanayakkara Dhanuka Malaka
+LK-33	LG-33006	8	SJB	Priyantha Wijesekara
+LK-33	LG-33006	8	SLPP	Ilesinge Hemachandra
+LK-33	LG-33006	9	DEJP	Kithulgoda Gamage Manjula
+LK-33	LG-33006	9	FPF	Mahesh Kuma Rathnayaka
+LK-33	LG-33006	9	IG1	Chaminda Weththasingha
+LK-33	LG-33006	9	JJB	Uluwaduge Priyanka Daniel
+LK-33	LG-33006	9	SJB	Puhulwelle Lokugam Acharige Indika Prasad Jayasinghe
+LK-33	LG-33006	9	SLPP	Kahingalage Nilanthi
+LK-33	LG-33006	9	UNP	Ranaweera Patabendige Chandra Kumara
+LK-33	LG-33006	10	DEJP	Kahingalage Anosh Priyantha Kumara
+LK-33	LG-33006	10	FPF	Weerakoon Mudiyanselage Lalitha Ranasingha
+LK-33	LG-33006	10	IG1	Mala Badanage Asanka Manjula
+LK-33	LG-33006	10	JJB	Kasthuri Arachchige Pradeep Lalith Kumara
+LK-33	LG-33006	10	SJB	Mahanthe Arachchige Siril
+LK-33	LG-33006	10	SLPP	Gunasekara Ramaherage Jayananda Priyajeewa Ramahera
+LK-33	LG-33006	10	UNP	Dharmadasa Wickkramarathna
+LK-33	LG-33006	11	DEJP	Peramuna Arachchillage Maheshika Dilani Gunawardhana
+LK-33	LG-33006	11	FPF	Dew Shyam Shamini Sri Warnasingha
+LK-33	LG-33006	11	IG1	Ranaweera Kankanamge Chandrasiri
+LK-33	LG-33006	11	JJB	Liyanage Mudiyanselage Upul Chaminda
+LK-33	LG-33006	11	SJB	Weliwe Pathiranage Warna Kumara
+LK-33	LG-33006	11	SLPP	Abesingha Gamachchige Chaminga Kumara
+LK-33	LG-33006	11	UNP	Suraj Priyanandana Rathnaweera Edirisooriya Arachchi Patabedige
+LK-33	LG-33006	12	DEJP	Athukorala Arachchige Isuru Prabath Athukorala
+LK-33	LG-33006	12	FPF	Liyana Patabedige Janaka Chathuranga
+LK-33	LG-33006	12	IG1	Hewa Emathige Sudath Nishantha
+LK-33	LG-33006	12	JJB	Rathnayaka Kirinde Arachchige Sunil
+LK-33	LG-33006	12	SJB	Buddhadasa Andaraweera
+LK-33	LG-33006	12	SLPP	Athukorala Arachchige Lesli
+LK-33	LG-33006	12	UNP	Jayasundara Mudiyanselage Lakshani Vasana
+LK-33	LG-33006	13	DEJP	Raththaran Arukattu Patabendigei Nisantha Deepal
+LK-33	LG-33006	13	FPF	Jayantha Weerawarnakula
+LK-33	LG-33006	13	IG1	Maha Madakalapuwage Kamal Sisira Rathna
+LK-33	LG-33006	13	JJB	Jayaweera Patabendige Nimal Ranjith
+LK-33	LG-33006	13	SJB	Kankanam Pathiranage Sujeewa Priyanthika
+LK-33	LG-33006	13	SLPP	Ediriweera Arachchi Patabedige Volten Gaminee
+LK-33	LG-33006	13	UNP	Ranjith Muthumala
+LK-33	LG-33006	14	DEJP	Idippulli Arachchilage Don Nuwan Chamara
+LK-33	LG-33006	14	IG1	Priyanthi Wanniarachchi
+LK-33	LG-33006	14	JJB	Madasingha Arachchige Samith
+LK-33	LG-33006	14	SJB	Deegoda Manage Senaka Ranjith Gunasena
+LK-33	LG-33006	14	SLPP	Rupasingha Arachchige Wimalasiri Perera
+LK-33	LG-33006	14	UNP	Olokkuwe Patabedige Suranga Niroshan
+LK-33	LG-33006	15	DEJP	Thuwan Arshath Majuth
+LK-33	LG-33006	15	IG1	Saranachchi Patabedige Sujith Nanda
+LK-33	LG-33006	15	JJB	Thalibeen Thuwan Milhan
+LK-33	LG-33006	15	SJB	Mohomad Faizal Ahamed Shakur
+LK-33	LG-33006	15	SLPP	Ambala Sayakkarage Greta Jayalath
+LK-33	LG-33006	15	UNP	Ajantha Dewasurendra
+LK-33	LG-33006	16	DEJP	Rathnappuli Gamage Dinesh
+LK-33	LG-33006	16	FPF	Jayasuriya Arachchi Patabendige Gayum Prabhash
+LK-33	LG-33006	16	IG1	Landage Sunil
+LK-33	LG-33006	16	JJB	Anura Samaranayaka
+LK-33	LG-33006	16	SJB	Kunayinge Chandrika Priyadarshanee
+LK-33	LG-33006	16	SLPP	Hewakasi Kankanamge Dhanushka Sampath
+LK-33	LG-33006	16	UNP	Andarage Nelsan
+LK-33	LG-33006	17	DEJP	Denagama Vitharana Patabendige Rasika Udayangani
+LK-33	LG-33006	17	FPF	Loku Marakkalage Ishan Pramos Buddhika
+LK-33	LG-33006	17	IG1	Aru Kattu Patabedige Indra
+LK-33	LG-33006	17	JJB	Pemasiri Abeysiriwardana
+LK-33	LG-33006	17	SJB	Sriwarnasingha Paramadige Janidu Jayalanka
+LK-33	LG-33006	17	SLPP	Wijarange Kanthi
+LK-33	LG-33006	17	UNP	Mahamada Kalapuwage Bandusena
+LK-33	LG-33006	18	DEJP	Samarasekara Vidanapathiranage Shehan Madhuranga
+LK-33	LG-33006	18	FPF	Ranasingha Arachchige Nishantha Kumara
+LK-33	LG-33006	18	IG1	Samarasekara Vidanapathiranage Chamalka
+LK-33	LG-33006	18	JJB	Dewalamulla Gamage Jayanath Ranjana
+LK-33	LG-33006	18	SJB	Wele Kankanamge Hasitha mangala
+LK-33	LG-33006	18	SLPP	Panamulle Arachchige Kamal Bandula Kawithilaka
+LK-33	LG-33007	0	DEJP	Abeysinge Somadasa
+LK-33	LG-33007	0	DEJP	Abeysinghe Korale Arachchige Sriyani Rohani Kumari
+LK-33	LG-33007	0	DEJP	Dodanduwa Hewa Witharanage Surangika Sandamali
+LK-33	LG-33007	0	DEJP	Hewa Wellalage Nadeesha Priyadarshani
+LK-33	LG-33007	0	DEJP	Jayawickrama Kankanamge Ravindu Kanchana
+LK-33	LG-33007	0	DEJP	Kulasinghe Arachchige Kushani Wathsala
+LK-33	LG-33007	0	DEJP	Munasinghe Arachchige Nayani Pradeepika
+LK-33	LG-33007	0	DEJP	Panam Barana Arachchige Dhanushka Buddimal Prasanna
+LK-33	LG-33007	0	DEJP	Ranamukage Thilina Dilshan
+LK-33	LG-33007	0	DEJP	Weerasinge Abeygunarathna
+LK-33	LG-33007	0	FPF	Abeykon Rathnayakage Veronika Dilhani
+LK-33	LG-33007	0	FPF	Ashoka Bodhi Gamage
+LK-33	LG-33007	0	FPF	Herath Mudiyanselage Sujith Nandasiri
+LK-33	LG-33007	0	FPF	Kodithuwakku Arachchige Tharindu Pushpika
+LK-33	LG-33007	0	FPF	Kotawaye Gamage Kumudu Lakmali
+LK-33	LG-33007	0	FPF	Munasin Rathnayaka Widana Pathirana Wishmi
+LK-33	LG-33007	0	FPF	Nipunachcharige Reka Priyadarshani
+LK-33	LG-33007	0	FPF	Rambukkana Arachchige Wasantha
+LK-33	LG-33007	0	FPF	Sunimal Rathnayaka
+LK-33	LG-33007	0	FPF	Wickramasingha Arachchige Nileeka Deepani
+LK-33	LG-33007	0	FSP	Alahapperuma Wijesinge Thushara Sampath
+LK-33	LG-33007	0	FSP	Disanayaka Mudiyanselage Ganga Nisanjani
+LK-33	LG-33007	0	FSP	Elapatha Rajapaksha Siriwardana Hewa Puwakdandaawage Danushka
+LK-33	LG-33007	0	FSP	Jayasundara Arachchige Inoka Madushani
+LK-33	LG-33007	0	FSP	Kalu Arachchige Priyantha
+LK-33	LG-33007	0	FSP	Landage Kusumsiri
+LK-33	LG-33007	0	FSP	Meepe Aththatagei Shantha Samansiri
+LK-33	LG-33007	0	FSP	Rankoth Pedige Champika Kumuduni
+LK-33	LG-33007	0	FSP	Shiromi Malkanthi Liyanawanniarachchi
+LK-33	LG-33007	0	FSP	Wannigamage Karunawathi
+LK-33	LG-33007	0	IG1	Abeywarnage Kanthi Vijayalatha
+LK-33	LG-33007	0	IG1	Gamaethige Priyangika
+LK-33	LG-33007	0	IG1	Helessa Hewa Kankanamge Siriwardana
+LK-33	LG-33007	0	IG1	Hewa Alankarage Surangaa Lankara
+LK-33	LG-33007	0	IG1	Liyanage Saliya Padmalal
+LK-33	LG-33007	0	IG1	Paadukke Don Janaka Sampath
+LK-33	LG-33007	0	IG1	Priyanath Dahanayaka
+LK-33	LG-33007	0	IG1	Raagamunige Nandasena
+LK-33	LG-33007	0	IG1	Rathnayaka Mangala Udaya Kalyani
+LK-33	LG-33007	0	IG1	Rohinee Priyangika Kumari Weerakoon
+LK-33	LG-33007	0	JJB	Alahapperuma Wijesinge Dharmadasa
+LK-33	LG-33007	0	JJB	Ayiththap Pullige Prema Jayantha
+LK-33	LG-33007	0	JJB	Chandana Roshan Liyanage
+LK-33	LG-33007	0	JJB	Dombawalage Thakshila Shyamalee Fernando
+LK-33	LG-33007	0	JJB	Gallage Nilakshi Surangika
+LK-33	LG-33007	0	JJB	Hewa Angappulige Nalini Sewwandi
+LK-33	LG-33007	0	JJB	Janaka Parakrama Witharanage
+LK-33	LG-33007	0	JJB	Jayasundara Rathnayaka Ajith Priyantha
+LK-33	LG-33007	0	JJB	Mallika Arachchige Violet Pushpa Kumari
+LK-33	LG-33007	0	JJB	Wickramasin Arachchige Romila Krishanthi
+LK-33	LG-33007	0	SJB	Amarakon Dissanayaka Somawathee
+LK-33	LG-33007	0	SJB	Gamage Diksan
+LK-33	LG-33007	0	SJB	Gamage Siriyalatha
+LK-33	LG-33007	0	SJB	Liyanaarachchige Nandawathee
+LK-33	LG-33007	0	SJB	Mohottige Amila Sampath
+LK-33	LG-33007	0	SJB	Pathegamage Tekla Damayanthi Indika
+LK-33	LG-33007	0	SJB	Ranaweera Arachchige Prasanna Kumara
+LK-33	LG-33007	0	SJB	Shyam Lal Athapaththu
+LK-33	LG-33007	0	SJB	Udagamayalage Sumana Rathnayaka
+LK-33	LG-33007	0	SJB	Weerasinha Mohottige Nihal Prasanna
+LK-33	LG-33007	0	SLPP	Liyana Pathiranage Priyantha Janaka
+LK-33	LG-33007	0	SLPP	Madola Hewage Madubhashani Deepthika Kumari
+LK-33	LG-33007	0	SLPP	Mohottige Karunasena
+LK-33	LG-33007	0	SLPP	Parana Hewage Thusitha Saranga
+LK-33	LG-33007	0	SLPP	Piyadasa Gajanayaka
+LK-33	LG-33007	0	SLPP	Rajakaruna Herath Mudiyanselage Harsha Dilshani
+LK-33	LG-33007	0	SLPP	Ranasinha Arachchige Inoka Chandramali Ranasinha
+LK-33	LG-33007	0	SLPP	Rathnayaka Vidana Pathiranage Isurika Madushani
+LK-33	LG-33007	0	SLPP	Udagamage Pushpalatha
+LK-33	LG-33007	0	SLPP	Wickramasinha Arachchige Sashi Kumara
+LK-33	LG-33007	0	UNP	Agampodige Nihal
+LK-33	LG-33007	0	UNP	Basnayaka Wanniarachchige Dilani
+LK-33	LG-33007	0	UNP	Egoda Hewage Ganga Kumari
+LK-33	LG-33007	0	UNP	Ekanayakage Sagara Pushpa Kumara
+LK-33	LG-33007	0	UNP	Garusin Arachchige Indra Shriyani
+LK-33	LG-33007	0	UNP	Kankanam Pathiranage Ranjanee
+LK-33	LG-33007	0	UNP	Kekanadura Witharanage Dirani Priyanga
+LK-33	LG-33007	0	UNP	Peduru Arachchige Sayaneris
+LK-33	LG-33007	0	UNP	Rathnayaka Mudiyanselage Nadeeka Rathnayaka
+LK-33	LG-33007	0	UNP	Shamilal Wickramachchi Abesiriwardhana
+LK-33	LG-33007	1	DEJP	Koholana Gamage Chaminda
+LK-33	LG-33007	1	FPF	Wadikarage Jayaweera
+LK-33	LG-33007	1	FSP	Landage Ranjith
+LK-33	LG-33007	1	IG1	Jayasekarage Janith Maduwantha
+LK-33	LG-33007	1	JJB	Amarasinha Liyana Arachchige Gamini
+LK-33	LG-33007	1	SJB	Ekanayakage Iresha Kumara
+LK-33	LG-33007	1	SLPP	Wijewickrama Manamperige Piyal Senadheera
+LK-33	LG-33007	1	UNP	Mahagamage Amila Prabhath Kumara
+LK-33	LG-33007	2	DEJP	Liyana Arachchi Kankanamge Geeth Dilshan
+LK-33	LG-33007	2	FPF	Nammuni Arachchihewa Welhenage Chandrasiri Ranathunga
+LK-33	LG-33007	2	FSP	Senarath Arachchige Idunil Sanjeewa
+LK-33	LG-33007	2	IG1	Witharanage Pradeep Chathuranga
+LK-33	LG-33007	2	JJB	Kirumbara Liyanage Nimal Karunathilaka
+LK-33	LG-33007	2	SJB	Pemadasa Weerasinge
+LK-33	LG-33007	2	SLPP	Weerasinha Mudiyanselage Amila Prasanga
+LK-33	LG-33007	2	UNP	Liyanaarachchi Kankanamge Pemadasa
+LK-33	LG-33007	3	DEJP	Samarathunga Arachchige Wimalasena
+LK-33	LG-33007	3	FPF	Mirinchige Bandula Kumara
+LK-33	LG-33007	3	FSP	Kumbalgoda Kankanamge Ranjith Dayananda
+LK-33	LG-33007	3	IG1	Gamaethige Chaminda Niroshan
+LK-33	LG-33007	3	JJB	Pahalawalpola Gamaralalage Chaminda
+LK-33	LG-33007	3	SJB	Witharanagei Anura
+LK-33	LG-33007	3	SLPP	Samarathun Arachchige Nishantha Namal
+LK-33	LG-33007	3	UNP	Ekanayakage Pemadasa
+LK-33	LG-33007	4	DEJP	Kodithuwakku Arachchige Sandun Niroshana
+LK-33	LG-33007	4	FPF	Munasinha Viraj Malidu
+LK-33	LG-33007	4	FSP	Maaguwana kankanamge Karunadasa
+LK-33	LG-33007	4	IG1	Kankanam Pathiranage Wimalawathee
+LK-33	LG-33007	4	JJB	Ranjith Merenchi Abesekara
+LK-33	LG-33007	4	SJB	Ranaweeragama Achchige Priyantha Niroshan
+LK-33	LG-33007	4	SLPP	Kodithuwakku Arachchige Wijesena
+LK-33	LG-33007	4	UNP	Abesin Korale Arachchige Dayawathee
+LK-33	LG-33007	5	DEJP	Nawalagoda Hewage Samantha
+LK-33	LG-33007	5	FPF	Munasinha Wijerathna
+LK-33	LG-33007	5	FSP	Modarawane Gamage Nihal Somasiri
+LK-33	LG-33007	5	IG1	Hewa Gamage Rukman Shirly Jayalath
+LK-33	LG-33007	5	JJB	Heelle Gammacharige Nimal Pemasiri
+LK-33	LG-33007	5	SJB	Amarakon Dissanayaka Arisiri
+LK-33	LG-33007	5	SLPP	Ekanayaka Jasinge dilhan Priyadarshana
+LK-33	LG-33007	5	UNP	Suriyagamage Gamini
+LK-33	LG-33007	6	DEJP	Padipperuma Arachchige Kanil Geethanjana
+LK-33	LG-33007	6	FPF	Parana Liyanage Don Wasantha Kumara
+LK-33	LG-33007	6	FSP	Wadiye Ralalage Indika Sampath Jayawardana
+LK-33	LG-33007	6	IG1	Kuda Anthoni Hewa Gamage Amila Kumarasinha
+LK-33	LG-33007	6	JJB	Yapa Mudiyanselage Shriyani Pathmalatha Menike
+LK-33	LG-33007	6	SJB	Samarasinha Madduma Arachchige Somasiri
+LK-33	LG-33007	6	SLPP	Nammuni Arachchige Nalin Shri Jagath Kumara
+LK-33	LG-33007	6	UNP	Athukorale Arachchige Rajith
+LK-33	LG-33007	7	DEJP	Weliwitigoda Hewage Anusha Lakmali
+LK-33	LG-33007	7	FPF	Edirisinhage Sanjeewa
+LK-33	LG-33007	7	FSP	Maannapperumage Sumathipala
+LK-33	LG-33007	7	IG1	Mathuwakanda Arachchige Pathiraja
+LK-33	LG-33007	7	JJB	Wasantha Roy Munasinha
+LK-33	LG-33007	7	SJB	Pelige Nuwan Uditha Kumara
+LK-33	LG-33007	7	SLPP	Ranaweera Palliyaguruge Piyasieeli
+LK-33	LG-33007	7	UNP	Dahanayaka Ishara Lakshani
+LK-33	LG-33007	8	DEJP	Godagamage Siriwardhana
+LK-33	LG-33007	8	FPF	Kodithuwakku Widanapathiranage Thilina Raweendra
+LK-33	LG-33007	8	FSP	Meegasdeniya Kankanamge Sunil Shantha
+LK-33	LG-33007	8	IG1	Amaraweerage Thushara
+LK-33	LG-33007	8	JJB	Doramulla Hewa Kankanamge Mahinda Sena
+LK-33	LG-33007	8	SJB	Agam Podige Nishshanka
+LK-33	LG-33007	8	SLPP	Parana Hewage Ariyarathna
+LK-33	LG-33007	8	UNP	Indika Upulkumara Rathnayaka
+LK-33	LG-33007	9	DEJP	Lahiru Ashan Buddhika Rajapaksha
+LK-33	LG-33007	9	FPF	Ramanayaka Arachchige Priyantha Ramanayaka
+LK-33	LG-33007	9	FSP	Sisira Rajapaksha
+LK-33	LG-33007	9	IG1	Chamila Kumara Wanni Arachchi
+LK-33	LG-33007	9	JJB	Edirisinha Arachchige Gamini
+LK-33	LG-33007	9	SJB	Hetti Arachchige Iranganee
+LK-33	LG-33007	9	SLPP	Krishantha Jayasekara Pathirana
+LK-33	LG-33007	9	UNP	Ramasinge Dickman Prabhath
+LK-33	LG-33007	10	DEJP	Wanni Arachchige Chathurika Sewwandi
+LK-33	LG-33007	10	FPF	Mallika Rathnayaka
+LK-33	LG-33007	10	FSP	Kandawaththage Omesha Sadini Lakmini
+LK-33	LG-33007	10	IG1	Vidanapathiranage Kusumsiri Gnanathilaka Vidanapathirana
+LK-33	LG-33007	10	JJB	Roshan Chamara Wijesinha
+LK-33	LG-33007	10	SJB	Sujith Upul Kumara Abeywardana
+LK-33	LG-33007	10	SLPP	Kalu Arachchige Chamith Sehara Indunil
+LK-33	LG-33007	10	UNP	Hettiarachchige Nalaka Suranga
+LK-33	LG-33007	11	DEJP	Punchi Hewa Gamage Thilina Asanka
+LK-33	LG-33007	11	FPF	Hewa Walasmullage Wijesinha
+LK-33	LG-33007	11	FSP	Maddumage Pushpakumara Mangala
+LK-33	LG-33007	11	IG1	Gajaman Hewage Nadeeka Niroshanee
+LK-33	LG-33007	11	JJB	Abethunga Samarawickama Liyanaarachchige Jagath Deshapriya
+LK-33	LG-33007	11	SJB	Weerasinha Kalugamage Lasantha Kumara
+LK-33	LG-33007	11	SLPP	Ayththappulige Chamara Mihiraanga
+LK-33	LG-33007	11	UNP	Kottage Ariyadasa
+LK-33	LG-33008	0	FPF	Bamunusin Kankanamge Chandima Lakmali
+LK-33	LG-33008	0	FPF	Danushka Sadaruwan Naradde Gamage
+LK-33	LG-33008	0	FPF	Disna Devika Madhurasingha
+LK-33	LG-33008	0	FPF	Giruwa Gamachchige Chandima Janith Gihara
+LK-33	LG-33008	0	FPF	Henpita Gamage Karunawathie
+LK-33	LG-33008	0	FPF	Hewa Methrige Sakira Maduranga
+LK-33	LG-33008	0	FPF	Hewa Peduru Arachchigei Ranjani
+LK-33	LG-33008	0	FPF	Jayasekara Pathiranage Siriyalatha
+LK-33	LG-33008	0	FPF	Kithalagodage Samidu Dinushan
+LK-33	LG-33008	0	FPF	Madduma Arachchige Pasidu Madushanka
+LK-33	LG-33008	0	FPF	Merenchi Galappaththige Anusha Surangika
+LK-33	LG-33008	0	FPF	Mohomed Kais Sabiri Hussain
+LK-33	LG-33008	0	FPF	Ranasing Arachchige Gunadasa
+LK-33	LG-33008	0	FPF	Samarasekara Widanapathiranage Nalaka Sanjeewa
+LK-33	LG-33008	0	FPF	Uyangodage Kanthi
+LK-33	LG-33008	0	FPF	Warnakulasooriyage Tharushi Anjalee
+LK-33	LG-33008	0	FPF	Widana Gamage Thanuja Nadeeka Jayawardhana
+LK-33	LG-33008	0	FSP	Chaturani Gamage
+LK-33	LG-33008	0	FSP	Dilhani Dilrukshi Liyanage
+LK-33	LG-33008	0	FSP	Gajaman Hewage Gunasena
+LK-33	LG-33008	0	FSP	Galagamage Sudarma
+LK-33	LG-33008	0	FSP	Halanayakage Gunavathi
+LK-33	LG-33008	0	FSP	Hewa Kattadige Pradeep Jayawaradana
+LK-33	LG-33008	0	FSP	Kattadige Kusumavathi
+LK-33	LG-33008	0	FSP	Landage Dasuni Lathasha Gaveshika
+LK-33	LG-33008	0	FSP	Manathunge Danushka Sampath Kumara
+LK-33	LG-33008	0	FSP	Nammuni Arachchige Amila Sanjeewa
+LK-33	LG-33008	0	FSP	Obada Arachchige Premadasa
+LK-33	LG-33008	0	FSP	Omalpage Sarat Nandasiri
+LK-33	LG-33008	0	FSP	Weerakoon Gamachchige Chaminda Indunil
+LK-33	LG-33008	0	FSP	Weerasin Okandage Jagath Pradeep Kumara
+LK-33	LG-33008	0	FSP	Weerasin Okandage Sewwandi
+LK-33	LG-33008	0	FSP	Welhenage Kavidu Poojitha Nandapala
+LK-33	LG-33008	0	FSP	Wijamunige Viraji Shymali Niroshika
+LK-33	LG-33008	0	IG1	Abepitiyage Renuka
+LK-33	LG-33008	0	IG1	Gamage Supun Amarasingha
+LK-33	LG-33008	0	IG1	Jayawardhana Hitige Priyadarshane
+LK-33	LG-33008	0	IG1	Kamburugamuwe Gamacharige Mano Chandrawansha
+LK-33	LG-33008	0	IG1	Kankanam Arachchige Kusumawatee
+LK-33	LG-33008	0	IG1	Kaviratnalage Schini Harshi Udeshika
+LK-33	LG-33008	0	IG1	Mahanama Nam Geegana Gamage Sumanalatha
+LK-33	LG-33008	0	IG1	Mohottalage Krishna Damayanthi
+LK-33	LG-33008	0	IG1	Peramune Arachchige Vijitha Priyanganee
+LK-33	LG-33008	0	IG1	Sadeera Ayesh Wikramaratna Kuruppau Nanayakkara
+LK-33	LG-33008	0	IG1	Singappuli Liyanage Sarath
+LK-33	LG-33008	0	IG1	Thuan Dharma Mohomed Arfath Musafar
+LK-33	LG-33008	0	IG1	Undupitiya Gamage Janaka Kumara
+LK-33	LG-33008	0	IG1	VidanaPathiranage Nandima Kumari
+LK-33	LG-33008	0	IG1	Vitharanagei Sunil
+LK-33	LG-33008	0	IG1	Viyana Hewage Suresh Buddika
+LK-33	LG-33008	0	IG1	Wijevikramage Devith
+LK-33	LG-33008	0	JJB	Ehala Pitiye Hewage Sriyani
+LK-33	LG-33008	0	JJB	Hakmana Kangkanamge Kushintha Kamal
+LK-33	LG-33008	0	JJB	Kaluwa Dewage Priyantha Ranawaka
+LK-33	LG-33008	0	JJB	Kodikarage Bilani
+LK-33	LG-33008	0	JJB	Kodikarage Wathsala Madhushani Kodikara
+LK-33	LG-33008	0	JJB	Kudagamage Aruna Sampath Kumara
+LK-33	LG-33008	0	JJB	Liyanaarachchige Chandradasa
+LK-33	LG-33008	0	JJB	Munasin Arachchige Ariyadasa
+LK-33	LG-33008	0	JJB	Nilusha Dilrukshi Thimbalath Ratnayaka
+LK-33	LG-33008	0	JJB	Padmini Gunasekara Vellappili
+LK-33	LG-33008	0	JJB	Pathe Gamage Sudarma Prasadi
+LK-33	LG-33008	0	JJB	Raganeththige Ranjith Kumara
+LK-33	LG-33008	0	JJB	Rajamunige tilini Sewwandi
+LK-33	LG-33008	0	JJB	Rajapakshage Rohana Pushpa Kumara
+LK-33	LG-33008	0	JJB	Rajapurage Chinthaka Mihiraj Deshapriya
+LK-33	LG-33008	0	JJB	Vanigasekara Arachchige Anulawathee
+LK-33	LG-33008	0	JJB	wijerathna Arachchige Sampath Preeth Viraj
+LK-33	LG-33008	0	LSSP	Champa Kumari Manimendra
+LK-33	LG-33008	0	LSSP	Danushka Lakmal Hewavitharana
+LK-33	LG-33008	0	LSSP	Eeshwaran Sadees Kumar
+LK-33	LG-33008	0	LSSP	Gama Ethige Shriya Manel
+LK-33	LG-33008	0	LSSP	Guruwala Manamperige Lionel
+LK-33	LG-33008	0	LSSP	Hewa Jayaweerage Jeeva Subhasinee
+LK-33	LG-33008	0	LSSP	Jayawikrama Kankanamge Madushika Sewwandi
+LK-33	LG-33008	0	LSSP	Kodithuwakkuge Thilini Nisansala
+LK-33	LG-33008	0	LSSP	Liyana Pathiranage Lahiru Dilshan
+LK-33	LG-33008	0	LSSP	Liyanage Jayarathna
+LK-33	LG-33008	0	LSSP	Peramunage Krishan Chathuranga
+LK-33	LG-33008	0	LSSP	Singappuli Liyanage Amila Sampath
+LK-33	LG-33008	0	LSSP	Vidana Gamage Krishani Nadeeka
+LK-33	LG-33008	0	LSSP	Wadikawage Premawathi
+LK-33	LG-33008	0	LSSP	Waduwadeniya Gamachchige Saman Susiri
+LK-33	LG-33008	0	LSSP	Weerakon Ratnayaka Vidana Gamage Chandra Kanthi Weerakon Rathnayaka
+LK-33	LG-33008	0	LSSP	kodithuwakkuge Madushika Lakmali
+LK-33	LG-33008	0	NDF	Angodage Ajani Sewwandi
+LK-33	LG-33008	0	NDF	Baranige Shantha Kumara
+LK-33	LG-33008	0	NDF	Elgiriya Gamage Sunil
+LK-33	LG-33008	0	NDF	Hetti Arachchige Nandasena
+LK-33	LG-33008	0	NDF	Hewa Kattadige Ginesha Nilanthi
+LK-33	LG-33008	0	NDF	KaluBadanage Jayantha
+LK-33	LG-33008	0	NDF	Kalubandanage Shashikala Sandeepani
+LK-33	LG-33008	0	NDF	Kandambige iranganee Mallika
+LK-33	LG-33008	0	NDF	Kebiliya Pola Liyanage Nilanka Madushan
+LK-33	LG-33008	0	NDF	Kebiliyapola Liyanage Madusha Chitrani
+LK-33	LG-33008	0	NDF	Korale Kankanamge Gayan Niroshana Senanayaka
+LK-33	LG-33008	0	NDF	Korale Kankanamge Gayani Nisansala Senanayaka
+LK-33	LG-33008	0	NDF	Landewattha Acharige Sewmini Sathyanjala Deergrayumi Nethsarani
+LK-33	LG-33008	0	NDF	Pattam Peruma Arachchige Chandana Pushpa Kumara
+LK-33	LG-33008	0	NDF	Pinnagodagei Dayaratna
+LK-33	LG-33008	0	NDF	Prasanna Atapathu
+LK-33	LG-33008	0	NDF	Yaman Sapuge Malani
+LK-33	LG-33008	0	SJB	Anura Pushpathilaka Vidana Arachchige
+LK-33	LG-33008	0	SJB	Ariyarathna Ekanayaka
+LK-33	LG-33008	0	SJB	Dapana Durage Chamila Sandya kanthi
+LK-33	LG-33008	0	SJB	Kalanchige Chaminda Priyadarshana
+LK-33	LG-33008	0	SJB	Kebiliyapala Liyanage Uthpala Dilrukshi
+LK-33	LG-33008	0	SJB	Korale Kankanamge wimalasiri
+LK-33	LG-33008	0	SJB	Lal Priyantha Punchihewa
+LK-33	LG-33008	0	SJB	Lalith Dushmantha Jayasekara Kankanam Pathirana
+LK-33	LG-33008	0	SJB	Mohomed Sarip Manoji
+LK-33	LG-33008	0	SJB	Muhammathu Haneefa Muhammathu Taslim
+LK-33	LG-33008	0	SJB	Pamila Madhushanka Wickramaarachchi
+LK-33	LG-33008	0	SJB	Priyantha Wannige
+LK-33	LG-33008	0	SJB	Sachini Geethanjalee Rajapaksha
+LK-33	LG-33008	0	SJB	Samanlatha Weerappullige
+LK-33	LG-33008	0	SJB	Samaraweera Kankanamge Siriyawathie
+LK-33	LG-33008	0	SJB	Wijamunige Indra Malani
+LK-33	LG-33008	0	SJB	Witharana Palliyaguruge Siriyawathie
+LK-33	LG-33008	0	SLPP	Abegunawardhana Samarasingha Piyaseeli
+LK-33	LG-33008	0	SLPP	Baladurage Ruwan Chamara
+LK-33	LG-33008	0	SLPP	Jathung Gamage Sagarika Krishantha
+LK-33	LG-33008	0	SLPP	Jayasekara Arachchige Sriyani
+LK-33	LG-33008	0	SLPP	Jayasekara Kankanamge Piyasena
+LK-33	LG-33008	0	SLPP	Kankanam Gamage Rasik Chinthaka
+LK-33	LG-33008	0	SLPP	Manamperige Piyaseeli
+LK-33	LG-33008	0	SLPP	Mohamed Rafai Muhamad Ismin
+LK-33	LG-33008	0	SLPP	Nimesh Ranga Amarasingha
+LK-33	LG-33008	0	SLPP	Pathamulla Pathiranage Darshana
+LK-33	LG-33008	0	SLPP	Prabhath Sanjeewa Kumara Hettiarachchi
+LK-33	LG-33008	0	SLPP	Ratnayaka Pathiranage Darshika Lakshanee
+LK-33	LG-33008	0	SLPP	Susanthi Hewagama
+LK-33	LG-33008	0	SLPP	Wijenayaka Kankanamge Dayananda
+LK-33	LG-33008	0	SLPP	Wijesinghage Chinthaka Wijesingha
+LK-33	LG-33008	0	SLPP	Witharana Gamage Kusumawathee
+LK-33	LG-33008	0	SLPP	Yapa Pathiranage Mala Damayanthi
+LK-33	LG-33008	0	UNFF	Arumapperuma Kankanamge Shyamalee Nishanthi
+LK-33	LG-33008	0	UNFF	Dapana Durage Wasanthi Suriya Bandara
+LK-33	LG-33008	0	UNFF	Geeganage Gunathilaka
+LK-33	LG-33008	0	UNFF	Hewa Gamage Dayalal Priyadarshana
+LK-33	LG-33008	0	UNFF	Ibulgoda Gamage Renuka Damayanthi
+LK-33	LG-33008	0	UNFF	Kumburu Gamuwage Sumudu Prasani
+LK-33	LG-33008	0	UNFF	Manage Alias Bandanage Nipun Hirushan
+LK-33	LG-33008	0	UNFF	Nammunige Punyavathi Nammunee
+LK-33	LG-33008	0	UNFF	Palle Gamgoda Wahumpurage Suranji
+LK-33	LG-33008	0	UNFF	Pradeepa Udayanganee Rajapaksha
+LK-33	LG-33008	0	UNFF	Pradhana Mudiyanselage Chandravathee
+LK-33	LG-33008	0	UNFF	Raganeththige Dinuk Dishan Disanayaka
+LK-33	LG-33008	0	UNFF	Raganetthige Thushil Hemachandra
+LK-33	LG-33008	0	UNFF	Ranepurage Chamitha Lakmali
+LK-33	LG-33008	0	UNFF	Udayanganee Ashoka Mendis Jayasingha
+LK-33	LG-33008	0	UNFF	Wijamunige Siriyawatee
+LK-33	LG-33008	0	UNFF	Wijesekara Pathiranage Ayesh Madhushanka
+LK-33	LG-33008	0	UNP	Abeyrathna Siriwardhana Somalatha
+LK-33	LG-33008	0	UNP	Athukorale Arachchige Dushani
+LK-33	LG-33008	0	UNP	Dewundara Sitthara Badalge Wipulasena
+LK-33	LG-33008	0	UNP	Ehelapitiya Hewage Wajira Pramod Lakmal
+LK-33	LG-33008	0	UNP	Gedippili Gamage Sirisena
+LK-33	LG-33008	0	UNP	Geeganage Herath
+LK-33	LG-33008	0	UNP	Henwalage Prasad Maheelal
+LK-33	LG-33008	0	UNP	Jayasin Bolpa Gamage Chamika Krishanthi
+LK-33	LG-33008	0	UNP	Karalaheenge Chamudi Sawbagya Chandradasa
+LK-33	LG-33008	0	UNP	Liyana Arachchige Yasika Gayanthi
+LK-33	LG-33008	0	UNP	Nallathambi Mudiyanselage Thusitha Subashini
+LK-33	LG-33008	0	UNP	Ramisha Darshi Rajasooriya
+LK-33	LG-33008	0	UNP	Senarath Pathiranage Piyadasa
+LK-33	LG-33008	0	UNP	Thalgasduwage Sujath
+LK-33	LG-33008	0	UNP	Vidana Gamage chathmi Gayesha
+LK-33	LG-33008	0	UNP	Wijerathna Mudiyanselage Thilakasiri Padma Kumara
+LK-33	LG-33008	0	UNP	Wikramanaryana Gam Acharige Sachini Ishara
+LK-33	LG-33008	1	FPF	Hetti Arachchige Chandradasa
+LK-33	LG-33008	1	FSP	Wijamunige Henri Kumarasingha
+LK-33	LG-33008	1	IG1	Jayasekarage Ishan Madhushanka
+LK-33	LG-33008	1	JJB	Jasin Arachchige Amila Jayawardhana
+LK-33	LG-33008	1	LSSP	Sumasinge Supun Sameera
+LK-33	LG-33008	1	NDF	Lahiru Sampath Ruwan Pathirana
+LK-33	LG-33008	1	SJB	Kodithuwakku Arachchige Pushpakumara
+LK-33	LG-33008	1	SLPP	Hewa Gamage Suranga Pushpakumara
+LK-33	LG-33008	1	UNFF	Ehalapitiya Hewage Sumithrapala Garusingha
+LK-33	LG-33008	1	UNP	Nallapperumage Nayana Priyadarshani
+LK-33	LG-33008	2	FPF	Kithala Godage Indrajith Chamara
+LK-33	LG-33008	2	FSP	Loku Gamage Ranjit
+LK-33	LG-33008	2	IG1	Korale Kankanam ge Prabath Indika
+LK-33	LG-33008	2	JJB	Kithulagodage Inoka Kamal
+LK-33	LG-33008	2	LSSP	Sumeda Sampath Siriwardhana
+LK-33	LG-33008	2	NDF	Hewa Walimunige Nilanga Deepani
+LK-33	LG-33008	2	SJB	Ramanayaka Wasantha Kumara Ramanayaka
+LK-33	LG-33008	2	SLPP	Ranaweera Gamage Somawathee
+LK-33	LG-33008	2	UNFF	Kattadige Krishan Sanjeewa
+LK-33	LG-33008	2	UNP	Ipitagama LiyanaArachchige Champika
+LK-33	LG-33008	3	FPF	Denagama Raluwage Samanthi
+LK-33	LG-33008	3	FSP	Naradde Gamage Weerasena
+LK-33	LG-33008	3	IG1	Ramanayakage Sumith Sirichandra
+LK-33	LG-33008	3	JJB	Garusingha Arachchige Naleeka Widurangi
+LK-33	LG-33008	3	LSSP	Samarawikrama Jasin Arachchige Jayantha
+LK-33	LG-33008	3	NDF	Weerasin Okandage Pemasiri
+LK-33	LG-33008	3	SJB	Wickramasingha Arachchige Gunawardana
+LK-33	LG-33008	3	SLPP	Chamal Pradeep Kumara Hettiarachchi
+LK-33	LG-33008	3	UNFF	Hewa Kuda Anthonige Thilakarathna
+LK-33	LG-33008	3	UNP	Saman Tuppahi Liyanaarachchige
+LK-33	LG-33008	4	FPF	Marappulige Pradeep Indika
+LK-33	LG-33008	4	FSP	Ramanayakage Somapala
+LK-33	LG-33008	4	IG1	Muthukutti Kankanamge Jayantha Premalal
+LK-33	LG-33008	4	JJB	Palliya Gurugei Don Lakshman Chandraratna Abeywardana
+LK-33	LG-33008	4	LSSP	Dona Rasika Siriwardana
+LK-33	LG-33008	4	NDF	Weerappulige Dinesh Chathuranga Weerasingha
+LK-33	LG-33008	4	SJB	Wetiya Vidanagamage Champa Nilmini
+LK-33	LG-33008	4	SLPP	Munasingha Arachchige Shriyani
+LK-33	LG-33008	4	UNFF	Viyanahewage Somasiri
+LK-33	LG-33008	4	UNP	Hewa Sudu Hakuruge Senaratna
+LK-33	LG-33008	5	FPF	Jayasekara Pathiranage Siriyalatha
+LK-33	LG-33008	5	FSP	Gunapala Ramanayaka
+LK-33	LG-33008	5	IG1	Wijamuni Durage Rathnapala
+LK-33	LG-33008	5	JJB	Seethawaka Liyanage Priyantha Saman Kumara
+LK-33	LG-33008	5	LSSP	Ratnayakage Anurada Shiromini
+LK-33	LG-33008	5	NDF	Angodage Rishan Wijendra
+LK-33	LG-33008	5	SJB	Singappulige Rathnasiri
+LK-33	LG-33008	5	SLPP	Gamarachchige Palitha Dharmakeerthi
+LK-33	LG-33008	5	UNFF	Gamage Karuna Kulathilaka
+LK-33	LG-33008	5	UNP	Kttadige Pradeep Chandana
+LK-33	LG-33008	6	FPF	Liyana Pathiranage Sirisena
+LK-33	LG-33008	6	FSP	Halawa Gamage Thungawthama
+LK-33	LG-33008	6	IG1	Jagath Wikaramage
+LK-33	LG-33008	6	JJB	Ellagiriya Gamage Dilshan Pradeepwarna
+LK-33	LG-33008	6	LSSP	Amith Nalinda Kodithuwakku
+LK-33	LG-33008	6	NDF	Hetti Arachchige Premananda
+LK-33	LG-33008	6	SJB	Hettiwattage Chinthaka Sampath
+LK-33	LG-33008	6	SLPP	Liyana Arachchige Piyasena
+LK-33	LG-33008	6	UNFF	Bala Gamage Sunil Shantha
+LK-33	LG-33008	6	UNP	Nimal Edirisingha
+LK-33	LG-33008	7	FPF	Liyana Pathiranage Akila Gayashan
+LK-33	LG-33008	7	FSP	Dematattavala Arachchige Sarat Darmaratna
+LK-33	LG-33008	7	IG1	Vidana Gamage Chaminda Prasad Kumara
+LK-33	LG-33008	7	JJB	Rajapaksha Pathiranage Gunawardana
+LK-33	LG-33008	7	LSSP	Radampala Gamage Dhilan Chathuranga Wijevikrama
+LK-33	LG-33008	7	NDF	Vidana Pathiranage Upali Thilakaratna
+LK-33	LG-33008	7	SJB	Pattiya Gamage Nimal
+LK-33	LG-33008	7	SLPP	Pattiya Gamage Sumudu Priyankara
+LK-33	LG-33008	7	UNFF	Namasinge Siriwardana
+LK-33	LG-33008	7	UNP	Rajapaksha Pthiranage Ananda
+LK-33	LG-33008	8	FPF	Kalupahane Gedara Piumi Tekshila
+LK-33	LG-33008	8	FPF	Maha Widanage Sajith Harshana Gunaweera
+LK-33	LG-33008	8	FSP	Munasingha Arachchige Geetha Swarnamali
+LK-33	LG-33008	8	FSP	Wijamunige Jothipala
+LK-33	LG-33008	8	IG1	Samarasingha Arachchige Siriyalatha
+LK-33	LG-33008	8	IG1	Vitharana Pandithage Maheshpriya Indika
+LK-33	LG-33008	8	JJB	Gunasekara Arachchige Sumanawansha
+LK-33	LG-33008	8	JJB	Roopika Wijesingha
+LK-33	LG-33008	8	LSSP	Matara Arachchige Athula Janaka
+LK-33	LG-33008	8	LSSP	Rubasin kattadige Nuwan Tharaka
+LK-33	LG-33008	8	NDF	Ridiyagamage Ruwan Kithsiri
+LK-33	LG-33008	8	NDF	Shehan Priyaraj Madushanka Wimalaveera
+LK-33	LG-33008	8	SJB	Anuruddha Rathnayaka
+LK-33	LG-33008	8	SJB	Rathnayaka Kankanamge Uditha Suraj
+LK-33	LG-33008	8	SLPP	Gunathilaka Jayasekara
+LK-33	LG-33008	8	SLPP	Mahinda Gajasinge
+LK-33	LG-33008	8	UNFF	Abdul Asees Muhamamdu Kalidu
+LK-33	LG-33008	8	UNFF	Hewa Kattadige Ravindu Heshan
+LK-33	LG-33008	8	UNP	Atukorale Arachchige Ananda
+LK-33	LG-33008	8	UNP	Hattasinghage Jayantha
+LK-33	LG-33008	9	FPF	Wanni Arachchige Ruwan Kumara
+LK-33	LG-33008	9	FSP	Manathungei Karunaratna Rajapaksha
+LK-33	LG-33008	9	IG1	Thilakshana Sandipanee Madolgoda
+LK-33	LG-33008	9	JJB	Pallaththara Widana Gamage Sumanadasa
+LK-33	LG-33008	9	LSSP	Galwala Gamage Rasika Darshanee
+LK-33	LG-33008	9	NDF	Kandambige Malisha Shehan Wishvajith
+LK-33	LG-33008	9	SJB	Nammuni Arachchige Pradeep Kumaranayaka
+LK-33	LG-33008	9	SLPP	Chamith Krishantha Kumara Liyanaarachchige
+LK-33	LG-33008	9	UNFF	Hewa Walimunige Piyasena
+LK-33	LG-33008	9	UNP	Wanni Arachchige Dayaratna
+LK-33	LG-33008	10	FPF	Wickramanarayanagam Acharige Geeth Shan Thathsara
+LK-33	LG-33008	10	FSP	Manamperige Isuru Shashinthaka Mapriya
+LK-33	LG-33008	10	IG1	Morakanda Gamage Dinush Pradeep Kumara
+LK-33	LG-33008	10	JJB	Jathunge Chandrasena Jayathunga
+LK-33	LG-33008	10	LSSP	Kirithigoda Gamage Prasanna Dileep Kumara
+LK-33	LG-33008	10	NDF	Dewundara Seetra Badalge Anush Dilshan
+LK-33	LG-33008	10	SJB	Vidana Gamage Sisira Kumara
+LK-33	LG-33008	10	SLPP	Padmal Rubasingha
+LK-33	LG-33008	10	UNFF	Jasin Arachchige Subhani Ishara
+LK-33	LG-33008	10	UNP	Senarath Patiranage Maduka Nishan
+LK-33	LG-33008	11	FPF	Kadahettige Dayawathie
+LK-33	LG-33008	11	FSP	Mallika Badalge Laal Ananda
+LK-33	LG-33008	11	IG1	Susantha Mahanama Disanayaka
+LK-33	LG-33008	11	JJB	Malawala Arachchige Sunil
+LK-33	LG-33008	11	LSSP	kankanam Gamage Nayana Shiromani
+LK-33	LG-33008	11	NDF	Hetti Arachchige Lasantha
+LK-33	LG-33008	11	SJB	kangkanamge milan maduwantha
+LK-33	LG-33008	11	SLPP	Srimal Madushanka Edirisinghage
+LK-33	LG-33008	11	UNFF	Ediriveera Patabedinge Dilan Rangika
+LK-33	LG-33008	11	UNP	Kakuluwa Mulla Kankanamge Thushan Madushanka
+LK-33	LG-33008	12	FPF	Jayasingha Arachchige Athula Kapuhena
+LK-33	LG-33008	12	FSP	Hettiarachchige Sampath Piyankara
+LK-33	LG-33008	12	IG1	Kalu Arachchige Kelum Navaratna
+LK-33	LG-33008	12	JJB	Wickramage Sanjeewa Peeris
+LK-33	LG-33008	12	LSSP	Wikramage Hasitha Ishanka
+LK-33	LG-33008	12	NDF	Wanthanthirige Nuwan Rangana
+LK-33	LG-33008	12	SJB	Lamahewage Padmasiri
+LK-33	LG-33008	12	SLPP	Jayawickrama Arachchige Sandya Sriyani
+LK-33	LG-33008	12	UNFF	Liyana Arachchige Shriyani
+LK-33	LG-33008	12	UNP	LiyanaArachchige Nalaka Hemantha
+LK-33	LG-33008	13	FPF	Rathnayaka Kankanamge Bhathiya
+LK-33	LG-33008	13	FSP	Welhenage Thilini Shashikala Weerasingha
+LK-33	LG-33008	13	IG1	Pallattharage Wijesingha
+LK-33	LG-33008	13	JJB	Gamage Sugath Chaminda
+LK-33	LG-33008	13	LSSP	Meeruppa Gamage Patmee Manjuka
+LK-33	LG-33008	13	NDF	Garusingha Arachchige Sameera Udayanga
+LK-33	LG-33008	13	SJB	Malagoda Gamage Dinesh Geenath Amarasingha
+LK-33	LG-33008	13	SLPP	Hetti Arachchige Nimal Shantha
+LK-33	LG-33008	13	UNFF	Rannulu Keshan Hirantha Deerasingha De Soysa
+LK-33	LG-33008	13	UNP	Munasun Arachchige Pathmasiri
+LK-33	LG-33008	14	FPF	Yapa Munasingha Shantha
+LK-33	LG-33008	14	FSP	Dapanadurage Chanadasa
+LK-33	LG-33008	14	IG1	Dadallage Dayavathi
+LK-33	LG-33008	14	JJB	Gala Gamage Dayasena
+LK-33	LG-33008	14	LSSP	Subasinha Ratnayakage Supun Salinda
+LK-33	LG-33008	14	NDF	Abyewardana Liyanarachchige Priyanta Sisira Kumara
+LK-33	LG-33008	14	SJB	Baladurage Rani
+LK-33	LG-33008	14	SLPP	Jayasekara Kankanam Pathiranage Nimesh Wirangana
+LK-33	LG-33008	14	UNFF	Galhenage Lanjana Shayamani
+LK-33	LG-33008	14	UNP	Pinchahewage Chaminda Thusahra
+LK-33	LG-33008	15	FPF	Kuda Gamage Chathara Deshapriya
+LK-33	LG-33008	15	FSP	Tilaka Gunasingha Hadunnetti
+LK-33	LG-33008	15	IG1	Epita kaduwa Gamage Chamli
+LK-33	LG-33008	15	JJB	Ariyadasa Ekanayaka
+LK-33	LG-33008	15	LSSP	Kankanam Gamage Lalith Pushpa Kumara
+LK-33	LG-33008	15	NDF	Weerasekara Arachchige Sarath Kumara
+LK-33	LG-33008	15	SJB	Ojith Sudarshana Liyanapathirana
+LK-33	LG-33008	15	SLPP	Munasin Liyana Arachchige Ranjith
+LK-33	LG-33008	15	UNFF	Pinidiyage Upasena
+LK-33	LG-33008	15	UNP	Sedara Arachchige Andrew Karunaratna
+LK-33	LG-33008	16	FPF	Munasingha Liyana Arachchige Chaminda
+LK-33	LG-33008	16	FSP	Subasin Kattadige Sudat Wijethunga
+LK-33	LG-33008	16	IG1	Ratnayaka Deshan
+LK-33	LG-33008	16	JJB	Nakulu Gamuwa Gamage Sumudu
+LK-33	LG-33008	16	LSSP	Wimalasiri Liyanapathirana
+LK-33	LG-33008	16	NDF	Kokku Hennadige Indika Prasanna
+LK-33	LG-33008	16	SJB	Tuder Thilak Kangkanam Witharana
+LK-33	LG-33008	16	SLPP	Hewa Gammeddage Indika Kumara
+LK-33	LG-33008	16	UNFF	Alahapperuma Arachchige Samith Asanka
+LK-33	LG-33008	16	UNP	Nanayakkara Wasan Appuge Geethika Kawundaree Hemali
+LK-33	LG-33008	17	FPF	Rathnayaka Mudiyanselage Ranil Makas
+LK-33	LG-33008	17	FSP	Wilsan Vidana Pathirana
+LK-33	LG-33008	17	IG1	wijethunga Liyana Patabendige Thilina Himantha
+LK-33	LG-33008	17	JJB	Dapadurage Dammika Priyantha Kumara
+LK-33	LG-33008	17	LSSP	Kattadige Saman Kumara
+LK-33	LG-33008	17	NDF	Mahasarangu Hewage Beshmika Krishani
+LK-33	LG-33008	17	SJB	Samith Nishantha Widanaarachchi
+LK-33	LG-33008	17	SLPP	Warahena Liyanage Anura De Alwis
+LK-33	LG-33008	17	UNFF	Bodara Gamage Buddika Sadun Bandara Bodaragama
+LK-33	LG-33008	17	UNP	Milinda Sanjeewa Meegama
+LK-33	LG-33008	18	FPF	Kattadige Dilum Nuwan Amarasingha
+LK-33	LG-33008	18	FSP	Welhenege Chandrapala
+LK-33	LG-33008	18	IG1	Omalpage Nihal
+LK-33	LG-33008	18	JJB	Kattadige Wilmat
+LK-33	LG-33008	18	LSSP	Vidana Gamage Indrani
+LK-33	LG-33008	18	NDF	Wickrama Arachchige Nimeshika Rathnamali
+LK-33	LG-33008	18	SJB	Geeganage Pemathilaka
+LK-33	LG-33008	18	SLPP	Gamage Sarath Kumarasiri
+LK-33	LG-33008	18	UNFF	Siripala Harisan Gamage
+LK-33	LG-33008	18	UNP	Warshamanage Viduranga Nuwan Sanjeeva
+LK-33	LG-33008	19	FPF	Jayalathge Viraj Chathuranga
+LK-33	LG-33008	19	FSP	Hewa Kattadige Chandana Sisira Kumara
+LK-33	LG-33008	19	IG1	Kalanchige Saman Jayamini
+LK-33	LG-33008	19	JJB	Manathunge Gunaratna
+LK-33	LG-33008	19	LSSP	Rajapurage Priyantha
+LK-33	LG-33008	19	NDF	Hewa Yaddehige Priyantha Kumara
+LK-33	LG-33008	19	SJB	Wijamunige Devika Pushparani
+LK-33	LG-33008	19	SLPP	Kalanchige Ranjith Munathunga
+LK-33	LG-33008	19	UNFF	Viyana Hewage Manilka Indika Samarasingha
+LK-33	LG-33008	19	UNP	Aluth Gedara Ishanka Madushani
+LK-33	LG-33008	20	FPF	Raweendra Nipun Kumara Wijamuni
+LK-33	LG-33008	20	FSP	Gamage Emiyel
+LK-33	LG-33008	20	IG1	Wijamunige Darshana Sampath Kumara
+LK-33	LG-33008	20	JJB	Garusinghage Sumith Pushpa Kuamara
+LK-33	LG-33008	20	LSSP	wikramasin hetti Arachchige Upali
+LK-33	LG-33008	20	NDF	Wijamunige Ruwan Kumara
+LK-33	LG-33008	20	SJB	Mendiyas Baduge Dharmasiri
+LK-33	LG-33008	20	SLPP	Wijamunige Ranathunga
+LK-33	LG-33008	20	UNFF	Hewa Kuda Anthonige Shanaka Rupun Maduraanga
+LK-33	LG-33008	20	UNP	Jathun Arachchige Piyadasa
+LK-33	LG-33009	0	FPF	Balage Anushka Rangana
+LK-33	LG-33009	0	FPF	Chaminda Mohotti
+LK-33	LG-33009	0	FPF	Disanayaka Mudiyanselage Chamodi Lakshanee
+LK-33	LG-33009	0	FPF	Ekanayaka Sooriyage Suranga
+LK-33	LG-33009	0	FPF	Galle Arachchige Wimalasena
+LK-33	LG-33009	0	FPF	Geegana Gamage Wasana Rukmali
+LK-33	LG-33009	0	FPF	Ilandarige Manjula Dilrukshi Damayanthi
+LK-33	LG-33009	0	FPF	Marappulige Chaminda Kelum Thushara Garusinghe
+LK-33	LG-33009	0	FPF	Palliyage Iresha Lakmini
+LK-33	LG-33009	0	FPF	Ramawickrama Gamachchi Niroshanee Dilanka
+LK-33	LG-33009	0	FPF	Ranasin Gamage Gunadasa
+LK-33	LG-33009	0	FPF	Ranathunaga Arachchige Ajith
+LK-33	LG-33009	0	FPF	Thibbotuwa Deniyage Disna Niroshanee
+LK-33	LG-33009	0	FPF	Weerasinge Indra Malkanthi
+LK-33	LG-33009	0	FSP	Abeywickrama Dhanapala Kumudu Eranga
+LK-33	LG-33009	0	FSP	Haljothi Munasinghe Eranga Dannajanee
+LK-33	LG-33009	0	FSP	Hewa Anthonige Delisha Madhushani Nawoda Ranathunga
+LK-33	LG-33009	0	FSP	Kadimachcharige Ayesha Dilhani
+LK-33	LG-33009	0	FSP	Kadukannage Lahiru Madhushan Jayathilaka
+LK-33	LG-33009	0	FSP	Kalu Arachchige Senani
+LK-33	LG-33009	0	FSP	Kaluwalage Harshani Thilini
+LK-33	LG-33009	0	FSP	Kodikara Arachchige Ariyasena
+LK-33	LG-33009	0	FSP	Madanayakage Nayana Chathuranganee Madanayaka
+LK-33	LG-33009	0	FSP	Mahakumburage Achini Sathsaranee
+LK-33	LG-33009	0	FSP	Mahakumburage Shandinee Dilrangi
+LK-33	LG-33009	0	FSP	Rangodage Nuwan Champika De Silva
+LK-33	LG-33009	0	FSP	Weraherage Sumudu Priyankara
+LK-33	LG-33009	0	FSP	Wijenayaka Kankanamge Cyril
+LK-33	LG-33009	0	IG1	Chamathka Sanharshana Karunanayaka
+LK-33	LG-33009	0	IG1	Denagama Vitharanage Nilushi Chamari
+LK-33	LG-33009	0	IG1	Hewa Rathu Geeganage Cyril Munasinha
+LK-33	LG-33009	0	IG1	Jasinge Pradeepa Maduwanthi
+LK-33	LG-33009	0	IG1	Jayawardhana Priyantha Danushka Kumara
+LK-33	LG-33009	0	IG1	Kankanamge Madhuri Pushpika
+LK-33	LG-33009	0	IG1	Maddumage Saman
+LK-33	LG-33009	0	IG1	Peramune Arachchi Siriwardhana Vitharanage Amila Sampath
+LK-33	LG-33009	0	IG1	Ranasinhage Rasika Dilhani Ranasinghe
+LK-33	LG-33009	0	IG1	Ranathun Arachchige Iresha Madhurika
+LK-33	LG-33009	0	IG1	Senarath Jathun Arachchige Duhul Ranga
+LK-33	LG-33009	0	IG1	Siriwardhana Pathiranage Shashima Dhanushi
+LK-33	LG-33009	0	IG1	Vidana Pathirana Rathnaseeli
+LK-33	LG-33009	0	IG1	Weraherage Gamini Premalal
+LK-33	LG-33009	0	IG2	Agampodidurage Kanthi
+LK-33	LG-33009	0	IG2	Edirimannage Manoj Priyawansha
+LK-33	LG-33009	0	IG2	Egodage Susantha
+LK-33	LG-33009	0	IG2	Geeganage Sumudu Sugandhika
+LK-33	LG-33009	0	IG2	Karalahinge Amila Prasad Madhushanka
+LK-33	LG-33009	0	IG2	Karalahinge Padmaseeli
+LK-33	LG-33009	0	IG2	Karalahinge Senuri Tileesha Sathsarani
+LK-33	LG-33009	0	IG2	Karalahinge Yureshika Maduni Wirasena
+LK-33	LG-33009	0	IG2	Liyanage Ruwan Sanjeewa
+LK-33	LG-33009	0	IG2	Marappullige Fernando
+LK-33	LG-33009	0	IG2	Uru Muththage Shriyalatha Edirimanna
+LK-33	LG-33009	0	JJB	Agalakada Arachchige Samanthika Priyadarshanee
+LK-33	LG-33009	0	JJB	Dewa Bandanage Chaminda Kumara
+LK-33	LG-33009	0	JJB	Ginigal Godage Tharushi Divyanjalee
+LK-33	LG-33009	0	JJB	Hathiringe Sujith
+LK-33	LG-33009	0	JJB	Hewa Kuda Anthonige Ananda Kulasundara
+LK-33	LG-33009	0	JJB	Hewa Malawige Wijedasa
+LK-33	LG-33009	0	JJB	Hille Gam Acharige Nadee Ayesha Prabhashinee
+LK-33	LG-33009	0	JJB	Jayasekarage Ranjith Jayasekara
+LK-33	LG-33009	0	JJB	Liyana Arachchi Koswaththage Disni Samanthika
+LK-33	LG-33009	0	JJB	Moramudalige Ramani
+LK-33	LG-33009	0	JJB	Vidana Pathiranage Soorasena
+LK-33	LG-33009	0	JJB	Warshamanage Dilshan Chathuranga
+LK-33	LG-33009	0	JJB	Welathanthirige Priyanka Samanthee
+LK-33	LG-33009	0	JJB	Wickramasinghe Kankanamge Chamila Dilrukshi
+LK-33	LG-33009	0	SJB	Dunuhinge Gurusinghe
+LK-33	LG-33009	0	SJB	Edirimannagei Roopanandanee
+LK-33	LG-33009	0	SJB	Halpagodage Maduka Niroshanee
+LK-33	LG-33009	0	SJB	Hetti Arachchige Wajira
+LK-33	LG-33009	0	SJB	Hewa Geeganage Dharmalatha
+LK-33	LG-33009	0	SJB	Hewa Geeganage Surangika Sandamali
+LK-33	LG-33009	0	SJB	Jathunge Thilini Deergha
+LK-33	LG-33009	0	SJB	Karalaheenge Prasanna Rohitha
+LK-33	LG-33009	0	SJB	Kulasinge Vijitha
+LK-33	LG-33009	0	SJB	Lenaduwa Lokuge Rohana Anuralal
+LK-33	LG-33009	0	SJB	Marappullige Jayasena
+LK-33	LG-33009	0	SJB	Peduru Arachchige Sujith Muthukumarana
+LK-33	LG-33009	0	SJB	Wanigarathna Disanayaka Gamini
+LK-33	LG-33009	0	SJB	Weerasinge Mahindapala
+LK-33	LG-33009	0	SLPP	Abeysinhage Sarathchandra
+LK-33	LG-33009	0	SLPP	Ayesha Lakmali Weerasinghe Kulathunga
+LK-33	LG-33009	0	SLPP	Chamil Udara Wanigachinthamani Mohotti
+LK-33	LG-33009	0	SLPP	Gunasekara Mathukandage Sudath
+LK-33	LG-33009	0	SLPP	Hetti Arachchige Indunil Dulanjanee
+LK-33	LG-33009	0	SLPP	Hewa Gamage Hasini Uththareeka
+LK-33	LG-33009	0	SLPP	Jayasekarage Sumith Nishantha
+LK-33	LG-33009	0	SLPP	Kirindagoda Kankanange Nandanee
+LK-33	LG-33009	0	SLPP	Kulasinghe Arachchige Roshan Suranga
+LK-33	LG-33009	0	SLPP	Lalitha Ranasinghe
+LK-33	LG-33009	0	SLPP	Rangodagei Ramani
+LK-33	LG-33009	0	SLPP	Sanath chandana Senanayaka
+LK-33	LG-33009	0	SLPP	Welkumbura Kattadige Suranga Lakmal
+LK-33	LG-33009	0	SLPP	Wickramage Ishani Pushpika
+LK-33	LG-33009	0	UNP	Abeykoon Jayalath Pathirana Ge Swarna Shanthi
+LK-33	LG-33009	0	UNP	Agampodige Karunarathna
+LK-33	LG-33009	0	UNP	Alupotha Gamage Suranga
+LK-33	LG-33009	0	UNP	Amal Chathuranga Hettiarachchi
+LK-33	LG-33009	0	UNP	Anusha Priyadarshani Basnayaka
+LK-33	LG-33009	0	UNP	Edirimannage Karunadasa
+LK-33	LG-33009	0	UNP	Kadukannage Lakeesha Wanshanee Nagarathna
+LK-33	LG-33009	0	UNP	Kaluarachchigei Ranjith Saman Kumara
+LK-33	LG-33009	0	UNP	Kankani Durage Nimesha Wijesiri
+LK-33	LG-33009	0	UNP	Karalaheenge Chandrasena
+LK-33	LG-33009	0	UNP	Kudaketiyapege Anulawathee
+LK-33	LG-33009	0	UNP	Ranathun Gamage Rani Agnas
+LK-33	LG-33009	0	UNP	Sooriyaarachchi Don Rangana Lakmal
+LK-33	LG-33009	0	UNP	Thanipuli Arachchige Anoja Sanjeewanee
+LK-33	LG-33009	1	FPF	Rathnayakage Subasinghe Rathnayaka
+LK-33	LG-33009	1	FSP	Kariwila Kandage Roshan Madhuwantha
+LK-33	LG-33009	1	IG1	Alupotha Gamagei Jayathissa
+LK-33	LG-33009	1	IG2	Bathala Waththage Jayasena
+LK-33	LG-33009	1	JJB	Jayalathge Suresh Asanka Jayalathge
+LK-33	LG-33009	1	SJB	Bathalawaththage Chandrani
+LK-33	LG-33009	1	SLPP	Malawigei Jayantha
+LK-33	LG-33009	1	UNP	Kariwila Kandage Chaminda Kumara
+LK-33	LG-33009	2	FPF	Ranathungamage Keerthi Wickramasinghe
+LK-33	LG-33009	2	FSP	Mahakumburage Siriwardhana
+LK-33	LG-33009	2	IG1	Wickrama Gunarathna Pinidiyabandara Nayanajith Deshapriya
+LK-33	LG-33009	2	IG2	Edirimannage Harishchandra Vimal Edirimanna
+LK-33	LG-33009	2	JJB	Karalaheenge Nilanka
+LK-33	LG-33009	2	SJB	Kattadige Gemunu Vijitha Kumara
+LK-33	LG-33009	2	SLPP	Agampodige Nishantha Kumara
+LK-33	LG-33009	2	UNP	Edirimannage Rathnaweera
+LK-33	LG-33009	3	FPF	Kalu Arachchige Samantha Rathnasiri
+LK-33	LG-33009	3	FSP	Jasinge Leelananda
+LK-33	LG-33009	3	IG1	Lewliyadda Mudiyanselage Dananjaya Bandara
+LK-33	LG-33009	3	IG2	Kattadige Sumanasena
+LK-33	LG-33009	3	JJB	Hewa Anthonige Pradeepa Nishansala
+LK-33	LG-33009	3	SJB	Nammunige Buddhika Madusanka Dias
+LK-33	LG-33009	3	SLPP	Manel Indumathee Munasin Disanayaka
+LK-33	LG-33009	3	UNP	Niluka Samadi Samarasinghe
+LK-33	LG-33009	4	FPF	Liyana Kankanamlage Gayan Chathuranga
+LK-33	LG-33009	4	FSP	Wanniarachchige Danapala
+LK-33	LG-33009	4	IG1	Rathnayaka Liyanage Percy Warna
+LK-33	LG-33009	4	IG2	Karalahinge Sumanadasa
+LK-33	LG-33009	4	JJB	Vitharanage Siripala
+LK-33	LG-33009	4	SJB	Ruwan Prasanga Ekanayaka
+LK-33	LG-33009	4	SLPP	Koralage Sunil Shantha Kumara
+LK-33	LG-33009	4	UNP	Malawige Kelum Priyankara
+LK-33	LG-33009	5	FPF	Vidana Pathiranage Gayan Sudesh Sandakelum
+LK-33	LG-33009	5	FSP	Wickramasekara Rajapaksha Sisira Kumara
+LK-33	LG-33009	5	IG1	Wijekoon Disanayaka Mabarana Dharmasiri Harishchandra
+LK-33	LG-33009	5	IG2	Kattadige Priyantha Sandya Kumara
+LK-33	LG-33009	5	JJB	Aravnida Senarath Vitharana
+LK-33	LG-33009	5	SJB	Siriwardhanage Nishanka Rohana
+LK-33	LG-33009	5	SLPP	Jayawickrama Arachchige Gaminee Lal
+LK-33	LG-33009	5	UNP	Amarasinhage Lasitha Madhuranga
+LK-33	LG-33009	6	FSP	Morakandegoda Kankanamge Gaminee
+LK-33	LG-33009	6	IG1	Ariyadasa Amarakoon
+LK-33	LG-33009	6	IG2	Abeynayaka Jayawardhanage Mallika
+LK-33	LG-33009	6	JJB	Manjula Abeygunarathna
+LK-33	LG-33009	6	SJB	Yatiyana Vidana Arachchige Douglas
+LK-33	LG-33009	6	SLPP	Weerasin Hettiarachchige Sanath Chandra Kumar
+LK-33	LG-33009	6	UNP	Jayasekara Liyanage Jayantha
+LK-33	LG-33009	7	FPF	Jayasekara Liyana Arachchige Upul Janaka
+LK-33	LG-33009	7	FSP	Edirisinghe Arachchige Dilanka
+LK-33	LG-33009	7	IG1	Geegana Gama Achchige Dayarathna
+LK-33	LG-33009	7	IG2	Ranathungamage Pemasiri
+LK-33	LG-33009	7	JJB	Abeynayaka Pathmasiri
+LK-33	LG-33009	7	SJB	Kuda Ketiyapege Sunil Shantha
+LK-33	LG-33009	7	SLPP	Weththasinghe Arachchige Sanjeewa
+LK-33	LG-33009	7	UNP	Athukorala Kodithuwakkuge Udith Sandaruwan
+LK-33	LG-33009	8	FPF	Nambukara Wellalage Amarasiri
+LK-33	LG-33009	8	FSP	Ratadehigolle Gedara Irosha Harshanee Thilakarathna
+LK-33	LG-33009	8	IG1	Abeythunga Kankanam Gamachchige Jayantha
+LK-33	LG-33009	8	IG2	Kirili Deniyage Anura Ranjith
+LK-33	LG-33009	8	JJB	Weerasekara Kankanamge Madhushanka
+LK-33	LG-33009	8	SJB	Amudamana Arachchige Vijitha Nanda
+LK-33	LG-33009	8	SLPP	Kodithuwakku Arachchige Premathilaka
+LK-33	LG-33009	8	UNP	Amudamana Arachchige Gunasena
+LK-33	LG-33009	9	FPF	Pavanika Nethmini Samarasinghe Gunawardhana
+LK-33	LG-33009	9	FSP	Morakanda Gamage Kumudu Wasantha
+LK-33	LG-33009	9	IG1	Nanayakkara Kuruppuge Don Kavisena
+LK-33	LG-33009	9	IG2	Weerasinge Ananda
+LK-33	LG-33009	9	JJB	Hatharasinghe Arachchige Priyantha Jagath Kumara
+LK-33	LG-33009	9	SJB	Kahagalahewage Thushara
+LK-33	LG-33009	9	SLPP	Prathapasin Wijenayaka Thilak Daminda
+LK-33	LG-33009	9	UNP	Kadukannage Kanishka Nagarathna
+LK-33	LG-33009	10	FPF	Kankanam Gamage Sarath Kumara
+LK-33	LG-33009	10	FSP	Malawige Shayamalee Anuruddhika Nilmini
+LK-33	LG-33009	10	IG1	Omalpage Kapila Weerasekara
+LK-33	LG-33009	10	IG2	Karalahinge Rajendara
+LK-33	LG-33009	10	JJB	Anaththa Pathiranage Priyantha Kumara
+LK-33	LG-33009	10	SJB	Omalpagei Chandana Thilak
+LK-33	LG-33009	10	SLPP	Hettiarachchige Gaminee sanjeewa Anuruddha
+LK-33	LG-33009	10	UNP	Nammuni Arachchige Vimal Samaranayaka
+LK-33	LG-33009	11	FPF	Hewa Edirimannage Piyadasa
+LK-33	LG-33009	11	FSP	Weerasinhage Mahesh
+LK-33	LG-33009	11	IG1	Weerahinge Piyathissa
+LK-33	LG-33009	11	JJB	Hetti Arachchige Chaminda Kumara
+LK-33	LG-33009	11	SJB	Hathiringe Sisira Kumara Wijesinghe
+LK-33	LG-33009	11	SLPP	Marappulige Sumanasiri
+LK-33	LG-33009	11	UNP	Kahagala Hewage Nishantha
+LK-33	LG-33009	12	FPF	Balage Madhusanka Sanjeewa
+LK-33	LG-33009	12	FSP	Jahingei Piyawathee
+LK-33	LG-33009	12	IG1	Pattikara Bandanage Thushitha Lakmal
+LK-33	LG-33009	12	IG2	Kulappu Arachchige Don Thiyadoris Gunasekara
+LK-33	LG-33009	12	JJB	Mahadurage Sugathadasa
+LK-33	LG-33009	12	SJB	Bandaragama Nishara Shanika Hansamali
+LK-33	LG-33009	12	SLPP	Sarambage Sugathadasa
+LK-33	LG-33009	12	UNP	Rathnagoda Baranaduge Tenison
+LK-33	LG-33009	13	FPF	Darshana Senarath Arachchi
+LK-33	LG-33009	13	FSP	Dewa Bandanage Pradeep Punya Kumara
+LK-33	LG-33009	13	IG1	Ediri Bandanage Indika Prasad Wickramasinghe
+LK-33	LG-33009	13	IG2	Edirimannage Susantha
+LK-33	LG-33009	13	JJB	Kankani Durage Jayarathna
+LK-33	LG-33009	13	SJB	Sudarshana Karunanayaka
+LK-33	LG-33009	13	SLPP	Ranasinghe Arachchige Asanka Manjula
+LK-33	LG-33009	13	UNP	Ihala Kaththrikkage Sampath Abeywickrama
+LK-33	LG-33009	14	FPF	Malawi Pathiranage Hasini Sewwandi
+LK-33	LG-33009	14	FSP	Rajamuni Dewayalage Indraneela Siriyananda
+LK-33	LG-33009	14	IG1	Kodikara Arachchige Jagath Keerthi Sampath
+LK-33	LG-33009	14	IG2	Wijamuni Durage Ajith Miranda Abeywickrama
+LK-33	LG-33009	14	JJB	Weerappulige Upali
+LK-33	LG-33009	14	SJB	Munasindisanayaka Sarath Upananda
+LK-33	LG-33009	14	SLPP	Ellewela Pahalage Nelson Karunarathna
+LK-33	LG-33009	14	UNP	Kodikara Kankanamge Jagath Priyantha Shyamalal
+LK-33	LG-33009	15	FPF	Peramunage Prasad Kumara
+LK-33	LG-33009	15	FSP	Thibbotu Deniya Kankanamge Sumudu Chinthaka
+LK-33	LG-33009	15	IG1	Senarath Jathun Arachchige Samith Tharanga
+LK-33	LG-33009	15	IG2	Karalahinge Rukman
+LK-33	LG-33009	15	JJB	Loku Ketiyapege Padmalal Sanjeewana
+LK-33	LG-33009	15	SJB	Vidana Pathiranage Gunarathna
+LK-33	LG-33009	15	SLPP	Hettigei Sirisena
+LK-33	LG-33009	15	UNP	Mathukandage Dayasena
+LK-33	LG-33009	16	FPF	Kulasinhage Sirisantha Gunathilaka
+LK-33	LG-33009	16	FSP	Bathalawaththage Sachinthra Sagara Dhamith Sandaruwan
+LK-33	LG-33009	16	IG1	Vitharanage Nisansala Dilrukshi
+LK-33	LG-33009	16	IG2	Karalahinge Weersena
+LK-33	LG-33009	16	JJB	Bodara Gamage Rangalal Kumara
+LK-33	LG-33009	16	SJB	Kulappu Arachchige Loshan Ravindra
+LK-33	LG-33009	16	SLPP	Imbulahitiya Gamachchi Mahinda
+LK-33	LG-33009	16	UNP	Kariyawasam Katukoliha Gamage Sumethra
+LK-33	LG-33009	17	FPF	Gamage Janaka Madhushanka
+LK-33	LG-33009	17	FSP	Hewa Anthonige Piyasena
+LK-33	LG-33009	17	IG1	Walimunige Tharangasiri Priyankara
+LK-33	LG-33009	17	JJB	Somapala Abeygunawardhana
+LK-33	LG-33009	17	SJB	Weerasin Gamage Namal Prabhath Weerasinghe
+LK-33	LG-33009	17	SLPP	Rajapakshage Shiromi Malkanthi
+LK-33	LG-33009	17	UNP	Kattadige Prasad Madulal
+LK-33	LG-33010	0	FPF	Abeywickrama Liyana Arachchige Indika Priyadarshani
+LK-33	LG-33010	0	FPF	Amarasinghage Don Indika Sadaruwan
+LK-33	LG-33010	0	FPF	Diyagaha Gamage Anushaka Nayana Ruwan
+LK-33	LG-33010	0	FPF	Getamanna Gam Acharige Dhammika
+LK-33	LG-33010	0	FPF	Halpa Gamage Chasika Panchali
+LK-33	LG-33010	0	FPF	Jayasundara Arachchige Suranga Deepal
+LK-33	LG-33010	0	FPF	Kaludurage Sunanda Lal
+LK-33	LG-33010	0	FPF	Kodippilige Chandima Sandamali
+LK-33	LG-33010	0	FPF	Sanjeewa Sandaruwan Rubasinghe Dissanayake
+LK-33	LG-33010	0	FPF	Shanthi Ramasinghe
+LK-33	LG-33010	0	FPF	Vidanagamage Dayananda
+LK-33	LG-33010	0	FPF	Wimalasooriya Dona Anupa Hansani Abeyrathne
+LK-33	LG-33010	0	FPF	Wiriththamulla Gamage Sachitha Kaushan
+LK-33	LG-33010	0	FSP	Batheegama Gam Acharige Niketha
+LK-33	LG-33010	0	FSP	Bimali Thaksila Hewa Jayaweera
+LK-33	LG-33010	0	FSP	Hakmana Kodithuwakkuge Shanthilal
+LK-33	LG-33010	0	FSP	Kammala Manthrige Ajith Kumara
+LK-33	LG-33010	0	FSP	Lokuliyana Badalge Chameen Manoj Nadeera
+LK-33	LG-33010	0	FSP	Majuwana Kankanamge Chamil Sagara Buddhika
+LK-33	LG-33010	0	FSP	Palangasinghe Kodithuwakku Arachchige Dilakshi Nimesika
+LK-33	LG-33010	0	FSP	Pallimulle Kapugamage Vidura Kumara
+LK-33	LG-33010	0	FSP	Singankutti Arachchilage Disna Malkanthi
+LK-33	LG-33010	0	FSP	Walakada Arachchige Dammi Suranjika
+LK-33	LG-33010	0	FSP	Waththe Gamage Somawathee
+LK-33	LG-33010	0	FSP	Wijesinghe Lakmal Udaya Shantha
+LK-33	LG-33010	0	FSP	Witharana Gamage Ranga Prasad
+LK-33	LG-33010	0	IG1	Bala Durage Vimal Shantha
+LK-33	LG-33010	0	IG1	Devpura Acharige Nihal Ranjith
+LK-33	LG-33010	0	IG1	Edirachcharige Manjula Harshani
+LK-33	LG-33010	0	IG1	Edirisingha Kankanamge Tharanga Dilhani
+LK-33	LG-33010	0	IG1	Edirisinghe Arachchige Dammika Nishantha
+LK-33	LG-33010	0	IG1	Kaluhannedige Chandrasiri
+LK-33	LG-33010	0	IG1	Kankanam Gamage Janka Kumar
+LK-33	LG-33010	0	IG1	Kasthuri Arachchige Jayani Wasana
+LK-33	LG-33010	0	IG1	Makandurage Ramesh Dilshan Sanjeewa
+LK-33	LG-33010	0	IG1	Rajapaksha Pathiranage Sujith Wasantha
+LK-33	LG-33010	0	IG1	Shereeka Jayarathna
+LK-33	LG-33010	0	IG1	Vidanapathiranage Dilini Lakmali
+LK-33	LG-33010	0	IG1	Vijesekara Pathiranage Hashini Madushika
+LK-33	LG-33010	0	IG2	Anulawathee Dissanayaka
+LK-33	LG-33010	0	IG2	Deerasinghe Pathiranage Ayomi Priyadarshanee
+LK-33	LG-33010	0	IG2	Gamhewage Saman
+LK-33	LG-33010	0	IG2	Hemali Samarasekara Weerasooriya
+LK-33	LG-33010	0	IG2	Kapila Kodithuwakku Abhayarathna
+LK-33	LG-33010	0	IG2	Kekuna Mullage Thushara
+LK-33	LG-33010	0	IG2	Kulasinge Dilan Sanjula Kulasinghe
+LK-33	LG-33010	0	IG2	Mahanthe Arachchige Nihal
+LK-33	LG-33010	0	IG2	Nayiwimana Vidanage Lasantha Gayan
+LK-33	LG-33010	0	IG2	Vidana Gamage Nisha Mali Kumari
+LK-33	LG-33010	0	IG2	Vitharana Gamage Chamil Chathuranga
+LK-33	LG-33010	0	IG2	Weerappullige Rupalatha
+LK-33	LG-33010	0	IG2	Wickramasinhage Chandrawathee
+LK-33	LG-33010	0	JJB	Beragama Gamage Kamani Priyanga
+LK-33	LG-33010	0	JJB	Chandima Thushari Thuduwewaththa
+LK-33	LG-33010	0	JJB	Geeganage Ariyasena
+LK-33	LG-33010	0	JJB	Hetti Arachchige Sajeewi Melani Kaushalya Perera
+LK-33	LG-33010	0	JJB	Jagodage Shriyalatha
+LK-33	LG-33010	0	JJB	Kaludurage Prabhath Madhushanka Weerakoon
+LK-33	LG-33010	0	JJB	Kankanam Gamage Ranjith
+LK-33	LG-33010	0	JJB	Kosgahagoda Durage Nihal
+LK-33	LG-33010	0	JJB	Piyal Premanath Wijesinghe
+LK-33	LG-33010	0	JJB	Rathnagoda Barnaduge Nilanka
+LK-33	LG-33010	0	JJB	Wanni Arachchi Kankanamge Saman Priyantha
+LK-33	LG-33010	0	JJB	Wickramasin Arachchige Dayananda
+LK-33	LG-33010	0	JJB	Wijesekara Pathiranage Dulani Randika
+LK-33	LG-33010	0	SJB	Dissanayake Geetha Priyadarshani
+LK-33	LG-33010	0	SJB	Dissanayake Mudiyanselage Keshan Harsha Kumara
+LK-33	LG-33010	0	SJB	Hatharasinghe Arachchige Suneetha
+LK-33	LG-33010	0	SJB	Hetti Arachchige Sanjaya Pushpa Kumara
+LK-33	LG-33010	0	SJB	Hewagama Peramuna Arachchige Thumesha Gaya Kumari
+LK-33	LG-33010	0	SJB	Iranga Udayanganee Warnarathne Jayasooriya
+LK-33	LG-33010	0	SJB	Jagodage Srima Damayanthi
+LK-33	LG-33010	0	SJB	Kankanam Gamage Kamanee
+LK-33	LG-33010	0	SJB	Pitabeddara Sinhakkarage Pemsara
+LK-33	LG-33010	0	SJB	Piyumachcharige Prince Chandralal
+LK-33	LG-33010	0	SJB	Sella Hennadige Kamalsiri
+LK-33	LG-33010	0	SJB	Siribaddanage Nuwan Chathuranga
+LK-33	LG-33010	0	SJB	Wijewickrama Vidana Pathiranage Neel Rangajeewa Wijewickrama
+LK-33	LG-33010	0	SLPP	Abedeera Liyanage Nadaruwan Randika
+LK-33	LG-33010	0	SLPP	Agalaboda Gamage Thilini Malsha Sewwandi
+LK-33	LG-33010	0	SLPP	Andarage Dilshi Ramshima Gunathilaka
+LK-33	LG-33010	0	SLPP	Heendeliya Gamage Dushila Dilani Sirisena
+LK-33	LG-33010	0	SLPP	Hewa Kalukapuge Dammika Sanjeewani
+LK-33	LG-33010	0	SLPP	Jaagodage Mangalika
+LK-33	LG-33010	0	SLPP	Kawindu Rasanga Udawaththa
+LK-33	LG-33010	0	SLPP	Meegasdeniya Kankanamge kawindu Lanka Jayashan
+LK-33	LG-33010	0	SLPP	Prabhath Sanjeewa Abeywardana Pathirathna
+LK-33	LG-33010	0	SLPP	Thibbatuwawa Gamage Lalantha
+LK-33	LG-33010	0	SLPP	Walgama Kodithuwakkuge Duminda Kumara
+LK-33	LG-33010	0	SLPP	Widana Arachchige Prathibha Akshari
+LK-33	LG-33010	0	SLPP	Wijesiri Kankanamge Ruwan Wasantha Wijesiri
+LK-33	LG-33010	0	UNP	Boda Hennadige Harsha Madushanka
+LK-33	LG-33010	0	UNP	Chandradasa Ramasinghe
+LK-33	LG-33010	0	UNP	Dammika Abeysinghe Siriwardhana
+LK-33	LG-33010	0	UNP	Gardi Hewage Gayani Priyangani
+LK-33	LG-33010	0	UNP	Juliya Baduge Chandana Anura Sampath
+LK-33	LG-33010	0	UNP	Komangoda Arachchige Pethum Arshana
+LK-33	LG-33010	0	UNP	Madivilage Deepika Malkanthi
+LK-33	LG-33010	0	UNP	Malimbada Hewage Nimeshi
+LK-33	LG-33010	0	UNP	Mudith Indika Kumara Edirisinghe
+LK-33	LG-33010	0	UNP	Niranjala Lakmini Samaraweera
+LK-33	LG-33010	0	UNP	Polwaththa Rathubaduge Kavindu Lakshan
+LK-33	LG-33010	0	UNP	Ranjith Warna Palihawadana
+LK-33	LG-33010	0	UNP	Vidanage Priyangika
+LK-33	LG-33010	1	FPF	Nuwan Kumara Dissanayake
+LK-33	LG-33010	1	FSP	Palangasighe Kodithuwakku Arachchige Viraj Kavinda
+LK-33	LG-33010	1	IG1	Hettiarachchige Kavidu Janith Wanigasekara
+LK-33	LG-33010	1	IG2	Kodithuwakku Ganesh Dilip Kumara
+LK-33	LG-33010	1	JJB	Kankanam Gamage Rasantha
+LK-33	LG-33010	1	SJB	Abeywickrama Gunarathne Somapala
+LK-33	LG-33010	1	SLPP	Ullala Vidana Pathiranage Sandali Apsara
+LK-33	LG-33010	1	UNP	Jasenthu Kankanamge Sesiri Gamini
+LK-33	LG-33010	2	FPF	Halpe Gamage Chamith Ishan
+LK-33	LG-33010	2	FSP	Weerasekara Kankanam Arachchige Dilan Maduranga
+LK-33	LG-33010	2	IG1	Kodithuwakku Kankanamge Ajith Pushpa Kumara
+LK-33	LG-33010	2	IG2	Kodithuwakku Arachchige Asith Pasindu
+LK-33	LG-33010	2	JJB	Panamulla Arachchige Kumarajeewa
+LK-33	LG-33010	2	SJB	Munasinghe Arachchige Sithum Kaveesha Rathna
+LK-33	LG-33010	2	SLPP	Araboda Gamage Prabath Chandra Kumara
+LK-33	LG-33010	2	UNP	Liyanage Ranjith
+LK-33	LG-33010	3	FPF	Kadawedduwa Gamage Lahiru Sampath
+LK-33	LG-33010	3	FSP	Susil Liyanawanniarachchi
+LK-33	LG-33010	3	IG1	Kedala Badanasinge Jayantha
+LK-33	LG-33010	3	IG2	Wasantha Kodithuwakku Abhayarathna
+LK-33	LG-33010	3	JJB	Hakmana Kankanamge Renuka Damayanthi
+LK-33	LG-33010	3	SJB	Wijewarna Arachchi Hansi Shamindi Dilshara
+LK-33	LG-33010	3	SLPP	Vidana Arachchige Udaya Kumara
+LK-33	LG-33010	3	UNP	Nuwan Krishantha Vidana Pathirana
+LK-33	LG-33010	4	FPF	Nakulu Gamuwa Gamage Senarath Pushpa Kumara
+LK-33	LG-33010	4	FSP	Jayantha Wickrama Rathnayake
+LK-33	LG-33010	4	IG1	Yatigala Gamacharige Kanchana Subash
+LK-33	LG-33010	4	IG2	Kumarapeli Arachchige Nilanka
+LK-33	LG-33010	4	JJB	Niwanka Wanigarathne Dissanayake
+LK-33	LG-33010	4	SJB	Jayawickrama Arachchige Prabhath Nalaka
+LK-33	LG-33010	4	SLPP	Modarawana Gamage Siripala
+LK-33	LG-33010	4	UNP	Koku Hennadige Thushara Indika
+LK-33	LG-33010	5	FPF	Wijenayake Kankanamge Chashitha Madusan
+LK-33	LG-33010	5	FSP	Yatigala Lokugam Acharige Saman Wickramarathne
+LK-33	LG-33010	5	IG1	Bomiriya Badalge Sujeewa Nilanthi
+LK-33	LG-33010	5	IG2	Thuppahige Chamindu Hasintha
+LK-33	LG-33010	5	JJB	Weda Arachchige Thushara Chandrasiri Weda Arachchi
+LK-33	LG-33010	5	SJB	Kiramage Ishan Madhushanka
+LK-33	LG-33010	5	SLPP	Rathnasingha Waththage Anil Pradeep
+LK-33	LG-33010	5	UNP	Angulmaduwa Lokuruge Malshan Kapruk Theekshana
+LK-33	LG-33010	6	FPF	Shriyani Abeysekara
+LK-33	LG-33010	6	FSP	Gamachchige Chandrani
+LK-33	LG-33010	6	IG1	Thalpavila Vidana Kankanamge Bandula Dias
+LK-33	LG-33010	6	IG2	Nandasena Weerakoon
+LK-33	LG-33010	6	JJB	Hewabedda Kankanamge Sisira Kumara
+LK-33	LG-33010	6	SJB	Hettihewage Shriyani
+LK-33	LG-33010	6	SLPP	Meegasdeniya Kankanamge Kasun
+LK-33	LG-33010	6	UNP	Kahanda Gamage Pemasiri
+LK-33	LG-33010	7	FPF	Walgama Kodithuwakkuge Ranila Madhushan
+LK-33	LG-33010	7	FSP	Kodithuwakkuge Jayakodi
+LK-33	LG-33010	7	IG1	Winsan Muthukumarana
+LK-33	LG-33010	7	IG2	Meegasdeniya Kankanamge Prabodith Dharmajewa
+LK-33	LG-33010	7	JJB	Aparekke Vidana Pathiranage Sunil Shantha
+LK-33	LG-33010	7	SJB	Gunawardane Edirisinghe Sagara Jagath Chaminda
+LK-33	LG-33010	7	SLPP	Dulmini Dissanayaka
+LK-33	LG-33010	7	UNP	Meegasdeniya Kankanamge Nilantha Ajith Kumara
+LK-33	LG-33010	8	FPF	Vipula Dinesh Jayasinghe Kodithuwakku
+LK-33	LG-33010	8	FSP	Ariyarathna Abesooriya
+LK-33	LG-33010	8	IG1	Kulasinge Thilina Sandaruwan
+LK-33	LG-33010	8	IG2	Mithrabanu Susantha Kodithuwakku
+LK-33	LG-33010	8	JJB	Senkonda Arachchige Jayaweera
+LK-33	LG-33010	8	SJB	Ipitagama Liyana Arachchige Pushpa Kanthi
+LK-33	LG-33010	8	SLPP	Athukorala Arachchige Girty Dayamaal
+LK-33	LG-33010	8	UNP	Pushpa Kumara Liyanage
+LK-33	LG-33010	9	FPF	Rubasinhage Ariyadasa
+LK-33	LG-33010	9	FSP	Welitharagei Wasantha
+LK-33	LG-33010	9	IG1	Dikwella Vidanage Saman Kumara
+LK-33	LG-33010	9	IG2	Kankanam Pathiranage Priyanthi
+LK-33	LG-33010	9	JJB	Thanthri Waththage Rohini Bandara
+LK-33	LG-33010	9	SJB	Epitagama Liyanachchige Sirisena
+LK-33	LG-33010	9	SLPP	Munasingha Arachchige Suresh Jeewantha
+LK-33	LG-33010	9	UNP	Damith Lakmal Munasinghe
+LK-33	LG-33010	10	FPF	Weerasooriya Arachchige Ruwan Sameera
+LK-33	LG-33010	10	FSP	Jamuni Bandula Sirisenarathne
+LK-33	LG-33010	10	IG1	Wanni Arachchige Mohan Nishantha
+LK-33	LG-33010	10	IG2	Wellappili Arachchige Harsha
+LK-33	LG-33010	10	JJB	Agampodi Ananda
+LK-33	LG-33010	10	SJB	Weerathunga Arachchige Chathura Shamantha
+LK-33	LG-33010	10	SLPP	Andarage Pawith Sankalpa Gunathilaka
+LK-33	LG-33010	10	UNP	Shreemathee Sudarshanee Gamage
+LK-33	LG-33010	11	FPF	Kodithuwakku Arachchige Ranjith
+LK-33	LG-33010	11	FSP	Meegasdeniye Kankanamge Rukshan Chamadu
+LK-33	LG-33010	11	IG1	Perumpulli Arachchige Omitha Sehani
+LK-33	LG-33010	11	IG2	Waniganayaka Munasinghe Arachchige Irani Nilmini
+LK-33	LG-33010	11	JJB	Muthumala Patabendige Nimal Jayantha Muthumala
+LK-33	LG-33010	11	SJB	Kariyawasam Singappuli Thanthirige Ranjan
+LK-33	LG-33010	11	SLPP	Mirissa Galappaththige Wiraj Lalantha
+LK-33	LG-33010	11	UNP	Manawaduge Kelum Janaka
+LK-33	LG-33010	12	FPF	Chathuri Nawodya Peris
+LK-33	LG-33010	12	FSP	Akmeemana Gam Acharige Wimalarathne
+LK-33	LG-33010	12	IG1	Amal Indika Deniyayage
+LK-33	LG-33010	12	IG2	Angulmaduwa Gamage Thilak Susantha
+LK-33	LG-33010	12	JJB	Wiriththamulle Gamage Piyadasa
+LK-33	LG-33010	12	SJB	Badathuruge Gunapala
+LK-33	LG-33010	12	SLPP	Kankanan Pathirana Shantha
+LK-33	LG-33010	12	UNP	Deweni Gurukankanamge Prince Ranaweera
+LK-33	LG-33010	13	FPF	Ulluwis Hewage Rasika Deepani
+LK-33	LG-33010	13	FSP	Wickramasinghe Arachchige Lahiru Sampath
+LK-33	LG-33010	13	IG1	Nambukara Palliyaguruge Piyarathna
+LK-33	LG-33010	13	IG2	Hewa Koparage Kavishka Muthumina
+LK-33	LG-33010	13	JJB	Ranaweera Kodithuwakkuge Priyantha Kumara
+LK-33	LG-33010	13	SJB	Weerasinghe Mudiyanselage Chinthaka Niroshana Bandara
+LK-33	LG-33010	13	SLPP	Parana Palliya Guruge Helan Pushpa Kumara
+LK-33	LG-33010	13	UNP	Wiriththa Mulla Gamage Thissa
+LK-33	LG-33010	14	FPF	Lokuhewagamage Tharidu Pethum
+LK-33	LG-33010	14	FSP	Karaputugala Gamacharige Sanjila Nawodanee
+LK-33	LG-33010	14	IG1	Ganesh Eranga Gajaveera
+LK-33	LG-33010	14	IG2	Amil Chandana Ranasinghe
+LK-33	LG-33010	14	JJB	Wagachchige Rathnasiri
+LK-33	LG-33010	14	SJB	Prangi Kankanamge Athula Sampath
+LK-33	LG-33010	14	SLPP	Yasinda Nalaka Ranasingha
+LK-33	LG-33010	14	UNP	Siril Hettiarachchi Gamage
+LK-33	LG-33010	15	FPF	Nambukara Gamage Hasith Kumara
+LK-33	LG-33010	15	FSP	Pattiya Gamage Dammika Asoka Kumara
+LK-33	LG-33010	15	IG1	Hathagala Patabendige Nishan Udaya Kumara
+LK-33	LG-33010	15	IG2	Lokugam Hewage Charith Saranga
+LK-33	LG-33010	15	JJB	Juwana Hennedige Milroy Krisantha
+LK-33	LG-33010	15	SJB	Kotte Hewage Janaka Krishantha
+LK-33	LG-33010	15	SLPP	Samarasingha Vidanagamage Udeshika Harshani
+LK-33	LG-33010	15	UNP	Manawaduge Chintha Teleeshiya
+LK-33	LG-33010	16	FPF	Ubeysinghe Samarawickrama Wanniarachchi Saman
+LK-33	LG-33010	16	FSP	Aluthgama Guruge Sahiru Sasanka
+LK-33	LG-33010	16	IG1	Sunil Weerathunga Ekanayaka
+LK-33	LG-33010	16	IG2	Devin Harisara Amaraweera
+LK-33	LG-33010	16	JJB	Kumara Hewage Pemasiri
+LK-33	LG-33010	16	SJB	Manjula Prasanna Abeysiriwardane
+LK-33	LG-33010	16	SLPP	Sarath Wanigarathna Dissanayaka
+LK-33	LG-33010	16	UNP	Rajasinghe Mudiyanselage Dammika Udaya Kumara
+LK-33	LG-33011	0	DEJP	Arukattu Patabendige Thiyana Dinsari
+LK-33	LG-33011	0	DEJP	Arukku Patabendige Visal Minsara
+LK-33	LG-33011	0	DEJP	Hawa Manage Sanath Kumara
+LK-33	LG-33011	0	DEJP	Loku Yaddehige Ruwan
+LK-33	LG-33011	0	DEJP	Mahiama Pratheebha Gamhewa
+LK-33	LG-33011	0	DEJP	Martin Stylege Sandya Sepali
+LK-33	LG-33011	0	DEJP	Mudalige Chaminda
+LK-33	LG-33011	0	DEJP	Nimalka Nimali Kapugamage
+LK-33	LG-33011	0	DEJP	Parana Witharanage Chaminda Senarathna
+LK-33	LG-33011	0	DEJP	Serasinghe Gamage Bennat
+LK-33	LG-33011	0	DEJP	Tasheeka Mihirani Baduge
+LK-33	LG-33011	0	DEJP	Tikiri Hennadige Shashini Madhushani
+LK-33	LG-33011	0	DEJP	Wadasinghage Sunethra
+LK-33	LG-33011	0	FPF	Bulathwaththa Kankanamge Sanduni Kanchana
+LK-33	LG-33011	0	FPF	Galappaththi Ayrin
+LK-33	LG-33011	0	FPF	Jayalakshana Wijenayaka Chamari Surangika
+LK-33	LG-33011	0	FPF	Jayasooriya Patabedige Chamil Jayaneth
+LK-33	LG-33011	0	FPF	Kariyawasam Pathirage Ramani
+LK-33	LG-33011	0	FPF	Kavishka Madhawa Udagedara
+LK-33	LG-33011	0	FPF	Loku Yaddege Damith Susantha
+LK-33	LG-33011	0	FPF	Madurappulige Pethum Ravindu
+LK-33	LG-33011	0	FPF	Mahamada Kalapuwage Pradeep Kumar Madusanka
+LK-33	LG-33011	0	FPF	Saman Kodippili
+LK-33	LG-33011	0	FPF	Tikira Hennadige Nikeshala Devindi
+LK-33	LG-33011	0	FPF	Ulluwis Hewage Nishedi Ahinsa
+LK-33	LG-33011	0	FPF	Witharana Kuda Arachchige Amith Priyadarshana
+LK-33	LG-33011	0	IG1	Dewabandanage Monica
+LK-33	LG-33011	0	IG1	Geethanganee Warnasooriya
+LK-33	LG-33011	0	IG1	George Darwin Lokumarakkala
+LK-33	LG-33011	0	IG1	Hettiarachchige Sarath
+LK-33	LG-33011	0	IG1	Hewa Walgamage Nimal Prasanna Weerakon
+LK-33	LG-33011	0	IG1	Liyana Patabendige Aruna Nishantha
+LK-33	LG-33011	0	IG1	Mirissa Mallikage Susila Jayanthi
+LK-33	LG-33011	0	IG1	Nandasin Arachchige Nipuni Aranga
+LK-33	LG-33011	0	IG1	Nelumshika Sandamali Gunasekara
+LK-33	LG-33011	0	IG1	Nirosha Kumari Weerawarna
+LK-33	LG-33011	0	IG1	Semipala Wanigasinghe
+LK-33	LG-33011	0	IG1	Sooriyachcharige Shantha
+LK-33	LG-33011	0	IG1	Wickrama Arachchige Chandrasena
+LK-33	LG-33011	0	JJB	Ebbraham Galappaththi Gayani Pramodanee
+LK-33	LG-33011	0	JJB	Elapatha Rajapaksha Siriwardhana Hewa Puwakdandawage Prasad Chandana
+LK-33	LG-33011	0	JJB	Galle Annakkage Padmalatha
+LK-33	LG-33011	0	JJB	Henpita Gamage Sameera Udayanga
+LK-33	LG-33011	0	JJB	Kalubadange Iresha Sudarshi
+LK-33	LG-33011	0	JJB	Loku Marakkalage Susantha Kumara
+LK-33	LG-33011	0	JJB	Nadeeka Prasadinee Samarappuli
+LK-33	LG-33011	0	JJB	Sakaladhipathige Asankamali
+LK-33	LG-33011	0	JJB	Samarasinghe Kankanamge Wasantha
+LK-33	LG-33011	0	JJB	Thumbe Wanni Arachchige Prasad Pushpakumara
+LK-33	LG-33011	0	JJB	Werala Widanage Anuradha Robat Kumara
+LK-33	LG-33011	0	JJB	Wineetha Madawanarachchi
+LK-33	LG-33011	0	JJB	Yaddehige Ajith Nishantha
+LK-33	LG-33011	0	SJB	Chamith Lalanka Sayakkara
+LK-33	LG-33011	0	SJB	Darshani Wanigasinghe
+LK-33	LG-33011	0	SJB	Disanayaka Mudiyanselage Dilani Buddhika
+LK-33	LG-33011	0	SJB	Goyigoda Gamage Nandana Pushpa Kumara Siriwardhana
+LK-33	LG-33011	0	SJB	Hewa Angappulige Champika Kalyani
+LK-33	LG-33011	0	SJB	Jayawardhana Pathiranage Sarath Jayawardhana
+LK-33	LG-33011	0	SJB	Jayawarna Arachchige Shyamalee
+LK-33	LG-33011	0	SJB	Jothi Rathnagei Ajith Rasanjeewa
+LK-33	LG-33011	0	SJB	Loku Yakdehige Deepika
+LK-33	LG-33011	0	SJB	Mohomad Yusup Amanulla
+LK-33	LG-33011	0	SJB	Nalin Kumara Ruwan Pathirana
+LK-33	LG-33011	0	SJB	Villaddara Heellage Pravindani Kumari
+LK-33	LG-33011	0	SJB	Wilson Ediriveera
+LK-33	LG-33011	0	SLPP	Denagama Witharanage Chandana Pradeep Kumara
+LK-33	LG-33011	0	SLPP	Denagama Witharanage Tharindu Dilshan
+LK-33	LG-33011	0	SLPP	Disanayaka Mudiyanselage Shiranee
+LK-33	LG-33011	0	SLPP	Garusinge Priyanthi
+LK-33	LG-33011	0	SLPP	Hetti Arachchige Nishadi Thakshila
+LK-33	LG-33011	0	SLPP	Hewa Rathnappullige Tiran Madusanka
+LK-33	LG-33011	0	SLPP	Hewa Thondilage Krishanee Shasheekala
+LK-33	LG-33011	0	SLPP	Jayasekara Liyana Patabendige Chaminda
+LK-33	LG-33011	0	SLPP	Jayasekara Liyana Patabendige Chandana
+LK-33	LG-33011	0	SLPP	Jayasekara Pathiranage Chamila
+LK-33	LG-33011	0	SLPP	Maliduwage Rushan Kumara
+LK-33	LG-33011	0	SLPP	Mudugamuwa Hewage Nikitha Divyangi
+LK-33	LG-33011	0	SLPP	Priyadarshana Samarasinghe Gunasekara Liyanage
+LK-33	LG-33011	0	UNP	Gawasinghage Achini Sewwandi
+LK-33	LG-33011	0	UNP	Hewa Angappulige Lalith Kumara
+LK-33	LG-33011	0	UNP	Lalith Shriyani Kammalgoda Mudalige
+LK-33	LG-33011	0	UNP	Loku Gamage Dumith Buddhika
+LK-33	LG-33011	0	UNP	Mapalanagama Arachchige Nirosha Dilrukshi
+LK-33	LG-33011	0	UNP	Nishan Maduranga Hettiarachchi
+LK-33	LG-33011	0	UNP	Thalpawila Widana Kankanamge Geetha Gunaseeli
+LK-33	LG-33011	0	UNP	Warnakulasooriya Gunasekara Ishani
+LK-33	LG-33011	0	UNP	Warnakulasooriya Sumanasiri
+LK-33	LG-33011	0	UNP	Weerasekara Kankanamge Shrimal
+LK-33	LG-33011	0	UNP	Widanage Wiraj Prasanna
+LK-33	LG-33011	0	UNP	Wijenayaka Ruwan Pathiranage Prabhath Rohana
+LK-33	LG-33011	0	UNP	Wijesekara Arachchige Preethika
+LK-33	LG-33011	1	DEJP	Denagama Jalathge Akila Anjula
+LK-33	LG-33011	1	FPF	Hettiarchchige Hemachandra
+LK-33	LG-33011	1	IG1	Vidana Pathiranage Jinadasa
+LK-33	LG-33011	1	JJB	Taraperiya Gamage Jayantha
+LK-33	LG-33011	1	SJB	Kalu Arachchige Saman Kumara
+LK-33	LG-33011	1	SLPP	Obada Arachchige Samantha Padmakumara
+LK-33	LG-33011	1	UNP	Weerasekara Arachchige Chaminda Kumara
+LK-33	LG-33011	2	DEJP	Kankanam Pathiranage Kevan Vidusara Madubhashana
+LK-33	LG-33011	2	FPF	Palliyabaduge Roshan Menaka
+LK-33	LG-33011	2	IG1	Goigoda Gamage Don Shamil Indika
+LK-33	LG-33011	2	JJB	Baladurage Chamila Lakmini
+LK-33	LG-33011	2	SJB	Mirinchige Damith Anushka
+LK-33	LG-33011	2	SLPP	Rathnappulige Thamara Priyadarshani
+LK-33	LG-33011	2	UNP	Wijamunige Disna Gayani Rajapaksha
+LK-33	LG-33011	3	DEJP	Abeyvickrama Gamage Rathnasiri Abeyvickrama
+LK-33	LG-33011	3	FPF	Samaraweera Kadawatha Arachchige Sirisena
+LK-33	LG-33011	3	IG1	Vidanagamage Madhura Priyanjith
+LK-33	LG-33011	3	JJB	Yapa Puwak Dandawage Pramith Suranga
+LK-33	LG-33011	3	SJB	Jayapathi Liyanarathna Hakmana Nekathige Percy Milan
+LK-33	LG-33011	3	SLPP	Baladurage Chaminda Ramyajee
+LK-33	LG-33011	3	UNP	Ariyachandrage Kodithuwakku Chanaka
+LK-33	LG-33011	4	DEJP	Hewa Gajanayakage Dakshina Migara Ramavikrama
+LK-33	LG-33011	4	FPF	Kaluhennadige Darshana Pradeep
+LK-33	LG-33011	4	IG1	Rathnayaka Geegana Arachchige Amila Sampath
+LK-33	LG-33011	4	JJB	Prabha Ruwan Senarath
+LK-33	LG-33011	4	SJB	Sandapperuma Arachchige Jayantha Nihal Maldeniya
+LK-33	LG-33011	4	SLPP	Gama Welegedara Madhusanka Ishara Hemantha
+LK-33	LG-33011	4	UNP	Sawundra Hennadige Dinesh Ruwan Priyadarshana
+LK-33	LG-33011	5	DEJP	Wanigasekara Krishadulmini
+LK-33	LG-33011	5	FPF	Palliya Baduge Krishan Janaka
+LK-33	LG-33011	5	IG1	Andara hennadige Athula Somasiri
+LK-33	LG-33011	5	JJB	Kalu Badanage Sumith Kumara
+LK-33	LG-33011	5	SJB	Wijesekara Arachchige Jagath Nirosha
+LK-33	LG-33011	5	SLPP	Dikkumburage Thilak Mohan Lal
+LK-33	LG-33011	5	UNP	Thushara Muthumala Jayasooriya
+LK-33	LG-33011	6	DEJP	Kodippili Patabendige Chandrasena
+LK-33	LG-33011	6	FPF	Suresh Rangana Saranasooriya Upasaka Arachchige
+LK-33	LG-33011	6	IG1	Sayakkarage Kithsiri
+LK-33	LG-33011	6	JJB	Liyana Patabendige Piyasena
+LK-33	LG-33011	6	SJB	Weerawarnakula Sumudu Ishara
+LK-33	LG-33011	6	SLPP	Paranamana Jayatjilaka
+LK-33	LG-33011	6	UNP	Widanage Rukman
+LK-33	LG-33011	7	DEJP	Harindra Lakmal Abeywickrama
+LK-33	LG-33011	7	FPF	Tharindu Kaushalya Liyanapatabendi
+LK-33	LG-33011	7	IG1	Punchipatabendige Nadeen Prabhash Kumara
+LK-33	LG-33011	7	JJB	Wijenayaka korale Kankanamge Gunarathna
+LK-33	LG-33011	7	SJB	Wedaarachchi Patabendige Saliya Ranjan
+LK-33	LG-33011	7	SLPP	Lalitha Rampola Wanigasekara
+LK-33	LG-33011	7	UNP	Jayasooriya Patabendige Jayasena
+LK-33	LG-33011	8	DEJP	Weerasekara Arachchige Hashani Shihara
+LK-33	LG-33011	8	FPF	Nevil Kumara Ruwan Pathirana
+LK-33	LG-33011	8	IG1	Jayasekara Liyana Patabendige Darshana
+LK-33	LG-33011	8	JJB	Lasitha Abeweera Arachchige
+LK-33	LG-33011	8	SJB	WijeWeera Patabedige Buddhika Nuwan
+LK-33	LG-33011	8	SLPP	Gayan Anushka Weerawarna
+LK-33	LG-33011	8	UNP	Liyana Patabedige Namal Dasantha
+LK-33	LG-33011	9	DEJP	Jayasekara Kankanamge Percy Mahinda Jayasekara
+LK-33	LG-33011	9	FPF	Yaddehige Nadeesha Nilanthi
+LK-33	LG-33011	9	IG1	Jayawardhana Pathiranage Shantha
+LK-33	LG-33011	9	JJB	Malabarana Palangasin Patabendi Pathiranage Nuwan Pradeep Kumara
+LK-33	LG-33011	9	SJB	Pradeep Nishantha Vidanapathirana
+LK-33	LG-33011	9	SLPP	Ranaweerage Jagath Hemantha
+LK-33	LG-33011	9	UNP	Wijenayaka Ruwanpathiranage Udaya kumara
+LK-33	LG-33011	10	DEJP	Jayawardhana Widana Arachchige Kumudu Kavinda
+LK-33	LG-33011	10	FPF	Jayalakshana Wijenayaka Chamila Surangika
+LK-33	LG-33011	10	IG1	Leelawathi Amarasiri Gunawardhana
+LK-33	LG-33011	10	JJB	Anil Mahesh Wikramarathna
+LK-33	LG-33011	10	SJB	Bhagya Paramee Rajapaksha
+LK-33	LG-33011	10	SLPP	Punya Sri Kumara Jayawardhana
+LK-33	LG-33011	10	UNP	Goigoda Gamage Greshan
+LK-33	LG-33011	11	DEJP	Kedala Vidana Pathiranage Rajika Chandani
+LK-33	LG-33011	11	FPF	Prabhath Mohan Udagedara
+LK-33	LG-33011	11	IG1	Samarasinghe Arachchige Siri Premantha
+LK-33	LG-33011	11	JJB	Mahanama Nam Geegana Gamage Chandra Kumara
+LK-33	LG-33011	11	SJB	Samarasinghe Arachchige Namal Jayantha
+LK-33	LG-33011	11	SLPP	Amila Mallawaraja Samarawikrama Abesekara
+LK-33	LG-33011	11	UNP	Jayalath Ranasin Disanayaka Sampath Thushantha
+LK-33	LG-33011	12	DEJP	Galappaththige Chaminda Kumara
+LK-33	LG-33011	12	FPF	Hathagala Patabendige Sewwandika
+LK-33	LG-33011	12	IG1	Fransico Baduge Sasanka Padma
+LK-33	LG-33011	12	JJB	Suwanda Hennadige Prageeth Chathura Mihiran
+LK-33	LG-33011	12	SJB	Warsha Hennadige Sanath Sujeewa
+LK-33	LG-33011	12	SLPP	Arukattu Patabendige Asela Rangajeewa
+LK-33	LG-33011	12	UNP	Mahamarakkalage Lalith Kumara
+LK-33	LG-33011	13	DEJP	Rathnayaka Arachchige Rashika Kushan
+LK-33	LG-33011	13	FPF	Kodithuwakku Kankanamge Amarasena
+LK-33	LG-33011	13	IG1	Gayan Lahiru Oshada Abeynayaka
+LK-33	LG-33011	13	JJB	Pemadasa Weerasinghe
+LK-33	LG-33011	13	SJB	Hakmana Wijesinghe Arachchige Kusumawathee
+LK-33	LG-33011	13	SLPP	Deeyagaha Rajapakshage Sensan
+LK-33	LG-33011	13	UNP	Ubesin Weerawardhana Arachchige Dayananda
+LK-33	LG-33011	14	DEJP	Amarasekara Mudiyanselage Indika Ranil Kumara
+LK-33	LG-33011	14	FPF	Weerasinghage Tharindu Dilhan
+LK-33	LG-33011	14	IG1	Bodhagama arachchige Prema Nandani
+LK-33	LG-33011	14	JJB	Juwana Baduge Chaminda
+LK-33	LG-33011	14	SJB	Prasantha Gardiyewasan Punchihewa
+LK-33	LG-33011	14	SLPP	Denagama Witharanage Chamila Kumari
+LK-33	LG-33011	14	UNP	Lokumarakkalage Dhanuka Madhusanka
+LK-33	LG-33011	15	DEJP	Galappaththi Arachchilage Jinedra Chaminda
+LK-33	LG-33011	15	FPF	Jayaweera Liyanapatabendige Chamil Roshan
+LK-33	LG-33011	15	IG1	Sudurukku Hennadige Chiroda Raseewanee
+LK-33	LG-33011	15	JJB	Marakkalage Rangana Kumara
+LK-33	LG-33011	15	SJB	Ginthota Sarukkala Patabedige Preethi Viraj Priyankara
+LK-33	LG-33011	15	SLPP	Marakkala Manage Thisara Geeth Sandun
+LK-33	LG-33011	15	UNP	Jayaweera Liyanapatabendigei Nimal Chandra Dasa
+LK-33	LG-33011	16	DEJP	Samarathunga Arachchige Rasika Kumara
+LK-33	LG-33011	16	FPF	Kaluhennadige Wijesiri
+LK-33	LG-33011	16	IG1	Nilaweera Patabedige Aruna Kumara Sadasiri
+LK-33	LG-33011	16	JJB	Pransikku Baduge Sanath Sandaruwan
+LK-33	LG-33011	16	SJB	Paranamanage Buddhika Priyadarshana
+LK-33	LG-33011	16	SLPP	Goigoda Gamage Chandrananda
+LK-33	LG-33011	16	UNP	Rathnaweera Patabendige Ganesha Madhuranganee
+LK-33	LG-33012	0	DEJP	Galbokka Hewage Sisirarathna
+LK-33	LG-33012	0	DEJP	Gardiyawasam Balage Padmasiri Bandula
+LK-33	LG-33012	0	DEJP	Gardiyawasam Punchihewage Kalyani Padma Kumari
+LK-33	LG-33012	0	DEJP	Gunawathee Weerarathna
+LK-33	LG-33012	0	DEJP	Madduma Patabendige Channa Priyantha
+LK-33	LG-33012	0	DEJP	Mohamad Alawadeen Mohamad Rifas
+LK-33	LG-33012	0	DEJP	Pasan Thilinda Senanayaka
+LK-33	LG-33012	0	DEJP	Rathran Pramadige Sayini Iresha
+LK-33	LG-33012	0	DEJP	Sawunda Hennadige Ganeshi Dilshara
+LK-33	LG-33012	0	DEJP	Waligathsethuge Saduni
+LK-33	LG-33012	0	IG1	Daham Jeewana Sooriyapatabendi
+LK-33	LG-33012	0	IG1	Galappaththi Merendige Chamara Madhusanka
+LK-33	LG-33012	0	IG1	Kanchana Rathnayaka
+LK-33	LG-33012	0	IG1	Nambukara Gamage Madushi Nirasha
+LK-33	LG-33012	0	IG1	Pradeep Kumara Muthumala
+LK-33	LG-33012	0	IG1	Sachini Rathsara Muthukumarana
+LK-33	LG-33012	0	IG1	Sambandi Kaludurage Thiresha
+LK-33	LG-33012	0	IG1	Shanthanee Abeydeera
+LK-33	LG-33012	0	IG1	Wijeweera Patabendige Lathika Sameera
+LK-33	LG-33012	0	JJB	Ahangama Dikkumburage Shanthi Samanlatha
+LK-33	LG-33012	0	JJB	Amal Rohitha Wikramanayaka
+LK-33	LG-33012	0	JJB	Amashi Sanjana Jayasekara
+LK-33	LG-33012	0	JJB	Champika Priyanthi Wikrama Kaluthota
+LK-33	LG-33012	0	JJB	Keerthi Gamhewa
+LK-33	LG-33012	0	JJB	Pathmasiri Gamhewa
+LK-33	LG-33012	0	JJB	Piladuwa Loku Bogahawaththage Jayantha
+LK-33	LG-33012	0	JJB	Pincha Hewage Vineetha Jayanthi
+LK-33	LG-33012	0	JJB	Sella Hennadige Sagarika Punya Kanthi De Silva
+LK-33	LG-33012	0	JJB	Wele Kankanamge Nelsan
+LK-33	LG-33012	0	SJB	Andaraweera Arachchige Ranjani Shriyani
+LK-33	LG-33012	0	SJB	Athula Kumara Wikramasooriya
+LK-33	LG-33012	0	SJB	Gardiyawasam Punchi Hewage Pushpa Ayrangani
+LK-33	LG-33012	0	SJB	Indrawansha Gamhewa
+LK-33	LG-33012	0	SJB	Koggala Hewage Chandradasa
+LK-33	LG-33012	0	SJB	Parana Palliya Guruge Udara
+LK-33	LG-33012	0	SJB	Rathnaweera Patabendige Anoma Janakee
+LK-33	LG-33012	0	SJB	Sawunda Hennadige Pushpakanthi Shiromala
+LK-33	LG-33012	0	SJB	Tikiri Hannadige Sidni Ranjan
+LK-33	LG-33012	0	SJB	Tushanika Darshani Vikramakaluthota
+LK-33	LG-33012	1	DEJP	Abesinghe Kodippili Patabendige Vijith Chandima Abesinghe
+LK-33	LG-33012	1	DEJP	Kankanam Arachchige Chandana
+LK-33	LG-33012	1	IG1	Kankanam Arachchige Nilantha
+LK-33	LG-33012	1	IG1	Nihiluwe Galetambage Sarath
+LK-33	LG-33012	1	JJB	Ariyasena Mathangaweera
+LK-33	LG-33012	1	JJB	Siribaddanage Hemasiri
+LK-33	LG-33012	1	SJB	Ranjith Yapa Arachchi
+LK-33	LG-33012	1	SJB	Warnakulasooriya Patabadige Ariyadasa
+LK-33	LG-33012	2	DEJP	Koggala Hewage Gunarathna
+LK-33	LG-33012	2	IG1	Gedippala Gamage Anil Ajith
+LK-33	LG-33012	2	JJB	Susil Harischandra Weerawarna
+LK-33	LG-33012	2	SJB	Warnakula Kurukula Sooriyage Pasindu Nelanka
+LK-33	LG-33012	3	DEJP	Elgiriya Gamage Neela Priyanka
+LK-33	LG-33012	3	DEJP	Siril Wikramasooriya
+LK-33	LG-33012	3	IG1	Sella Hennedige Anil
+LK-33	LG-33012	3	IG1	Umed Wishwajith Abedeera
+LK-33	LG-33012	3	JJB	Gardiyawasam Kankanamge Sumathapala
+LK-33	LG-33012	3	JJB	Kusuma Nandani Abeydeera
+LK-33	LG-33012	3	SJB	Kasige Araliya Erandima Silva
+LK-33	LG-33012	3	SJB	Weda Arachchi Patabendige Ravidu Dilshan
+LK-33	LG-33012	4	DEJP	Vimal Hewa Dunuwila
+LK-33	LG-33012	4	IG1	Johan Baduge Rasanka Tharanga Kumara
+LK-33	LG-33012	4	JJB	Parana Palliyaguruge Nandasiri
+LK-33	LG-33012	4	SJB	Indika Sadhdhamangala Udagedara
+LK-33	LG-33012	5	DEJP	Wengappuli Arachchige Gayan Samidda
+LK-33	LG-33012	5	IG1	Upul Rohitha Madduma Patabendige
+LK-33	LG-33012	5	JJB	Gaytage Chinthaka Kalum
+LK-33	LG-33012	5	SJB	Nelum Krishantha Gardiyewasan Punchihewa
+LK-33	LG-33012	6	DEJP	Abeydeera Seena Patabendige Wilfred
+LK-33	LG-33012	6	IG1	Ipitagama Liyanaarachchige Sureka Jeewanthi
+LK-33	LG-33012	6	JJB	Pitaduwa Gamage Nanda Kumara
+LK-33	LG-33012	6	SJB	Muthukumarana Landege Janakee Chintha
+LK-33	LG-33012	7	DEJP	Denagama Vitharanage Ganesh Priyankara
+LK-33	LG-33012	7	IG1	Galbokka Hewage Indra Kumara
+LK-33	LG-33012	7	JJB	Wasantha Kaluthota
+LK-33	LG-33012	7	SJB	Weda Arachchi Patabendige Neel Lalith
+LK-33	LG-33012	8	DEJP	Mohamad Alawudeen Mohamad Shirash
+LK-33	LG-33012	8	IG1	Mahamadakalapuwage Kalindu Madushan
+LK-33	LG-33012	8	IG1	Mohamad Mashoor Mohamad Mapas
+LK-33	LG-33012	8	JJB	Mohamad Hasan Kamardeen
+LK-33	LG-33012	8	JJB	Sella Hennadige Sarath Amaranath
+LK-33	LG-33012	8	SJB	Jayasundara Mudiyanselage Chandradharmabanda Jayasundara
+LK-33	LG-33012	8	SJB	Thuwan Shamil Noor Amith
 LK-61	LG-61001	0	AJP	Balasooriya Mudiyanselage Chandrasiri Balasooriya
 LK-61	LG-61001	0	AJP	Ekanayaka Mudiyanselage Nadeeka Ruwan Kumari
 LK-61	LG-61001	0	AJP	Herath Mudiyanselage Malani Herath
@@ -42982,7 +45264,6 @@ LK-71	LG-71016	0	JJB	Seruwari Arachchilage Wasanthi Kumari
 LK-71	LG-71016	0	JJB	Siripalage Lulitha Prasad Samansiri
 LK-71	LG-71016	0	JJB	Sooriya Arachchige Krishantha Lanka Sooriayarachchi
 LK-71	LG-71016	0	JJB	Yapagedera Thanuja Inoka Kumari Yapa
-LK-71	LG-71016	0	NLNP	(None)
 LK-71	LG-71016	0	NLNP	Alahakon Mudiyanselage Thamara Kumari Alahakon
 LK-71	LG-71016	0	NLNP	Aluth Walawwe Chulabha Dissanayake
 LK-71	LG-71016	0	NLNP	Dodammulage Nadeeka Chandani
@@ -47507,7 +49788,6 @@ LK-91	LG-91001	0	UNP	Owakanda Waththage Sirimal Vijerathna
 LK-91	LG-91001	0	UNP	Pahalagam Durage Hiruna Malshan Chandrasekara
 LK-91	LG-91001	0	UNP	Pitumpe Acharige Don Wijesundara
 LK-91	LG-91001	0	UNP	Sudu Hakuruge Wimalawathi
-LK-91	LG-91001	0	USP	(None)
 LK-91	LG-91001	1	FPF	Jomahandige Darshana Sanath Priyantha Sirisena
 LK-91	LG-91001	1	IG1	Nishshanka Achchila Sujatha Kanthi Manike
 LK-91	LG-91001	1	JJB	Thalapiti Dewage Wajira Susantha Jayasoma
