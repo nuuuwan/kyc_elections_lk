@@ -3,7 +3,7 @@ from kyc.scraper.HomePage import HomePage
 
 
 def main():
-    district_name = 'Matale'
+    district_name = 'Monaragala'
     assert district_name in DISTRICT_NAMES
 
     home_page = HomePage()
