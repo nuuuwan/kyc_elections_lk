@@ -19,6 +19,7 @@ LK-11	LG-11009	0	LJP	Kannan Indra Devi
 LK-11	LG-11010	0	FSP	Kannan Indra Devi
 LK-11	LG-11012	8	IG1	Lagamuwa Hendeniye Pushpa Rajapaksha
 LK-11	LG-11013	14	SLPP	Yapa Mudiyanselage Jayarathna
+LK-11	LG-11008	0	IG5	........................................
 LK-12	LG-12008	10	JSP	Murugan Mogana
 LK-12	LG-12001	0	IG9	Panambarage Ashen Nirmal Fernando
 LK-12	LG-12001	27	IG8	Panambarage Ashen Nirmal Fernando
@@ -399,6 +400,39 @@ LK-33	LG-33009	10	FPF	Kankanam Gamage Sarath Kumara
 LK-33	LG-33010	0	JJB	Kankanam Gamage Ranjith
 LK-33	LG-33008	0	FPF	Jayasekara Pathiranage Siriyalatha
 LK-33	LG-33008	5	FPF	Jayasekara Pathiranage Siriyalatha
+LK-41	LG-41001	0	SLFP	Yakappar Niroshan
+LK-41	LG-41001	4	AITC	Yakappar Niroshan
+LK-41	LG-41003	0	JJB	Mahalingam Karunakaran
+LK-41	LG-41004	3	UNP	Mahalingam Karunakaran
+LK-41	LG-41004	11	SJB	Kanthasamy Thayaparan
+LK-41	LG-41012	6	DTNA	Kanthasamy Thayaparan
+LK-41	LG-41005	0	SLFP	Sivakumar Manoja
+LK-41	LG-41005	0	UNP	Sivakumar Manoja
+LK-41	LG-41005	5	UNP	Kanthasamy Sathees
+LK-41	LG-41009	8	DTNA	Kanthasamy Sathees
+LK-41	LG-41007	0	SJB	Mathan Mathusha
+LK-41	LG-41015	0	SJB	Mathan Mathusha
+LK-41	LG-41007	2	EPDP	Sellan Sivarasa
+LK-41	LG-41013	6	SDPoT	Sellan Sivarasa
+LK-41	LG-41010	7	UNP	Sathiyarasa Rokesan
+LK-41	LG-41015	16	UNP	Sathiyarasa Rokesan
+LK-41	LG-41013	4	SJB	Arumugam Selvaratnam
+LK-41	LG-41013	11	SJB	Arumugam Selvaratnam
+LK-41	LG-41014	4	UNP	Selvaraja Sasikumar
+LK-41	LG-41015	0	IG3	Tharsini Santhakumar
+LK-41	LG-41015	0	IG3	Tharsini Santhakumar
+LK-41	LG-41012	10	UNP	Subramaniam Sivakumar
+LK-41	LG-41007	0	TMK	........................................
+LK-41	LG-41007	0	TMK	........................................
+LK-41	LG-41007	22	TMK	........................................
+LK-41	LG-41008	0	DTNA	........................................
+LK-41	LG-41008	0	DTNA	........................................
+LK-41	LG-41008	0	DTNA	........................................
+LK-41	LG-41008	0	DTNA	........................................
+LK-41	LG-41008	0	DTNA	........................................
+LK-41	LG-41008	6	DTNA	........................................
+LK-41	LG-41008	7	DTNA	........................................
+LK-41	LG-41008	9	DTNA	........................................
 LK-61	LG-61017	0	UNP	Mohamad Jamaldeen Mohamad Naleem
 LK-61	LG-61005	8	JJB	Ekanayaka Mudiyanselage Mahinda
 LK-61	LG-61005	0	UNP	Herath Mudiyanselage Sarath Bandara
@@ -507,6 +541,7 @@ LK-81	LG-81012	15	IG1	Rathnayake Mudiyanselage Nishantha Rathnayake
 LK-81	LG-81002	2	UNP	Herath Mudiyanselage Chandradasa
 LK-81	LG-81011	7	NLNP	Rathnayake Mudiyanselage Jayasekara
 LK-81	LG-81011	0	NLNP	Ajith Jayasekara
+LK-81	LG-81009	0	IG2	Selvaraja Sasikumar
 LK-81	LG-81003	0	SJB	Rathnayaka Mudiyanselage Mallika Rathnayaka
 LK-81	LG-81003	4	SLPP	Dissanayaka Mudiyanselage Nimal Dissanayaka
 LK-81	LG-81001	1	FPF	Herath Mudiyanselage Wasantha Herath
@@ -558,14 +593,14 @@ LK-91	LG-91003	0	IG1	Arumugam Maheshwaran
 LK-91	LG-91003	21	IG1	Arumugam Maheshwaran
 LK-91	LG-91003	21	NLNP	Galabada Arachchige Srimal Suranga Somarathna
 LK-91	LG-91003	21	SLPP	Galabada Arachchige Srimal Suranga Somarathna
-LK-91	LG-91013	0	UNP	Subramaniam Sivakumar
 LK-91	LG-91009	0	IG1	Subramaniyam Sivakumar
 LK-91	LG-91009	21	IG1	Subramaniyam Sivakumar
+LK-91	LG-91013	0	UNP	Subramaniam Sivakumar
 LK-91	LG-91008	0	JJB	Herath Mudiyanselage Mallika Herath
 LK-92	LG-92009	5	UNP	Mahadurage Jayathissa
 LK-92	LG-92006	0	UNP	Herath Mudiyanselage Sisira Kumara
+LK-92	LG-92006	0	JJB	Rathnayaka Mudiyanselage Priyanka Kumari Rathnayaka
+LK-92	LG-92006	0	JJB	Rathnayaka Mudiyanselage Priyanka Kumari Rathnayaka
 LK-92	LG-92009	0	SLFP	Subramaniam Sivakumar
-LK-92	LG-92006	0	JJB	Rathnayaka Mudiyanselage Priyanka Kumari Rathnayaka
-LK-92	LG-92006	0	JJB	Rathnayaka Mudiyanselage Priyanka Kumari Rathnayaka
 LK-92	LG-92008	0	JJB	Herath Mudiyanselage Mallika Herath
 LK-92	LG-92008	13	UNP	Rathnayaka Mudiyanselage Priyantha Rathnayaka

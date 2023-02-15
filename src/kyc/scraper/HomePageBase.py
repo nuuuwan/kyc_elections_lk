@@ -1,3 +1,4 @@
+import os
 import random
 import re
 import time
@@ -28,6 +29,10 @@ class HomePageBase:
         t_sleep = min_sleep + sleep_span * random.random()
         log.debug(f'😴 {t_sleep:.2f} s')
         time.sleep(t_sleep)
+
+    @staticmethod
+    def say(text):
+        os.system(f'say "{text}"')
 
     def __init__(self):
         options = Options()
@@ -118,8 +123,6 @@ class HomePageBase:
                 break
             except BaseException:
                 self.sleep(5, 1)
-
-            
 
     def click_display(self):
         while True:

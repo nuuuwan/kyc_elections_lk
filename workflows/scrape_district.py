@@ -1,8 +1,9 @@
-from kyc.scraper.HomePage import HomePage
 from kyc.scraper.DISTRICT_NAMES import DISTRICT_NAMES
+from kyc.scraper.HomePage import HomePage
+
 
 def main():
-    district_name = 'Matara'
+    district_name = 'Jaffna'
     assert district_name in DISTRICT_NAMES
 
     home_page = HomePage()

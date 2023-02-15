@@ -1,0 +1,2662 @@
+[
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Alex Raveenthiran Merlin"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Jeganathan Nisanthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Jekaratsan Jeyanthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Kailayanathan Thibakar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Kandeepan Sangavi"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Kingsly Saranja"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Manivannan Kanushra"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Nishanthini Visuvanathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Pathmanathan Rajini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Selvachanthiran Thirupriyan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Sinnathambi Sothilingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Srikumari Thayalan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Thangarasa Kugathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Thangarasa Thevarajah"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Thangavel Pratheepa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Tharmini Nenthuran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "AITC",
+    "name": "Thavarasa Thivakaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Ajithkumar Karththika"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Kathirkamathas Nishanujan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Murukaiyah Vijayakanthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Muththaiya Murugesu"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Nadarasa Srikantharasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Nagarasa Kumaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Pasunkilirasa Tharaneeswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Pethurupillai Raththinarajah Antony"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Ponnuthurai Paripuranam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Rasathurai Srinaguleswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Satheeskumar Yogeswary"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Selvakaran Selvasuthajini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Sivakadadchcham Sujeevan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Subramanian Jegatheeswari"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Sunthar Malarvili"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Vavananthan Srirajani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "DTNA",
+    "name": "Yogarasa Kamaladevi"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Baskaran Mathusan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Chandrakumar Rajanidevi"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Christalokesh Antanispol"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Devarani Selvarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Devathas Kapilja"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Edman Thayavathy"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Gujina Ketheeswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Nagarasa Kugatheeswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Nalina Ravikumaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Pushpa Dayanandan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Rasaraththinam Jayabalasingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Ravichandran Vishayamalar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Sinnappu Sivaranjan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Sivarasa Sujitha"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Sukeerthana Ravichandran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Thilakalingam Padmarani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "EPDP",
+    "name": "Yogendram Sukanya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Densika Rasathurai"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Gnanasekar Anistan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Initha Dinesh"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Ivaani Thiruchelvam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Jeyalalitha Jorch"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Kanthaiya Sivanesan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Latha Thanabalasingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Mary Antanika Suresh"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Nakenthiram Anusiya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Natkunarasa Vijinthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Paheerathan Sabeshan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Rajani Kopalakirushnan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Sellaththurai Pathmareka"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Selvarasa Maheswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Sujitha Shanthakumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Suvanthini Jekanthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "IG0",
+    "name": "Vaanathi Kumaravel"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Arulanantham Arulpiragas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Jamuna Chanthirakumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Jeyamathi Sritharan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Mahalingam Rajitha"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Manokaran Jasitharan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Mikel Fernando Maryromela"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Pabitharan Kamalenthini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Rasenthiram Tharaniya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Raveenthiran Arudchelvi"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Raveenthiran Nishani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Raveenthiran Thanushiyan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Selvarasa Mayuran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Shanai Thangarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Singarasa Antony Jeyakumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Sinnapodiyan Sabaraththinam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Velummayilum Shanmuganathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "ITAK",
+    "name": "Yogenthiran Yogathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Loganathan Thanuja"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Majilvakanam Santhirakumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Pamini Suresh"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Parameswaran Thanusiya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Rajabalan Agaligai"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Rajabalan Kamalarani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Rajabalan Thadsajini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Rajanayagam Janusan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Rajeskannan Karsana"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Rajeskannan Tharsana"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Selvarasa Selvatheepan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Selvaratnam Balachandran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Sinnathurai Sivarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Suresh Abishajini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Suresh Thanush"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Thankeswary Karunakaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Velummayilum Suresh"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Easwary Rajanikanth"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Eswaran Nishani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Kanthan Nilansan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Kathiravelu Ganeshalingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Krishnapillai Krishnatheepan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Kunasingam Thuvarakan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Nagamany Thevapalan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Parathakaran Kesiny"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Poothappillai Nitharsan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Santhirakala Mahathevan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Sathanababy Tharshan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Sayanthini Sutharsan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Seeniyar Sivaneswary"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Thajanithy Rajith"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Thambirasa Sutharsan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Vaisnavi Rajeenthiran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Vallinayahi Yokarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Abarna Mayuran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Balasingam Saranraj"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Johnsilva Jodsan Panando"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Josep Selvanayagam Mary Jensi"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Kalenthirarasan Thasmini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Kathirkamanathan Thikethanan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Kunarathinam Thushyanthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Loganathan Thepan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Maharasan Pathees"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Mahathevan Umanan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Ravinthiran Suvithas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Santhirakala Antan Noberd"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Sivakumar Manoja"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Tharshini Ragunathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Thayanithy Niroshika"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Thiruyarud Selvi Ranjith"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Vathani Nagalingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Antony Kajenthini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Arulappu Alfred Vilvaraj"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Earnest Francis Dilshan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Emil James Jeyam Yevri"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Kalaiyarasan Mathusha"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Lakshiya Punitharaj"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Laksutha Suthakaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Nisthar Roshelle Milani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Ruban Makiliny"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Savarimuthu Srokson"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Savarimuthu Starlin"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Selvamani Rajeev"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Senthilrajasarma Lalithathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Sinnarasa Jeevitha"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Srikanthan Silesraj"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Tharmakulasingam Premathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "TMK",
+    "name": "Thurkkaruban Jeyagowry"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Alageswary Ampalavanar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Ampalavanar Shalini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Balaranjini Nirojan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Jekanathan Nirojan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Joseph Ithayaraj Remi"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Kirupalasingam Thiviya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Kumarasabesan Nisalini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Navarathinam Intherani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Pathinathar Dayanisius Balarathenam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Saraventhiran Nixsan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Sivakumar Manoja"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Sountararajan Sameena"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Thevarasa Piratheepan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Theventhiran Sayanthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Ushanthini Regenekansan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Uthayasankar Kajanee"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Vijenthiran Piraveena"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "AITC",
+    "name": "Amalanayagam Vithushan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "DTNA",
+    "name": "Nagamuththu Sanmugaraththinam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "EPDP",
+    "name": "Mariyathas Payaslokathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "IG0",
+    "name": "Thiyakanthan Vinothini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "ITAK",
+    "name": "Ponnampalam Rasenthiram"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "JJB",
+    "name": "Rajabalan Pirakaspathy"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "SJB",
+    "name": "Thomas Selvanayakam Seyarooban"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "SLFP",
+    "name": "Vijayathas Vithusha"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "TMK",
+    "name": "Arulanantham Mohanairas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 1,
+    "party": "UNP",
+    "name": "Mahentheraj Nerujan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "AITC",
+    "name": "Rathinam Anusa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "DTNA",
+    "name": "Thamby Thirunavukarasu"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "EPDP",
+    "name": "Ponnan Sivanesan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "IG0",
+    "name": "Sownthararasa Viththiyasakaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "ITAK",
+    "name": "Pakkiyanathar Mariyathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "JJB",
+    "name": "Sivananthan Banuthas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "SJB",
+    "name": "Gurusammy Shanmugathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "SLFP",
+    "name": "Thavarajah Tharshini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "TMK",
+    "name": "Kathiravelu Sivalingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 2,
+    "party": "UNP",
+    "name": "Rajikumar Jenothraj"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "AITC",
+    "name": "Poothan Prabakar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "DTNA",
+    "name": "Rajmohn Kowsala"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "EPDP",
+    "name": "Arumairathinam Chanthirakanth"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "IG0",
+    "name": "Inthiran Keerthika"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "ITAK",
+    "name": "Sellathurai Kamalanathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "JJB",
+    "name": "Ratnavel Surekka"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "SJB",
+    "name": "Sopika Nitharsan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "SLFP",
+    "name": "Santhirakumar Janani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "TMK",
+    "name": "Vasanthachanthiran Stalin"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 3,
+    "party": "UNP",
+    "name": "Vaniyasingam Seetha"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "AITC",
+    "name": "Soloman Nickshan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "DTNA",
+    "name": "Kasippillai Srivarathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "EPDP",
+    "name": "Sellappa Thirugnanam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "IG0",
+    "name": "Seeniyar Kanakaraththinam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "ITAK",
+    "name": "Aiyathurai Mayuran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "JJB",
+    "name": "Thiyagarajah Rajabalan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "SJB",
+    "name": "Rasu Jeyakkumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "SLFP",
+    "name": "Santhakumar Sivakumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "TMK",
+    "name": "Alfred Kenady Thunsiya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 4,
+    "party": "UNP",
+    "name": "Saratha Sivakumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "AITC",
+    "name": "Kunabalasingam Priya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "DTNA",
+    "name": "Sanmugathas Ilamcheliyan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "EPDP",
+    "name": "Balakittinan Thavarasasingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "IG0",
+    "name": "Muththuththurai Inparasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "ITAK",
+    "name": "Daniel Anthonipillai"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "JJB",
+    "name": "Arunthavarasa Raja"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "SJB",
+    "name": "Sellamany Joothasegar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "SLFP",
+    "name": "Mylarasi Sivaruban"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "TMK",
+    "name": "Sinnathurai Santhini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 5,
+    "party": "UNP",
+    "name": "Kanthasamy Sathees"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "AITC",
+    "name": "Kanthasamy Manokararasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "DTNA",
+    "name": "Kailangirinathan Loganathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "EPDP",
+    "name": "Henry Thevathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "IG0",
+    "name": "Naakamani Sukuneswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "ITAK",
+    "name": "Ponnuthurai Sriloganathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "JJB",
+    "name": "Balaguru Thineshkumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "SJB",
+    "name": "Velan Sivamalar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "SLFP",
+    "name": "Paskaran Dilaksan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "TMK",
+    "name": "Benadict Thangarasa Maryamela"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 6,
+    "party": "UNP",
+    "name": "Kabilami Ranjan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "AITC",
+    "name": "Ponrasa Thamilalagan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "DTNA",
+    "name": "Yogarajan Meri Jajintha"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "EPDP",
+    "name": "Gnanaprakasam Anthonippillai"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "IG0",
+    "name": "Manokaran Antony Kilpa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "ITAK",
+    "name": "Mery Ann Sakayarani Kuventhirarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "JJB",
+    "name": "Kavithas Kamsan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "SJB",
+    "name": "Ampalavanar Uthajakumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "SLFP",
+    "name": "Yogarasa Joshep Jude Kanistan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "TMK",
+    "name": "Royar Panistaraj Edmanraj"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 7,
+    "party": "UNP",
+    "name": "Annamalai Chandramohan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "AITC",
+    "name": "Kulathungam Vilvarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "AITC",
+    "name": "Shanmugavadivel Sellakanthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "DTNA",
+    "name": "Thiresiyan Lasarap Konsas Seviyar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "EPDP",
+    "name": "Thanabalasingam Suseinthiran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "IG0",
+    "name": "Savirimuththu Devid"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "ITAK",
+    "name": "Saravanamuththu Thanabalasingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "JJB",
+    "name": "Manikam Thirudselvam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "SJB",
+    "name": "Balachandran Kajeepan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "SLFP",
+    "name": "Thiruchelyam Arul Jeyapalan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "TMK",
+    "name": "Sylvester Anne Sinthuya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 8,
+    "party": "UNP",
+    "name": "Rasaladchumy Sri Thamothararasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 9,
+    "party": "DTNA",
+    "name": "Selvaraththinarasa Ajithkumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 9,
+    "party": "EPDP",
+    "name": "Panchalingam Balakrishnar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 9,
+    "party": "IG0",
+    "name": "Arulthas Arinthas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 9,
+    "party": "ITAK",
+    "name": "Senathirasa Kalaiamuthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 9,
+    "party": "JJB",
+    "name": "Supramaniyam Nagarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 9,
+    "party": "SJB",
+    "name": "Ramanathan Naguleswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 9,
+    "party": "SLFP",
+    "name": "Jeyasothy Pathmanathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 9,
+    "party": "TMK",
+    "name": "Uthayakumar Sinthuja"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 9,
+    "party": "UNP",
+    "name": "Thamu Mahalingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "AITC",
+    "name": "Thirunavukkarasu Jinthujan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "DTNA",
+    "name": "Balasingam Ravinthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "EPDP",
+    "name": "Thurairaja Kalithas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "IG0",
+    "name": "Kanthasami Sakthithasan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "ITAK",
+    "name": "Thushyanthi Mayuran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "JJB",
+    "name": "Murugan Rasakumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "SJB",
+    "name": "Valli Pararasasingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "SLFP",
+    "name": "Pararasasingam Vasiththiran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "TMK",
+    "name": "Arulanantham Mary Saritha"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 10,
+    "party": "UNP",
+    "name": "Balasaraswathy Selvanayakam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "AITC",
+    "name": "Kunabalasingam Kobiram"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "DTNA",
+    "name": "Srikanthithasan Jeevakumaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "EPDP",
+    "name": "Balasubramaniam Sritharan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "IG0",
+    "name": "Mahalingam Sinthuja"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "ITAK",
+    "name": "Kanthaiah Kankesan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "JJB",
+    "name": "Sivasupramaniyam Kalaivani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "SJB",
+    "name": "Sivapragasam Gunaneswary"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "SLFP",
+    "name": "Makenthiran Sukanthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "TMK",
+    "name": "Elilarasi Kanthaseelan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 11,
+    "party": "UNP",
+    "name": "Rasarathinam Sri Thamothararasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "AITC",
+    "name": "Mathiyalagan Thevika"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "DTNA",
+    "name": "Thavarasa Thavaruban"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "EPDP",
+    "name": "Sivaguru Balachanthiran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "IG0",
+    "name": "Sinnarasa Maheswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "ITAK",
+    "name": "Selvakumaran Vijayaraj"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "JJB",
+    "name": "Velummajilum Sudarson"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "SJB",
+    "name": "Sinnathambi Murugaiah"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "SLFP",
+    "name": "Thayananthini Kajatheepan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "TMK",
+    "name": "Balachanthiran Sathurshanan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 12,
+    "party": "UNP",
+    "name": "Kanthasamy Kajarathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "AITC",
+    "name": "Santhiran Thayani"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "DTNA",
+    "name": "Kanagaraththinam Pavilarasu"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "EPDP",
+    "name": "Nagalingam Rathnapoopathy"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "IG0",
+    "name": "Jeyakaran keniya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "ITAK",
+    "name": "Sivapalasuntharam Harikaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "JJB",
+    "name": "Balasingam Stalin"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "SJB",
+    "name": "Theiventhiram Barath"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "SLFP",
+    "name": "Veerasingam Thavarajasingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "TMK",
+    "name": "Thevachanthiran Vajinthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 13,
+    "party": "UNP",
+    "name": "Kanthasamy Krishnabawan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "AITC",
+    "name": "Sivam Manivannan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "DTNA",
+    "name": "Ravichanthiran Vijayakala"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "EPDP",
+    "name": "Subaskaran Chanthiramathy"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "IG0",
+    "name": "Sivasampu Jegatheesan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "ITAK",
+    "name": "Kamalakanthan Nishanthi"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "JJB",
+    "name": "Sellathurai Thaneskumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "SJB",
+    "name": "Velan Sivarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "SLFP",
+    "name": "Naguleswary Seluakumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "TMK",
+    "name": "Suppiah Risanrth"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 14,
+    "party": "UNP",
+    "name": "Susaipillai Joseph Mariyathasan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "AITC",
+    "name": "Rejina Rameshkumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "DTNA",
+    "name": "Thambirasa Kirushan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "EPDP",
+    "name": "Sinnathambi Chanthanakumaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "IG0",
+    "name": "Maniyam Yogarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "ITAK",
+    "name": "Pasupathi Yogarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "JJB",
+    "name": "Rajeswaran Vivek"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "SJB",
+    "name": "Maharasa Yukanthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "SLFP",
+    "name": "Sanihanam Jesuthasan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "TMK",
+    "name": "Leo Kingston Mary Pravina"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 15,
+    "party": "UNP",
+    "name": "Sooriyakumar Thanushan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "AITC",
+    "name": "Uthayakumar Gowrisankar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "DTNA",
+    "name": "Kanapathi Selvarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "EPDP",
+    "name": "Nagarasa Suyathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "IG0",
+    "name": "Kannaiya Yogarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "ITAK",
+    "name": "Ponnuththurai Thangarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "JJB",
+    "name": "Raman Sinnathampy"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "SJB",
+    "name": "Shanmugam Kugathasan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "SLFP",
+    "name": "Sivarajah Nishanth"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "TMK",
+    "name": "Satkunanantha Sriskantharaja Vakshalan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 16,
+    "party": "UNP",
+    "name": "Vasanthi Thevarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "AITC",
+    "name": "Kanthaiah Rathinasingam"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "DTNA",
+    "name": "Iyaththurai Mathusan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "EPDP",
+    "name": "Markandu Mahadeva"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "IG0",
+    "name": "Jeyasutha Uthayasankar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "ITAK",
+    "name": "Annamalai Satheeswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "JJB",
+    "name": "Balakirushnan Nithursan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "SJB",
+    "name": "Paththinathan James"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "SLFP",
+    "name": "Masilamani Ranjitraj"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "TMK",
+    "name": "Raveenthiran Kowsiyan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 17,
+    "party": "UNP",
+    "name": "Kalimuththu Nagarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "AITC",
+    "name": "Murugaiah Kuperan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "DTNA",
+    "name": "Sivakuru Sivanesan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "EPDP",
+    "name": "Ganesan Vimeshkumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "IG0",
+    "name": "Vethanayakam Sakayamary"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "ITAK",
+    "name": "Kanthaiah Jinathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "JJB",
+    "name": "Vijakumar Piratheepkumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "SJB",
+    "name": "Siriya Anikkilish Piremsralan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "SLFP",
+    "name": "Sasikaladevi Ravi"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "TMK",
+    "name": "Selvarasa Maheesan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 18,
+    "party": "UNP",
+    "name": "Joseph Mariyathasan Joseph Ithayaraj"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "AITC",
+    "name": "Jeyaseelan Subathira"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "DTNA",
+    "name": "Pirabakaran Yathavan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "EPDP",
+    "name": "Thamayanthi Murugathas"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "IG0",
+    "name": "Pararasasingam Thavarasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "ITAK",
+    "name": "Kanthasamy Mayurathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "JJB",
+    "name": "Kanthaiyah Maheswari"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "SJB",
+    "name": "Vanniyasingam Pirabakaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "SLFP",
+    "name": "Jeyakumar Tharsini"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "TMK",
+    "name": "Navarathinarasa Sarojinithevi"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 19,
+    "party": "UNP",
+    "name": "Brunorth kunaratnam Reckno Anoshan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "AITC",
+    "name": "Subramaniam Sarveswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "DTNA",
+    "name": "Raman Senathirasa"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "EPDP",
+    "name": "Arulanantham Singarajah"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "IG0",
+    "name": "Kannaiya Jeyaseelan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "ITAK",
+    "name": "Somasuntharam Sukirthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "JJB",
+    "name": "Sellan Jeyananthan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "SJB",
+    "name": "Kincika Suthanthiratheepan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "SLFP",
+    "name": "Santhakumar Ravikumar"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "TMK",
+    "name": "Kirushnamoorthy Kijitharan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 20,
+    "party": "UNP",
+    "name": "Thevarasa Paheerathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "AITC",
+    "name": "Nagenthiram Kobinath"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "DTNA",
+    "name": "Sokkalingam Sabesan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "EPDP",
+    "name": "Selvam Indramohan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "IG0",
+    "name": "Selvarasa Thayaruban"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "ITAK",
+    "name": "Subramaniyam Naguleswaran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "JJB",
+    "name": "Sivananthan Darsiya"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "SJB",
+    "name": "Gnanasekaram Pahirathan"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "SLFP",
+    "name": "Maryrama Suthinran"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "TMK",
+    "name": "Charles Leo Kingston"
+  },
+  {
+    "district_id": "LK-41",
+    "lg_id": "LG-41005",
+    "ward_num": 21,
+    "party": "UNP",
+    "name": "Thevarasa Arulraj"
+  }
+]
