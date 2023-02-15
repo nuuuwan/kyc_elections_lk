@@ -15,7 +15,7 @@ class CandidateBase:
             [
                 name.strip(),
                 name[0:3] != '...',
-                name[0:3] != '---',
+                name[0:1] != '-',
                 name[0:3] != '___',
                 str(name).strip() != '(None)',
             ]

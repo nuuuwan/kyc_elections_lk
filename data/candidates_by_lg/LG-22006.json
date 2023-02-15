@@ -1,0 +1,744 @@
+[
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Gamhewayalage Nirosha Nilmini"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Hingulwala Dewayale Gedara Ranasingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Hinguraggalage Indika Ajith Wijewardhana"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Kudagalagedara Pushpalatha Malkanthi"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Megodaha Gedara Thamara Pushpakumari"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Pallemulle Gedara Anura Kumara Gunasingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Ranasingha Arachchige Sunanda Kumudu Ranasingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Tharumalei Kristeeban"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "JJB",
+    "name": "Wedikkara Gedara Jagath Weerasingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Alagan Rasamma"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Dasanayaka Mudiyanselage Dahanak Gedara Thamara Renuka Kumari Dasanayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Edirisinghe Mudiyanselage Saliya Asanka Bandara Rathnayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Jayasingha Liyana Morawaka Gamage Lesli Janitha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Kithulanpiti Wilwut Arachchilage Nilakshi Madushika"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Mahawela Pahala Gedara Jayanthi Kumari"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Pushparaj Ilageshwaran"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Rankoth Gedara Jayasundara Bandara Gunathilaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Rathnayaka Mudiyanselage Chandika Rathnayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Dewate Gedara Chandrawathi"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Dewayala Gedara Milton Munasingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Endaruhene Gedara Sujatha Niyuman"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Herath Mudiyanselage Chulanee Nilanthi Bandara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Kudagala Gedara Priyantha Kumari Gunawardhana"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Muthusami Periyannan Nagaraja"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Palle Mulle Gedara Somasiri Dayananda"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Suppaiya Thamil Selvan"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLFP",
+    "name": "Yaddessale Gedara Saliya Thalgahagoda"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Antanee Ranga Thushara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Dasanayaka Mudiyanselage Ranasingha Bandara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Galapita Gedara Chinthaka Pushpa Kumara Manthreerathna"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Hamadiya Dewayalage Tharukshi Dilrukshika Priyashani Amarasooriya"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Hemachandra Arachchilage Gedara Kalani Inoka Kumari Chandrasekara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Kottagaha Gedara Harsha Prabodani Jayarathna"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Nakath Durayalage Gedara Sunil Premalal Wijeweera"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Rankothge Ekanayaka Wickramasingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "SLPP",
+    "name": "Wickrama Arachchige Kalyani Dhammika Wickrama Arachchi"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Abdul Hak Siyana"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Dissanayaka Mudiyanselage Sisira Kumara Dissanayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Kaliddiban Rifkan Mohamad"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Mohamad Nawfer Rislan"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Mohamad Rahumathulla Fathima Sajeena"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Mohamad Saleem Rahmathulla"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Muhammadu Nijam Paththima Rinoza"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Murugan Ramesh Kumar"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Padmanadan Subashini"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Mohomad Niyas Mohomad"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 1,
+    "party": "JJB",
+    "name": "Elhene Gedara Buddhika Sampath Elhenage"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 1,
+    "party": "SJB",
+    "name": "Dalupathe Gedara Wijethilaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 1,
+    "party": "SLFP",
+    "name": "Alhene Gedara Bonika Damayanthi"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 1,
+    "party": "SLPP",
+    "name": "Dunukewatte Mudiyanselage Gedara Rasika Malkanthi Herath"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 1,
+    "party": "UNA",
+    "name": "Muhammadu Ameer Pasrin Mohamad"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 1,
+    "party": "UNP",
+    "name": "Rathnayaka Mudiyanselage Imesh Mangala Wansha Bandara Senawirathna"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 2,
+    "party": "JJB",
+    "name": "Polwaththe Gedara Lakshman Rathnayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 2,
+    "party": "SJB",
+    "name": "Dissanayaka Arachchilage Dhanushka Dissanayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 2,
+    "party": "SLFP",
+    "name": "Mahamuhandiram Gedara Sumana Bandara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 2,
+    "party": "SLPP",
+    "name": "Alakolamada Jinarathana Thero"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 2,
+    "party": "UNA",
+    "name": "Murugan Ravichandran"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 2,
+    "party": "UNP",
+    "name": "Aluthgedara Saman Bandara Mahinda Weerasingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 3,
+    "party": "JJB",
+    "name": "Hakotuwe Gedara Rohana Kumara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 3,
+    "party": "SJB",
+    "name": "Widanadura Gedara Jayantha Senarathna"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 3,
+    "party": "SLFP",
+    "name": "Kandambige Chandrika"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 3,
+    "party": "SLPP",
+    "name": "Kehelwatte Gedara Shantha Weerasooriya"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 3,
+    "party": "UNA",
+    "name": "Abdul Jaleel Mohamad Saki"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 3,
+    "party": "UNP",
+    "name": "Pushpakumara Kurupanawa Gamage"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 4,
+    "party": "JJB",
+    "name": "Abdul Majeed Abdul Azees"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 4,
+    "party": "SJB",
+    "name": "Mohammed Manzoor Shanshad Roomi Mazoor"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 4,
+    "party": "SLFP",
+    "name": "Ekanayaka Mudiyanselage Senawirathna Bandara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 4,
+    "party": "SLPP",
+    "name": "Mohammadu Raheem Mohammadu Fariz"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 4,
+    "party": "UNA",
+    "name": "Thawfeek Mohamad Rinoz"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 4,
+    "party": "UNP",
+    "name": "Saththaar Muhammed Nawzad"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 5,
+    "party": "JJB",
+    "name": "Ekanayaka Mudiyanselage Buddhika Padmal Bandara Ekanayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 5,
+    "party": "SJB",
+    "name": "Hiyarapitiye Withanalage Maithri Dosan"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 5,
+    "party": "SLFP",
+    "name": "Rathnayaka Mudiyanselage Priyantha Samarasingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 5,
+    "party": "SLPP",
+    "name": "Kosgolle Rewatha Thero"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 5,
+    "party": "UNA",
+    "name": "Nijam Mohamadu Ripkan"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 5,
+    "party": "UNP",
+    "name": "Rambukwalle Gedara Ramya Kumari Samaranayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 6,
+    "party": "JJB",
+    "name": "Waduwala Gedara Manjula Prasad Samaraweera"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 6,
+    "party": "SJB",
+    "name": "Wattegedara Kusumawathee"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 6,
+    "party": "SLFP",
+    "name": "Ambagahamula Gedara Nawarathna"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 6,
+    "party": "SLPP",
+    "name": "Hettiwana Dewage Lal Attanayake"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 6,
+    "party": "UNA",
+    "name": "Mohammad Rilwan Mohammad Raflan"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 6,
+    "party": "UNP",
+    "name": "Koswatte Gedara Priyantha Kumara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 7,
+    "party": "JJB",
+    "name": "Rateralale Walawwe Duminda Sugath Ananda"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 7,
+    "party": "SJB",
+    "name": "Ekanayaka Mudiyanselage Pahala Arampola Malala Bandara Ekanayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 7,
+    "party": "SLFP",
+    "name": "Konara Mudiyanselage Kanchana Jagath Bandara Pamunuwa"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 7,
+    "party": "SLPP",
+    "name": "Udamulle Settiwana Dewage Sameera Udayanga Kumara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 7,
+    "party": "UNA",
+    "name": "Jawaddeen Ishan Mohomad"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 7,
+    "party": "UNP",
+    "name": "Rathnayaka Mudiyanselage Deepani Kaushalya Kumarihami Rathnayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 8,
+    "party": "JJB",
+    "name": "Palle Asweddume Epitegedara Gemunu Ariyarathna"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 8,
+    "party": "SJB",
+    "name": "Kithsiri Yasarathnage Nihal Abeysingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 8,
+    "party": "SLFP",
+    "name": "Hettigodage Priyantha Wijitha Kumara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 8,
+    "party": "SLPP",
+    "name": "Herath Mudiyanselage Udagedara Hesika Bandara Wijesingha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 8,
+    "party": "UNA",
+    "name": "Mohamad Nazeer Mohammad Ishraz"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 8,
+    "party": "UNP",
+    "name": "Homapola Gedara Priyantha Kumara Samaranayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 9,
+    "party": "JJB",
+    "name": "Mithila Ekanayake"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 9,
+    "party": "SJB",
+    "name": "Jambugahawatte Gedara Shanthi"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 9,
+    "party": "SLFP",
+    "name": "Dissanayaka Mudiyanselage Dharmapriya Hemantha Dissanayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 9,
+    "party": "SLPP",
+    "name": "Aluth Gedara Gunawansha"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 9,
+    "party": "UNA",
+    "name": "Mohamad Ameer Pazli Mohamad"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 9,
+    "party": "UNP",
+    "name": "Herath Mudiyansele Walawwe Thusitha Siriruwan Bandaranayaka"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 10,
+    "party": "JJB",
+    "name": "Korale Gedara Alexander Bandara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 10,
+    "party": "SJB",
+    "name": "Dorakumbure Walisundara Mudiyansele Wele Watte Gedara Mahinda Bandara Gunawardhana"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 10,
+    "party": "SLFP",
+    "name": "Yatawara Gedara Wijitha Bandara Dorakumbura"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 10,
+    "party": "SLPP",
+    "name": "Manawatte Gedara Pushpa Kumara Amarasekara"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 10,
+    "party": "UNA",
+    "name": "Ramakrishnan Poowana Lojini"
+  },
+  {
+    "district_id": "LK-22",
+    "lg_id": "LG-22006",
+    "ward_num": 10,
+    "party": "UNP",
+    "name": "Rathnayaka Mudiyanselekorale Gedara Pathmalal Kumara Rathnayaka"
+  }
+]

@@ -19,9 +19,6 @@ LK-11	LG-11009	0	LJP	Kannan Indra Devi
 LK-11	LG-11010	0	FSP	Kannan Indra Devi
 LK-11	LG-11012	8	IG1	Lagamuwa Hendeniye Pushpa Rajapaksha
 LK-11	LG-11013	14	SLPP	Yapa Mudiyanselage Jayarathna
-LK-11	LG-11013	0	FPF	-
-LK-11	LG-11013	0	UNFF	-
-LK-11	LG-11013	7	SJB	-
 LK-12	LG-12008	10	JSP	Murugan Mogana
 LK-12	LG-12001	0	IG9	Panambarage Ashen Nirmal Fernando
 LK-12	LG-12001	27	IG8	Panambarage Ashen Nirmal Fernando
@@ -72,7 +69,9 @@ LK-21	LG-21001	3	JJB	Ekanayake Mudiyanselage Thissa Ekanayake
 LK-21	LG-21010	12	SJB	Ekanayake Mudiyanselage Thissa Ekanayake
 LK-21	LG-21002	0	IG1	Dissanayake Mudiyanselage Bandula Dissanayake
 LK-21	LG-21004	0	JJB	Herath Mudiyanselage Nimal Herath Banda
+LK-21	LG-21004	10	SLPP	Herath Mudiyanselage Nawarathna Banda
 LK-21	LG-21006	0	AJP	Niranjala Kumari Gamagedara
+LK-21	LG-21006	0	JJB	Herath Mudiyanselage Nawarathna Bandara
 LK-21	LG-21006	8	NLNP	Egodagedara Hasitha Sandaruwan Wijebandara
 LK-21	LG-21017	18	UNFF	Egodagedara Hasitha Sandaruwan Wijebandara
 LK-21	LG-21008	0	IG1	Egoda Gedara Champa
@@ -92,9 +91,15 @@ LK-21	LG-21019	0	SLPP	Rathnayaka Mudiyanselage Wijerathna
 LK-21	LG-21002	8	SLFP	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21010	0	IG1	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21013	16	SJB	Herath Mudiyanselage Gamini Herath
+LK-22	LG-22007	15	JJB	Herath Mudiyanselage Nawarathna Banda
+LK-22	LG-22012	9	SJB	Herath Mudiyanselage Nawarathna Bandara
+LK-22	LG-22010	2	SJB	Herath Mudiyanselage Shantha Bandara Herath
+LK-22	LG-22012	14	CWC(	Arumugam Ananda Kumar
+LK-22	LG-22013	0	SLFP	Rathnayaka Mudiyanselage Jayathissa
 LK-23	LG-23009	0	EDF	Shanmugam Puwaneswary
 LK-23	LG-23001	2	SJB	Perumal Rajendran
 LK-23	LG-23001	15	JJB	Karupiah Sundaralingam
+LK-23	LG-23001	16	FPF	Arumugam Ananda Kumar
 LK-23	LG-23003	0	SJB	Herath Mudiyanselage Chandradasa
 LK-23	LG-23006	0	FPF	Rathnayake Mudiyanselage Jayasekara
 LK-23	LG-23002	11	FPF	Rathnayaka Mudiyanselage Wijerathna
@@ -433,6 +438,7 @@ LK-51	LG-51008	0	IG5	SULAIMA LEBBE SITHY KABEERA
 LK-61	LG-61017	0	UNP	Mohamad Jamaldeen Mohamad Naleem
 LK-61	LG-61005	8	JJB	Ekanayaka Mudiyanselage Mahinda
 LK-61	LG-61005	0	UNP	Herath Mudiyanselage Sarath Bandara
+LK-61	LG-61017	8	SLPP	Herath Mudiyanselage Shantha Bandara Herath
 LK-61	LG-61001	0	AJP	Wasala Mudiyanselage Jayathunga Wasala
 LK-61	LG-61001	4	UNP	Wasala Mudiyanselage Jayathunga Wasala
 LK-61	LG-61001	9	SLPP	Herath Mudiyanselage Ekanayaka
@@ -594,6 +600,7 @@ LK-91	LG-91009	0	IG1	Subramaniyam Sivakumar
 LK-91	LG-91009	21	IG1	Subramaniyam Sivakumar
 LK-91	LG-91013	0	UNP	Subramaniam Sivakumar
 LK-91	LG-91008	0	JJB	Herath Mudiyanselage Mallika Herath
+LK-92	LG-92001	15	IG2	Rathnayaka Mudiyanselage Jayathissa
 LK-92	LG-92009	5	UNP	Mahadurage Jayathissa
 LK-92	LG-92006	0	UNP	Herath Mudiyanselage Sisira Kumara
 LK-92	LG-92006	0	JJB	Rathnayaka Mudiyanselage Priyanka Kumari Rathnayaka
