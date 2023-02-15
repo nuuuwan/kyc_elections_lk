@@ -2,11 +2,10 @@ from kyc.scraper.DISTRICT_NAMES import DISTRICT_NAMES
 from kyc.scraper.HomePage import HomePage
 
 # TODO
-# Mullaitivu
 
 
 def main():
-    district_name = 'Mannar'
+    district_name = 'Mullaitivu'
     assert district_name in DISTRICT_NAMES
 
     home_page = HomePage()
