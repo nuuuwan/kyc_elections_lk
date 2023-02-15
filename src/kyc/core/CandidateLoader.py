@@ -182,7 +182,9 @@ class CandidateLoader:
             d_list = [candidate.to_dict() for candidate in candidates]
             d_list = sorted(
                 d_list,
-                key=lambda d: str(d['ward_num'] + 1_000) + d['party'] + d['name'],
+                key=lambda d: str(d['ward_num'] + 1_000)
+                + d['party']
+                + d['name'],
             )
             lg_data_path = os.path.join(
                 'data',

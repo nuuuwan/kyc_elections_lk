@@ -1,11 +1,17 @@
+import random
 import re
 import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from utils import Log
 
 from kyc.core.Candidate import Candidate
+
+log = Log('HomePageBase')
 
 
 def clean(x):
@@ -14,7 +20,14 @@ def clean(x):
 
 class HomePageBase:
     URL = 'https://eservices.elections.gov.lk/pages/ec_ct_KYC_LGA.aspx'
-    WAIT_TIME_CATPCHA_LOAD = 5
+    WAIT_TIME_FOR_DISPLAY_BUTTON_LOAD = 60
+    WAIT_TIME_FOR_DISPLAY_BUTTON_LOAD = 30
+
+    @staticmethod
+    def sleep(min_sleep=1, sleep_span=5):
+        t_sleep = min_sleep + sleep_span * random.random()
+        log.debug(f'😴 {t_sleep:.2f} s')
+        time.sleep(t_sleep)
 
     def __init__(self):
         options = Options()
@@ -94,13 +107,34 @@ class HomePageBase:
         option.click()
 
     def click_captcha(self):
-        iframe_captcha = self.driver.find_element(By.TAG_NAME, 'iframe')
-        iframe_captcha.click()
-        time.sleep(self.WAIT_TIME_CATPCHA_LOAD)
+        while True:
+            try:
+                iframe_captcha = WebDriverWait(
+                    self.driver, self.WAIT_TIME_FOR_DISPLAY_BUTTON_LOAD
+                ).until(
+                    EC.element_to_be_clickable((By.TAG_NAME, 'iframe')),
+                )
+                iframe_captcha.click()
+                break
+            except BaseException:
+                self.sleep(5, 1)
+
+            
 
     def click_display(self):
-        a = self.driver.find_element(By.ID, 'ContentMain_cmdDisplay')
-        a.click()
+        while True:
+            try:
+                a = WebDriverWait(
+                    self.driver, self.WAIT_TIME_FOR_DISPLAY_BUTTON_LOAD
+                ).until(
+                    EC.element_to_be_clickable(
+                        (By.ID, 'ContentMain_cmdDisplay')
+                    ),
+                )
+                a.click()
+                break
+            except BaseException:
+                self.sleep(5, 1)
 
     @property
     def elem_select_party(self):

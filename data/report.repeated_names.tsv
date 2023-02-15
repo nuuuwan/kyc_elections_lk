@@ -28,8 +28,10 @@ LK-12	LG-12005	17	SLFP	Elibichchi Kankanamalage Indra Kanthi
 LK-12	LG-12008	0	FPF	Kusum Sujeewani Costha
 LK-12	LG-12018	8	FPF	Kusum Sujeewani Costha
 LK-12	LG-12008	0	UNFF	Himashi Dilsara Ponnamperuma
+LK-12	LG-12009	0	SLFP	Shanmugam Puwaneswary
 LK-12	LG-12013	0	NLNP	Liyanage Chandrika Liyanage
 LK-12	LG-12016	0	FPF	Rathnayaka Mudiyanselage Gunarathna
+LK-12	LG-12017	0	NDF	Perumal Rajendran
 LK-12	LG-12018	0	AJP	Arachchi Mudiyanselage Upul Saman Kumara
 LK-12	LG-12018	0	AJP	Peradeniye Gasweda Gedara Thissa
 LK-12	LG-12018	5	AJP	Weerapurage Wasantha Kumara
@@ -77,13 +79,22 @@ LK-21	LG-21015	0	SJB	Herath Mudiyanselage Karunarathne
 LK-21	LG-21016	0	FPF	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
 LK-21	LG-21016	0	FSP	Herath Mudiyanselage Sarath Bandara
 LK-21	LG-21016	13	SLPP	Rathnayake Mudiyanselage Nishantha Rathnayake
-LK-21	LG-21019	0	SLPP	Rathnayaka Mudiyanselage Wijerathna
+LK-21	LG-21018	1	CWC(	Karupiah Sundaralingam
 LK-21	LG-21012	0	UNP	Dissanayaka Mudiyanselage Wijerathna
 LK-21	LG-21013	0	SLFP	Rathnayake Mudiyanselage Rathnayake
 LK-21	LG-21017	25	SLPP	Rathnayake Mudiyanselage Rathnayake
+LK-21	LG-21019	0	SLPP	Rathnayaka Mudiyanselage Wijerathna
 LK-21	LG-21002	8	SLFP	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21010	0	IG1	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21013	16	SJB	Herath Mudiyanselage Gamini Herath
+LK-23	LG-23009	0	EDF	Shanmugam Puwaneswary
+LK-23	LG-23001	2	SJB	Perumal Rajendran
+LK-23	LG-23001	15	JJB	Karupiah Sundaralingam
+LK-23	LG-23003	0	SJB	Herath Mudiyanselage Chandradasa
+LK-23	LG-23006	0	FPF	Rathnayake Mudiyanselage Jayasekara
+LK-23	LG-23002	11	FPF	Rathnayaka Mudiyanselage Wijerathna
+LK-23	LG-23011	0	IG0	Subramaniyam Sivakumar
+LK-23	LG-23011	0	UNFF	(None)
 LK-31	LG-31019	0	JJB	Weerasingha Arachchige Sunil
 LK-31	LG-31008	0	SLFP	Himashi Dilsara Ponnamperuma
 LK-31	LG-31009	0	FPF	Ajith Jayasekara
@@ -491,7 +502,8 @@ LK-81	LG-81010	2	UNP	Rathnayaka Mudiyanselage Gunarathna
 LK-81	LG-81011	19	SLFP	Dissanayake Mudiyanselage Bandula Dissanayake
 LK-81	LG-81002	1	SJB	Dissanayaka Mudiyanselage Muthubanda
 LK-81	LG-81012	15	IG1	Rathnayake Mudiyanselage Nishantha Rathnayake
-LK-81	LG-81006	4	IG1	Rathnayaka Mudiyanselage Wijerathna
+LK-81	LG-81002	2	UNP	Herath Mudiyanselage Chandradasa
+LK-81	LG-81011	7	NLNP	Rathnayake Mudiyanselage Jayasekara
 LK-81	LG-81011	0	NLNP	Ajith Jayasekara
 LK-81	LG-81003	0	SJB	Rathnayaka Mudiyanselage Mallika Rathnayaka
 LK-81	LG-81003	4	SLPP	Dissanayaka Mudiyanselage Nimal Dissanayaka
@@ -523,6 +535,7 @@ LK-81	LG-81012	20	SLFP	Muhammadu Puwad Mohamad Pareed
 LK-81	LG-81003	8	UNP	Dissanayaka Mudiyanselage Wijerathna
 LK-81	LG-81006	1	UNP	Dissanayaka Mudiyanselage Wijerathna
 LK-81	LG-81012	0	IG1	Rathnayake Mudiyanselage Rathnayake
+LK-81	LG-81006	4	IG1	Rathnayaka Mudiyanselage Wijerathna
 LK-81	LG-81001	0	FPF	Herath Mudiyanselage Malani Herath
 LK-81	LG-81015	0	FPF	Herath Mudiyanselage Malani Herath
 LK-81	LG-81001	7	IG2	Herath Mudiyanselage Gunathilaka
@@ -543,9 +556,9 @@ LK-91	LG-91003	0	IG1	Arumugam Maheshwaran
 LK-91	LG-91003	21	IG1	Arumugam Maheshwaran
 LK-91	LG-91003	21	NLNP	Galabada Arachchige Srimal Suranga Somarathna
 LK-91	LG-91003	21	SLPP	Galabada Arachchige Srimal Suranga Somarathna
+LK-91	LG-91013	0	UNP	Subramaniam Sivakumar
 LK-91	LG-91009	0	IG1	Subramaniyam Sivakumar
 LK-91	LG-91009	21	IG1	Subramaniyam Sivakumar
-LK-91	LG-91013	0	UNP	Subramaniam Sivakumar
 LK-91	LG-91008	0	JJB	Herath Mudiyanselage Mallika Herath
 LK-91	LG-91001	0	USP	(None)
 LK-92	LG-92009	5	UNP	Mahadurage Jayathissa

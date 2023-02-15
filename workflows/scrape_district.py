@@ -1,5 +1,6 @@
 from kyc.scraper.HomePage import HomePage
 
+
 def main():
     district_name = 'Nuwaraeliya'
 

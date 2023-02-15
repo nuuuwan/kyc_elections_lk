@@ -1,18 +1,10 @@
 import os
-import random
-import time
 
 from utils import Log, TSVFile
 
 from kyc.core.Candidate import Candidate
 
 log = Log('HomePagePipeline')
-
-
-def sleep(min_sleep=1, sleep_span=5):
-    t_sleep = min_sleep + sleep_span * random.random()
-    log.debug(f'😴 {t_sleep:.2f} s')
-    time.sleep(t_sleep)
 
 
 class HomePagePipeline:
@@ -45,7 +37,7 @@ class HomePagePipeline:
         party_name_clean = Candidate.clean_party(party_name)
         log.debug(f'{party_name_clean}: {n_fptp} + {n_pr} = {n_total} ')
 
-        sleep(0.5, self.MAX_TIME_WAIT_AFTER_SCRAPE_PARTY)
+        self.sleep(0.5, self.MAX_TIME_WAIT_AFTER_SCRAPE_PARTY)
 
     def scrape_lg(self, district_name, lg_name):
         dir_lg = os.path.join(self.DIR_DATA, district_name, lg_name)
@@ -56,7 +48,7 @@ class HomePagePipeline:
         log.info(f'Scraping {lg_name_clean}')
 
         self.select_lg(lg_name)
-        sleep(2, self.MAX_INCR_WAIT_AFTER_SELECT_LG)
+        self.sleep(2, self.MAX_INCR_WAIT_AFTER_SELECT_LG)
 
         self.click_captcha()
         self.click_display()
@@ -69,7 +61,7 @@ class HomePagePipeline:
 
         self.click_back()
         self.select_district(district_name)
-        sleep(1, self.MAX_TIME_WAIT_AFTER_SCRAPE_LG)
+        self.sleep(1, self.MAX_TIME_WAIT_AFTER_SCRAPE_LG)
 
     def scrape_district(self, district_name):
         self.open()
@@ -79,5 +71,5 @@ class HomePagePipeline:
         for lg_name in self.lg_names:
             self.scrape_lg(district_name, lg_name)
 
-        sleep(1, self.MAX_TIME_WAIT_AFTER_SCRAPE_DISTRICT)
+        self.sleep(1, self.MAX_TIME_WAIT_AFTER_SCRAPE_DISTRICT)
         self.quit()
