@@ -14,8 +14,9 @@ class CandidateBase:
         return all(
             [
                 name.strip(),
-                name[0] != '-',
-                name[0] != '_',
+                name[0:3] != '...',
+                name[0:3] != '---',
+                name[0:3] != '___',
                 str(name).strip() != '(None)',
             ]
         )

@@ -28,6 +28,8 @@ DISTRICT_TO_LG_NAME_TO_ID = {
     },
     'LK-51': {
         'Eravur Town UC': 'LG-51005',
+        '-v208': 'LG-51003',
+        '-v218': 'LG-51002',
     },
     'LK-53': {
         'Kantale P.S': 'LG-53008',

@@ -4,6 +4,13 @@
     "lg_id": "LG-11013",
     "ward_num": 0,
     "party": "FPF",
+    "name": "-"
+  },
+  {
+    "district_id": "LK-11",
+    "lg_id": "LG-11013",
+    "ward_num": 0,
+    "party": "FPF",
     "name": "Abasin Mudiyanselage Nayana Kumuduni Kumari Abeysinghe"
   },
   {
@@ -1005,6 +1012,13 @@
     "lg_id": "LG-11013",
     "ward_num": 0,
     "party": "UNFF",
+    "name": "-"
+  },
+  {
+    "district_id": "LK-11",
+    "lg_id": "LG-11013",
+    "ward_num": 0,
+    "party": "UNFF",
     "name": "Akuretiya Gamage Niluka Sanjeewani"
   },
   {
@@ -1727,6 +1741,13 @@
     "ward_num": 7,
     "party": "NLNP",
     "name": "Edirising Devage Nugaghamula thenne Gadera Piume Shanika Priyadarshani"
+  },
+  {
+    "district_id": "LK-11",
+    "lg_id": "LG-11013",
+    "ward_num": 7,
+    "party": "SJB",
+    "name": "-"
   },
   {
     "district_id": "LK-11",

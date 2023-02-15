@@ -82,7 +82,7 @@ class HomePageBase:
             if option.text in ['(Select)', 'lga e 1']:
                 continue
 
-            if option.text.strip() == '':
+            if option.text.strip() == '' or option.text.startswith('Koralai Pattu West'):
                 lg_name = '-v' + option.get_attribute("value")
             else:
                 lg_name = option.text
@@ -122,7 +122,7 @@ class HomePageBase:
                 iframe_captcha.click()
                 break
             except BaseException:
-                self.sleep(5, 1)
+                self.sleep(2, 3)
 
     def click_display(self):
         while True:
@@ -137,7 +137,7 @@ class HomePageBase:
                 a.click()
                 break
             except BaseException:
-                self.sleep(5, 1)
+                self.sleep(2, 2)
 
     @property
     def elem_select_party(self):

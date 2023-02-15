@@ -47,10 +47,10 @@ class HomePagePipeline:
             return
         msg = f'Scraping {lg_name_clean}'
         log.info(msg)
-        self.say(msg)
 
         self.select_lg(lg_name)
         self.sleep(2, self.MAX_INCR_WAIT_AFTER_SELECT_LG)
+        self.say(msg)
 
         self.click_captcha()
         self.click_display()
