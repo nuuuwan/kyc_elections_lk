@@ -16,15 +16,20 @@ DISTRICT_TO_LG_NAME_TO_ID = {
         '-v328': 'LG-33001',
     },
     'LK-41': {
-        '-v72': 'LG-41012',  # Chavakachcheri PS
-        '-v342': 'LG-41003',  # Valikamam West PS
-        '-v343': 'LG-41008',  # Vadamaradchy South-West PS
-        '-v344': 'LG-41005',  # Valikamam North PS
-        '-v345': 'LG-41004',  # Valikamam South-West PS
-        '-v346': 'LG-41006',  # Valikamam South PS
-        '-v347': 'LG-41007',  # Valikamam East PS
-        '-v348': 'LG-41010',  # Point Pedro PS
-        '-v351': 'LG-41014',  # Nallur PS
+        '-v72': 'LG-41012',
+        '-v342': 'LG-41003',
+        '-v343': 'LG-41008',
+        '-v344': 'LG-41005',
+        '-v345': 'LG-41004',
+        '-v346': 'LG-41006',
+        '-v347': 'LG-41007',
+        '-v348': 'LG-41010',
+        '-v351': 'LG-41014',
+    },
+    'LK-45': {
+        '-v76': 'LG-45002',
+        '-v77': 'LG-45003',
+        '-v78': 'LG-45001',
     },
     'LK-51': {
         'Eravur Town UC': 'LG-51005',

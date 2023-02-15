@@ -45,15 +45,13 @@ class HomePagePipeline:
         if os.path.exists(dir_lg):
             log.debug(f'Skipping {lg_name_clean}')
             return
-        
+
         msg = f'Scraping {lg_name_clean}'
-        log.info(msg)        
+        log.info(msg)
         self.say(msg)
-        
+
         self.select_lg(lg_name)
         self.sleep(2, self.MAX_INCR_WAIT_AFTER_SELECT_LG)
-        
-        
 
         self.click_captcha()
         self.click_display()
