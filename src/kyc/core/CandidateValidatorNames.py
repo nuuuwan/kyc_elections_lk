@@ -60,6 +60,7 @@ class CandidateValidatorNames:
 
     @classmethod
     def validate_repeated_names_in_lg(cls):
+        n_max = cls.MAX_N_NAMES_REPEATED_IN_LG
         idx = cls.lg_to_name_to_candidates()
         for lg_id, name_to_candidates in sorted(
             idx.items(),
@@ -72,8 +73,8 @@ class CandidateValidatorNames:
                 if n == 1:
                     continue
                 n_names_repeated += 1
-            if n_names_repeated > cls.MAX_N_NAMES_REPEATED_IN_LG:
+            if n_names_repeated > n_max:
                 lg_ent = Ent.from_id(lg_id)
                 lg_name = lg_ent.name
-                log.error(f'{n_names_repeated}/{n_names}: {lg_id} {lg_name}')
+                log.error(f'{n_names_repeated}/{n_names} names repeat > {n_max} times: {lg_id} {lg_name}')
             
