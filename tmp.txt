@@ -1,0 +1,103 @@
+Colombo District
+(n=7,116)
+Mohamed (2%)
+--------------------------------
+Gampaha District
+(n=7,521)
+Mohamad (3%)
+--------------------------------
+Kalutara District
+(n=3,970)
+Mohamad (6%)
+--------------------------------
+Kandy District
+(n=6,267)
+Mohamad (5%)
+--------------------------------
+Matale District
+(n=2,096)
+Mohamed (1%)
+--------------------------------
+Nuwara Eliya District
+(n=2,449)
+Mohamad (0%)
+--------------------------------
+Galle District
+(n=3,454)
+Mohamad (1%)
+--------------------------------
+Matara District
+(n=2,375)
+Mohomad (1%)
+--------------------------------
+Hambantota District
+(n=2,155)
+Mohomad (1%)
+--------------------------------
+Jaffna District
+(n=4,111)
+Muhammadu (0%)
+--------------------------------
+Mannar District
+(n=825)
+Mohamad (6%)
+--------------------------------
+Vavuniya District
+(n=1,580)
+Mohamed (1%)
+--------------------------------
+Mullaitivu District
+(n=592)
+Muhammadu (1%)
+--------------------------------
+Kilinochchi District
+(n=711)
+Muhammadu (0%)
+--------------------------------
+Batticaloa District
+(n=3,240)
+Mohamed (4%)
+--------------------------------
+Ampara District
+(n=0)
+--------------------------------
+Trincomalee District
+(n=3,154)
+Mohamed (7%)
+--------------------------------
+Kurunegala District
+(n=4,711)
+Mohamad (2%)
+--------------------------------
+Puttalam District
+(n=2,749)
+Muhammadu (7%)
+--------------------------------
+Anuradhapura District
+(n=3,068)
+Mohammad (1%)
+--------------------------------
+Polonnaruwa District
+(n=1,593)
+Muhammadu (1%)
+--------------------------------
+Badulla District
+(n=3,832)
+Mohomad (1%)
+--------------------------------
+Moneragala District
+(n=1,513)
+Mohammadu (1%)
+--------------------------------
+Ratnapura District
+(n=3,794)
+Mohomad (1%)
+--------------------------------
+Kegalle District
+(n=3,288)
+Mohamed (2%)
+--------------------------------
+Sri Lanka
+(n=76,164)
+Mohamad (2%)
+--------------------------------

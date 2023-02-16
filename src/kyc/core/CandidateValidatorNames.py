@@ -1,10 +1,12 @@
 from utils import Log, TSVFile
 from gig import Ent
+
 log = Log('CandidateValidatorNames')
 
 
 class CandidateValidatorNames:
     MAX_N_NAMES_REPEATED_IN_LG = 2
+
     @classmethod
     def get_name_to_candidates(cls):
         candidates = cls.list_all()
@@ -76,5 +78,6 @@ class CandidateValidatorNames:
             if n_names_repeated > n_max:
                 lg_ent = Ent.from_id(lg_id)
                 lg_name = lg_ent.name
-                log.error(f'{n_names_repeated}/{n_names} names repeat > {n_max} times: {lg_id} {lg_name}')
-            
+                log.error(
+                    f'{n_names_repeated}/{n_names} names repeat > {n_max} times: {lg_id} {lg_name}'
+                )
