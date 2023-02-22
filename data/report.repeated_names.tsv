@@ -1,6 +1,7 @@
 district_id	lg_id	ward_num	party	name
 LK-11	LG-11001	0	SLFP	Mohammad Nazim Nawazia Begum
 LK-11	LG-11001	0	SLFP	Mohammad Nazim Nawazia Begum
+LK-11	LG-11001	2	UNP	Raju Baskaran
 LK-11	LG-11002	2	IG1	Mohamad Jamaldeen Mohamad Naleem
 LK-11	LG-11002	2	SEP	Weerasingha Arachchige Sunil
 LK-11	LG-11004	0	JSP	Nisansala Kumari
@@ -9,6 +10,7 @@ LK-11	LG-11008	10	JSP	P.R.Bindumathi
 LK-11	LG-11004	0	JSP	W.A.Vipula
 LK-11	LG-11008	14	JSP	W.A.Vipula
 LK-11	LG-11004	0	UPP	Periyasami Sudarshan
+LK-11	LG-11004	6	LJP	Rathnayaka Mudiyanselage Sarath Bandara
 LK-11	LG-11004	16	JJB	Sunil Liyanage
 LK-11	LG-11004	22	JSP	Chinthaka Jayasena
 LK-11	LG-11008	8	JSP	Chinthaka Jayasena
@@ -35,6 +37,7 @@ LK-12	LG-12018	8	FPF	Kusum Sujeewani Costha
 LK-12	LG-12008	0	UNFF	Himashi Dilsara Ponnamperuma
 LK-12	LG-12009	0	SLFP	Shanmugam Puwaneswary
 LK-12	LG-12013	0	NLNP	Liyanage Chandrika Liyanage
+LK-12	LG-12014	0	DUNF	Jayasinghe Mudiyanselage Swarnalatha Jayasinghe
 LK-12	LG-12016	0	FPF	Rathnayaka Mudiyanselage Gunarathna
 LK-12	LG-12017	0	NDF	Perumal Rajendran
 LK-12	LG-12018	0	AJP	Arachchi Mudiyanselage Upul Saman Kumara
@@ -59,6 +62,7 @@ LK-13	LG-13009	18	SLPP	Pattidurage Nilantha Chandralal
 LK-13	LG-13009	19	SLPP	Pattidurage Nilantha Chandralal
 LK-13	LG-13010	0	SJB	Pasquel Ponsekage Dayawathie Ponseka
 LK-13	LG-13010	0	SJB	Pasquel Ponsekage Dayawathie Ponseka
+LK-13	LG-13010	1	SJB	Sarath Weerasinghe
 LK-13	LG-13013	6	SJB	Samaraweera Mudalige Gemunu Wijegunarathne
 LK-13	LG-13013	7	SJB	Samaraweera Mudalige Gemunu Wijegunarathne
 LK-13	LG-13016	9	SLFP	Bellanthudawa Arachchige Nuwan Kanchana
@@ -86,8 +90,8 @@ LK-21	LG-21016	0	FPF	Wickramasinghe Mudiyanselage Indrani Wickramasinghe
 LK-21	LG-21016	0	FSP	Herath Mudiyanselage Sarath Bandara
 LK-21	LG-21016	13	SLPP	Rathnayake Mudiyanselage Nishantha Rathnayake
 LK-21	LG-21018	1	CWC(	Karupiah Sundaralingam
-LK-21	LG-21021	0	UNP	Rathnayaka Mudiyanselage Kusumawathi
 LK-21	LG-21004	10	SLPP	Herath Mudiyanselage Nawarathna Banda
+LK-21	LG-21006	0	UNP	Herath Mudiyanselage Nishantha Bandara
 LK-21	LG-21012	0	UNP	Dissanayaka Mudiyanselage Wijerathna
 LK-21	LG-21013	0	SLFP	Rathnayake Mudiyanselage Rathnayake
 LK-21	LG-21017	25	SLPP	Rathnayake Mudiyanselage Rathnayake
@@ -96,6 +100,7 @@ LK-21	LG-21002	8	SLFP	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21010	0	IG1	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21013	16	SJB	Herath Mudiyanselage Gamini Herath
 LK-21	LG-21014	0	FPF	Dissanayaka Mudiyanselage Muthubanda
+LK-21	LG-21021	0	UNP	Rathnayaka Mudiyanselage Kusumawathi
 LK-22	LG-22012	9	SJB	Herath Mudiyanselage Nawarathna Bandara
 LK-22	LG-22004	8	SJP	Herath Mudiyanselage Dhammika Herath
 LK-22	LG-22010	2	SJB	Herath Mudiyanselage Shantha Bandara Herath
@@ -475,6 +480,695 @@ LK-51	LG-51007	0	DTNA	THAVARASA THAYALINI
 LK-51	LG-51011	0	DTNA	THAVARASA THAYALINI
 LK-51	LG-51008	0	IG2	SULAIMA LEBBE SITHY KABEERA
 LK-51	LG-51008	0	IG5	SULAIMA LEBBE SITHY KABEERA
+LK-52	LG-52007	2	TULF	Raju Baskaran
+LK-52	LG-52005	6	FSP	Rathnayaka Mudiyanselage Sarath Bandara
+LK-52	LG-52004	11	FPF	Jayasinghe Mudiyanselage Swarnalatha Jayasinghe
+LK-52	LG-52004	11	UNP	Sarath Weerasinghe
+LK-52	LG-52001	0	FPF	Adikari Mudiyanselage Chaminda Priyashantha
+LK-52	LG-52002	0	FPF	Adikari Mudiyanselage Chaminda Priyashantha
+LK-52	LG-52001	0	FPF	Disanayaka Mudiyanselage Sanjeewani Ruwanthika
+LK-52	LG-52002	0	FPF	Disanayaka Mudiyanselage Sanjeewani Ruwanthika
+LK-52	LG-52001	0	FPF	Gallage Sanoja Madusari Ranawella
+LK-52	LG-52002	0	FPF	Gallage Sanoja Madusari Ranawella
+LK-52	LG-52001	0	FPF	Giganagodage Kunkuma Chandana
+LK-52	LG-52002	0	FPF	Giganagodage Kunkuma Chandana
+LK-52	LG-52001	0	FPF	Hetti Arachchi Kamkanamge Chanika Jeewanthi
+LK-52	LG-52002	0	FPF	Hetti Arachchi Kamkanamge Chanika Jeewanthi
+LK-52	LG-52001	0	FPF	Jayasundara Mudiyanselage Wiraj Rangana Jayasundara
+LK-52	LG-52002	0	FPF	Jayasundara Mudiyanselage Wiraj Rangana Jayasundara
+LK-52	LG-52001	0	FPF	Kirawanalle Gedara Chandra Kumari
+LK-52	LG-52002	0	FPF	Kirawanalle Gedara Chandra Kumari
+LK-52	LG-52001	0	FPF	Konara Mudiyanselage Chula Indika Kumara
+LK-52	LG-52002	0	FPF	Konara Mudiyanselage Chula Indika Kumara
+LK-52	LG-52001	0	FPF	Kubure Gedara Darmarathna Banda
+LK-52	LG-52002	0	FPF	Kubure Gedara Darmarathna Banda
+LK-52	LG-52001	0	FPF	Meragal Pedige Chithrani Udayakanthi
+LK-52	LG-52002	0	FPF	Meragal Pedige Chithrani Udayakanthi
+LK-52	LG-52001	0	FPF	Nala Gamage Nishantha Udaya Kumara
+LK-52	LG-52002	0	FPF	Nala Gamage Nishantha Udaya Kumara
+LK-52	LG-52001	0	FPF	Rajapaksha Dewayalage Danapala
+LK-52	LG-52002	0	FPF	Rajapaksha Dewayalage Danapala
+LK-52	LG-52001	0	FPF	Ranhotibandaralage Sriwardana
+LK-52	LG-52002	0	FPF	Ranhotibandaralage Sriwardana
+LK-52	LG-52001	0	FPF	Samarakoon Mudiyanselage Geethanjali Lakmali
+LK-52	LG-52002	0	FPF	Samarakoon Mudiyanselage Geethanjali Lakmali
+LK-52	LG-52001	0	FPF	Uthuwana Danagama Gedara Kusumlatha
+LK-52	LG-52002	0	FPF	Uthuwana Danagama Gedara Kusumlatha
+LK-52	LG-52001	0	FPF	Wijerathna Mudiyanselage Ajantha Jayathilaka
+LK-52	LG-52002	0	FPF	Wijerathna Mudiyanselage Ajantha Jayathilaka
+LK-52	LG-52001	0	FPF	Wijethunga Mudiyanselage Samanmali Nuwanthika
+LK-52	LG-52002	0	FPF	Wijethunga Mudiyanselage Samanmali Nuwanthika
+LK-52	LG-52001	0	FPF	Yapa Mudiyanselage Damayanthi Kumari
+LK-52	LG-52002	0	FPF	Yapa Mudiyanselage Damayanthi Kumari
+LK-52	LG-52001	0	FSP	Aluth Gedara Upali Ekanayaka
+LK-52	LG-52002	0	FSP	Aluth Gedara Upali Ekanayaka
+LK-52	LG-52001	0	FSP	Bulathkotuwe Gedara Dissanayaka Mudiyanselage Seelawathi
+LK-52	LG-52002	0	FSP	Bulathkotuwe Gedara Dissanayaka Mudiyanselage Seelawathi
+LK-52	LG-52001	0	FSP	Don Perislage Nilanthi Herath
+LK-52	LG-52002	0	FSP	Don Perislage Nilanthi Herath
+LK-52	LG-52001	0	FSP	Ekanayake Mudiyanselage Chandrapala
+LK-52	LG-52002	0	FSP	Ekanayake Mudiyanselage Chandrapala
+LK-52	LG-52001	0	FSP	Elpitiye Gedara Oneshi Nayanika Kumari
+LK-52	LG-52002	0	FSP	Elpitiye Gedara Oneshi Nayanika Kumari
+LK-52	LG-52001	0	FSP	Hewa Pannigala Gamage Nirosha Ramya Kumari
+LK-52	LG-52002	0	FSP	Hewa Pannigala Gamage Nirosha Ramya Kumari
+LK-52	LG-52001	0	FSP	Jayasundara Mudiyanselage Somawathi
+LK-52	LG-52002	0	FSP	Jayasundara Mudiyanselage Somawathi
+LK-52	LG-52001	0	FSP	Konara Mudiyanselage Mahesh Sandun Bandara
+LK-52	LG-52002	0	FSP	Konara Mudiyanselage Mahesh Sandun Bandara
+LK-52	LG-52001	0	FSP	Manannale Gedara Seetha Kumari Pitawala
+LK-52	LG-52002	0	FSP	Manannale Gedara Seetha Kumari Pitawala
+LK-52	LG-52001	0	FSP	Nishsanka Mudiyanselage Sandya Kanthi
+LK-52	LG-52002	0	FSP	Nishsanka Mudiyanselage Sandya Kanthi
+LK-52	LG-52001	0	FSP	Paluwaththe Gedara Somawathi
+LK-52	LG-52002	0	FSP	Paluwaththe Gedara Somawathi
+LK-52	LG-52001	0	FSP	Panditha Gedara Nimal Jayakodi
+LK-52	LG-52002	0	FSP	Panditha Gedara Nimal Jayakodi
+LK-52	LG-52001	0	FSP	Ramanayaka Jayasekara Mudiyanselage Polgaharawe Gedara Violet Kumari
+LK-52	LG-52002	0	FSP	Ramanayaka Jayasekara Mudiyanselage Polgaharawe Gedara Violet Kumari
+LK-52	LG-52001	0	FSP	Rathnayaka Mudiyanselage Abeyrathna
+LK-52	LG-52002	0	FSP	Rathnayaka Mudiyanselage Abeyrathna
+LK-52	LG-52001	0	FSP	Rathnayaka Mudiyanselage Sisil Duglas Senadeera
+LK-52	LG-52002	0	FSP	Rathnayaka Mudiyanselage Sisil Duglas Senadeera
+LK-52	LG-52001	0	FSP	Sewanapola Mudiyanselage Janaka Pushpa Kumara
+LK-52	LG-52002	0	FSP	Sewanapola Mudiyanselage Janaka Pushpa Kumara
+LK-52	LG-52001	0	FSP	Thalagaha Gedara Nihal Ranjith
+LK-52	LG-52002	0	FSP	Thalagaha Gedara Nihal Ranjith
+LK-52	LG-52001	0	FSP	Uresha Chathurangani Randeniya
+LK-52	LG-52002	0	FSP	Uresha Chathurangani Randeniya
+LK-52	LG-52001	0	JJB	Arachchi Gedara Chandrawathi Manike
+LK-52	LG-52002	0	JJB	Arachchi Gedara Chandrawathi Manike
+LK-52	LG-52001	0	JJB	Aththanayaka Mudiyanselage Sumanalatha
+LK-52	LG-52002	0	JJB	Aththanayaka Mudiyanselage Sumanalatha
+LK-52	LG-52001	0	JJB	Duranda Kuburage Arunath Wijelath Bandara
+LK-52	LG-52002	0	JJB	Duranda Kuburage Arunath Wijelath Bandara
+LK-52	LG-52001	0	JJB	Galpoththe Gedara Chandrawathi
+LK-52	LG-52002	0	JJB	Galpoththe Gedara Chandrawathi
+LK-52	LG-52001	0	JJB	Hangidi Gedara Siyanthi Senika
+LK-52	LG-52002	0	JJB	Hangidi Gedara Siyanthi Senika
+LK-52	LG-52001	0	JJB	Herath Mudiyanselage Sumithtra Pushpa Kumari
+LK-52	LG-52002	0	JJB	Herath Mudiyanselage Sumithtra Pushpa Kumari
+LK-52	LG-52001	0	JJB	Hewa Withthige Gnanasiri
+LK-52	LG-52002	0	JJB	Hewa Withthige Gnanasiri
+LK-52	LG-52001	0	JJB	Jayasekara Kaththota Ralalage Chandralatha
+LK-52	LG-52002	0	JJB	Jayasekara Kaththota Ralalage Chandralatha
+LK-52	LG-52001	0	JJB	Jayasinhalage Sampath Thilak Pushpa Kumara
+LK-52	LG-52002	0	JJB	Jayasinhalage Sampath Thilak Pushpa Kumara
+LK-52	LG-52001	0	JJB	Juliya Baduge Iwoni de Silva
+LK-52	LG-52002	0	JJB	Juliya Baduge Iwoni de Silva
+LK-52	LG-52001	0	JJB	Kalugama Mudiyanselage Chathuranga Suresh Wijerathna
+LK-52	LG-52002	0	JJB	Kalugama Mudiyanselage Chathuranga Suresh Wijerathna
+LK-52	LG-52001	0	JJB	Kodakubure Gedara Rushan Sudaraka Perera
+LK-52	LG-52002	0	JJB	Kodakubure Gedara Rushan Sudaraka Perera
+LK-52	LG-52001	0	JJB	Mudalige Asoka Anurudda
+LK-52	LG-52002	0	JJB	Mudalige Asoka Anurudda
+LK-52	LG-52001	0	JJB	Pelawa Gallange Gedara Priyanthi Malani
+LK-52	LG-52002	0	JJB	Pelawa Gallange Gedara Priyanthi Malani
+LK-52	LG-52001	0	JJB	Rajapaksha Mudiyanselage Darmarathna
+LK-52	LG-52002	0	JJB	Rajapaksha Mudiyanselage Darmarathna
+LK-52	LG-52001	0	JJB	Rambanthi Dewayalage Sandya Pushpamali Kulasekara
+LK-52	LG-52002	0	JJB	Rambanthi Dewayalage Sandya Pushpamali Kulasekara
+LK-52	LG-52001	0	JJB	Walpole Gedara Sugath Niwantha Bandara
+LK-52	LG-52002	0	JJB	Walpole Gedara Sugath Niwantha Bandara
+LK-52	LG-52001	0	JJB	Wijamunige Nimalasena
+LK-52	LG-52002	0	JJB	Wijamunige Nimalasena
+LK-52	LG-52001	0	NDF	Ahangama Merechchige Wisal Kanishma Ahangama
+LK-52	LG-52002	0	NDF	Ahangama Merechchige Wisal Kanishma Ahangama
+LK-52	LG-52001	0	NDF	Alahakon Mudiyansele Gedara Lakshman Kumari
+LK-52	LG-52002	0	NDF	Alahakon Mudiyansele Gedara Lakshman Kumari
+LK-52	LG-52001	0	NDF	Dewasingha Arachchilage Sheela Dewasingha
+LK-52	LG-52002	0	NDF	Dewasingha Arachchilage Sheela Dewasingha
+LK-52	LG-52001	0	NDF	Disanayaka Mudiyanselage Kovillande Gedara Uddaka Thumarasinghe
+LK-52	LG-52002	0	NDF	Disanayaka Mudiyanselage Kovillande Gedara Uddaka Thumarasinghe
+LK-52	LG-52001	0	NDF	Herath Mudiyanselage Jayantha Sarath Kumara Aberathna
+LK-52	LG-52002	0	NDF	Herath Mudiyanselage Jayantha Sarath Kumara Aberathna
+LK-52	LG-52001	0	NDF	Herath Mudiyanselage Muthubanda
+LK-52	LG-52002	0	NDF	Herath Mudiyanselage Muthubanda
+LK-52	LG-52001	0	NDF	Horathalge Dilrukshi Anusha Kumari Henri
+LK-52	LG-52002	0	NDF	Horathalge Dilrukshi Anusha Kumari Henri
+LK-52	LG-52001	0	NDF	Kona Gedara Madusanka Kumara Weerasinghe
+LK-52	LG-52002	0	NDF	Kona Gedara Madusanka Kumara Weerasinghe
+LK-52	LG-52001	0	NDF	Konage Watte Gedara Thamara Kumari Senevirathna
+LK-52	LG-52002	0	NDF	Konage Watte Gedara Thamara Kumari Senevirathna
+LK-52	LG-52001	0	NDF	Kulathunga Arachchilage Udara Nadun Weerarathna
+LK-52	LG-52002	0	NDF	Kulathunga Arachchilage Udara Nadun Weerarathna
+LK-52	LG-52001	0	NDF	Marakawaththe Gedara Dammika Marapana
+LK-52	LG-52002	0	NDF	Marakawaththe Gedara Dammika Marapana
+LK-52	LG-52001	0	NDF	Matha Gedara Tharanga Sampath
+LK-52	LG-52002	0	NDF	Matha Gedara Tharanga Sampath
+LK-52	LG-52001	0	NDF	Nagoda Gamage Priyangika
+LK-52	LG-52002	0	NDF	Nagoda Gamage Priyangika
+LK-52	LG-52001	0	NDF	Nilusha Chathurangani Edirimanna
+LK-52	LG-52002	0	NDF	Nilusha Chathurangani Edirimanna
+LK-52	LG-52001	0	NDF	Sripathul Dewayalage Chaminda Nihal Pathmasiri
+LK-52	LG-52002	0	NDF	Sripathul Dewayalage Chaminda Nihal Pathmasiri
+LK-52	LG-52001	0	NDF	Weerasingha Mudiyanselage Nandawathi
+LK-52	LG-52002	0	NDF	Weerasingha Mudiyanselage Nandawathi
+LK-52	LG-52001	0	NDF	Wickramasingha Disanayaka Mudiyanselage Anulawathi
+LK-52	LG-52002	0	NDF	Wickramasingha Disanayaka Mudiyanselage Anulawathi
+LK-52	LG-52001	0	NDF	Widyarathna Ganithalage Nuwanthika Mathushani Rupasinghe
+LK-52	LG-52002	0	NDF	Widyarathna Ganithalage Nuwanthika Mathushani Rupasinghe
+LK-52	LG-52001	0	SJB	Abagalage Indrawathi
+LK-52	LG-52002	0	SJB	Abagalage Indrawathi
+LK-52	LG-52001	0	SJB	Akmiwana Obada Muthalige Priyangika Malkumari
+LK-52	LG-52002	0	SJB	Akmiwana Obada Muthalige Priyangika Malkumari
+LK-52	LG-52001	0	SJB	Badda Withanage Wajira Shamali
+LK-52	LG-52002	0	SJB	Badda Withanage Wajira Shamali
+LK-52	LG-52001	0	SJB	Balapitiyo Liyanaralalage Liliyan Pingho
+LK-52	LG-52002	0	SJB	Balapitiyo Liyanaralalage Liliyan Pingho
+LK-52	LG-52001	0	SJB	Bannek Mudiyanselage Ekanayaka Banda
+LK-52	LG-52002	0	SJB	Bannek Mudiyanselage Ekanayaka Banda
+LK-52	LG-52001	0	SJB	Danapala Mudiyanselage Chandrani
+LK-52	LG-52002	0	SJB	Danapala Mudiyanselage Chandrani
+LK-52	LG-52001	0	SJB	Dasanayaka Mudiyanselage Chamuthani Gunathilaka
+LK-52	LG-52002	0	SJB	Dasanayaka Mudiyanselage Chamuthani Gunathilaka
+LK-52	LG-52001	0	SJB	Disanayaka Mudiyanselage Heenmanika
+LK-52	LG-52002	0	SJB	Disanayaka Mudiyanselage Heenmanika
+LK-52	LG-52001	0	SJB	Disanayaka Mudiyanselage Rajapaksha
+LK-52	LG-52002	0	SJB	Disanayaka Mudiyanselage Rajapaksha
+LK-52	LG-52001	0	SJB	Elawalle gedara Chinthaka Sumith Kumara
+LK-52	LG-52002	0	SJB	Elawalle gedara Chinthaka Sumith Kumara
+LK-52	LG-52001	0	SJB	Godagama Liyana Arachchige Surendra Wimalarathna
+LK-52	LG-52002	0	SJB	Godagama Liyana Arachchige Surendra Wimalarathna
+LK-52	LG-52001	0	SJB	Gunasekara Mudiyanselage Jayawarthana
+LK-52	LG-52002	0	SJB	Gunasekara Mudiyanselage Jayawarthana
+LK-52	LG-52001	0	SJB	Jayasingha Mudiyanselage Sriyani Rathnayaka
+LK-52	LG-52002	0	SJB	Jayasingha Mudiyanselage Sriyani Rathnayaka
+LK-52	LG-52001	0	SJB	Kanthe Kubure Gedara Thilaka Bandara
+LK-52	LG-52002	0	SJB	Kanthe Kubure Gedara Thilaka Bandara
+LK-52	LG-52001	0	SJB	Kulathunga Mudiyanselage Ariya Daglas Dayas
+LK-52	LG-52002	0	SJB	Kulathunga Mudiyanselage Ariya Daglas Dayas
+LK-52	LG-52001	0	SJB	Rajapakshage Nalaka Dimuthu Niroshana
+LK-52	LG-52002	0	SJB	Rajapakshage Nalaka Dimuthu Niroshana
+LK-52	LG-52001	0	SJB	Royal Netil Iwon Dilrukshi Raundas
+LK-52	LG-52002	0	SJB	Royal Netil Iwon Dilrukshi Raundas
+LK-52	LG-52001	0	SLFP	Athapattu Gedara Dulanjali Nimesa Kumari
+LK-52	LG-52002	0	SLFP	Athapattu Gedara Dulanjali Nimesa Kumari
+LK-52	LG-52001	0	SLFP	Bandara Gedara Jayasundara Mudiyanselage Wickramarathna
+LK-52	LG-52002	0	SLFP	Bandara Gedara Jayasundara Mudiyanselage Wickramarathna
+LK-52	LG-52001	0	SLFP	Disanayaka Mudiyanselage Nayana Dilani
+LK-52	LG-52002	0	SLFP	Disanayaka Mudiyanselage Nayana Dilani
+LK-52	LG-52001	0	SLFP	Disanayaka Mudiyanselage Walau Gedara Muthubandara
+LK-52	LG-52002	0	SLFP	Disanayaka Mudiyanselage Walau Gedara Muthubandara
+LK-52	LG-52001	0	SLFP	Gajanayaka Mudiyanselage Aberathna
+LK-52	LG-52002	0	SLFP	Gajanayaka Mudiyanselage Aberathna
+LK-52	LG-52001	0	SLFP	Herath Mudiyanselage Dewagedara Sumeda Nishshanka Herath
+LK-52	LG-52002	0	SLFP	Herath Mudiyanselage Dewagedara Sumeda Nishshanka Herath
+LK-52	LG-52001	0	SLFP	Herath Mudiyanselage Mahintha Kusumsiri
+LK-52	LG-52002	0	SLFP	Herath Mudiyanselage Mahintha Kusumsiri
+LK-52	LG-52001	0	SLFP	Jayasiri Mudiyanselage Palle Gedara Chandrawathi Manike
+LK-52	LG-52002	0	SLFP	Jayasiri Mudiyanselage Palle Gedara Chandrawathi Manike
+LK-52	LG-52001	0	SLFP	Jayathunga Mudiyanselage Chandrani pushpa Kumari
+LK-52	LG-52002	0	SLFP	Jayathunga Mudiyanselage Chandrani pushpa Kumari
+LK-52	LG-52001	0	SLFP	Kottagoda Mahavithanelage Jayasiri
+LK-52	LG-52002	0	SLFP	Kottagoda Mahavithanelage Jayasiri
+LK-52	LG-52001	0	SLFP	Lokukatiya Pege Kumudu Kumari
+LK-52	LG-52002	0	SLFP	Lokukatiya Pege Kumudu Kumari
+LK-52	LG-52001	0	SLFP	Mapa Mudiyanselage Inoka Nilmini Senevirathna
+LK-52	LG-52002	0	SLFP	Mapa Mudiyanselage Inoka Nilmini Senevirathna
+LK-52	LG-52001	0	SLFP	Nishshanka Mudiyanselage Yompane Gedara Upul Dinesh Nishshanka
+LK-52	LG-52002	0	SLFP	Nishshanka Mudiyanselage Yompane Gedara Upul Dinesh Nishshanka
+LK-52	LG-52001	0	SLFP	Ranhoti Bandaralage Anula Heenkumari
+LK-52	LG-52002	0	SLFP	Ranhoti Bandaralage Anula Heenkumari
+LK-52	LG-52001	0	SLFP	Rathnayaka Mudiyanselage Anulawathi Kumarihami
+LK-52	LG-52002	0	SLFP	Rathnayaka Mudiyanselage Anulawathi Kumarihami
+LK-52	LG-52001	0	SLFP	Wallawathta Mudiyanselage Lalith
+LK-52	LG-52002	0	SLFP	Wallawathta Mudiyanselage Lalith
+LK-52	LG-52001	0	SLFP	Weerasingha Thaunda panditha Gedara Sumanathilaka
+LK-52	LG-52002	0	SLFP	Weerasingha Thaunda panditha Gedara Sumanathilaka
+LK-52	LG-52001	0	SLFP	Yamasingha Dewalage Swarnalatha
+LK-52	LG-52002	0	SLFP	Yamasingha Dewalage Swarnalatha
+LK-52	LG-52001	0	SLPP	Abeykoon Mudiyanselage Anula Abekon
+LK-52	LG-52002	0	SLPP	Abeykoon Mudiyanselage Anula Abekon
+LK-52	LG-52001	0	SLPP	Aluthgama Gedara Weerasingha Bandara
+LK-52	LG-52002	0	SLPP	Aluthgama Gedara Weerasingha Bandara
+LK-52	LG-52001	0	SLPP	Bandara Gedara Jayasundara Mudiyanselage Pemarathna
+LK-52	LG-52002	0	SLPP	Bandara Gedara Jayasundara Mudiyanselage Pemarathna
+LK-52	LG-52001	0	SLPP	Chndrasekara Brahmana Gedara Sahan Hasitha Kamalsiri
+LK-52	LG-52002	0	SLPP	Chndrasekara Brahmana Gedara Sahan Hasitha Kamalsiri
+LK-52	LG-52001	0	SLPP	Danapala Mudiyanselage Pussalkatiye Gedara Anura
+LK-52	LG-52002	0	SLPP	Danapala Mudiyanselage Pussalkatiye Gedara Anura
+LK-52	LG-52001	0	SLPP	Dematagaha Kubure Gedara Shantha Pushpa Kumara
+LK-52	LG-52002	0	SLPP	Dematagaha Kubure Gedara Shantha Pushpa Kumara
+LK-52	LG-52001	0	SLPP	Elamal Kumbure Gedara Gamini Disanayaka
+LK-52	LG-52002	0	SLPP	Elamal Kumbure Gedara Gamini Disanayaka
+LK-52	LG-52001	0	SLPP	Herath Mudiyansele Udakotuwe Gedara Susanthi kumari
+LK-52	LG-52002	0	SLPP	Herath Mudiyansele Udakotuwe Gedara Susanthi kumari
+LK-52	LG-52001	0	SLPP	Idame Herath Mudiyanselage Nishani Roshn Bandara
+LK-52	LG-52002	0	SLPP	Idame Herath Mudiyanselage Nishani Roshn Bandara
+LK-52	LG-52001	0	SLPP	Kotuwe Gedara Jayarathna
+LK-52	LG-52002	0	SLPP	Kotuwe Gedara Jayarathna
+LK-52	LG-52001	0	SLPP	Kunankara Durayalage Kanchna Saman Kumari
+LK-52	LG-52002	0	SLPP	Kunankara Durayalage Kanchna Saman Kumari
+LK-52	LG-52001	0	SLPP	Mawalage Nilanthi Ranathunga
+LK-52	LG-52002	0	SLPP	Mawalage Nilanthi Ranathunga
+LK-52	LG-52001	0	SLPP	Rabukwalle Hangidi Gedara Nimmi Ireshaa Thilakarathna
+LK-52	LG-52002	0	SLPP	Rabukwalle Hangidi Gedara Nimmi Ireshaa Thilakarathna
+LK-52	LG-52001	0	SLPP	Ranhoti Pedige Sunitha vayalat
+LK-52	LG-52002	0	SLPP	Ranhoti Pedige Sunitha vayalat
+LK-52	LG-52001	0	SLPP	Samarasinghe Arachchige Oshan Arunalu
+LK-52	LG-52002	0	SLPP	Samarasinghe Arachchige Oshan Arunalu
+LK-52	LG-52001	0	SLPP	Udakotuwe Gedara Dilani Kumari
+LK-52	LG-52002	0	SLPP	Udakotuwe Gedara Dilani Kumari
+LK-52	LG-52001	0	SLPP	Udugoda Gedara Ranjith Wijesinghe
+LK-52	LG-52002	0	SLPP	Udugoda Gedara Ranjith Wijesinghe
+LK-52	LG-52001	0	UNP	Abesinghe Mudiyanselage Sanjiwani Kumari Abesinghe
+LK-52	LG-52002	0	UNP	Abesinghe Mudiyanselage Sanjiwani Kumari Abesinghe
+LK-52	LG-52001	0	UNP	Aththanayaka Mudiyanselage Aththanayaka Gedara Wijekon Banda
+LK-52	LG-52002	0	UNP	Aththanayaka Mudiyanselage Aththanayaka Gedara Wijekon Banda
+LK-52	LG-52001	0	UNP	Dibikotuwe Wasala Herath Mudiyanselage Ganesha Chayani Kumari
+LK-52	LG-52002	0	UNP	Dibikotuwe Wasala Herath Mudiyanselage Ganesha Chayani Kumari
+LK-52	LG-52001	0	UNP	Disanayaka Mudiyanselage Aluth Gedara Shimani Priyadarshani Disanayaka
+LK-52	LG-52002	0	UNP	Disanayaka Mudiyanselage Aluth Gedara Shimani Priyadarshani Disanayaka
+LK-52	LG-52001	0	UNP	Disanayaka Mudiyanselage Lahiru Lakshan Disanayaka
+LK-52	LG-52002	0	UNP	Disanayaka Mudiyanselage Lahiru Lakshan Disanayaka
+LK-52	LG-52001	0	UNP	Dishanayaka Mudiyanselage Bindu Nayanajith Disanayaka
+LK-52	LG-52002	0	UNP	Dishanayaka Mudiyanselage Bindu Nayanajith Disanayaka
+LK-52	LG-52001	0	UNP	Herath Mudiyanselage Mahinda Kusumsiri
+LK-52	LG-52002	0	UNP	Herath Mudiyanselage Mahinda Kusumsiri
+LK-52	LG-52001	0	UNP	Herath Mudiyanselage Rupika Dilrukshi Jayasundara
+LK-52	LG-52002	0	UNP	Herath Mudiyanselage Rupika Dilrukshi Jayasundara
+LK-52	LG-52001	0	UNP	Jayasekara Mudiyanselage Welegama Gedara Sanath Bandara Jayasekara
+LK-52	LG-52002	0	UNP	Jayasekara Mudiyanselage Welegama Gedara Sanath Bandara Jayasekara
+LK-52	LG-52001	0	UNP	Kalatu Arachchige Samantha Sirinath
+LK-52	LG-52002	0	UNP	Kalatu Arachchige Samantha Sirinath
+LK-52	LG-52001	0	UNP	Kotuwe Wethalage Asanga Kanad Samarasooriya
+LK-52	LG-52002	0	UNP	Kotuwe Wethalage Asanga Kanad Samarasooriya
+LK-52	LG-52001	0	UNP	Lansakara Herath Mudiyanselage Dushantha Pushpa Kumara
+LK-52	LG-52002	0	UNP	Lansakara Herath Mudiyanselage Dushantha Pushpa Kumara
+LK-52	LG-52001	0	UNP	Mahanama Siriwarthanalage Sujatha
+LK-52	LG-52002	0	UNP	Mahanama Siriwarthanalage Sujatha
+LK-52	LG-52001	0	UNP	Nawala Badal Kubure Gedara Sopinona
+LK-52	LG-52002	0	UNP	Nawala Badal Kubure Gedara Sopinona
+LK-52	LG-52001	0	UNP	Rathnayaka Mudiyanselage Chandra Malani
+LK-52	LG-52002	0	UNP	Rathnayaka Mudiyanselage Chandra Malani
+LK-52	LG-52001	0	UNP	Sooriya Arachchilage Thushara
+LK-52	LG-52002	0	UNP	Sooriya Arachchilage Thushara
+LK-52	LG-52001	0	UNP	Walauwe Gedara Podimanike Kumari
+LK-52	LG-52002	0	UNP	Walauwe Gedara Podimanike Kumari
+LK-52	LG-52001	0	UNP	Warnasooriya Patabathige Yureni Dasunika Warnasooriya
+LK-52	LG-52002	0	UNP	Warnasooriya Patabathige Yureni Dasunika Warnasooriya
+LK-52	LG-52001	1	FPF	Abesinha Mudiyanselage wellamaluwe Gedara Manike Abesinha
+LK-52	LG-52002	1	FPF	Abesinha Mudiyanselage wellamaluwe Gedara Manike Abesinha
+LK-52	LG-52001	1	FSP	Nawarathna Mudiyanselage Muthubanda
+LK-52	LG-52002	1	FSP	Nawarathna Mudiyanselage Muthubanda
+LK-52	LG-52001	1	JJB	Bahuge Chamintha Mihira Gunasekara
+LK-52	LG-52002	1	JJB	Bahuge Chamintha Mihira Gunasekara
+LK-52	LG-52001	1	NDF	Jayalath Pedige Ajith Chandralal
+LK-52	LG-52002	1	NDF	Jayalath Pedige Ajith Chandralal
+LK-52	LG-52001	1	SJB	Herath Mudiyanselage Senevirathna Banda
+LK-52	LG-52002	1	SJB	Herath Mudiyanselage Senevirathna Banda
+LK-52	LG-52001	1	SLFP	Liyana Pedige Ajith Padmasiri
+LK-52	LG-52002	1	SLFP	Liyana Pedige Ajith Padmasiri
+LK-52	LG-52001	1	SLPP	Jayasinghe Arachchilage Saman Kumara
+LK-52	LG-52002	1	SLPP	Jayasinghe Arachchilage Saman Kumara
+LK-52	LG-52001	1	UNP	Hitihamillage Wijesiri
+LK-52	LG-52002	1	UNP	Hitihamillage Wijesiri
+LK-52	LG-52001	2	FPF	Senanayaka Herath Mudiyanselage Swarnalatha
+LK-52	LG-52002	2	FPF	Senanayaka Herath Mudiyanselage Swarnalatha
+LK-52	LG-52001	2	FSP	Hewa Hinipellage Sriyani Renuka
+LK-52	LG-52002	2	FSP	Hewa Hinipellage Sriyani Renuka
+LK-52	LG-52001	2	JJB	Sooriya Arachchilage Ranjith Dayarathna
+LK-52	LG-52002	2	JJB	Sooriya Arachchilage Ranjith Dayarathna
+LK-52	LG-52001	2	NDF	Karunadura Udagedara Amith Roshan Kumara
+LK-52	LG-52002	2	NDF	Karunadura Udagedara Amith Roshan Kumara
+LK-52	LG-52001	2	SJB	Wanni Arachchige Pushpakumara Wanniarachchi
+LK-52	LG-52002	2	SJB	Wanni Arachchige Pushpakumara Wanniarachchi
+LK-52	LG-52001	2	SLFP	Samarasingha Arachchilage Don Vesly Chamara Piyantha
+LK-52	LG-52002	2	SLFP	Samarasingha Arachchilage Don Vesly Chamara Piyantha
+LK-52	LG-52001	2	SLPP	Ritigaha Mulagedara Ranjith Gunathilaka
+LK-52	LG-52002	2	SLPP	Ritigaha Mulagedara Ranjith Gunathilaka
+LK-52	LG-52001	2	UNP	Kengalle Gedara Gamini Wijerathna
+LK-52	LG-52002	2	UNP	Kengalle Gedara Gamini Wijerathna
+LK-52	LG-52001	3	FPF	Disanayaka Mudiyanselage Samarapala
+LK-52	LG-52002	3	FPF	Disanayaka Mudiyanselage Samarapala
+LK-52	LG-52001	3	FSP	Yapa Mudiyanselage Sunil Disanayaka
+LK-52	LG-52002	3	FSP	Yapa Mudiyanselage Sunil Disanayaka
+LK-52	LG-52001	3	JJB	Wijethunga Mudiyanselage Adikaram Gedara Senevirathna Banda
+LK-52	LG-52002	3	JJB	Wijethunga Mudiyanselage Adikaram Gedara Senevirathna Banda
+LK-52	LG-52001	3	NDF	Mallika Arachchi Weerasinghe
+LK-52	LG-52002	3	NDF	Mallika Arachchi Weerasinghe
+LK-52	LG-52001	3	SJB	Moragaha Madiththe Gedara Kasun imeks Rajarathna
+LK-52	LG-52002	3	SJB	Moragaha Madiththe Gedara Kasun imeks Rajarathna
+LK-52	LG-52001	3	SLFP	Herath Mudiyanselage Herath Munaweera
+LK-52	LG-52002	3	SLFP	Herath Mudiyanselage Herath Munaweera
+LK-52	LG-52001	3	SLPP	Purane Kubure Gedara Upali Lilarathna
+LK-52	LG-52002	3	SLPP	Purane Kubure Gedara Upali Lilarathna
+LK-52	LG-52001	3	UNP	Wickramasingha Mudiyanselage Jayasekara
+LK-52	LG-52002	3	UNP	Wickramasingha Mudiyanselage Jayasekara
+LK-52	LG-52001	4	FPF	Nakath Gedara Wijekoon Banda
+LK-52	LG-52002	4	FPF	Nakath Gedara Wijekoon Banda
+LK-52	LG-52001	4	FSP	Hidde Ralalage Ranjith Kumara
+LK-52	LG-52002	4	FSP	Hidde Ralalage Ranjith Kumara
+LK-52	LG-52001	4	JJB	Sudu Hakuruge Karunasena
+LK-52	LG-52002	4	JJB	Sudu Hakuruge Karunasena
+LK-52	LG-52001	4	NDF	Rajapaksha Dewayalage Jagath Selton Kumara
+LK-52	LG-52002	4	NDF	Rajapaksha Dewayalage Jagath Selton Kumara
+LK-52	LG-52001	4	SJB	Herath Disanayaka Sujeewa Shantha Disanayaka
+LK-52	LG-52002	4	SJB	Herath Disanayaka Sujeewa Shantha Disanayaka
+LK-52	LG-52001	4	SLFP	Krishnadasa Mudiyanselage Amara Kumarihami Jayawardhana
+LK-52	LG-52002	4	SLFP	Krishnadasa Mudiyanselage Amara Kumarihami Jayawardhana
+LK-52	LG-52001	4	SLPP	Raththaran Muramuthali Herath Mudiyanselage Malani Priyanthi Herath
+LK-52	LG-52002	4	SLPP	Raththaran Muramuthali Herath Mudiyanselage Malani Priyanthi Herath
+LK-52	LG-52001	4	UNP	Lahiru Sathantha Wijesundara
+LK-52	LG-52002	4	UNP	Lahiru Sathantha Wijesundara
+LK-52	LG-52001	5	FPF	Mapa Mudiyanselage Aruna Weerabandara
+LK-52	LG-52002	5	FPF	Mapa Mudiyanselage Aruna Weerabandara
+LK-52	LG-52001	5	FSP	Wannisinha Mudiyanselage Karunasinha
+LK-52	LG-52002	5	FSP	Wannisinha Mudiyanselage Karunasinha
+LK-52	LG-52001	5	JJB	Abarana Dewayalage Amila Jayalath
+LK-52	LG-52002	5	JJB	Abarana Dewayalage Amila Jayalath
+LK-52	LG-52001	5	NDF	Aththanayaka Mudiyanselage Chamintha Kumara Gunawarthana
+LK-52	LG-52002	5	NDF	Aththanayaka Mudiyanselage Chamintha Kumara Gunawarthana
+LK-52	LG-52001	5	SJB	Herath Mudiyanselage Pathmasekara Banda
+LK-52	LG-52002	5	SJB	Herath Mudiyanselage Pathmasekara Banda
+LK-52	LG-52001	5	SLFP	Rajapaksha Devayalage Sugathapala
+LK-52	LG-52002	5	SLFP	Rajapaksha Devayalage Sugathapala
+LK-52	LG-52001	5	SLPP	Pattiya Gedara Mohottalalage Nimal Darmadasa Bandara
+LK-52	LG-52002	5	SLPP	Pattiya Gedara Mohottalalage Nimal Darmadasa Bandara
+LK-52	LG-52001	5	UNP	Mirissa Lankage Palith Pushpakumara
+LK-52	LG-52002	5	UNP	Mirissa Lankage Palith Pushpakumara
+LK-52	LG-52001	6	FPF	Meegaha Gedara Dines Anura Roopasiri
+LK-52	LG-52002	6	FPF	Meegaha Gedara Dines Anura Roopasiri
+LK-52	LG-52001	6	FSP	Herath Mudiyanselage Ravindra Kumara Bandara
+LK-52	LG-52002	6	FSP	Herath Mudiyanselage Ravindra Kumara Bandara
+LK-52	LG-52001	6	JJB	Thanakola Watte Gedara Ruwan Premalal de silva
+LK-52	LG-52002	6	JJB	Thanakola Watte Gedara Ruwan Premalal de silva
+LK-52	LG-52001	6	NDF	Galge Pitiya Herath Mudiyanselage Sanjeewa Manjula Bandara Herath
+LK-52	LG-52002	6	NDF	Galge Pitiya Herath Mudiyanselage Sanjeewa Manjula Bandara Herath
+LK-52	LG-52001	6	SJB	Kotte Arachchilage Sushara Wishwa Kirthi
+LK-52	LG-52002	6	SJB	Kotte Arachchilage Sushara Wishwa Kirthi
+LK-52	LG-52001	6	SLFP	Weerasingha Mudiyanselage Jayantha Balasooriya
+LK-52	LG-52002	6	SLFP	Weerasingha Mudiyanselage Jayantha Balasooriya
+LK-52	LG-52001	6	SLPP	Wanni Arachchilage Kumararathna
+LK-52	LG-52002	6	SLPP	Wanni Arachchilage Kumararathna
+LK-52	LG-52001	6	UNP	Wickramasinghe Arachchige Supun Darshana
+LK-52	LG-52002	6	UNP	Wickramasinghe Arachchige Supun Darshana
+LK-52	LG-52001	7	FPF	Hangili Gedara Upul Nawarathna
+LK-52	LG-52002	7	FPF	Hangili Gedara Upul Nawarathna
+LK-52	LG-52001	7	FSP	Indika Dharmanayaka
+LK-52	LG-52002	7	FSP	Indika Dharmanayaka
+LK-52	LG-52001	7	JJB	Mathakande Withanelage Manoj Priyanka Madusanka
+LK-52	LG-52002	7	JJB	Mathakande Withanelage Manoj Priyanka Madusanka
+LK-52	LG-52001	7	NDF	Pradeep Nishantha Abeygunathilaka
+LK-52	LG-52002	7	NDF	Pradeep Nishantha Abeygunathilaka
+LK-52	LG-52001	7	SJB	Kakulanthara Mudiyanselage Kalubanda
+LK-52	LG-52002	7	SJB	Kakulanthara Mudiyanselage Kalubanda
+LK-52	LG-52001	7	SLFP	Thissa Kuttige Piyadasa
+LK-52	LG-52002	7	SLFP	Thissa Kuttige Piyadasa
+LK-52	LG-52001	7	SLPP	Suthath Deshappriya Jathun Arachchi
+LK-52	LG-52002	7	SLPP	Suthath Deshappriya Jathun Arachchi
+LK-52	LG-52001	7	UNP	Pihille Gedara Chandima Rathnayaka
+LK-52	LG-52002	7	UNP	Pihille Gedara Chandima Rathnayaka
+LK-52	LG-52001	8	FPF	Herath Mudiyanselage Sudath Priyantha
+LK-52	LG-52002	8	FPF	Herath Mudiyanselage Sudath Priyantha
+LK-52	LG-52001	8	FSP	Udakumbure Gedara Herath Mudiyansele Herath Banda
+LK-52	LG-52002	8	FSP	Udakumbure Gedara Herath Mudiyansele Herath Banda
+LK-52	LG-52001	8	JJB	Radage Wimalasena
+LK-52	LG-52002	8	JJB	Radage Wimalasena
+LK-52	LG-52001	8	NDF	Bolthumbe Wathukarage Sarath Kumara Jayalath
+LK-52	LG-52002	8	NDF	Bolthumbe Wathukarage Sarath Kumara Jayalath
+LK-52	LG-52001	8	SJB	Kuruppu Arachchige Ramya Priyanthi
+LK-52	LG-52002	8	SJB	Kuruppu Arachchige Ramya Priyanthi
+LK-52	LG-52001	8	SLFP	Herath Mudiyanselage Maduka Lakshan Pemarathna
+LK-52	LG-52002	8	SLFP	Herath Mudiyanselage Maduka Lakshan Pemarathna
+LK-52	LG-52001	8	SLPP	Dehiange Koralalage Sarath Weerabahu
+LK-52	LG-52002	8	SLPP	Dehiange Koralalage Sarath Weerabahu
+LK-52	LG-52001	8	UNP	Madagedara Jayarathna
+LK-52	LG-52002	8	UNP	Madagedara Jayarathna
+LK-52	LG-52001	9	FPF	Abesundara Mudiyanselage Chandralatha Abesundara
+LK-52	LG-52002	9	FPF	Abesundara Mudiyanselage Chandralatha Abesundara
+LK-52	LG-52001	9	FSP	Eishwara Ananda Amarasiri
+LK-52	LG-52002	9	FSP	Eishwara Ananda Amarasiri
+LK-52	LG-52001	9	JJB	Disanayaka Mudiyanselage Roshan Pushpa Kumara
+LK-52	LG-52002	9	JJB	Disanayaka Mudiyanselage Roshan Pushpa Kumara
+LK-52	LG-52001	9	NDF	Arachchi Gedara Danushka Namal Bandara
+LK-52	LG-52002	9	NDF	Arachchi Gedara Danushka Namal Bandara
+LK-52	LG-52001	9	SJB	Herath Mudiyanselage Lalith Dewasiri Herath
+LK-52	LG-52002	9	SJB	Herath Mudiyanselage Lalith Dewasiri Herath
+LK-52	LG-52001	9	SLFP	Watukaralage Surangi Amarasinghe
+LK-52	LG-52002	9	SLFP	Watukaralage Surangi Amarasinghe
+LK-52	LG-52001	9	SLPP	Deniye Gedara Vimal Priyantha Kumara
+LK-52	LG-52002	9	SLPP	Deniye Gedara Vimal Priyantha Kumara
+LK-52	LG-52001	9	UNP	Aluth Gedara Karunadasa
+LK-52	LG-52002	9	UNP	Aluth Gedara Karunadasa
+LK-52	LG-52001	10	FPF	Pihilla Waththe Gedara Lalith Chaminda Chandra Kumara
+LK-52	LG-52002	10	FPF	Pihilla Waththe Gedara Lalith Chaminda Chandra Kumara
+LK-52	LG-52001	10	FSP	Jayantha Bandara Premathilaka Randeniya
+LK-52	LG-52002	10	FSP	Jayantha Bandara Premathilaka Randeniya
+LK-52	LG-52001	10	JJB	Rampatabendi Mudiyanselage Krishantha Bandara Welegedara
+LK-52	LG-52002	10	JJB	Rampatabendi Mudiyanselage Krishantha Bandara Welegedara
+LK-52	LG-52001	10	NDF	Kona Gedara Wijerathna
+LK-52	LG-52002	10	NDF	Kona Gedara Wijerathna
+LK-52	LG-52001	10	SJB	Rathnayaka Mudiyanselage Amitha Kithsiri Kumara Rathnayaka
+LK-52	LG-52002	10	SJB	Rathnayaka Mudiyanselage Amitha Kithsiri Kumara Rathnayaka
+LK-52	LG-52001	10	SLFP	Singhethilakage Mahinda Wijerathna Singhathilaka
+LK-52	LG-52002	10	SLFP	Singhethilakage Mahinda Wijerathna Singhathilaka
+LK-52	LG-52001	10	SLPP	Drada Gedara Piyadasa Kularathna
+LK-52	LG-52002	10	SLPP	Drada Gedara Piyadasa Kularathna
+LK-52	LG-52001	10	UNP	Disanayaka Mudiyanselage Uthashika Kumari Premarathna
+LK-52	LG-52002	10	UNP	Disanayaka Mudiyanselage Uthashika Kumari Premarathna
+LK-52	LG-52001	11	FPF	ranpatabandi Mudiyanselage Karunarathna
+LK-52	LG-52002	11	FPF	ranpatabandi Mudiyanselage Karunarathna
+LK-52	LG-52001	11	FSP	Sattambi Gedara Sanath Bandara
+LK-52	LG-52002	11	FSP	Sattambi Gedara Sanath Bandara
+LK-52	LG-52001	11	JJB	Alle Gammahelage Jayathilak Bandara
+LK-52	LG-52002	11	JJB	Alle Gammahelage Jayathilak Bandara
+LK-52	LG-52001	11	SJB	Rathnayaka Mudiyanselage Sampath Sadun Aberathna
+LK-52	LG-52002	11	SJB	Rathnayaka Mudiyanselage Sampath Sadun Aberathna
+LK-52	LG-52001	11	SLFP	Balasooriya Panditha Gedara Pemawathi
+LK-52	LG-52002	11	SLFP	Balasooriya Panditha Gedara Pemawathi
+LK-52	LG-52001	11	SLPP	Ranhoti Bandaralage Ashoka Hemachandra
+LK-52	LG-52002	11	SLPP	Ranhoti Bandaralage Ashoka Hemachandra
+LK-52	LG-52001	11	UNP	Edirisinghe Mudiyanselage Nimal Palitha Edirisinghe
+LK-52	LG-52002	11	UNP	Edirisinghe Mudiyanselage Nimal Palitha Edirisinghe
+LK-52	LG-52001	12	FPF	Jayalath Arachchige Kithsiri Jayalath Arachchi
+LK-52	LG-52002	12	FPF	Jayalath Arachchige Kithsiri Jayalath Arachchi
+LK-52	LG-52001	12	FSP	Sattambi Gedara Sumith Bandara
+LK-52	LG-52002	12	FSP	Sattambi Gedara Sumith Bandara
+LK-52	LG-52001	12	JJB	Herath Mudiyanselage Priyanthi Herath
+LK-52	LG-52002	12	JJB	Herath Mudiyanselage Priyanthi Herath
+LK-52	LG-52001	12	NDF	Bandaranayaka Mudiyanselage Wele Gedara Indra Kumarihami
+LK-52	LG-52002	12	NDF	Bandaranayaka Mudiyanselage Wele Gedara Indra Kumarihami
+LK-52	LG-52001	12	SJB	Aththanayaka Mudiyanselage Vijaya Kumara
+LK-52	LG-52002	12	SJB	Aththanayaka Mudiyanselage Vijaya Kumara
+LK-52	LG-52001	12	SLFP	Ekanayaka Mudiyanselage ukku Bandara
+LK-52	LG-52002	12	SLFP	Ekanayaka Mudiyanselage ukku Bandara
+LK-52	LG-52001	12	SLPP	Gajaweera Arachchige Lional Gajaweera
+LK-52	LG-52002	12	SLPP	Gajaweera Arachchige Lional Gajaweera
+LK-52	LG-52001	12	UNP	Thaldeniya Arachchilage Prasanna Kumara Rathnayaka
+LK-52	LG-52002	12	UNP	Thaldeniya Arachchilage Prasanna Kumara Rathnayaka
+LK-52	LG-52001	13	FPF	Herath Mudiyanselage Nuwan Keerthi Kumara
+LK-52	LG-52002	13	FPF	Herath Mudiyanselage Nuwan Keerthi Kumara
+LK-52	LG-52001	13	FSP	Sewanapola Mudiyanselage Shanaka Sandaruwan Bandara
+LK-52	LG-52002	13	FSP	Sewanapola Mudiyanselage Shanaka Sandaruwan Bandara
+LK-52	LG-52001	13	JJB	Samarakon Mudiyanselage Samarakon Disanayaka
+LK-52	LG-52002	13	JJB	Samarakon Mudiyanselage Samarakon Disanayaka
+LK-52	LG-52001	13	NDF	Rajapaksha Dewayalage Jayasena
+LK-52	LG-52002	13	NDF	Rajapaksha Dewayalage Jayasena
+LK-52	LG-52001	13	SJB	Muthukuda Mudiyanselage Gallandara Gedara Indrani Muthukuda
+LK-52	LG-52002	13	SJB	Muthukuda Mudiyanselage Gallandara Gedara Indrani Muthukuda
+LK-52	LG-52001	13	SLFP	Konara Mudiyanselage Wasantha Kumara Chandrarathna Bandara
+LK-52	LG-52002	13	SLFP	Konara Mudiyanselage Wasantha Kumara Chandrarathna Bandara
+LK-52	LG-52001	13	SLPP	Dissanayaka Mudiyanselage Walavu Gedara Nevil Kumara
+LK-52	LG-52002	13	SLPP	Dissanayaka Mudiyanselage Walavu Gedara Nevil Kumara
+LK-52	LG-52001	13	UNP	Weerasuriya Panditha Gedara Panditharathna
+LK-52	LG-52002	13	UNP	Weerasuriya Panditha Gedara Panditharathna
+LK-52	LG-52001	14	FPF	Ihalawalawwa Roopasinhalage Nalin Dushmantha
+LK-52	LG-52002	14	FPF	Ihalawalawwa Roopasinhalage Nalin Dushmantha
+LK-52	LG-52001	14	FSP	Galagawa Gedara Piyal Saman Kumara
+LK-52	LG-52002	14	FSP	Galagawa Gedara Piyal Saman Kumara
+LK-52	LG-52001	14	JJB	Nelligahamula Gedara Dammika Roshan Kumara Premadasa
+LK-52	LG-52002	14	JJB	Nelligahamula Gedara Dammika Roshan Kumara Premadasa
+LK-52	LG-52001	14	NDF	Aththanayaka Mudiyanselage Nuwan Deshapriya
+LK-52	LG-52002	14	NDF	Aththanayaka Mudiyanselage Nuwan Deshapriya
+LK-52	LG-52001	14	SJB	Egoda Gedara Jayathissa
+LK-52	LG-52002	14	SJB	Egoda Gedara Jayathissa
+LK-52	LG-52001	14	SLFP	Gata Muruthte Gamaralalage Anura Disanayaka
+LK-52	LG-52002	14	SLFP	Gata Muruthte Gamaralalage Anura Disanayaka
+LK-52	LG-52001	14	SLPP	Petti Pilippuge Shiromi pushpa Kumari
+LK-52	LG-52002	14	SLPP	Petti Pilippuge Shiromi pushpa Kumari
+LK-52	LG-52001	14	UNP	Mawela Gedara Ranjani Priyadarshani
+LK-52	LG-52002	14	UNP	Mawela Gedara Ranjani Priyadarshani
+LK-52	LG-52001	15	FPF	Wadu Acharige Sugath Bandara
+LK-52	LG-52002	15	FPF	Wadu Acharige Sugath Bandara
+LK-52	LG-52001	15	FSP	Dunukara Mudiyanselage Sumanasena
+LK-52	LG-52002	15	FSP	Dunukara Mudiyanselage Sumanasena
+LK-52	LG-52001	15	JJB	Pattiyage Shamali Ruwanthika Madushani
+LK-52	LG-52002	15	JJB	Pattiyage Shamali Ruwanthika Madushani
+LK-52	LG-52001	15	NDF	Kumbalwela Sansarayinge Gayani Pushpalatha
+LK-52	LG-52002	15	NDF	Kumbalwela Sansarayinge Gayani Pushpalatha
+LK-52	LG-52001	15	SJB	Usgoda Withana Arachchilage Nawarathna
+LK-52	LG-52002	15	SJB	Usgoda Withana Arachchilage Nawarathna
+LK-52	LG-52001	15	SLFP	Herath Mudiyanselage Gamunu Harshapriya Herath
+LK-52	LG-52002	15	SLFP	Herath Mudiyanselage Gamunu Harshapriya Herath
+LK-52	LG-52001	15	SLPP	Gamagedara Thilanga Ruwan Bandara
+LK-52	LG-52002	15	SLPP	Gamagedara Thilanga Ruwan Bandara
+LK-52	LG-52001	15	UNP	Abeykoon Mudiyanselage Mahinda Abeykoon
+LK-52	LG-52002	15	UNP	Abeykoon Mudiyanselage Mahinda Abeykoon
+LK-52	LG-52001	16	FPF	Vithana Weerasinha Arachchilage vajira Prabash Lakmal Dharmawardhana
+LK-52	LG-52002	16	FPF	Vithana Weerasinha Arachchilage vajira Prabash Lakmal Dharmawardhana
+LK-52	LG-52001	16	FSP	Hattuwath Gedara Anoma Kumari
+LK-52	LG-52002	16	FSP	Hattuwath Gedara Anoma Kumari
+LK-52	LG-52001	16	JJB	Herath Mudiyanselage Wijesinghe
+LK-52	LG-52002	16	JJB	Herath Mudiyanselage Wijesinghe
+LK-52	LG-52001	16	NDF	Wasala Mudiyanselage Geethika Nirmali Wasala
+LK-52	LG-52002	16	NDF	Wasala Mudiyanselage Geethika Nirmali Wasala
+LK-52	LG-52001	16	SJB	Herath Mudiyanselage Pradeep Kumara Gunathilaka Bandara
+LK-52	LG-52002	16	SJB	Herath Mudiyanselage Pradeep Kumara Gunathilaka Bandara
+LK-52	LG-52001	16	SLFP	Rajapaksha Pallegedara Udayakumara
+LK-52	LG-52002	16	SLFP	Rajapaksha Pallegedara Udayakumara
+LK-52	LG-52001	16	SLPP	Kakulanthara Mudiyanselage Palitharathna
+LK-52	LG-52002	16	SLPP	Kakulanthara Mudiyanselage Palitharathna
+LK-52	LG-52001	16	UNP	Siyabala Wawage Woltan Jayanaga
+LK-52	LG-52002	16	UNP	Siyabala Wawage Woltan Jayanaga
+LK-52	LG-52001	17	FPF	Bandara Gedara Jayasundara Mudiyanselage Chandra Malkanthi
+LK-52	LG-52002	17	FPF	Bandara Gedara Jayasundara Mudiyanselage Chandra Malkanthi
+LK-52	LG-52001	17	FSP	Disanayaka Mudiyanselage Premaratna Banda
+LK-52	LG-52002	17	FSP	Disanayaka Mudiyanselage Premaratna Banda
+LK-52	LG-52001	17	JJB	Yapa Mudiyanselage Pradeep Dushantha Bandara Wijerathna
+LK-52	LG-52002	17	JJB	Yapa Mudiyanselage Pradeep Dushantha Bandara Wijerathna
+LK-52	LG-52001	17	NDF	Herath Mudiyanselage Gunasinghe
+LK-52	LG-52002	17	NDF	Herath Mudiyanselage Gunasinghe
+LK-52	LG-52001	17	SJB	Aththanayaka Mudiyanselage Janaka Nilantha Aththanayaka
+LK-52	LG-52002	17	SJB	Aththanayaka Mudiyanselage Janaka Nilantha Aththanayaka
+LK-52	LG-52001	17	SLFP	Bandara Gedara Jayasundara Mudiyanselage Rajarathna
+LK-52	LG-52002	17	SLFP	Bandara Gedara Jayasundara Mudiyanselage Rajarathna
+LK-52	LG-52001	17	SLPP	Ekanayaka Mudiyanselage Ranjith Ekanayaka
+LK-52	LG-52002	17	SLPP	Ekanayaka Mudiyanselage Ranjith Ekanayaka
+LK-52	LG-52001	17	UNP	Hapudeniya Widanalage Saman Indika Upul Kumara
+LK-52	LG-52002	17	UNP	Hapudeniya Widanalage Saman Indika Upul Kumara
+LK-52	LG-52001	18	FPF	Herath Mudiyanselage Amitha Kumari
+LK-52	LG-52002	18	FPF	Herath Mudiyanselage Amitha Kumari
+LK-52	LG-52001	18	FSP	Unawatune Mahamalage Wijitha Kumari
+LK-52	LG-52002	18	FSP	Unawatune Mahamalage Wijitha Kumari
+LK-52	LG-52001	18	JJB	Ekanayaka Mudiyanselage Nirosha Bandara Ekanayaka
+LK-52	LG-52002	18	JJB	Ekanayaka Mudiyanselage Nirosha Bandara Ekanayaka
+LK-52	LG-52001	18	NDF	Weerawarnage Samantha Wickramasingha
+LK-52	LG-52002	18	NDF	Weerawarnage Samantha Wickramasingha
+LK-52	LG-52001	18	SJB	Wasala Mudiyanselage Saman Udaya Kumara
+LK-52	LG-52002	18	SJB	Wasala Mudiyanselage Saman Udaya Kumara
+LK-52	LG-52001	18	SLFP	Garthi punchi Hewage Asanka Neel Chandika Kumara
+LK-52	LG-52002	18	SLFP	Garthi punchi Hewage Asanka Neel Chandika Kumara
+LK-52	LG-52001	18	SLPP	Thennapita Gedara Sarath Chandrarathna
+LK-52	LG-52002	18	SLPP	Thennapita Gedara Sarath Chandrarathna
+LK-52	LG-52001	18	UNP	Kasadoruge Leo Shantha Perera
+LK-52	LG-52002	18	UNP	Kasadoruge Leo Shantha Perera
+LK-52	LG-52001	19	FPF	Veda Gedara Ariyarathna
+LK-52	LG-52002	19	FPF	Veda Gedara Ariyarathna
+LK-52	LG-52001	19	FSP	Lankadipathi Rajakaruna Manamendralage Chandana Lakshman
+LK-52	LG-52002	19	FSP	Lankadipathi Rajakaruna Manamendralage Chandana Lakshman
+LK-52	LG-52001	19	JJB	Rankoth Pihiti Mudiyanselage Chamintha Kumara Rathnayaka
+LK-52	LG-52002	19	JJB	Rankoth Pihiti Mudiyanselage Chamintha Kumara Rathnayaka
+LK-52	LG-52001	19	NDF	Marakkala Manage Lahiru Prasanna Silva
+LK-52	LG-52002	19	NDF	Marakkala Manage Lahiru Prasanna Silva
+LK-52	LG-52001	19	SJB	kariyawasam Hikkaduwa Gamage Thilak Ranjith
+LK-52	LG-52002	19	SJB	kariyawasam Hikkaduwa Gamage Thilak Ranjith
+LK-52	LG-52001	19	SLFP	Matiwala Kubure Muthunkoth Gedara Senevirathna
+LK-52	LG-52002	19	SLFP	Matiwala Kubure Muthunkoth Gedara Senevirathna
+LK-52	LG-52001	19	SLPP	Krishantha Manupriya Munasinghe
+LK-52	LG-52002	19	SLPP	Krishantha Manupriya Munasinghe
+LK-52	LG-52001	19	UNP	Rajapaksha Mudiyanselage Ananda Rajapaksha
+LK-52	LG-52002	19	UNP	Rajapaksha Mudiyanselage Ananda Rajapaksha
+LK-52	LG-52001	20	FPF	Disanayaka Mudiyanselage Jagath Disanayaka
+LK-52	LG-52002	20	FPF	Disanayaka Mudiyanselage Jagath Disanayaka
+LK-52	LG-52001	20	FSP	Disanayaka Mudiyanselage Kusumawathi Manike
+LK-52	LG-52002	20	FSP	Disanayaka Mudiyanselage Kusumawathi Manike
+LK-52	LG-52001	20	JJB	Abesinghe Mudiyanselage Madagedara Muthumanike Rathwaththe
+LK-52	LG-52002	20	JJB	Abesinghe Mudiyanselage Madagedara Muthumanike Rathwaththe
+LK-52	LG-52001	20	NDF	Weerakoon Mudiyanselage Palle Kumbure Gedara Jagath Weerakon
+LK-52	LG-52002	20	NDF	Weerakoon Mudiyanselage Palle Kumbure Gedara Jagath Weerakon
+LK-52	LG-52001	20	SJB	Walwawaththa Mudiyanselage Chandima Kumari Wallawaththa
+LK-52	LG-52002	20	SJB	Walwawaththa Mudiyanselage Chandima Kumari Wallawaththa
+LK-52	LG-52001	20	SLFP	Ranaweerage Pubudu Maduranga Ranweera
+LK-52	LG-52002	20	SLFP	Ranaweerage Pubudu Maduranga Ranweera
+LK-52	LG-52001	20	SLPP	Wijerathna Suriya Wasala Mudiyanselage Siyabalagahayata Kubure Gedara Asela Bandara Wijerathna
+LK-52	LG-52002	20	SLPP	Wijerathna Suriya Wasala Mudiyanselage Siyabalagahayata Kubure Gedara Asela Bandara Wijerathna
+LK-52	LG-52001	20	UNP	Ekanayaka Mudiyanselage Sisira Bandara
+LK-52	LG-52002	20	UNP	Ekanayaka Mudiyanselage Sisira Bandara
+LK-52	LG-52001	21	FPF	Disanayaka Mudiyanselage Eranda Kumara Disanayaka
+LK-52	LG-52002	21	FPF	Disanayaka Mudiyanselage Eranda Kumara Disanayaka
+LK-52	LG-52001	21	FPF	Egodawaththa Ralalage Gamini Layanal Bandara
+LK-52	LG-52002	21	FPF	Egodawaththa Ralalage Gamini Layanal Bandara
+LK-52	LG-52001	21	FSP	Disanayaka Mudiyanselage Nirosh Upul Kumara
+LK-52	LG-52002	21	FSP	Disanayaka Mudiyanselage Nirosh Upul Kumara
+LK-52	LG-52001	21	FSP	Konagedara Konara Mudiyanselage Wikramasinha
+LK-52	LG-52002	21	FSP	Konagedara Konara Mudiyanselage Wikramasinha
+LK-52	LG-52001	21	JJB	Disanayaka Arachchilage Samantha Ranjith Disanayaka
+LK-52	LG-52002	21	JJB	Disanayaka Arachchilage Samantha Ranjith Disanayaka
+LK-52	LG-52001	21	JJB	Kibul Obbe Herath Mudiyanselage Jayakodi
+LK-52	LG-52002	21	JJB	Kibul Obbe Herath Mudiyanselage Jayakodi
+LK-52	LG-52001	21	NDF	Disanayaka Mudiyanselage Wiraj Pradeep Kumara
+LK-52	LG-52002	21	NDF	Disanayaka Mudiyanselage Wiraj Pradeep Kumara
+LK-52	LG-52001	21	NDF	Uruwarige Supun Tharuka
+LK-52	LG-52002	21	NDF	Uruwarige Supun Tharuka
+LK-52	LG-52001	21	SJB	Kumarasingha Mudiyanselage Liyangaha Kubure Gedara Rajapaksha Kumarasinghe
+LK-52	LG-52002	21	SJB	Kumarasingha Mudiyanselage Liyangaha Kubure Gedara Rajapaksha Kumarasinghe
+LK-52	LG-52001	21	SJB	Unapana Warige Mahintha Wijaya Kumara
+LK-52	LG-52002	21	SJB	Unapana Warige Mahintha Wijaya Kumara
+LK-52	LG-52001	21	SLFP	Gikiyana Patiranalage Lakmal Hemantha
+LK-52	LG-52002	21	SLFP	Gikiyana Patiranalage Lakmal Hemantha
+LK-52	LG-52001	21	SLFP	Kunankkara Durayalage Maytripala
+LK-52	LG-52002	21	SLFP	Kunankkara Durayalage Maytripala
+LK-52	LG-52001	21	SLPP	Kibul Obbe Herath Bandaralage Renuka Priyanthi
+LK-52	LG-52002	21	SLPP	Kibul Obbe Herath Bandaralage Renuka Priyanthi
+LK-52	LG-52001	21	SLPP	Wijesekara Mudiyanselage Shiromala
+LK-52	LG-52002	21	SLPP	Wijesekara Mudiyanselage Shiromala
+LK-52	LG-52001	21	UNP	Pathirannehelage Aruna Gayan Pathirana
+LK-52	LG-52002	21	UNP	Pathirannehelage Aruna Gayan Pathirana
+LK-52	LG-52001	21	UNP	Wanasinghe Mudiyanselage Tikiri Banda
+LK-52	LG-52002	21	UNP	Wanasinghe Mudiyanselage Tikiri Banda
+LK-52	LG-52001	22	FPF	Wikrama Arachchige Ajith Priyankara
+LK-52	LG-52002	22	FPF	Wikrama Arachchige Ajith Priyankara
+LK-52	LG-52001	22	FSP	Madunnawe Gedara Kiri Banda
+LK-52	LG-52002	22	FSP	Madunnawe Gedara Kiri Banda
+LK-52	LG-52001	22	JJB	Kotuwe Gedara Mudiyanselage Sarath Gunathilaka Bandara
+LK-52	LG-52002	22	JJB	Kotuwe Gedara Mudiyanselage Sarath Gunathilaka Bandara
+LK-52	LG-52001	22	NDF	Athapaththu Gedara Naleen Sisira Kumara Athapaththu
+LK-52	LG-52002	22	NDF	Athapaththu Gedara Naleen Sisira Kumara Athapaththu
+LK-52	LG-52001	22	SJB	Gajanayaka Mudalige Daglas
+LK-52	LG-52002	22	SJB	Gajanayaka Mudalige Daglas
+LK-52	LG-52001	22	SLFP	Athapattu Gedara Jayarath Bandara
+LK-52	LG-52002	22	SLFP	Athapattu Gedara Jayarath Bandara
+LK-52	LG-52001	22	SLPP	Uduwaka Lekamlage Sujeewa Damith Kumara
+LK-52	LG-52002	22	SLPP	Uduwaka Lekamlage Sujeewa Damith Kumara
+LK-52	LG-52001	22	UNP	Athapathtu Gedara Jayarathna Bandara
+LK-52	LG-52002	22	UNP	Athapathtu Gedara Jayarathna Bandara
+LK-52	LG-52003	0	FSP	Aththanayaka Mudiyanselage Kamalawathi
+LK-52	LG-52003	0	SJB	Herath Mudiyanselage Karunawathi
+LK-52	LG-52003	0	UNP	Dissanayaka Mudiyanselage Nandasena
+LK-52	LG-52004	0	SJB	Dissanayaka Mudiyanselage Malani Dissanayaka
+LK-52	LG-52004	0	SLFP	Rathnayaka Mudiyanselage Nilanthi Rathnayaka
+LK-52	LG-52004	8	NDF	Rathnayaka Mudiyanselage Rathnasiri Bandara
+LK-52	LG-52005	0	FSP	Dissanayaka Mudiyanselage Chandrasena
+LK-52	LG-52005	10	FSP	Dissanayaka Mudiyanselage Chandrasena
+LK-52	LG-52006	0	IG1	Wengappuli Arachchilage Sugath Bandara
+LK-52	LG-52006	0	SLPP	Wengappuli Arachchilage Sugath Bandara
+LK-52	LG-52006	8	SLPP	Dasanayaka Mudiyanselage Anura Bandara
+LK-52	LG-52006	10	SJB	Rathnayaka Mudiyanselage Sarath Kumara Rathnayaka
+LK-52	LG-52010	0	JJB	Abdul Cader Mubarak Fathima
+LK-52	LG-52011	0	JJB	Abdul Cader Mubarak Fathima
+LK-52	LG-52010	2	TMVP	Murugesu Yoganathan
+LK-52	LG-52010	7	IG1	Murugesu Yoganathan
+LK-52	LG-52012	2	JJB	Subaideen Mohamed Rinos
+LK-52	LG-52019	0	ACMC	Subaideen Mohamed Rinos
+LK-52	LG-52017	0	SJB	Herath Mudiyanselage Siriwardhana
+LK-52	LG-52018	0	AITC	Thangawel Dayanandini
+LK-52	LG-52018	0	ITAK	Thangawel Dayanandini
+LK-52	LG-52018	7	AITC	Thirunaukarasu Kamalaraja
+LK-52	LG-52018	7	AITC	Thirunaukarasu Kamalaraja
+LK-52	LG-52019	0	UNP	Arumugam Sugunavathy
+LK-52	LG-52019	1	SLPP	Arumugam Sugunavathy
+LK-52	LG-52020	0	SJB	Kiribanda Amara Wijewardhana
+LK-52	LG-52020	7	UNP	Kiribanda Amara Wijewardhana
+LK-52	LG-52020	8	JJB	Herath Mudiyanselage Padmawathi
+LK-52	LG-52001	11	NDF	Herath Mudiyanselage Nishantha Bandara
+LK-52	LG-52002	11	NDF	Herath Mudiyanselage Nishantha Bandara
+LK-52	LG-52001	0	SJB	Disanayaka Mudiyanselage Dayananda
+LK-52	LG-52002	0	SJB	Disanayaka Mudiyanselage Dayananda
+LK-52	LG-52001	0	SLPP	Rathnayaka Mudiyanselage Kusumawathi
+LK-52	LG-52002	0	SLPP	Rathnayaka Mudiyanselage Kusumawathi
+LK-52	LG-52005	0	JJB	Dissanayaka Mudiyanselage Gunarathna
 LK-53	LG-53011	1	TULF	Kanapathipillai Yogarasa
 LK-53	LG-53005	3	JJB	Sathasivam Suthakaran
 LK-53	LG-53006	6	TMVP	Kanthasamy Koneswaran
@@ -483,10 +1177,14 @@ LK-53	LG-53004	9	ACMC	Disanayaka Mudiyanselage Anura Disanayaka
 LK-53	LG-53005	6	JJB	Thennakoon Mudiyanselage Anura Thennakoon
 LK-53	LG-53013	0	SJB	Vipunasekaram Karthika
 LK-53	LG-53013	0	TMVP	Vipunasekaram Karthika
+LK-53	LG-53008	5	IG2	Disanayaka Mudiyanselage Dayananda
 LK-61	LG-61017	0	UNP	Mohamad Jamaldeen Mohamad Naleem
 LK-61	LG-61005	8	JJB	Ekanayaka Mudiyanselage Mahinda
 LK-61	LG-61005	0	UNP	Herath Mudiyanselage Sarath Bandara
 LK-61	LG-61017	8	SLPP	Herath Mudiyanselage Shantha Bandara Herath
+LK-61	LG-61004	17	SJB	Herath Mudiyanselage Karunawathi
+LK-61	LG-61012	0	SJB	Dissanayaka Mudiyanselage Malani Dissanayaka
+LK-61	LG-61005	0	UNP	Rathnayaka Mudiyanselage Nilanthi Rathnayaka
 LK-61	LG-61004	10	FPF	Thennakoon Mudiyanselage Anura Thennakoon
 LK-61	LG-61001	0	AJP	Wasala Mudiyanselage Jayathunga Wasala
 LK-61	LG-61001	4	UNP	Wasala Mudiyanselage Jayathunga Wasala
@@ -534,6 +1232,7 @@ LK-62	LG-62012	11	SJB	Herath Mudiyanselage Karunarathne
 LK-62	LG-62002	0	FPF	Mohamad Thaha Mohamad Safran
 LK-71	LG-71007	0	SJB	Herath Mudiyanselage Janaka Bandara Herath
 LK-71	LG-71017	6	IG1	Adikari Mudiyanselage Sanjeewa Adikari
+LK-71	LG-71007	0	JJB	Rathnayaka Mudiyanselage Sarath Kumara Rathnayaka
 LK-71	LG-71016	8	SJB	Herath Mudiyanselage Ekanayaka
 LK-71	LG-71015	0	SLFP	Dissanayaka Mudiyanselage Sarath Dissanayaka
 LK-71	LG-71009	0	UNP	Rathnayaka Mudiyanselage Karunarathna
@@ -614,6 +1313,9 @@ LK-81	LG-81002	2	UNP	Herath Mudiyanselage Chandradasa
 LK-81	LG-81011	7	NLNP	Rathnayake Mudiyanselage Jayasekara
 LK-81	LG-81011	0	NLNP	Ajith Jayasekara
 LK-81	LG-81009	0	IG2	Selvaraja Sasikumar
+LK-81	LG-81002	0	FPF	Aththanayaka Mudiyanselage Kamalawathi
+LK-81	LG-81002	5	UNP	Herath Mudiyanselage Siriwardhana
+LK-81	LG-81011	0	UNP	Herath Mudiyanselage Padmawathi
 LK-81	LG-81010	20	SLPP	Disanayaka Mudiyanselage Anura Disanayaka
 LK-81	LG-81003	0	SJB	Rathnayaka Mudiyanselage Mallika Rathnayaka
 LK-81	LG-81003	4	SLPP	Dissanayaka Mudiyanselage Nimal Dissanayaka
@@ -669,9 +1371,11 @@ LK-81	LG-81002	0	UNP	Herath Mudiyanselage Abeyrathna
 LK-81	LG-81015	0	IG1	Herath Mudiyanselage Abeyrathna
 LK-82	LG-82009	0	JSP	Indika Jayasingha
 LK-82	LG-82009	3	JSP	Pathum Chinthaka
-LK-82	LG-82006	0	IG0	Rathnayaka Mudiyanselage Kusumawathi
 LK-82	LG-82009	0	JJB	Hewage Sunil
 LK-82	LG-82006	0	SLPP	Mallika Rathnayaka
+LK-82	LG-82004	10	JJB	Dissanayaka Mudiyanselage Nandasena
+LK-82	LG-82002	10	FSP	Rathnayaka Mudiyanselage Rathnasiri Bandara
+LK-82	LG-82010	1	SLPP	Dasanayaka Mudiyanselage Anura Bandara
 LK-82	LG-82002	0	FSP	Rathnayaka Mudiyanselage Karunawathi
 LK-82	LG-82004	7	FSP	Rathnayaka Mudiyanselage Pushpa Kumara
 LK-82	LG-82003	0	JJB	Herath Mudiyanselage Saman Bandara
@@ -700,8 +1404,6 @@ LK-82	LG-82010	0	JJB	Ganegodage Pradeep kumara
 LK-82	LG-82006	0	SJB	Herath Mudiyanselage Somawathi
 LK-82	LG-82001	0	FSP	Herath Mudiyanselage Nandawathi
 LK-82	LG-82002	11	SLPP	Dissanayaka Mudiyanselage Jayathilaka
-LK-82	LG-82008	0	SLPP	Dissanayaka Mudiyanselage Gunarathna
-LK-82	LG-82008	6	FSP	Dissanayaka Mudiyanselage Gunarathna
 LK-82	LG-82002	0	IG0	Dissanayaka Mudiyanselage Jayasundara
 LK-82	LG-82007	6	UNP	Dissanayaka Mudiyanselage Jayasundara
 LK-82	LG-82001	2	NIF	Herath Mudiyanselage Gunarathna
@@ -709,6 +1411,9 @@ LK-82	LG-82002	5	JJB	Herath Mudiyanselage Gunarathna
 LK-82	LG-82006	6	SJB	Herath Mudiyanselage Gunarathna
 LK-82	LG-82002	3	IG0	Dissanayaka Mudiyanselage Muthubanda
 LK-82	LG-82004	0	JJB	Dissanayaka Mudiyanselage Muthubanda
+LK-82	LG-82006	0	IG0	Rathnayaka Mudiyanselage Kusumawathi
+LK-82	LG-82008	0	SLPP	Dissanayaka Mudiyanselage Gunarathna
+LK-82	LG-82008	6	FSP	Dissanayaka Mudiyanselage Gunarathna
 LK-82	LG-82006	0	FPF	Herath Mudiyanselage Abeyrathna
 LK-91	LG-91004	3	CWC(	Periyasami Sudarshan
 LK-91	LG-91004	0	UNP	Lagamuwa Hendeniye Pushpa Rajapaksha

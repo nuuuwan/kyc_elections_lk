@@ -1,0 +1,464 @@
+[
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "DVJP",
+    "name": "Abdul Majeeth Abdul Manaf"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "DVJP",
+    "name": "Mohamed Ismail Makkathumma"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "DVJP",
+    "name": "Mohammadu Meerasaivu Hayathuveevi"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "DVJP",
+    "name": "Muhammathanifa Mohammadu Aththiya"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "DVJP",
+    "name": "Najimudeen Mohamed Feros"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "DVJP",
+    "name": "Uthumalebbe Mohammadu Noohu"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Abdul Jabbar Siththy Nisa"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Abdul Rahuman Mohammadu Hanees"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Lafeer Fathima Marwa"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Mohammadu Buhari Faseeha"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Mohammadu Thamby Ahamadu Lebbe"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "IG1",
+    "name": "Muhammathismail Mohammadu Rafeek"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "NC",
+    "name": "Abdul Gaffoor Farsath"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "NC",
+    "name": "Abdul Latheef Fathima Risna"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "NC",
+    "name": "Ahamed Fathuma Asmiya"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "NC",
+    "name": "Mohamaduthamby Shareek Mohammadu"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "NC",
+    "name": "Seeni Mohamathu Aliyar"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "NC",
+    "name": "Umaru Mohaideen Ruvaisa"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Ahamed Lebbe Hasan"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Jahfar Jemsith Hamath"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Salahudeen Irfana"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Salitthhamby Nagoorummah"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Seeni Mammathu Mammathu Muhideen"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "SJB",
+    "name": "Seinul Abdeen Lebbe Letheefa"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Abdul Gaffoor Thaju"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Abdul Kareem Fathima Shifana"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Faslul Hag Fathima Fayasa"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Ismail Mohamed Natheer"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Meera Mohideen Shahna"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNA",
+    "name": "Seeni Mohamed Jameel"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Aboosaly Siththy Naseeha"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Haja Alavudeen Haja Kuthubudeen"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Mohamed Asanar Fathima Sanjeetha"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Mohamed Rafeek Akeel Suhail"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Mohammathasan Ilmuniza"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 0,
+    "party": "UNP",
+    "name": "Umaru Lebbe Segu Ismail"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 1,
+    "party": "DVJP",
+    "name": "Mahroof Mohamed Firnas"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 1,
+    "party": "IG1",
+    "name": "Mohammadu Ismail Mohammadu Sirajideen"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 1,
+    "party": "NC",
+    "name": "Abdul Gaffoor Asmi"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 1,
+    "party": "SJB",
+    "name": "Jamaldeen Meera Mohideen"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 1,
+    "party": "UNA",
+    "name": "Ahamed Nowfar Suhail Mohamed"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 1,
+    "party": "UNP",
+    "name": "Aabdeen Fainas Ahamed"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 2,
+    "party": "DVJP",
+    "name": "Adam Lebbe Mohamed Raihan"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 2,
+    "party": "IG1",
+    "name": "Adam Lebbe Abdul Basith"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 2,
+    "party": "NC",
+    "name": "Thahir Mohammadu Iyoob"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 2,
+    "party": "SJB",
+    "name": "Cader Mohideen Mohammadu Aliyar"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 2,
+    "party": "UNA",
+    "name": "Amanullah Mohamed Rasmin"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 2,
+    "party": "UNP",
+    "name": "Atham Lebbe Haroon"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 3,
+    "party": "DVJP",
+    "name": "Abdul Saththar Hasnas Ahamed"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 3,
+    "party": "IG1",
+    "name": "Abdul Azeez Shamila Ummah"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 3,
+    "party": "NC",
+    "name": "Mohamthaboobucker Raseek"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 3,
+    "party": "SJB",
+    "name": "Meerasahib Mohamed Sarujoon"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 3,
+    "party": "UNA",
+    "name": "Mohamed Aneefa Fairoos"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 3,
+    "party": "UNP",
+    "name": "Nagoorthambi Janoos"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 4,
+    "party": "DVJP",
+    "name": "Mohammadu Jeseer Mohammadu Sharaf"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 4,
+    "party": "IG1",
+    "name": "Subair Mohammadu Lafeer"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 4,
+    "party": "NC",
+    "name": "Lafeer Musathik"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 4,
+    "party": "SJB",
+    "name": "Haneefa Ahamed Risad"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 4,
+    "party": "UNA",
+    "name": "Athamlebbei Nagoor Meeralebbai"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 4,
+    "party": "UNP",
+    "name": "Jewad Mohamed Risvi"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 5,
+    "party": "DVJP",
+    "name": "Issadeen Ahamed Sajeeth"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 5,
+    "party": "IG1",
+    "name": "Adam Lebbe Naleem"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 5,
+    "party": "NC",
+    "name": "Mohamamdu Mohaideen Musammil"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 5,
+    "party": "SJB",
+    "name": "Kalanthar Lebbe Ahamed Sahib"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 5,
+    "party": "UNA",
+    "name": "Athamlebbe Kaldeen"
+  },
+  {
+    "district_id": "LK-52",
+    "lg_id": "LG-52014",
+    "ward_num": 5,
+    "party": "UNP",
+    "name": "Abdul Fareed Mufaris"
+  }
+]

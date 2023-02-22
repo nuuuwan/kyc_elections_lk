@@ -79,7 +79,7 @@ class HomePageBase:
         select_lgs = self.elem_select_lgs
         lg_names = []
         for option in select_lgs.find_elements(By.TAG_NAME, 'option'):
-            if option.text in ['(Select)', 'lga e 1']:
+            if option.text in ['(Select)']:
                 continue
 
             if any(

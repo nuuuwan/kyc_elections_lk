@@ -35,7 +35,9 @@ class CandidateLoader:
     @classmethod
     def clean_lg_name(cls, lg_name):
         return (
-            lg_name.replace('Municipal Council', 'MC')
+            lg_name.replace('Saba', 'Sabha')
+            .replace('Pradesiya', 'Pradeshiya')
+            .replace('Municipal Council', 'MC')
             .replace('Urban Council', 'UC')
             .replace('Pradeshiya Sabha', 'PS')
             .replace('P.S', 'PS')
